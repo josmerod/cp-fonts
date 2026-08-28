@@ -1,0 +1,37 @@
+{
+  "$comment": "Curated allowlist of font families built from Chairzard/WP-Fonts. 'source' is the folder path inside that repo; add a family here and the build picks it up. All family names must match [A-Za-z0-9_-]+ (firmware constraint).",
+  "upstream": "Chairzard/WP-Fonts",
+  "upstreamRef": "HEAD",
+  "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+  "intervals": "reading",
+  "previewSizes": [6, 14],
+  "device": "x4",
+  "families": [
+    {
+      "name": "WPCharter",
+      "source": "Modified Fonts/WPCharter - XCharter",
+      "title": "Charter (XCharter)",
+      "description": "Bitstream Charter descendant, sturdy strokes — the classic e-ink book face.",
+      "license": "OFL",
+      "licenseFile": "LICENSE.txt"
+    },
+    {
+      "name": "WPGaramond",
+      "source": "Modified Fonts/EB Garamond - WP Garamond",
+      "title": "EB Garamond",
+      "description": "Old-style book face; light and compact at small sizes.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the OFL is carried from the canonical google/fonts copy."
+    },
+    {
+      "name": "WPIlliterata",
+      "source": "Modified Fonts/Literata - WP Illiterata",
+      "title": "Literata",
+      "description": "Google's e-reader face; even color, strong at 6-9pt.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Generated / cacheable — rebuilt by scripts/build-fonts.mjs and CI
+workspace/
+tools/
+dist/

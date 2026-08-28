@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "updated": "2026-08-28",
+  "generator": "cp-fonts build-fonts.mjs (crossglyph 0.9.1)",
+  "baseUrl": "https://github.com/josmerod/cp-fonts/releases/download/fonts/",
+  "rawBase": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/",
+  "device": "x4",
+  "families": [
+    {
+      "name": "WPCharter",
+      "title": "Charter (XCharter)",
+      "description": "Bitstream Charter descendant, sturdy strokes — the classic e-ink book face.",
+      "license": "OFL",
+      "licensePath": "licenses/WPCharter-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/WPCharter - XCharter)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPCharter_6.cpfont",
+          "pt": 6,
+          "size": 172987,
+          "crc32": 862742411
+        },
+        {
+          "name": "WPCharter_7.cpfont",
+          "pt": 7,
+          "size": 197109,
+          "crc32": 1574384198
+        },
+        {
+          "name": "WPCharter_8.cpfont",
+          "pt": 8,
+          "size": 222529,
+          "crc32": 578332140
+        },
+        {
+          "name": "WPCharter_9.cpfont",
+          "pt": 9,
+          "size": 251894,
+          "crc32": 1530244022
+        },
+        {
+          "name": "WPCharter_10.cpfont",
+          "pt": 10,
+          "size": 286567,
+          "crc32": 2997210073
+        },
+        {
+          "name": "WPCharter_11.cpfont",
+          "pt": 11,
+          "size": 325657,
+          "crc32": 930403465
+        },
+        {
+          "name": "WPCharter_12.cpfont",
+          "pt": 12,
+          "size": 363836,
+          "crc32": 3502358696
+        },
+        {
+          "name": "WPCharter_13.cpfont",
+          "pt": 13,
+          "size": 407439,
+          "crc32": 1811870111
+        },
+        {
+          "name": "WPCharter_14.cpfont",
+          "pt": 14,
+          "size": 452568,
+          "crc32": 429534979
+        },
+        {
+          "name": "WPCharter_15.cpfont",
+          "pt": 15,
+          "size": 505910,
+          "crc32": 8757406
+        },
+        {
+          "name": "WPCharter_16.cpfont",
+          "pt": 16,
+          "size": 558036,
+          "crc32": 1151552440
+        },
+        {
+          "name": "WPCharter_17.cpfont",
+          "pt": 17,
+          "size": 620768,
+          "crc32": 1037358190
+        },
+        {
+          "name": "WPCharter_18.cpfont",
+          "pt": 18,
+          "size": 683231,
+          "crc32": 2884956125
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPCharter-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPCharter-14.png"
+        }
+      ],
+      "totalBytes": 5048531
+    },
+    {
+      "name": "WPGaramond",
+      "title": "EB Garamond",
+      "description": "Old-style book face; light and compact at small sizes.",
+      "license": "OFL",
+      "licensePath": "licenses/WPGaramond-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/EB Garamond - WP Garamond)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPGaramond_6.cpfont",
+          "pt": 6,
+          "size": 265830,
+          "crc32": 3686572518
+        },
+        {
+          "name": "WPGaramond_7.cpfont",
+          "pt": 7,
+          "size": 297315,
+          "crc32": 143272657
+        },
+        {
+          "name": "WPGaramond_8.cpfont",
+          "pt": 8,
+          "size": 329362,
+          "crc32": 1378925437
+        },
+        {
+          "name": "WPGaramond_9.cpfont",
+          "pt": 9,
+          "size": 372154,
+          "crc32": 3443947323
+        },
+        {
+          "name": "WPGaramond_10.cpfont",
+          "pt": 10,
+          "size": 420834,
+          "crc32": 3796447592
+        },
+        {
+          "name": "WPGaramond_11.cpfont",
+          "pt": 11,
+          "size": 474148,
+          "crc32": 2769704794
+        },
+        {
+          "name": "WPGaramond_12.cpfont",
+          "pt": 12,
+          "size": 525941,
+          "crc32": 1505014038
+        },
+        {
+          "name": "WPGaramond_13.cpfont",
+          "pt": 13,
+          "size": 585779,
+          "crc32": 2146274301
+        },
+        {
+          "name": "WPGaramond_14.cpfont",
+          "pt": 14,
+          "size": 654938,
+          "crc32": 3614672671
+        },
+        {
+          "name": "WPGaramond_15.cpfont",
+          "pt": 15,
+          "size": 725575,
+          "crc32": 2125782915
+        },
+        {
+          "name": "WPGaramond_16.cpfont",
+          "pt": 16,
+          "size": 785386,
+          "crc32": 2284088697
+        },
+        {
+          "name": "WPGaramond_17.cpfont",
+          "pt": 17,
+          "size": 865095,
+          "crc32": 285675684
+        },
+        {
+          "name": "WPGaramond_18.cpfont",
+          "pt": 18,
+          "size": 1004746,
+          "crc32": 3691944691
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPGaramond-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPGaramond-14.png"
+        }
+      ],
+      "totalBytes": 7307103
+    },
+    {
+      "name": "WPIlliterata",
+      "title": "Literata",
+      "description": "Google's e-reader face; even color, strong at 6-9pt.",
+      "license": "OFL",
+      "licensePath": "licenses/WPIlliterata-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Literata - WP Illiterata)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPIlliterata_6.cpfont",
+          "pt": 6,
+          "size": 347645,
+          "crc32": 3719181734
+        },
+        {
+          "name": "WPIlliterata_7.cpfont",
+          "pt": 7,
+          "size": 371899,
+          "crc32": 1915130150
+        },
+        {
+          "name": "WPIlliterata_8.cpfont",
+          "pt": 8,
+          "size": 342834,
+          "crc32": 3362498385
+        },
+        {
+          "name": "WPIlliterata_9.cpfont",
+          "pt": 9,
+          "size": 374972,
+          "crc32": 2622800473
+        },
+        {
+          "name": "WPIlliterata_10.cpfont",
+          "pt": 10,
+          "size": 407454,
+          "crc32": 1460209392
+        },
+        {
+          "name": "WPIlliterata_11.cpfont",
+          "pt": 11,
+          "size": 444067,
+          "crc32": 1753094781
+        },
+        {
+          "name": "WPIlliterata_12.cpfont",
+          "pt": 12,
+          "size": 482555,
+          "crc32": 2087037647
+        },
+        {
+          "name": "WPIlliterata_13.cpfont",
+          "pt": 13,
+          "size": 525922,
+          "crc32": 409015842
+        },
+        {
+          "name": "WPIlliterata_14.cpfont",
+          "pt": 14,
+          "size": 573570,
+          "crc32": 3127554253
+        },
+        {
+          "name": "WPIlliterata_15.cpfont",
+          "pt": 15,
+          "size": 622430,
+          "crc32": 3885995977
+        },
+        {
+          "name": "WPIlliterata_16.cpfont",
+          "pt": 16,
+          "size": 679134,
+          "crc32": 2763798252
+        },
+        {
+          "name": "WPIlliterata_17.cpfont",
+          "pt": 17,
+          "size": 734598,
+          "crc32": 370259844
+        },
+        {
+          "name": "WPIlliterata_18.cpfont",
+          "pt": 18,
+          "size": 823536,
+          "crc32": 1891856303
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPIlliterata-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPIlliterata-14.png"
+        }
+      ],
+      "totalBytes": 6730616
+    }
+  ]
+}

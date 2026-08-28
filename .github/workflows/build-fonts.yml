@@ -1,0 +1,72 @@
+# Build the curated .cpfont families and publish them:
+# assets to the rolling `fonts` release, catalog + previews + licenses back to
+# main (the plugin reads them via raw.githubusercontent.com).
+name: Build fonts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * 1'  # weekly; picks up upstream WP-Fonts updates
+  push:
+    paths: ['families.json', 'scripts/build-fonts.mjs', '.github/workflows/build-fonts.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-fonts
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # workspace/ (downloaded TTFs + crossglyph's incremental build cache) and
+      # tools/ (the crossglyph release) make every run after the first fast.
+      - uses: actions/cache@v4
+        with:
+          path: |
+            workspace
+            tools
+          key: fonts-cg-0.9.1-${{ hashFiles('families.json') }}
+
+      - name: Build families, previews and catalog
+        run: >
+          node scripts/build-fonts.mjs
+          --base-url "https://github.com/${GITHUB_REPOSITORY}/releases/download/fonts/"
+          --raw-base "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/"
+
+      - name: Create or update the rolling release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release view fonts --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 || \
+            gh release create fonts --repo "$GITHUB_REPOSITORY" \
+              --title "Font builds" \
+              --notes "Precompiled .cpfont families built with CrossGlyph from Chairzard/WP-Fonts (see licenses/). Rebuilt weekly and on families.json changes."
+
+      - name: Upload assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          find dist/assets -type f -name '*.cpfont' -print0 | \
+            xargs -0 -n 8 gh release upload fonts --repo "$GITHUB_REPOSITORY" --clobber
+
+      - name: Commit regenerated catalog, previews and licenses
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add catalog previews licenses
+          if git diff --cached --quiet; then
+            echo "Catalog unchanged"
+          else
+            git commit -m "Rebuild font catalog"
+            git push
+          fi
