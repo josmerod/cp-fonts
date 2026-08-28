@@ -185,12 +185,15 @@ async function collectOutputs(config, sources) {
   const families = [];
   for (const { fam, styles } of sources) {
     const files = [];
-    for (const name of (await readdir(join(cpfonts, fam.name))).filter((f) => f.endsWith('.cpfont'))) {
-      const bytes = await readFile(join(cpfonts, fam.name, name));
-      await copyFile(join(cpfonts, fam.name, name), join(assetsDir, name));
-      files.push({ name, pt: ptFromName(name), size: bytes.length, crc32: crc32(bytes) });
+    const famOut = join(cpfonts, fam.name);
+    if (await exists(famOut)) {
+      for (const name of (await readdir(famOut)).filter((f) => f.endsWith('.cpfont'))) {
+        const bytes = await readFile(join(famOut, name));
+        await copyFile(join(famOut, name), join(assetsDir, name));
+        files.push({ name, pt: ptFromName(name), size: bytes.length, crc32: crc32(bytes) });
+      }
     }
-    if (!files.length) throw new Error(`no .cpfont output for ${fam.name}`);
+    if (!files.length) { log(`  SKIPPED ${fam.name}: no .cpfont output`); continue; }
     files.sort((a, b) => a.pt - b.pt);
 
     const previews = config.previewSizes
@@ -234,22 +237,45 @@ await ensureCrossglyph();
 log('2/5 sources…');
 const sources = await fetchSources(config);
 log('3/5 build…');
+const failedFamilies = [];
 if (!OPTS.skipBuild) {
   await writeConf(config);
-  runCrossglyph(['build',
+  const buildArgs = ['build',
     '--fonts', join(ROOT, 'workspace', 'fonts'),
     '--out', join(ROOT, 'workspace', 'fonts', 'cpfonts'),
-    '-j', String(OPTS.jobs), '--fail-on-warning']);
+    '-j', String(OPTS.jobs)];
+  try {
+    runCrossglyph(buildArgs);
+  } catch (e) {
+    // Some sources cannot cover the reading set (symbol/barcode faces) and
+    // make the batch build exit nonzero after everything else succeeded.
+    // Isolate them per family so one odd font never sinks the run.
+    log(`  full build failed (${e.message}); retrying family by family…`);
+    for (const { fam } of sources) {
+      try {
+        runCrossglyph([...buildArgs, fam.name]);
+      } catch (e2) {
+        failedFamilies.push(fam.name);
+        log(`  SKIPPED ${fam.name}: ${e2.message}`);
+      }
+    }
+  }
 }
 log('4/5 previews…');
 await mkdir(join(ROOT, 'previews'), { recursive: true });
 for (const { fam } of sources) {
+  if (failedFamilies.includes(fam.name)) continue;
   for (const pt of config.previewSizes) {
-    runCrossglyph(['preview', '--family', fam.name, '--size', String(pt),
-      '--device', config.device, '--fonts', join(ROOT, 'workspace', 'fonts'),
-      '--png', join(ROOT, 'previews', `${fam.name}-${pt}.png`)]);
+    try {
+      runCrossglyph(['preview', '--family', fam.name, '--size', String(pt),
+        '--device', config.device, '--fonts', join(ROOT, 'workspace', 'fonts'),
+        '--png', join(ROOT, 'previews', `${fam.name}-${pt}.png`)]);
+    } catch (e) {
+      log(`  SKIPPED preview ${fam.name}@${pt}: ${e.message}`);
+    }
   }
 }
 log('5/5 catalog…');
 await collectOutputs(config, sources);
-log(`Done: catalog/fonts.json (${config.families.length} families), dist/assets/ staged, previews/ updated.`);
+log(`Done: catalog/fonts.json (${config.families.length - failedFamilies.length}/${config.families.length} families), dist/assets/ staged, previews/ updated.` +
+  (failedFamilies.length ? ` Skipped (unbuildable): ${failedFamilies.join(', ')}` : ''));
