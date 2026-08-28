@@ -40,24 +40,8 @@ jobs:
       - name: Build families, previews and catalog
         run: >
           node scripts/build-fonts.mjs
-          --base-url "https://github.com/${GITHUB_REPOSITORY}/releases/download/fonts/"
+          --base-url "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/fonts/assets/"
           --raw-base "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/"
-
-      - name: Create or update the rolling release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh release view fonts --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 || \
-            gh release create fonts --repo "$GITHUB_REPOSITORY" \
-              --title "Font builds" \
-              --notes "Precompiled .cpfont families built with CrossGlyph from Chairzard/WP-Fonts (see licenses/). Rebuilt weekly and on families.json changes."
-
-      - name: Upload assets
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          find dist/assets -type f -name '*.cpfont' -print0 | \
-            xargs -0 -n 8 gh release upload fonts --repo "$GITHUB_REPOSITORY" --clobber
 
       - name: Commit regenerated catalog, previews and licenses
         run: |
@@ -70,3 +54,22 @@ jobs:
             git commit -m "Rebuild font catalog"
             git push
           fi
+
+      # Binaries live on an orphan branch (recreated each run, so no history
+      # growth) served directly by raw.githubusercontent.com — no redirects,
+      # so the reader downloads each file with a single HTTPS connection
+      # instead of relay-HEAD resolving a release redirect first.
+      - name: Publish binaries to the raw-served fonts branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          ORPHAN="fonts-build-$GITHUB_RUN_ID"
+          git checkout --orphan "$ORPHAN"
+          git rm -rf --quiet .
+          mkdir -p assets
+          cp dist/assets/*.cpfont assets/
+          git add assets
+          git commit -m "font builds"
+          git push -f origin "HEAD:fonts"
+          git checkout main
+          git branch -D "$ORPHAN"

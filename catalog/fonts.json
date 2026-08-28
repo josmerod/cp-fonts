@@ -2,7 +2,7 @@
   "version": 1,
   "updated": "2026-08-28",
   "generator": "cp-fonts build-fonts.mjs (crossglyph 0.9.1)",
-  "baseUrl": "https://github.com/josmerod/cp-fonts/releases/download/fonts/",
+  "baseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/fonts/assets/",
   "rawBase": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/",
   "device": "x4",
   "families": [
