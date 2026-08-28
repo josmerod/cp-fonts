@@ -93,6 +93,9 @@ async function exists(p) {
 function runCrossglyph(args) {
   const dir = join(ROOT, 'tools', 'crossglyph', `crossglyph-${CROSSGLYPH_VERSION}`);
   const env = { ...process.env, CI: '1' };
+  // Warnings fail the build only when asked: with hundreds of families a
+  // single odd font must not sink the whole batch.
+  if (process.env.CROSSGLYPH_STRICT && args[0] === 'build') args = [...args, '--fail-on-warning'];
   const result = process.platform === 'win32'
     ? spawnSync('cmd', ['/c', 'crossglyph.cmd', '--no-update-check', ...args], { cwd: dir, env, stdio: 'inherit' })
     : spawnSync('sh', ['crossglyph.sh', '--no-update-check', ...args], { cwd: dir, env, stdio: 'inherit' });
@@ -124,9 +127,15 @@ async function fetchSources(config) {
     await mkdir(famDir, { recursive: true });
     const styles = [];
     for (const style of STYLES) {
-      const file = join(famDir, `${fam.name}-${style}.ttf`);
+      // families.json may map styles to exact upstream filenames (OTF
+      // extensions, TeX-style -Roman base faces); the local copy always uses
+      // the standard <Name>-<Style> stem so crossglyph resolves the family.
+      const src = (fam.files && fam.files[style.toLowerCase()]) || `${fam.name}-${style}.ttf`;
+      const ext = src.toLowerCase().endsWith('.otf') ? 'otf' : 'ttf';
+      const local = `${fam.name}-${style}.${ext}`;
+      const file = join(famDir, local);
       if (!OPTS.forceDownload && await exists(file)) { styles.push(style); continue; }
-      const url = `${raw}${encPath(fam.source)}/${encPath(`${fam.name}-${style}.ttf`)}`;
+      const url = `${raw}${encPath(fam.source)}/${encPath(src)}`;
       try {
         await fetchBin(url, file);
         styles.push(style);

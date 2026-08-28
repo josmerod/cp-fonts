@@ -2,9 +2,26 @@
   "$comment": "Curated allowlist of font families built from Chairzard/WP-Fonts. 'source' is the folder path inside that repo; add a family here and the build picks it up. All family names must match [A-Za-z0-9_-]+ (firmware constraint).",
   "upstream": "Chairzard/WP-Fonts",
   "upstreamRef": "HEAD",
-  "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+  "sizes": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
   "intervals": "reading",
-  "previewSizes": [6, 14],
+  "previewSizes": [
+    6,
+    14
+  ],
   "device": "x4",
   "families": [
     {
@@ -112,6 +129,3610 @@
       "description": "Slab serif that reads like a crisper Bookerly.",
       "license": "OFL",
       "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPAffinity",
+      "source": "Modified Fonts/Adelphe - WP Affinity",
+      "title": "Adelphe",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OIFL.txt",
+      "files": {
+        "regular": "WPAffinity-Regular.ttf",
+        "bold": "WPAffinity-Bold.ttf",
+        "italic": "WPAffinity-Italic.ttf",
+        "bolditalic": "WPAffinity-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPDacafa",
+      "source": "Modified Fonts/Afacad - WP Dacafa",
+      "title": "Afacad",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDacafa-Regular.ttf",
+        "bold": "WPDacafa-Bold.ttf",
+        "italic": "WPDacafa-Italic.ttf",
+        "bolditalic": "WPDacafa-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSpikes",
+      "source": "Modified Fonts/Agave - WP Spikes",
+      "title": "Agave",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPSpikes-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPGravyPro",
+      "source": "Modified Fonts/Agràve Pro - WP Gravy Pro",
+      "title": "Agràve Pro",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGravyPro-Regular.ttf",
+        "bold": "WPGravyPro-Bold.ttf"
+      }
+    },
+    {
+      "name": "AlegreyaSans",
+      "source": "Unmodified Fonts/Alegreya Sans",
+      "title": "Alegreya Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "AlegreyaSans-Regular.ttf",
+        "bold": "AlegreyaSans-Bold.ttf",
+        "italic": "AlegreyaSans-Italic.ttf",
+        "bolditalic": "AlegreyaSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAmygdala",
+      "source": "Modified Fonts/Almendra - WP Amygdala",
+      "title": "Almendra",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAmygdala-Regular.ttf",
+        "bold": "WPAmygdala-Bold.ttf",
+        "italic": "WPAmygdala-Italic.ttf",
+        "bolditalic": "WPAmygdala-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPArmada",
+      "source": "Modified Fonts/Amarna - WP Armada",
+      "title": "Amarna",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPArmada-Regular.ttf",
+        "bold": "WPArmada-Bold.ttf",
+        "italic": "WPArmada-Italic.ttf",
+        "bolditalic": "WPArmada-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAmsterdam",
+      "source": "Modified Fonts/Amstelvar - WP Amsterdam",
+      "title": "Amstelvar",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAmsterdam-Regular.ttf",
+        "bold": "WPAmsterdam-Bold.ttf",
+        "italic": "WPAmsterdam-Italic.ttf",
+        "bolditalic": "WPAmsterdam-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPCalifornia",
+      "source": "Modified Fonts/Anaheim - WP Ducks",
+      "title": "Anaheim",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCalifornia-Regular.ttf",
+        "bold": "WPCalifornia-Bold.ttf"
+      }
+    },
+    {
+      "name": "AncizarSans",
+      "source": "Unmodified Fonts/Ancizar Sans",
+      "title": "Ancizar Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "AncizarSans-Regular.ttf",
+        "bold": "AncizarSans-Bold.ttf",
+        "italic": "AncizarSans-Italic.ttf",
+        "bolditalic": "AncizarSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "AncizarSerif",
+      "source": "Unmodified Fonts/Ancizar Serif",
+      "title": "Ancizar Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "AncizarSerif-Regular.ttf",
+        "bold": "AncizarSerif-Bold.ttf",
+        "italic": "AncizarSerif-Italic.ttf",
+        "bolditalic": "AncizarSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "AndadaPro",
+      "source": "Unmodified Fonts/Andada Pro",
+      "title": "Andada Pro",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "AndadaPro-Regular.ttf",
+        "bold": "AndadaPro-Bold.ttf",
+        "italic": "AndadaPro-Italic.ttf",
+        "bolditalic": "AndadaPro-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Andika",
+      "source": "Unmodified Fonts/Andika",
+      "title": "Andika",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Andika-Regular.ttf",
+        "bold": "Andika-Bold.ttf",
+        "italic": "Andika-Italic.ttf",
+        "bolditalic": "Andika-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFourChan",
+      "source": "Modified Fonts/Anonymous Pro - WP Four Chan",
+      "title": "Anonymous Pro",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFourChan-Regular.ttf",
+        "bold": "WPFourChan-Bold.ttf",
+        "italic": "WPFourChan-Italic.ttf",
+        "bolditalic": "WPFourChan-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAnvil",
+      "source": "Modified Fonts/Anvers - WP Anvil",
+      "title": "Anvers",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAnvil-Regular.ttf",
+        "italic": "WPAnvil-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPArchivist",
+      "source": "Modified Fonts/Archivo - WP Archivist",
+      "title": "Archivo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPArchivist-Regular.ttf",
+        "bold": "WPArchivist-Bold.ttf",
+        "italic": "WPArchivist-Italic.ttf",
+        "bolditalic": "WPArchivist-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAgileRuqaa",
+      "source": "Modified Fonts/Aref Ruqaa - WP Agile Ruqaa",
+      "title": "Aref Ruqaa",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAgileRuqaa-Regular.ttf",
+        "bold": "WPAgileRuqaa-Bold.ttf"
+      }
+    },
+    {
+      "name": "Arsenal",
+      "source": "Unmodified Fonts/Arsenal",
+      "title": "Arsenal",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Arsenal-Regular.ttf",
+        "bold": "Arsenal-Bold.ttf",
+        "italic": "Arsenal-Italic.ttf",
+        "bolditalic": "Arsenal-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Asap",
+      "source": "Unmodified Fonts/Asap",
+      "title": "Asap",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Asap-Regular.ttf",
+        "bold": "Asap-Bold.ttf",
+        "italic": "Asap-Italic.ttf",
+        "bolditalic": "Asap-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPLusa",
+      "source": "Modified Fonts/Asul - WP Lusa",
+      "title": "Asul",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLusa-Regular.ttf",
+        "bold": "WPLusa-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPSuperlegible",
+      "source": "Modified Fonts/Atkinson Hyperlegible Mono - WP Superlegible Mono",
+      "title": "Atkinson Hyperlegible Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSuperlegible-Regular.ttf",
+        "bold": "WPSuperlegible-Bold.ttf",
+        "bolditalic": "WPSuperlegible-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAngles",
+      "source": "Modified Fonts/Avara - WP Angles",
+      "title": "Avara",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAngles-Regular.otf",
+        "bold": "WPAngles-Bold.otf",
+        "italic": "WPAngles-Italic.otf"
+      }
+    },
+    {
+      "name": "WPMean",
+      "source": "Modified Fonts/Averia Libre - WP Mean",
+      "title": "Averia Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMean-Regular.ttf",
+        "bold": "WPMean-Bold.ttf",
+        "italic": "WPMean-Italic.ttf",
+        "bolditalic": "WPMean-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPMeanSans",
+      "source": "Modified Fonts/Averia Sans Libre - WP Mean Sans",
+      "title": "Averia Sans Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMeanSans-Regular.ttf",
+        "bold": "WPMeanSans-Bold.ttf",
+        "italic": "WPMeanSans-Italic.ttf",
+        "bolditalic": "WPMeanSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPMeanSerif",
+      "source": "Modified Fonts/Averia Serif Libre - WP Mean Serif",
+      "title": "Averia Serif Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMeanSerif-Regular.ttf",
+        "bold": "WPMeanSerif-Bold.ttf",
+        "italic": "WPMeanSerif-Italic.ttf",
+        "bolditalic": "WPMeanSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBMincho",
+      "source": "Modified Fonts/BIZ UDPMincho - WP B Mincho",
+      "title": "BIZ UDPMincho",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBMincho-Regular.ttf",
+        "bold": "WPBMincho-Bold.ttf"
+      }
+    },
+    {
+      "name": "BadComic",
+      "source": "Unmodified Fonts/Bad Comic",
+      "title": "Bad Comic",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "BadComic-Regular.ttf",
+        "italic": "BadComic-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPBasilisk",
+      "source": "Modified Fonts/Baskervaldx - WP Basilisk",
+      "title": "Baskervaldx",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "COPYING.txt",
+      "files": {
+        "regular": "WPBasilisk-Regular.otf",
+        "bold": "WPBasilisk-Bold.otf",
+        "italic": "WPBasilisk-Italic.otf",
+        "bolditalic": "WPBasilisk-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPStapleton",
+      "source": "Modified Fonts/Baskervville - WP Stapleton",
+      "title": "Baskervville",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPStapleton-Regular.ttf",
+        "bold": "WPStapleton-Bold.ttf",
+        "italic": "WPStapleton-Italic.ttf",
+        "bolditalic": "WPStapleton-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBeholder",
+      "source": "Modified Fonts/Beholden - WP Beholder",
+      "title": "Beholden",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBeholder-Regular.ttf",
+        "bold": "WPBeholder-Bold.ttf",
+        "italic": "WPBeholder-Italic.ttf",
+        "bolditalic": "WPBeholder-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBeholderBook",
+      "source": "Modified Fonts/Beholden Book - WP Beholder Book",
+      "title": "Beholden Book",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBeholderBook-Regular.ttf",
+        "bold": "WPBeholderBook-Bold.ttf",
+        "italic": "WPBeholderBook-Italic.ttf",
+        "bolditalic": "WPBeholderBook-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBestley",
+      "source": "Modified Fonts/Besley - WP Bestley",
+      "title": "Besley",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBestley-Regular.ttf",
+        "bold": "WPBestley-Bold.ttf",
+        "italic": "WPBestley-Italic.ttf",
+        "bolditalic": "WPBestley-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Bezovka",
+      "source": "Unmodified Fonts/Bezovka",
+      "title": "Bezovka",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Bezovka-Regular.ttf",
+        "bold": "Bezovka-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPBxtter",
+      "source": "Modified Fonts/Bitter (traditional x) - WP Bxtter",
+      "title": "Bitter (traditional x)",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBxtter-Regular.ttf",
+        "bold": "WPBxtter-Bold.ttf",
+        "italic": "WPBxtter-Italic.ttf",
+        "bolditalic": "WPBxtter-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBona",
+      "source": "Modified Fonts/Bona Nova - WP Bona",
+      "title": "Bona Nova",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBona-Regular.ttf",
+        "bold": "WPBona-Bold.ttf",
+        "italic": "WPBona-Italic.ttf"
+      }
+    },
+    {
+      "name": "Brawler",
+      "source": "Unmodified Fonts/Brawler",
+      "title": "Brawler",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Brawler-Regular.ttf",
+        "bold": "Brawler-Bold.ttf"
+      }
+    },
+    {
+      "name": "Brygada1918",
+      "source": "Unmodified Fonts/Brygada 1918",
+      "title": "Brygada 1918",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Brygada1918-Regular.ttf",
+        "bold": "Brygada1918-Bold.ttf",
+        "italic": "Brygada1918-Italic.ttf",
+        "bolditalic": "Brygada1918-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "CabinSketch",
+      "source": "Unmodified Fonts/Cabin Sketch",
+      "title": "Cabin Sketch",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "CabinSketch-Regular.ttf",
+        "bold": "CabinSketch-Bold.ttf"
+      }
+    },
+    {
+      "name": "Cabin",
+      "source": "Unmodified Fonts/Cabin",
+      "title": "Cabin",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Cabin-Regular.ttf",
+        "bold": "Cabin-Bold.ttf",
+        "italic": "Cabin-Italic.ttf",
+        "bolditalic": "Cabin-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPCalamari",
+      "source": "Modified Fonts/Caladea - WP Calamari",
+      "title": "Caladea",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCalamari-Regular.ttf",
+        "bold": "WPCalamari-Bold.ttf",
+        "italic": "WPCalamari-Italic.ttf",
+        "bolditalic": "WPCalamari-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPDishwasher",
+      "source": "Modified Fonts/Cascadia Code - WP Dishwasher",
+      "title": "Cascadia Code",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDishwasher-Regular.ttf",
+        "bold": "WPDishwasher-Bold.ttf",
+        "italic": "WPDishwasher-Italic.ttf",
+        "bolditalic": "WPDishwasher-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Castoro",
+      "source": "Unmodified Fonts/Castoro",
+      "title": "Castoro",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Castoro-Regular.ttf",
+        "bold": "Castoro-Bold.ttf",
+        "italic": "Castoro-Italic.ttf",
+        "bolditalic": "Castoro-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPJust",
+      "source": "Modified Fonts/Cause - WP Just",
+      "title": "Cause",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPJust-Regular.ttf",
+        "bold": "WPJust-Bold.ttf"
+      }
+    },
+    {
+      "name": "ChakraPetch",
+      "source": "Unmodified Fonts/Chakra Petch",
+      "title": "Chakra Petch",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "ChakraPetch-Regular.ttf",
+        "bold": "ChakraPetch-Bold.ttf",
+        "italic": "ChakraPetch-Italic.ttf",
+        "bolditalic": "ChakraPetch-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Charis",
+      "source": "Unmodified Fonts/Charis",
+      "title": "Charis",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Charis-Regular.ttf",
+        "bold": "Charis-Bold.ttf",
+        "italic": "Charis-Italic.ttf",
+        "bolditalic": "Charis-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPRedDye",
+      "source": "Modified Fonts/Cochineal - WP Red Dye",
+      "title": "Cochineal",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRedDye-Roman.otf",
+        "bold": "WPRedDye-Bold.otf",
+        "italic": "WPRedDye-Italic.otf",
+        "bolditalic": "WPRedDye-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Cochineal",
+      "source": "Unmodified Fonts/Cochineal",
+      "title": "Cochineal",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Cochineal-Roman.otf",
+        "bold": "Cochineal-Bold.otf",
+        "italic": "Cochineal-Italic.otf",
+        "bolditalic": "Cochineal-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPCoherent",
+      "source": "Modified Fonts/Cohaerentia - WP Coherent",
+      "title": "Cohaerentia",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCoherent-Regular.ttf",
+        "italic": "WPCoherent-Italic.ttf"
+      }
+    },
+    {
+      "name": "ComicNeue",
+      "source": "Unmodified Fonts/Comic Neue",
+      "title": "Comic Neue",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "ComicNeue-Regular.ttf",
+        "bold": "ComicNeue-Bold.ttf",
+        "italic": "ComicNeue-Italic.ttf",
+        "bolditalic": "ComicNeue-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPClassClown",
+      "source": "Modified Fonts/Comic Relief - WP Class Clown",
+      "title": "Comic Relief",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPClassClown-Regular.ttf",
+        "bold": "WPClassClown-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPFunnyShanns",
+      "source": "Modified Fonts/Comic Shanns - WP Funny Shanns",
+      "title": "Comic Shanns",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE",
+      "files": {
+        "regular": "WPFunnyShanns-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPCommitted",
+      "source": "Modified Fonts/Commit Mono - WP Committed",
+      "title": "Commit Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPCommitted-Regular.ttf",
+        "bold": "WPCommitted-Bold.ttf",
+        "italic": "WPCommitted-Italic.ttf",
+        "bolditalic": "WPCommitted-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "CooperHewitt",
+      "source": "Unmodified Fonts/Cooper Hewitt",
+      "title": "Cooper Hewitt",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "CooperHewitt-Book.otf",
+        "bold": "CooperHewitt-Bold.otf",
+        "bolditalic": "CooperHewitt-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPPrimeTime",
+      "source": "Modified Fonts/Courier Prime - WP Prime Time",
+      "title": "Courier Prime",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPrimeTime-Regular.ttf",
+        "bold": "WPPrimeTime-Bold.ttf",
+        "italic": "WPPrimeTime-Italic.ttf",
+        "bolditalic": "WPPrimeTime-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "CrayonLibre",
+      "source": "Unmodified Fonts/Crayon Libre",
+      "title": "Crayon Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "License.txt",
+      "files": {
+        "regular": "CrayonLibre-Regular.ttf",
+        "italic": "CrayonLibre-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPCretan",
+      "source": "Modified Fonts/Crete Round - WP Cretan",
+      "title": "Crete Round",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCretan-Regular.ttf",
+        "italic": "WPCretan-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPRedText",
+      "source": "Modified Fonts/Crimson Text - WP Red Text",
+      "title": "Crimson Text",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRedText-Regular.otf",
+        "bold": "WPRedText-Bold.otf",
+        "italic": "WPRedText-Italic.otf",
+        "bolditalic": "WPRedText-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPAndrewtype",
+      "source": "Modified Fonts/Cuomotype - WP Andrewtype",
+      "title": "Cuomotype",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAndrewtype-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPExecutivePremier",
+      "source": "Modified Fonts/Cutive Mono - WP Executive Premier",
+      "title": "Cutive Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPExecutivePremier-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPDredge",
+      "source": "Modified Fonts/DM Mono - WP Dredge",
+      "title": "DM Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDredge-Regular.ttf",
+        "italic": "WPDredge-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPProofreader",
+      "source": "Modified Fonts/DP Sans Mono - WP Proofreader",
+      "title": "DP Sans Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPProofreader-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPDSE",
+      "source": "Modified Fonts/DSE Typewriter - WP DSE",
+      "title": "DSE Typewriter",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.md",
+      "files": {
+        "regular": "WPDSE-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPDRMono",
+      "source": "Modified Fonts/DejaVu Sans Mono - WP DR Mono",
+      "title": "DejaVu Sans Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPDRMono-Regular.ttf",
+        "bold": "WPDRMono-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPDRSerif",
+      "source": "Modified Fonts/DejaVu Serif - WP DR Serif",
+      "title": "DejaVu Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPDRSerif-Regular.ttf",
+        "bold": "WPDRSerif-Bold.ttf",
+        "italic": "WPDRSerif-Italic.ttf",
+        "bolditalic": "WPDRSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "DepartureMono",
+      "source": "Unmodified Fonts/Departure Mono",
+      "title": "Departure Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "DepartureMono-Regular.otf"
+      }
+    },
+    {
+      "name": "WPDopamine",
+      "source": "Modified Fonts/Domine - WP Dopamine",
+      "title": "Domine",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDopamine-Regular.ttf",
+        "bold": "WPDopamine-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPDrafting",
+      "source": "Modified Fonts/Drafting Mono - WP Drafting",
+      "title": "Drafting Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDrafting-Regular.ttf",
+        "bold": "WPDrafting-Bold.ttf",
+        "italic": "WPDrafting-Italic.ttf",
+        "bolditalic": "WPDrafting-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPbb",
+      "source": "Modified Fonts/ETbb - WPbb",
+      "title": "ETbb",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPbb-Regular.otf",
+        "bold": "WPbb-Bold.otf",
+        "italic": "WPbb-Italic.otf",
+        "bolditalic": "WPbb-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPIck",
+      "source": "Modified Fonts/Eczar - WP Ick",
+      "title": "Eczar",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPIck-Regular.ttf",
+        "bold": "WPIck-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPElectric",
+      "source": "Modified Fonts/Electrum ADF - WP Electric",
+      "title": "Electrum ADF",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPElectric-Regular.otf",
+        "bold": "WPElectric-Bold.otf"
+      }
+    },
+    {
+      "name": "ElstobD",
+      "source": "Unmodified Fonts/Elstob",
+      "title": "Elstob",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "ElstobD-Regular.ttf",
+        "bold": "ElstobD-Bold.ttf",
+        "italic": "ElstobD-Italic.ttf",
+        "bolditalic": "ElstobD-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSilkscreen",
+      "source": "Modified Fonts/Enriqueta - WP Silkscreen",
+      "title": "Enriqueta",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSilkscreen-Regular.ttf",
+        "bold": "WPSilkscreen-Bold.ttf"
+      }
+    },
+    {
+      "name": "Epilogue",
+      "source": "Unmodified Fonts/Epilogue",
+      "title": "Epilogue",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Epilogue-Regular.ttf",
+        "bold": "Epilogue-Bold.ttf",
+        "italic": "Epilogue-Italic.ttf",
+        "bolditalic": "Epilogue-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPUpundaSlab",
+      "source": "Modified Fonts/Epunda Slab - WP Upunda",
+      "title": "Epunda Slab",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPUpundaSlab-Regular.ttf",
+        "bold": "WPUpundaSlab-Bold.ttf",
+        "italic": "WPUpundaSlab-Italic.ttf",
+        "bolditalic": "WPUpundaSlab-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Exo",
+      "source": "Unmodified Fonts/Exo",
+      "title": "Exo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Exo-Regular.ttf",
+        "bold": "Exo-Bold.ttf",
+        "italic": "Exo-Italic.ttf",
+        "bolditalic": "Exo-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFantastic",
+      "source": "Modified Fonts/Fantasque Sans Mono - WP Fantastic",
+      "title": "Fantasque Sans Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFantastic-Regular.ttf",
+        "bold": "WPFantastic-Bold.ttf",
+        "italic": "WPFantastic-Italic.ttf",
+        "bolditalic": "WPFantastic-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBiggestFan",
+      "source": "Modified Fonts/Fanwood Text - WP Biggest Fan",
+      "title": "Fanwood Text",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBiggestFan-Regular.ttf",
+        "italic": "WPBiggestFan-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPWolfgang",
+      "source": "Modified Fonts/Faustina - WP Wolfgang",
+      "title": "Faustina",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPWolfgang-Regular.ttf",
+        "bold": "WPWolfgang-Bold.ttf",
+        "italic": "WPWolfgang-Italic.ttf",
+        "bolditalic": "WPWolfgang-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "FinlandicaHeadline",
+      "source": "Unmodified Fonts/Finlandica Headline",
+      "title": "Finlandica Headline",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "FinlandicaHeadline-Regular.ttf",
+        "bold": "FinlandicaHeadline-Bold.ttf",
+        "italic": "FinlandicaHeadline-Italic.ttf",
+        "bolditalic": "FinlandicaHeadline-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFoxMono",
+      "source": "Modified Fonts/Fira Mono - WP Fox Mono",
+      "title": "Fira Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFoxMono-Regular.ttf",
+        "bold": "WPFoxMono-Bold.ttf"
+      }
+    },
+    {
+      "name": "FiraSans",
+      "source": "Unmodified Fonts/Fira Sans",
+      "title": "Fira Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "FiraSans-Regular.ttf",
+        "bold": "FiraSans-Bold.ttf",
+        "italic": "FiraSans-Italic.ttf",
+        "bolditalic": "FiraSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Flamenco",
+      "source": "Unmodified Fonts/Flamenco",
+      "title": "Flamenco",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Flamenco-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPOrElse",
+      "source": "Modified Fonts/Fluxisch Else - WP Or Else",
+      "title": "Fluxisch Else",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOrElse-Regular.otf"
+      }
+    },
+    {
+      "name": "WPPast",
+      "source": "Modified Fonts/Formera - WP Past",
+      "title": "Formera",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPast-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPFrankRules",
+      "source": "Modified Fonts/Frank Ruhl Libre - WP Frank Rules",
+      "title": "Frank Ruhl Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFrankRules-Regular.ttf",
+        "bold": "WPFrankRules-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPFreerSerif",
+      "source": "Modified Fonts/FreeSerif - WP FreerSerif",
+      "title": "FreeSerif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPFreerSerif-Regular.ttf",
+        "bold": "WPFreerSerif-Bold.ttf",
+        "italic": "WPFreerSerif-Italic.ttf",
+        "bolditalic": "WPFreerSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "FunnelSans",
+      "source": "Unmodified Fonts/Funnel",
+      "title": "Funnel",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "FunnelSans-Regular.ttf",
+        "bold": "FunnelSans-Bold.ttf",
+        "italic": "FunnelSans-Italic.ttf",
+        "bolditalic": "FunnelSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "FuzzyBubbles",
+      "source": "Unmodified Fonts/Fuzzy Bubbles",
+      "title": "Fuzzy Bubbles",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "FuzzyBubbles-Regular.ttf",
+        "bold": "FuzzyBubbles-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPGalatians",
+      "source": "Modified Fonts/GFS Galatea - WP Galatians",
+      "title": "GFS Galatea",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGalatians-Regular.ttf",
+        "bold": "WPGalatians-Bold.ttf"
+      }
+    },
+    {
+      "name": "Garamontio",
+      "source": "Unmodified Fonts/Garamontio",
+      "title": "Garamontio",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Garamontio-Regular.ttf",
+        "bold": "Garamontio-Bold.ttf",
+        "bolditalic": "Garamontio-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Geist",
+      "source": "Unmodified Fonts/Geist",
+      "title": "Geist",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Geist-Regular.ttf",
+        "bold": "Geist-Bold.ttf",
+        "italic": "Geist-Italic.ttf",
+        "bolditalic": "Geist-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPLucretia",
+      "source": "Modified Fonts/Gensco - WP Lucretia",
+      "title": "Gensco",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLucretia-Regular.ttf"
+      }
+    },
+    {
+      "name": "GentiumBook",
+      "source": "Unmodified Fonts/Gentium Book",
+      "title": "Gentium Book",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "GentiumBook-Regular.ttf",
+        "bold": "GentiumBook-Bold.ttf",
+        "italic": "GentiumBook-Italic.ttf",
+        "bolditalic": "GentiumBook-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Gentium",
+      "source": "Unmodified Fonts/Gentium",
+      "title": "Gentium",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Gentium-Regular.ttf",
+        "bold": "Gentium-Bold.ttf",
+        "italic": "Gentium-Italic.ttf",
+        "bolditalic": "Gentium-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPGeometry",
+      "source": "Modified Fonts/Geom - WP Geometry",
+      "title": "Geom",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGeometry-Regular.ttf",
+        "bold": "WPGeometry-Bold.ttf",
+        "italic": "WPGeometry-Italic.ttf",
+        "bolditalic": "WPGeometry-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Georama",
+      "source": "Unmodified Fonts/Georama",
+      "title": "Georama",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Georama-Regular.ttf",
+        "bold": "Georama-Bold.ttf",
+        "italic": "Georama-Italic.ttf",
+        "bolditalic": "Georama-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPTitanic",
+      "source": "Modified Fonts/Glacial Indifference - WP Titanic",
+      "title": "Glacial Indifference",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPTitanic-Regular.ttf",
+        "bold": "WPTitanic-Bold.ttf",
+        "italic": "WPTitanic-Italic.ttf",
+        "bolditalic": "WPTitanic-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPIgloo",
+      "source": "Modified Fonts/Glegoo - WP Igloo",
+      "title": "Glegoo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPIgloo-Regular.ttf",
+        "bold": "WPIgloo-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPCollect200",
+      "source": "Modified Fonts/Go - WP Collect 200",
+      "title": "Go",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPCollect200-Regular.ttf",
+        "bold": "WPCollect200-Bold.ttf",
+        "italic": "WPCollect200-Italic.ttf",
+        "bolditalic": "WPCollect200-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPCollect200Mono",
+      "source": "Modified Fonts/Go Mono - WP Collect 200 Mono",
+      "title": "Go Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPCollect200Mono-Regular.ttf",
+        "bold": "WPCollect200Mono-Bold.ttf",
+        "italic": "WPCollect200Mono-Italic.ttf",
+        "bolditalic": "WPCollect200Mono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSearchMono",
+      "source": "Modified Fonts/Google Sans Code - WP Search Mono",
+      "title": "Google Sans Code",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSearchMono-Regular.ttf",
+        "bold": "WPSearchMono-Bold.ttf",
+        "italic": "WPSearchMono-Italic.ttf",
+        "bolditalic": "WPSearchMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "GoogleSans",
+      "source": "Unmodified Fonts/Google Sans",
+      "title": "Google Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "GoogleSans-Regular.ttf",
+        "bold": "GoogleSans-Bold.ttf",
+        "italic": "GoogleSans-Italic.ttf",
+        "bolditalic": "GoogleSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Grandstander",
+      "source": "Unmodified Fonts/Grandstander",
+      "title": "Grandstander",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Grandstander-Regular.ttf",
+        "bold": "Grandstander-Bold.ttf",
+        "italic": "Grandstander-Italic.ttf",
+        "bolditalic": "Grandstander-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Gupter",
+      "source": "Unmodified Fonts/Gupter",
+      "title": "Gupter",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Gupter-Regular.ttf",
+        "bold": "Gupter-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPHacked",
+      "source": "Modified Fonts/Hack - WP Hacked",
+      "title": "Hack",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.md",
+      "files": {
+        "regular": "WPHacked-Regular.ttf",
+        "bold": "WPHacked-Bold.ttf",
+        "italic": "WPHacked-Italic.ttf",
+        "bolditalic": "WPHacked-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Hahmlet",
+      "source": "Unmodified Fonts/Hahmlet",
+      "title": "Hahmlet",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Hahmlet-Regular.ttf",
+        "bold": "Hahmlet-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPHappy",
+      "source": "Modified Fonts/Happy Times at the IKOB - WP Happy",
+      "title": "Happy Times at the IKOB",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPHappy-Regular.ttf",
+        "bold": "WPHappy-Bold.ttf",
+        "italic": "WPHappy-Italic.ttf"
+      }
+    },
+    {
+      "name": "HeptaSlab",
+      "source": "Unmodified Fonts/Hepta Slab",
+      "title": "Hepta Slab",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "HeptaSlab-Regular.ttf",
+        "bold": "HeptaSlab-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPTwentyTwenty",
+      "source": "Modified Fonts/Hindsight - WP Twenty Twenty",
+      "title": "Hindsight",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "License.txt",
+      "files": {
+        "regular": "WPTwentyTwenty-Regular.ttf",
+        "italic": "WPTwentyTwenty-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPAmazingBulk",
+      "source": "Modified Fonts/Hunck - WP Amazing Bulk",
+      "title": "Hunck",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPAmazingBulk-Regular.otf"
+      }
+    },
+    {
+      "name": "WPCharles",
+      "source": "Modified Fonts/Hundar - WP Charles",
+      "title": "Hundar",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCharles-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPJekyll",
+      "source": "Modified Fonts/Hyde - WP Jekyll",
+      "title": "Hyde",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPJekyll-Regular.ttf",
+        "bold": "WPJekyll-Bold.ttf",
+        "italic": "WPJekyll-Italic.ttf"
+      }
+    },
+    {
+      "name": "WP3270",
+      "source": "Modified Fonts/IBM 3270 - WP 3270",
+      "title": "IBM 3270",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WP3270-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPPerplexMono",
+      "source": "Modified Fonts/IBM Plex Mono - WP Perplex Mono",
+      "title": "IBM Plex Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPerplexMono-Regular.ttf",
+        "bold": "WPPerplexMono-Bold.ttf",
+        "italic": "WPPerplexMono-Italic.ttf",
+        "bolditalic": "WPPerplexMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPPerplexSerif",
+      "source": "Modified Fonts/IBM Plex Serif - WP Perplex Serif",
+      "title": "IBM Plex Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPerplexSerif-Regular.ttf",
+        "bold": "WPPerplexSerif-Bold.ttf",
+        "italic": "WPPerplexSerif-Italic.ttf",
+        "bolditalic": "WPPerplexSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFellDWPica",
+      "source": "Modified Fonts/IM FELL DW Pica - WP Fell DW Pica",
+      "title": "IM FELL DW Pica",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFellDWPica-Regular.ttf",
+        "italic": "WPFellDWPica-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPFellDoublePica",
+      "source": "Modified Fonts/IM FELL Double Pica - WP Fell Double Pica",
+      "title": "IM FELL Double Pica",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFellDoublePica-Regular.ttf",
+        "italic": "WPFellDoublePica-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPFellEnglish",
+      "source": "Modified Fonts/IM FELL English - WP Fell English",
+      "title": "IM FELL English",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFellEnglish-Regular.ttf",
+        "italic": "WPFellEnglish-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPFellFrenchCanon",
+      "source": "Modified Fonts/IM FELL French Canon - WP Fell French Canon",
+      "title": "IM FELL French Canon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFellFrenchCanon-Regular.ttf",
+        "italic": "WPFellFrenchCanon-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPFellGreatPrimer",
+      "source": "Modified Fonts/IM FELL Great Primer - WP Fell Great Primer",
+      "title": "IM FELL Great Primer",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFellGreatPrimer-Regular.ttf",
+        "italic": "WPFellGreatPrimer-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPEureka",
+      "source": "Modified Fonts/Inika - WP Eureka",
+      "title": "Inika",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPEureka-Regular.ttf",
+        "bold": "WPEureka-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPCalcul",
+      "source": "Modified Fonts/Inria Serif - WP Calcul",
+      "title": "Inria Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCalcul-Regular.ttf",
+        "bold": "WPCalcul-Bold.ttf",
+        "italic": "WPCalcul-Italic.ttf",
+        "bolditalic": "WPCalcul-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPCPUMono",
+      "source": "Modified Fonts/Intel One Mono - WP CPU Mono",
+      "title": "Intel One Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCPUMono-Regular.ttf",
+        "bold": "WPCPUMono-Bold.ttf",
+        "italic": "WPCPUMono-Italic.ttf",
+        "bolditalic": "WPCPUMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Inter",
+      "source": "Unmodified Fonts/Inter",
+      "title": "Inter",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Inter-Regular.ttf",
+        "bold": "Inter-Bold.ttf",
+        "italic": "Inter-Italic.ttf",
+        "bolditalic": "Inter-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPPlaneBrains",
+      "source": "Modified Fonts/JetBrains Mono - WP PlaneBrains",
+      "title": "JetBrains Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPlaneBrains-Regular.ttf",
+        "bold": "WPPlaneBrains-Bold.ttf",
+        "italic": "WPPlaneBrains-Italic.ttf",
+        "bolditalic": "WPPlaneBrains-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "JosefinSans",
+      "source": "Unmodified Fonts/Josefin Sans",
+      "title": "Josefin Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "JosefinSans-Regular.ttf",
+        "bold": "JosefinSans-Bold.ttf",
+        "italic": "JosefinSans-Italic.ttf",
+        "bolditalic": "JosefinSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPJasper",
+      "source": "Modified Fonts/Jost - WP Jasper",
+      "title": "Jost",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPJasper-Regular.ttf",
+        "bold": "WPJasper-Bold.ttf",
+        "italic": "WPJasper-Italic.ttf",
+        "bolditalic": "WPJasper-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPJudder",
+      "source": "Modified Fonts/Judson - WP Judder",
+      "title": "Judson",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPJudder-Regular.ttf",
+        "bold": "WPJudder-Bold.ttf",
+        "italic": "WPJudder-Italic.ttf"
+      }
+    },
+    {
+      "name": "Junicode",
+      "source": "Unmodified Fonts/Junicode",
+      "title": "Junicode",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Junicode-Regular.ttf",
+        "bold": "Junicode-Bold.ttf",
+        "italic": "Junicode-Italic.ttf",
+        "bolditalic": "Junicode-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPTicket",
+      "source": "Modified Fonts/Jura - WP Ticket",
+      "title": "Jura",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPTicket-Regular.ttf",
+        "bold": "WPTicket-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPKp",
+      "source": "Modified Fonts/KPRoman - WP KP",
+      "title": "KPRoman",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKp-Regular.otf",
+        "bold": "WPKp-Bold.otf",
+        "italic": "WPKp-Italic.otf",
+        "bolditalic": "WPKp-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPKorma",
+      "source": "Modified Fonts/Karma - WP Korma",
+      "title": "Karma",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKorma-Regular.ttf",
+        "bold": "WPKorma-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPKaye",
+      "source": "Modified Fonts/Kay Pho Du - WP Kaye",
+      "title": "Kay Pho Du",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKaye-Regular.ttf",
+        "bold": "WPKaye-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPKazuki",
+      "source": "Modified Fonts/KazukiReiwa - WP Kazuki",
+      "title": "KazukiReiwa",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKazuki-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPKelvin",
+      "source": "Modified Fonts/Kelvinch - WP Kelvin",
+      "title": "Kelvinch",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKelvin-Regular.ttf",
+        "bold": "WPKelvin-Bold.ttf",
+        "italic": "WPKelvin-Italic.ttf",
+        "bolditalic": "WPKelvin-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "KierkegaardText",
+      "source": "Unmodified Fonts/Kierkegaard",
+      "title": "Kierkegaard",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "KierkegaardText-Regular.ttf",
+        "bold": "KierkegaardText-Bold.ttf",
+        "italic": "KierkegaardText-Italic.ttf",
+        "bolditalic": "KierkegaardText-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "KoHo",
+      "source": "Unmodified Fonts/KoHo",
+      "title": "KoHo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "KoHo-Regular.ttf",
+        "bold": "KoHo-Bold.ttf",
+        "italic": "KoHo-Italic.ttf",
+        "bolditalic": "KoHo-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPKoder",
+      "source": "Modified Fonts/Kode Mono - WP Koder",
+      "title": "Kode Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKoder-Regular.ttf",
+        "bold": "WPKoder-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPCrayon",
+      "source": "Modified Fonts/Kreon - WP Crayon",
+      "title": "Kreon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCrayon-Regular.ttf",
+        "bold": "WPCrayon-Bold.ttf"
+      }
+    },
+    {
+      "name": "Kurland",
+      "source": "Unmodified Fonts/Kurland",
+      "title": "Kurland",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "License.txt",
+      "files": {
+        "regular": "Kurland-Regular.ttf",
+        "italic": "Kurland-Italic.ttf"
+      }
+    },
+    {
+      "name": "LINESeedJP",
+      "source": "Unmodified Fonts/LINE Seed JP",
+      "title": "LINE Seed JP",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "LINESeedJP-Regular.ttf",
+        "bold": "LINESeedJP-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPSuperior",
+      "source": "Modified Fonts/LT Superior Serif - WP Superior",
+      "title": "LT Superior Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSuperior-Regular.otf",
+        "bold": "WPSuperior-Bold.otf"
+      }
+    },
+    {
+      "name": "WPSingSong",
+      "source": "Modified Fonts/LXGW Neo ZhiSong Screen - WP Sing Sing",
+      "title": "LXGW Neo ZhiSong Screen",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPSingSong-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPKadabra",
+      "source": "Modified Fonts/Labrada - WP Kadabra",
+      "title": "Labrada",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPKadabra-Regular.ttf",
+        "bold": "WPKadabra-Bold.ttf",
+        "italic": "WPKadabra-Italic.ttf",
+        "bolditalic": "WPKadabra-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFewWords",
+      "source": "Modified Fonts/Laconic - WP Few Words",
+      "title": "Laconic",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFewWords-Regular.otf",
+        "bold": "WPFewWords-Bold.otf"
+      }
+    },
+    {
+      "name": "WPDominos",
+      "source": "Modified Fonts/Laila - WP Dominos",
+      "title": "Laila",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDominos-Regular.ttf",
+        "bold": "WPDominos-Bold.ttf"
+      }
+    },
+    {
+      "name": "Lato",
+      "source": "Unmodified Fonts/Lato",
+      "title": "Lato",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Lato-Regular.ttf",
+        "bold": "Lato-Bold.ttf",
+        "italic": "Lato-Italic.ttf",
+        "bolditalic": "Lato-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "LeagueSpartan",
+      "source": "Unmodified Fonts/League Spartan",
+      "title": "League Spartan",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "LeagueSpartan-Regular.ttf",
+        "bold": "LeagueSpartan-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPLecturn",
+      "source": "Modified Fonts/Lekton - WP Lecturn",
+      "title": "Lekton",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLecturn-Regular.ttf",
+        "bold": "WPLecturn-Bold.ttf",
+        "italic": "WPLecturn-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPUnoriginal",
+      "source": "Modified Fonts/Leluja Original - WP Unoriginal",
+      "title": "Leluja Original",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPUnoriginal-Regular.ttf",
+        "bold": "WPUnoriginal-Bold.ttf",
+        "italic": "WPUnoriginal-Italic.ttf",
+        "bolditalic": "WPUnoriginal-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPLuthor",
+      "source": "Modified Fonts/Lexend - WP Luthor",
+      "title": "Lexend",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLuthor-Regular.ttf",
+        "bold": "WPLuthor-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPLibertinoMono",
+      "source": "Modified Fonts/Liberation Mono - WP Libertino Mono",
+      "title": "Liberation Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLibertinoMono-Regular.ttf",
+        "bold": "WPLibertinoMono-Bold.ttf",
+        "italic": "WPLibertinoMono-Italic.ttf",
+        "bolditalic": "WPLibertinoMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPLibertinoSans",
+      "source": "Modified Fonts/Liberation Sans - WP Libertino Sans",
+      "title": "Liberation Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLibertinoSans-Regular.ttf",
+        "bold": "WPLibertinoSans-Bold.ttf",
+        "italic": "WPLibertinoSans-Italic.ttf",
+        "bolditalic": "WPLibertinoSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPLibertinoSerif",
+      "source": "Modified Fonts/Liberation Serif - WP Libertino Serif",
+      "title": "Liberation Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPLibertinoSerif-Regular.ttf",
+        "bold": "WPLibertinoSerif-Bold.ttf",
+        "italic": "WPLibertinoSerif-Italic.ttf",
+        "bolditalic": "WPLibertinoSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "LibertinusSans",
+      "source": "Unmodified Fonts/Libertinus Sans",
+      "title": "Libertinus Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "LibertinusSans-Regular.otf",
+        "bold": "LibertinusSans-Bold.otf",
+        "italic": "LibertinusSans-Italic.otf"
+      }
+    },
+    {
+      "name": "LibertinusSerif",
+      "source": "Unmodified Fonts/Libertinus Serif",
+      "title": "Libertinus Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "LibertinusSerif-Regular.otf",
+        "bold": "LibertinusSerif-Bold.otf",
+        "italic": "LibertinusSerif-Italic.otf",
+        "bolditalic": "LibertinusSerif-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPMortimer",
+      "source": "Modified Fonts/Libre Baskerville - WP Mortimer",
+      "title": "Libre Baskerville",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMortimer-Regular.ttf",
+        "bold": "WPMortimer-Bold.ttf",
+        "italic": "WPMortimer-Italic.ttf",
+        "bolditalic": "WPMortimer-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPCaslon",
+      "source": "Modified Fonts/Libre Caslon Text - WP Caslon",
+      "title": "Libre Caslon Text",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCaslon-Regular.ttf",
+        "bold": "WPCaslon-Bold.ttf",
+        "italic": "WPCaslon-Italic.ttf",
+        "bolditalic": "WPCaslon-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Libron",
+      "source": "Unmodified Fonts/Libron",
+      "title": "Libron",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Libron-Regular.ttf",
+        "bold": "Libron-Bold.ttf",
+        "italic": "Libron-Italic.ttf",
+        "bolditalic": "Libron-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPHillHouse",
+      "source": "Modified Fonts/Linden Hill - WP Hill House",
+      "title": "Linden Hill",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPHillHouse-Regular.ttf",
+        "italic": "WPHillHouse-Italic.ttf"
+      }
+    },
+    {
+      "name": "Listopad",
+      "source": "Unmodified Fonts/Listopad",
+      "title": "Listopad",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Listopad-Regular.ttf",
+        "bold": "Listopad-Bold.ttf",
+        "italic": "Listopad-Italic.ttf",
+        "bolditalic": "Listopad-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPIntheBasket",
+      "source": "Modified Fonts/Lotion - WP In the Basket",
+      "title": "Lotion",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPIntheBasket-Regular.ttf",
+        "bold": "WPIntheBasket-Bold.ttf",
+        "italic": "WPIntheBasket-Italic.ttf",
+        "bolditalic": "WPIntheBasket-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Luciole",
+      "source": "Unmodified Fonts/Luciole",
+      "title": "Luciole",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "Luciole-Regular.ttf",
+        "bold": "Luciole-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPMMINUS",
+      "source": "Modified Fonts/M PLUS Code Latin ",
+      "title": "M PLUS Code Latin ",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMMINUS-Regular.ttf",
+        "bold": "WPMMINUS-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPMyTree",
+      "source": "Modified Fonts/Maitree - WP My Tree",
+      "title": "Maitree",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMyTree-Regular.ttf",
+        "bold": "WPMyTree-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPBamako",
+      "source": "Modified Fonts/Mali - WP Bamako",
+      "title": "Mali",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBamako-Regular.ttf",
+        "bold": "WPBamako-Bold.ttf",
+        "italic": "WPBamako-Italic.ttf",
+        "bolditalic": "WPBamako-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPManually",
+      "source": "Modified Fonts/Manuale - WP Manually",
+      "title": "Manuale",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPManually-Regular.ttf",
+        "bold": "WPManually-Bold.ttf",
+        "italic": "WPManually-Italic.ttf",
+        "bolditalic": "WPManually-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPToronto",
+      "source": "Modified Fonts/Maple Mono - WP Toronto",
+      "title": "Maple Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPToronto-Regular.ttf",
+        "bold": "WPToronto-Bold.ttf",
+        "italic": "WPToronto-Italic.ttf",
+        "bolditalic": "WPToronto-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Marauder-Text",
+      "source": "Unmodified Fonts/Marauder",
+      "title": "Marauder",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.md",
+      "files": {
+        "regular": "Marauder-Text-Regular.ttf",
+        "bold": "Marauder-Text-Bold.ttf",
+        "italic": "Marauder-Text-Italic.ttf",
+        "bolditalic": "Marauder-Text-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "MarkaziText",
+      "source": "Unmodified Fonts/Markazi Text",
+      "title": "Markazi Text",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "MarkaziText-Regular.ttf",
+        "bold": "MarkaziText-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPCheckmate",
+      "source": "Modified Fonts/Mate - WP Checkmate",
+      "title": "Mate",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCheckmate-Regular.ttf",
+        "italic": "WPCheckmate-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPMerryWeather",
+      "source": "Modified Fonts/Merryweather - WP Merry Weather",
+      "title": "Merryweather",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMerryWeather-Regular.ttf",
+        "bold": "WPMerryWeather-Bold.ttf",
+        "italic": "WPMerryWeather-Italic.ttf",
+        "bolditalic": "WPMerryWeather-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPGout",
+      "source": "Modified Fonts/Miju Goudy - WP Gout",
+      "title": "Miju Goudy",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPGout-Regular.ttf",
+        "bold": "WPGout-Bold.ttf",
+        "italic": "WPGout-Italic.ttf",
+        "bolditalic": "WPGout-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Minipax",
+      "source": "Unmodified Fonts/Minipax",
+      "title": "Minipax",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "Minipax-Regular.ttf",
+        "bold": "Minipax-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPMSA",
+      "source": "Modified Fonts/Monaspace Argon - WP MS A",
+      "title": "Monaspace Argon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPMSA-Regular.otf",
+        "bold": "WPMSA-Bold.otf",
+        "italic": "WPMSA-Italic.otf",
+        "bolditalic": "WPMSA-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPMSK",
+      "source": "Modified Fonts/Monaspace Krypton - WP MS K",
+      "title": "Monaspace Krypton",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPMSK-Regular.otf",
+        "bold": "WPMSK-Bold.otf",
+        "italic": "WPMSK-Italic.otf",
+        "bolditalic": "WPMSK-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPMSN",
+      "source": "Modified Fonts/Monaspace Neon - WP MS N",
+      "title": "Monaspace Neon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPMSN-Regular.otf",
+        "bold": "WPMSN-Bold.otf",
+        "italic": "WPMSN-Italic.otf",
+        "bolditalic": "WPMSN-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPMSR",
+      "source": "Modified Fonts/Monaspace Radon - WP MS R",
+      "title": "Monaspace Radon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPMSR-Regular.otf",
+        "bold": "WPMSR-Bold.otf",
+        "italic": "WPMSR-Italic.otf",
+        "bolditalic": "WPMSR-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPMSX",
+      "source": "Modified Fonts/Monaspace Xenon - WP MS X",
+      "title": "Monaspace Xenon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPMSX-Regular.otf",
+        "bold": "WPMSX-Bold.otf",
+        "italic": "WPMSX-Italic.otf",
+        "bolditalic": "WPMSX-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Montserrat",
+      "source": "Unmodified Fonts/Montserrat",
+      "title": "Montserrat",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Montserrat-Regular.ttf",
+        "bold": "Montserrat-Bold.ttf",
+        "italic": "Montserrat-Italic.ttf",
+        "bolditalic": "Montserrat-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPNepogrimer",
+      "source": "Modified Fonts/Nepomuk - WP Neogrimer",
+      "title": "Nepomuk",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPNepogrimer-Regular.otf",
+        "bold": "WPNepogrimer-Bold.otf",
+        "italic": "WPNepogrimer-Italic.otf",
+        "bolditalic": "WPNepogrimer-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Neuton",
+      "source": "Unmodified Fonts/Neuton",
+      "title": "Neuton",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Neuton-Regular.ttf",
+        "bold": "Neuton-Bold.ttf",
+        "italic": "Neuton-Italic.ttf"
+      }
+    },
+    {
+      "name": "NeverMindHand",
+      "source": "Unmodified Fonts/NeverMind Hand",
+      "title": "NeverMind Hand",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "NeverMindHand-Regular.ttf",
+        "bold": "NeverMindHand-Bold.ttf"
+      }
+    },
+    {
+      "name": "NeverMindHandwriting",
+      "source": "Unmodified Fonts/NeverMind Handwriting",
+      "title": "NeverMind Handwriting",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "NeverMindHandwriting-Regular.ttf",
+        "bold": "NeverMindHandwriting-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPIMindSlab",
+      "source": "Modified Fonts/NeverMind Slab - WP I Mind Slab",
+      "title": "NeverMind Slab",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPIMindSlab-Book.ttf",
+        "bold": "WPIMindSlab-Bold.ttf"
+      }
+    },
+    {
+      "name": "NeverMindsemi-serif",
+      "source": "Unmodified Fonts/NeverMind semi-serif",
+      "title": "NeverMind semi-serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "NeverMindsemi-serif-Regular.ttf",
+        "bold": "NeverMindsemi-serif-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPCigaretteBurns",
+      "source": "Modified Fonts/New Tegomin - WP Cigarette Burns",
+      "title": "New Tegomin",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPCigaretteBurns-Regular.ttf"
+      }
+    },
+    {
+      "name": "Newsreader16pt",
+      "source": "Unmodified Fonts/Newsreader",
+      "title": "Newsreader",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Newsreader16pt-Regular.ttf",
+        "bold": "Newsreader16pt-Bold.ttf",
+        "italic": "Newsreader16pt-Italic.ttf",
+        "bolditalic": "Newsreader16pt-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSalamander",
+      "source": "Modified Fonts/Newt Serif - WP Salamander",
+      "title": "Newt Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSalamander-Regular.ttf",
+        "bold": "WPSalamander-Bold.ttf",
+        "italic": "WPSalamander-Italic.ttf",
+        "bolditalic": "WPSalamander-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPPostal",
+      "source": "Modified Fonts/Nimbus Mono PS - WP Postal",
+      "title": "Nimbus Mono PS",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPPostal-Regular.ttf",
+        "bold": "WPPostal-Bold.ttf",
+        "italic": "WPPostal-Italic.ttf",
+        "bolditalic": "WPPostal-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPNocturnal",
+      "source": "Modified Fonts/Nocturne Serif - WP Nocturnal",
+      "title": "Nocturne Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPNocturnal-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPNotice",
+      "source": "Modified Fonts/Noticia Text - WP Notice",
+      "title": "Noticia Text",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPNotice-Regular.ttf",
+        "bold": "WPNotice-Bold.ttf",
+        "italic": "WPNotice-Italic.ttf",
+        "bolditalic": "WPNotice-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "NotoSans",
+      "source": "Unmodified Fonts/Noto Sans",
+      "title": "Noto Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "NotoSans-Regular.ttf",
+        "bold": "NotoSans-Bold.ttf",
+        "italic": "NotoSans-Italic.ttf",
+        "bolditalic": "NotoSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "NotoSerif",
+      "source": "Unmodified Fonts/Noto Serif",
+      "title": "Noto Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "NotoSerif-Regular.ttf",
+        "bold": "NotoSerif-Bold.ttf",
+        "italic": "NotoSerif-Italic.ttf",
+        "bolditalic": "NotoSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPOCRA",
+      "source": "Modified Fonts/OCR-A - WP OCR-A",
+      "title": "OCR-A",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOCRA-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPOCRB",
+      "source": "Modified Fonts/OCR-B - WP OCR-B",
+      "title": "OCR-B",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOCRB-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPOD2",
+      "source": "Modified Fonts/OpenDyslexic 2 - WP OD 2",
+      "title": "OpenDyslexic 2",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "License.txt",
+      "files": {
+        "regular": "WPOD2-Regular.ttf",
+        "bold": "WPOD2-Bold.ttf",
+        "italic": "WPOD2-Italic.ttf",
+        "bolditalic": "WPOD2-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPOD4",
+      "source": "Modified Fonts/OpenDyslexic 4 - WP OD 4",
+      "title": "OpenDyslexic 4",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOD4-Regular.ttf",
+        "bold": "WPOD4-Bold.ttf",
+        "italic": "WPOD4-Italic.ttf",
+        "bolditalic": "WPOD4-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPGalaxy",
+      "source": "Modified Fonts/Orbit - WP Galaxy",
+      "title": "Orbit",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGalaxy-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPOutfitted",
+      "source": "Modified Fonts/Outfit - WP Outfitted",
+      "title": "Outfit",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOutfitted-Regular.ttf",
+        "bold": "WPOutfitted-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPOverlocked",
+      "source": "Modified Fonts/Overlock - WP Overlocked",
+      "title": "Overlock",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOverlocked-Regular.ttf",
+        "bold": "WPOverlocked-Bold.ttf",
+        "italic": "WPOverlocked-Italic.ttf",
+        "bolditalic": "WPOverlocked-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPUnderpass",
+      "source": "Modified Fonts/Overpass - WP Underpass",
+      "title": "Overpass",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPUnderpass-Regular.ttf",
+        "bold": "WPUnderpass-Bold.ttf",
+        "italic": "WPUnderpass-Italic.ttf",
+        "bolditalic": "WPUnderpass-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WP46",
+      "source": "Modified Fonts/PL46 - WP46",
+      "title": "PL46",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WP46-Regular.otf"
+      }
+    },
+    {
+      "name": "WPStar",
+      "source": "Modified Fonts/Patrick Hand - WP Star",
+      "title": "Patrick Hand",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPStar-Regular.ttf"
+      }
+    },
+    {
+      "name": "Petrona",
+      "source": "Unmodified Fonts/Petrona",
+      "title": "Petrona",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Petrona-Regular.ttf",
+        "bold": "Petrona-Bold.ttf",
+        "italic": "Petrona-Italic.ttf",
+        "bolditalic": "Petrona-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Philosopher",
+      "source": "Unmodified Fonts/Philosopher",
+      "title": "Philosopher",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Philosopher-Regular.ttf",
+        "bold": "Philosopher-Bold.ttf",
+        "italic": "Philosopher-Italic.ttf",
+        "bolditalic": "Philosopher-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Piazzolla",
+      "source": "Unmodified Fonts/Piazzolla",
+      "title": "Piazzolla",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Piazzolla-Regular.ttf",
+        "bold": "Piazzolla-Bold.ttf",
+        "italic": "Piazzolla-Italic.ttf",
+        "bolditalic": "Piazzolla-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPPixelC",
+      "source": "Modified Fonts/Pixel Code - WP PixelC",
+      "title": "Pixel Code",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPixelC-Regular.ttf",
+        "bold": "WPPixelC-Bold.ttf",
+        "italic": "WPPixelC-Italic.ttf",
+        "bolditalic": "WPPixelC-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "PlaypenSans",
+      "source": "Unmodified Fonts/Playpen Sans",
+      "title": "Playpen Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "PlaypenSans-Regular.ttf",
+        "bold": "PlaypenSans-Bold.ttf"
+      }
+    },
+    {
+      "name": "Podkova",
+      "source": "Unmodified Fonts/Podkova",
+      "title": "Podkova",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Podkova-Regular.ttf",
+        "bold": "Podkova-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPPolybius",
+      "source": "Modified Fonts/Poly - WP Polybius",
+      "title": "Poly",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPolybius-Regular.ttf",
+        "italic": "WPPolybius-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPMary",
+      "source": "Modified Fonts/Poppins - WP Mary",
+      "title": "Poppins",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMary-Regular.ttf",
+        "bold": "WPMary-Bold.ttf",
+        "italic": "WPMary-Italic.ttf",
+        "bolditalic": "WPMary-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFroggy",
+      "source": "Modified Fonts/Proggy - WP Froggy",
+      "title": "Proggy",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPFroggy-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPProse",
+      "source": "Modified Fonts/Proza Libre - WP Prose",
+      "title": "Proza Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPProse-Regular.ttf",
+        "bold": "WPProse-Bold.ttf",
+        "italic": "WPProse-Italic.ttf",
+        "bolditalic": "WPProse-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPPoltergeist",
+      "source": "Modified Fonts/Półtawski Nowy - WP Poltergeist",
+      "title": "Półtawski Nowy",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPPoltergeist-Regular.ttf",
+        "bold": "WPPoltergeist-Bold.ttf",
+        "italic": "WPPoltergeist-Italic.ttf",
+        "bolditalic": "WPPoltergeist-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "REM",
+      "source": "Unmodified Fonts/REM",
+      "title": "REM",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "REM-Regular.ttf",
+        "bold": "REM-Bold.ttf",
+        "italic": "REM-Italic.ttf",
+        "bolditalic": "REM-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPRadical",
+      "source": "Modified Fonts/Radley - WP Radical",
+      "title": "Radley",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRadical-Regular.ttf",
+        "italic": "WPRadical-Italic.ttf"
+      }
+    },
+    {
+      "name": "Raleway",
+      "source": "Unmodified Fonts/Raleway",
+      "title": "Raleway",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Raleway-Regular.ttf",
+        "bold": "Raleway-Bold.ttf",
+        "italic": "Raleway-Italic.ttf",
+        "bolditalic": "Raleway-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Readerly",
+      "source": "Unmodified Fonts/Readerly",
+      "title": "Readerly",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Readerly-Regular.ttf",
+        "bold": "Readerly-Bold.ttf",
+        "italic": "Readerly-Italic.ttf",
+        "bolditalic": "Readerly-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPRecurrentSansCasual",
+      "source": "Modified Fonts/Recursive Sans Casual - WP Recurrent Sans Casual",
+      "title": "Recursive Sans Casual",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRecurrentSansCasual-Regular.ttf",
+        "bold": "WPRecurrentSansCasual-Bold.ttf",
+        "italic": "WPRecurrentSansCasual-Italic.ttf",
+        "bolditalic": "WPRecurrentSansCasual-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "RecursiveSansCslSt",
+      "source": "Unmodified Fonts/Recursive Sans Casual",
+      "title": "Recursive Sans Casual",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "RecursiveSansCslSt-Regular.ttf",
+        "bold": "RecursiveSansCslSt-Bold.ttf",
+        "italic": "RecursiveSansCslSt-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPRecurrentSansLinear",
+      "source": "Modified Fonts/Recursive Sans Linear - WP Recurrent Sans Linear",
+      "title": "Recursive Sans Linear",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRecurrentSansLinear-Regular.ttf",
+        "bold": "WPRecurrentSansLinear-Bold.ttf",
+        "italic": "WPRecurrentSansLinear-Italic.ttf",
+        "bolditalic": "WPRecurrentSansLinear-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "RecursiveSansLnrSt",
+      "source": "Unmodified Fonts/Recursive Sans Linear",
+      "title": "Recursive Sans Linear",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "RecursiveSansLnrSt-Regular.ttf",
+        "bold": "RecursiveSansLnrSt-Bold.ttf",
+        "italic": "RecursiveSansLnrSt-Italic.ttf",
+        "bolditalic": "RecursiveSansLnrSt-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Redaction",
+      "source": "Unmodified Fonts/Redaction",
+      "title": "Redaction",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Redaction-Regular.otf",
+        "bold": "Redaction-Bold.otf",
+        "italic": "Redaction-Italic.otf"
+      }
+    },
+    {
+      "name": "RedditSans",
+      "source": "Unmodified Fonts/Reddit Sans",
+      "title": "Reddit Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "RedditSans-Regular.ttf",
+        "bold": "RedditSans-Bold.ttf",
+        "italic": "RedditSans-Italic.ttf",
+        "bolditalic": "RedditSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBotMono",
+      "source": "Modified Fonts/Roboto Mono - WP Bot Mono",
+      "title": "Roboto Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBotMono-Regular.ttf",
+        "bold": "WPBotMono-Bold.ttf",
+        "italic": "WPBotMono-Italic.ttf",
+        "bolditalic": "WPBotMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBotSerif",
+      "source": "Modified Fonts/Roboto Serif - WP Bot Serif",
+      "title": "Roboto Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPBotSerif-Regular.ttf",
+        "bold": "WPBotSerif-Bold.ttf",
+        "italic": "WPBotSerif-Italic.ttf",
+        "bolditalic": "WPBotSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "RobotoSlab",
+      "source": "Unmodified Fonts/Roboto Slab",
+      "title": "Roboto Slab",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "RobotoSlab-Regular.ttf",
+        "bold": "RobotoSlab-Bold.ttf"
+      }
+    },
+    {
+      "name": "Roboto",
+      "source": "Unmodified Fonts/Roboto",
+      "title": "Roboto",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Roboto-Regular.ttf",
+        "bold": "Roboto-Bold.ttf",
+        "italic": "Roboto-Italic.ttf",
+        "bolditalic": "Roboto-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Rosario",
+      "source": "Unmodified Fonts/Rosario",
+      "title": "Rosario",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Rosario-Regular.ttf",
+        "bold": "Rosario-Bold.ttf",
+        "italic": "Rosario-Italic.ttf",
+        "bolditalic": "Rosario-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPRosebud",
+      "source": "Modified Fonts/Rosarivo - WP Rosebud",
+      "title": "Rosarivo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRosebud-Regular.ttf",
+        "italic": "WPRosebud-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPGeeko",
+      "source": "Modified Fonts/SUSE - WP Geeko",
+      "title": "SUSE",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGeeko-Regular.ttf",
+        "bold": "WPGeeko-Bold.ttf",
+        "italic": "WPGeeko-Italic.ttf",
+        "bolditalic": "WPGeeko-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPGeekoMono",
+      "source": "Modified Fonts/SUSE Mono - WP Geeko Mono",
+      "title": "SUSE Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPGeekoMono-Regular.ttf",
+        "bold": "WPGeekoMono-Bold.ttf",
+        "italic": "WPGeekoMono-Italic.ttf",
+        "bolditalic": "WPGeekoMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Sanchez",
+      "source": "Unmodified Fonts/Sanchez",
+      "title": "Sanchez",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Sanchez-Regular.ttf",
+        "italic": "Sanchez-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPZenith",
+      "source": "Modified Fonts/Sawarabi Mincho - WP Zenith",
+      "title": "Sawarabi Mincho",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPZenith-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPScience",
+      "source": "Modified Fonts/Science Gothic - WP Science",
+      "title": "Science Gothic",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPScience-Regular.ttf",
+        "bold": "WPScience-Bold.ttf",
+        "italic": "WPScience-Italic.ttf",
+        "bolditalic": "WPScience-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSeiklus",
+      "source": "Modified Fonts/Secuela - WP Seiklus",
+      "title": "Secuela",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSeiklus-Regular.ttf",
+        "bold": "WPSeiklus-Bold.ttf",
+        "italic": "WPSeiklus-Italic.ttf",
+        "bolditalic": "WPSeiklus-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPVroom",
+      "source": "Modified Fonts/Sedan - WP Vroom",
+      "title": "Sedan",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPVroom-Regular.ttf",
+        "italic": "WPVroom-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPSelective",
+      "source": "Modified Fonts/Selectric Mono - WP Selective",
+      "title": "Selectric Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSelective-Regular.otf"
+      }
+    },
+    {
+      "name": "ShantellSans",
+      "source": "Unmodified Fonts/Shantell Sans",
+      "title": "Shantell Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "ShantellSans-Regular.ttf",
+        "bold": "ShantellSans-Bold.ttf",
+        "italic": "ShantellSans-Italic.ttf",
+        "bolditalic": "ShantellSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSharedTechMono",
+      "source": "Modified Fonts/Share Tech Mono - WP Shared Tech",
+      "title": "Share Tech Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSharedTechMono-Regular.ttf"
+      }
+    },
+    {
+      "name": "Share",
+      "source": "Unmodified Fonts/Share",
+      "title": "Share",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Share-Regular.ttf",
+        "bold": "Share-Bold.ttf",
+        "italic": "Share-Italic.ttf",
+        "bolditalic": "Share-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSMincho",
+      "source": "Modified Fonts/Shippori Mincho - WP S Mincho",
+      "title": "Shippori Mincho",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSMincho-Regular.ttf",
+        "bold": "WPSMincho-Bold.ttf"
+      }
+    },
+    {
+      "name": "Signika",
+      "source": "Unmodified Fonts/Signika",
+      "title": "Signika",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Signika-Regular.ttf",
+        "bold": "Signika-Bold.ttf"
+      }
+    },
+    {
+      "name": "SofiaSans",
+      "source": "Unmodified Fonts/Sofia Sans",
+      "title": "Sofia Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "SofiaSans-Regular.ttf",
+        "bold": "SofiaSans-Bold.ttf",
+        "italic": "SofiaSans-Italic.ttf",
+        "bolditalic": "SofiaSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSomeTypeMono",
+      "source": "Modified Fonts/Sometype Mono - WP Sum Type Mono",
+      "title": "Sometype Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSomeTypeMono-Regular.ttf",
+        "bold": "WPSomeTypeMono-Bold.ttf",
+        "italic": "WPSomeTypeMono-Italic.ttf",
+        "bolditalic": "WPSomeTypeMono-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "SourGummy",
+      "source": "Unmodified Fonts/Sour Gummy",
+      "title": "Sour Gummy",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "SourGummy-Regular.ttf",
+        "italic": "SourGummy-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPSCodePro",
+      "source": "Modified Fonts/Source Code Pro - WP SCode Pro",
+      "title": "Source Code Pro",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSCodePro-Regular.ttf",
+        "bold": "WPSCodePro-Bold.ttf",
+        "italic": "WPSCodePro-Italic.ttf",
+        "bolditalic": "WPSCodePro-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSpacedOut",
+      "source": "Modified Fonts/Space Mono - WP Spaced Out",
+      "title": "Space Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSpacedOut-Regular.ttf",
+        "bold": "WPSpacedOut-Bold.ttf",
+        "italic": "WPSpacedOut-Italic.ttf",
+        "bolditalic": "WPSpacedOut-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPElite",
+      "source": "Modified Fonts/Special Elite - WP Elite",
+      "title": "Special Elite",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPElite-Regular.ttf"
+      }
+    },
+    {
+      "name": "Spectral",
+      "source": "Unmodified Fonts/Spectral",
+      "title": "Spectral",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Spectral-Regular.ttf",
+        "bold": "Spectral-Bold.ttf",
+        "italic": "Spectral-Italic.ttf",
+        "bolditalic": "Spectral-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSplendid",
+      "source": "Modified Fonts/Splentinex - WP Splendid",
+      "title": "Splentinex",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSplendid-Regular.otf",
+        "bold": "WPSplendid-Bold.otf",
+        "italic": "WPSplendid-Italic.otf",
+        "bolditalic": "WPSplendid-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPStyleU",
+      "source": "Modified Fonts/Stilu - WP Style U",
+      "title": "Stilu",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPStyleU-Regular.otf",
+        "bold": "WPStyleU-Bold.otf"
+      }
+    },
+    {
+      "name": "WPRMRF",
+      "source": "Modified Fonts/Sudo - WP RM RF",
+      "title": "Sudo",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRMRF-Regular.ttf",
+        "bold": "WPRMRF-Bold.ttf",
+        "italic": "WPRMRF-Italic.ttf",
+        "bolditalic": "WPRMRF-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPOneDay",
+      "source": "Modified Fonts/Tagesschrift - WP One Day",
+      "title": "Tagesschrift",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOneDay-Regular.ttf"
+      }
+    },
+    {
+      "name": "Taviraj",
+      "source": "Unmodified Fonts/Taviraj",
+      "title": "Taviraj",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Taviraj-Regular.ttf",
+        "bold": "Taviraj-Bold.ttf",
+        "italic": "Taviraj-Italic.ttf",
+        "bolditalic": "Taviraj-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPTexture",
+      "source": "Modified Fonts/Texturina - WP Texture",
+      "title": "Texturina",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPTexture-Regular.ttf",
+        "bold": "WPTexture-Bold.ttf",
+        "italic": "WPTexture-Italic.ttf",
+        "bolditalic": "WPTexture-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPYours",
+      "source": "Modified Fonts/Tienne - WP Yours",
+      "title": "Tienne",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPYours-Regular.ttf",
+        "bold": "WPYours-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPTribute",
+      "source": "Modified Fonts/Tribun ADF Std - WP Tribute",
+      "title": "Tribun ADF Std",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "WPTribute-Regular.otf",
+        "bold": "WPTribute-Bold.otf",
+        "italic": "WPTribute-Italic.otf",
+        "bolditalic": "WPTribute-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPFaceOff",
+      "source": "Modified Fonts/Typey McTypeface - WP Face Off",
+      "title": "Typey McTypeface",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFaceOff-Regular.ttf",
+        "italic": "WPFaceOff-Italic.ttf"
+      }
+    },
+    {
+      "name": "WPVenus",
+      "source": "Modified Fonts/Vesper Libre - WP Evening",
+      "title": "Vesper Libre",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPVenus-Regular.ttf",
+        "bold": "WPVenus-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPMotivator",
+      "source": "Modified Fonts/Volkhov - WP Motivator",
+      "title": "Volkhov",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPMotivator-Regular.ttf",
+        "bold": "WPMotivator-Bold.ttf",
+        "italic": "WPMotivator-Italic.ttf",
+        "bolditalic": "WPMotivator-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPRipVanWinkle",
+      "source": "Modified Fonts/Winky Sans - WP Rip Van Winkle",
+      "title": "Winky Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPRipVanWinkle-Regular.ttf",
+        "bold": "WPRipVanWinkle-Bold.ttf",
+        "italic": "WPRipVanWinkle-Italic.ttf",
+        "bolditalic": "WPRipVanWinkle-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Wittgenstein",
+      "source": "Unmodified Fonts/Wittgenstein",
+      "title": "Wittgenstein",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Wittgenstein-Regular.ttf",
+        "bold": "Wittgenstein-Bold.ttf",
+        "italic": "Wittgenstein-Italic.ttf",
+        "bolditalic": "Wittgenstein-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WorkSans",
+      "source": "Unmodified Fonts/Work Sans",
+      "title": "Work Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WorkSans-Regular.ttf",
+        "bold": "WorkSans-Bold.ttf",
+        "italic": "WorkSans-Italic.ttf",
+        "bolditalic": "WorkSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPYTypewriter",
+      "source": "Modified Fonts/X Typewriter - WP Y Typewriter",
+      "title": "X Typewriter",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPYTypewriter-Regular.ttf",
+        "bold": "WPYTypewriter-Bold.ttf"
+      }
+    },
+    {
+      "name": "YoungSerif",
+      "source": "Unmodified Fonts/Young Serif",
+      "title": "Young Serif",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "YoungSerif-Regular.ttf",
+        "bold": "YoungSerif-Bold.ttf",
+        "bolditalic": "YoungSerif-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Yrsa",
+      "source": "Unmodified Fonts/Yrsa",
+      "title": "Yrsa",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Yrsa-Regular.ttf",
+        "bold": "Yrsa-Bold.ttf",
+        "italic": "Yrsa-Italic.ttf",
+        "bolditalic": "Yrsa-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPEezahboh",
+      "source": "Modified Fonts/Ysabeau - WP Eezahboh",
+      "title": "Ysabeau",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPEezahboh-Regular.ttf",
+        "bold": "WPEezahboh-Bold.ttf",
+        "italic": "WPEezahboh-Italic.ttf",
+        "bolditalic": "WPEezahboh-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPEezahboh2",
+      "source": "Modified Fonts/Ysabeau Medium - WP Eezahboh 2",
+      "title": "Ysabeau Medium",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPEezahboh2-Regular.ttf",
+        "bold": "WPEezahboh2-Bold.ttf",
+        "italic": "WPEezahboh2-Italic.ttf",
+        "bolditalic": "WPEezahboh2-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPEezahboh3",
+      "source": "Modified Fonts/Ysabeau Semibold - WP Eezahboh 3",
+      "title": "Ysabeau Semibold",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPEezahboh3-Regular.ttf",
+        "bold": "WPEezahboh3-Bold.ttf",
+        "italic": "WPEezahboh3-Italic.ttf",
+        "bolditalic": "WPEezahboh3-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPWesker",
+      "source": "Modified Fonts/Yuji Syuku - WP Wesker",
+      "title": "Yuji Syuku",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPWesker-Regular.ttf"
+      }
+    },
+    {
+      "name": "WPOldMincho",
+      "source": "Modified Fonts/Zen Old Mincho - WP Old Mincho",
+      "title": "Zen Old Mincho",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPOldMincho-Regular.ttf",
+        "bold": "WPOldMincho-Bold.ttf"
+      }
+    },
+    {
+      "name": "WPFoxSlab",
+      "source": "Modified Fonts/Zilla Slab - WP Fox Slab",
+      "title": "Zilla Slab",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFoxSlab-Regular.ttf",
+        "bold": "WPFoxSlab-Bold.ttf",
+        "italic": "WPFoxSlab-Italic.ttf",
+        "bolditalic": "WPFoxSlab-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPNowhere",
+      "source": "Modified Fonts/erewhon - WP Nowhere",
+      "title": "erewhon",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPNowhere-Regular.otf",
+        "bold": "WPNowhere-Bold.otf",
+        "italic": "WPNowhere-Italic.otf",
+        "bolditalic": "WPNowhere-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPDokiDoki",
+      "source": "Modified Fonts/mononoki - WP Doki Doki",
+      "title": "mononoki",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPDokiDoki-Regular.ttf",
+        "bold": "WPDokiDoki-Bold.ttf",
+        "italic": "WPDokiDoki-Italic.ttf",
+        "bolditalic": "WPDokiDoki-BoldItalic.ttf"
+      }
     }
   ]
 }
