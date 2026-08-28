@@ -365,6 +365,1206 @@
         }
       ],
       "totalBytes": 6730616
+    },
+    {
+      "name": "WPFexofenadine",
+      "title": "Alegreya",
+      "description": "Warm calligraphic book serif with generous italics.",
+      "license": "OFL",
+      "licensePath": "licenses/WPFexofenadine-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Alegreya - WP Fexofenadine)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPFexofenadine_6.cpfont",
+          "pt": 6,
+          "size": 172239,
+          "crc32": 2053530504
+        },
+        {
+          "name": "WPFexofenadine_7.cpfont",
+          "pt": 7,
+          "size": 195213,
+          "crc32": 1866107101
+        },
+        {
+          "name": "WPFexofenadine_8.cpfont",
+          "pt": 8,
+          "size": 218607,
+          "crc32": 1329208802
+        },
+        {
+          "name": "WPFexofenadine_9.cpfont",
+          "pt": 9,
+          "size": 245739,
+          "crc32": 3169298295
+        },
+        {
+          "name": "WPFexofenadine_10.cpfont",
+          "pt": 10,
+          "size": 275150,
+          "crc32": 633199664
+        },
+        {
+          "name": "WPFexofenadine_11.cpfont",
+          "pt": 11,
+          "size": 306569,
+          "crc32": 2907364273
+        },
+        {
+          "name": "WPFexofenadine_12.cpfont",
+          "pt": 12,
+          "size": 342828,
+          "crc32": 2664773385
+        },
+        {
+          "name": "WPFexofenadine_13.cpfont",
+          "pt": 13,
+          "size": 379477,
+          "crc32": 3475785155
+        },
+        {
+          "name": "WPFexofenadine_14.cpfont",
+          "pt": 14,
+          "size": 419200,
+          "crc32": 2873609990
+        },
+        {
+          "name": "WPFexofenadine_15.cpfont",
+          "pt": 15,
+          "size": 462935,
+          "crc32": 2089839041
+        },
+        {
+          "name": "WPFexofenadine_16.cpfont",
+          "pt": 16,
+          "size": 507279,
+          "crc32": 2878749173
+        },
+        {
+          "name": "WPFexofenadine_17.cpfont",
+          "pt": 17,
+          "size": 552162,
+          "crc32": 2374194
+        },
+        {
+          "name": "WPFexofenadine_18.cpfont",
+          "pt": 18,
+          "size": 628293,
+          "crc32": 403576583
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPFexofenadine-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPFexofenadine-14.png"
+        }
+      ],
+      "totalBytes": 4705691
+    },
+    {
+      "name": "WPStickler",
+      "title": "STIX Two Text",
+      "description": "Academic serif (Times lineage), clean at small sizes.",
+      "license": "OFL",
+      "licensePath": "licenses/WPStickler-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/STIX Two Text - WP Stickler)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPStickler_6.cpfont",
+          "pt": 6,
+          "size": 260940,
+          "crc32": 1075514464
+        },
+        {
+          "name": "WPStickler_7.cpfont",
+          "pt": 7,
+          "size": 285038,
+          "crc32": 1316558180
+        },
+        {
+          "name": "WPStickler_8.cpfont",
+          "pt": 8,
+          "size": 311687,
+          "crc32": 4243978922
+        },
+        {
+          "name": "WPStickler_9.cpfont",
+          "pt": 9,
+          "size": 340595,
+          "crc32": 140659856
+        },
+        {
+          "name": "WPStickler_10.cpfont",
+          "pt": 10,
+          "size": 371138,
+          "crc32": 692555945
+        },
+        {
+          "name": "WPStickler_11.cpfont",
+          "pt": 11,
+          "size": 408281,
+          "crc32": 4171072899
+        },
+        {
+          "name": "WPStickler_12.cpfont",
+          "pt": 12,
+          "size": 444425,
+          "crc32": 3835847756
+        },
+        {
+          "name": "WPStickler_13.cpfont",
+          "pt": 13,
+          "size": 485298,
+          "crc32": 2534659600
+        },
+        {
+          "name": "WPStickler_14.cpfont",
+          "pt": 14,
+          "size": 530303,
+          "crc32": 3326665876
+        },
+        {
+          "name": "WPStickler_15.cpfont",
+          "pt": 15,
+          "size": 573851,
+          "crc32": 4033060297
+        },
+        {
+          "name": "WPStickler_16.cpfont",
+          "pt": 16,
+          "size": 622136,
+          "crc32": 805915858
+        },
+        {
+          "name": "WPStickler_17.cpfont",
+          "pt": 17,
+          "size": 673404,
+          "crc32": 2659312262
+        },
+        {
+          "name": "WPStickler_18.cpfont",
+          "pt": 18,
+          "size": 758930,
+          "crc32": 27069172
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPStickler-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPStickler-14.png"
+        }
+      ],
+      "totalBytes": 6066026
+    },
+    {
+      "name": "WPSSerif",
+      "title": "Source Serif 4",
+      "description": "Adobe's workhorse text serif, sturdy and even.",
+      "license": "OFL",
+      "licensePath": "licenses/WPSSerif-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Source Serif 4 - WP SSerif)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPSSerif_6.cpfont",
+          "pt": 6,
+          "size": 232589,
+          "crc32": 3315945707
+        },
+        {
+          "name": "WPSSerif_7.cpfont",
+          "pt": 7,
+          "size": 252579,
+          "crc32": 2260114905
+        },
+        {
+          "name": "WPSSerif_8.cpfont",
+          "pt": 8,
+          "size": 274160,
+          "crc32": 146366036
+        },
+        {
+          "name": "WPSSerif_9.cpfont",
+          "pt": 9,
+          "size": 297011,
+          "crc32": 2248638223
+        },
+        {
+          "name": "WPSSerif_10.cpfont",
+          "pt": 10,
+          "size": 330904,
+          "crc32": 2335825966
+        },
+        {
+          "name": "WPSSerif_11.cpfont",
+          "pt": 11,
+          "size": 361562,
+          "crc32": 3465949308
+        },
+        {
+          "name": "WPSSerif_12.cpfont",
+          "pt": 12,
+          "size": 394266,
+          "crc32": 3661417637
+        },
+        {
+          "name": "WPSSerif_13.cpfont",
+          "pt": 13,
+          "size": 431028,
+          "crc32": 2983800497
+        },
+        {
+          "name": "WPSSerif_14.cpfont",
+          "pt": 14,
+          "size": 470945,
+          "crc32": 1096698859
+        },
+        {
+          "name": "WPSSerif_15.cpfont",
+          "pt": 15,
+          "size": 513102,
+          "crc32": 3624467996
+        },
+        {
+          "name": "WPSSerif_16.cpfont",
+          "pt": 16,
+          "size": 557990,
+          "crc32": 1839977517
+        },
+        {
+          "name": "WPSSerif_17.cpfont",
+          "pt": 17,
+          "size": 606003,
+          "crc32": 1345190248
+        },
+        {
+          "name": "WPSSerif_18.cpfont",
+          "pt": 18,
+          "size": 657679,
+          "crc32": 1725947929
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPSSerif-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPSSerif-14.png"
+        }
+      ],
+      "totalBytes": 5379818
+    },
+    {
+      "name": "WPArol",
+      "title": "Lora",
+      "description": "Brushed serif with good contrast for long reading.",
+      "license": "OFL",
+      "licensePath": "licenses/WPArol-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Lora - WP Arol)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPArol_6.cpfont",
+          "pt": 6,
+          "size": 182993,
+          "crc32": 1241296873
+        },
+        {
+          "name": "WPArol_7.cpfont",
+          "pt": 7,
+          "size": 201991,
+          "crc32": 282517601
+        },
+        {
+          "name": "WPArol_8.cpfont",
+          "pt": 8,
+          "size": 223755,
+          "crc32": 1610674325
+        },
+        {
+          "name": "WPArol_9.cpfont",
+          "pt": 9,
+          "size": 248821,
+          "crc32": 2782660727
+        },
+        {
+          "name": "WPArol_10.cpfont",
+          "pt": 10,
+          "size": 275071,
+          "crc32": 625072023
+        },
+        {
+          "name": "WPArol_11.cpfont",
+          "pt": 11,
+          "size": 306340,
+          "crc32": 1387290959
+        },
+        {
+          "name": "WPArol_12.cpfont",
+          "pt": 12,
+          "size": 334794,
+          "crc32": 2982119407
+        },
+        {
+          "name": "WPArol_13.cpfont",
+          "pt": 13,
+          "size": 368944,
+          "crc32": 785328732
+        },
+        {
+          "name": "WPArol_14.cpfont",
+          "pt": 14,
+          "size": 405999,
+          "crc32": 1324597075
+        },
+        {
+          "name": "WPArol_15.cpfont",
+          "pt": 15,
+          "size": 445379,
+          "crc32": 2980979133
+        },
+        {
+          "name": "WPArol_16.cpfont",
+          "pt": 16,
+          "size": 488543,
+          "crc32": 2659725511
+        },
+        {
+          "name": "WPArol_17.cpfont",
+          "pt": 17,
+          "size": 533412,
+          "crc32": 1106509154
+        },
+        {
+          "name": "WPArol_18.cpfont",
+          "pt": 18,
+          "size": 602506,
+          "crc32": 1269231841
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPArol-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPArol-14.png"
+        }
+      ],
+      "totalBytes": 4618548
+    },
+    {
+      "name": "WPSeeingRed",
+      "title": "Crimson Pro",
+      "description": "Light, economical old-style serif; lots of text per page.",
+      "license": "OFL",
+      "licensePath": "licenses/WPSeeingRed-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Crimson Pro - WP Seeing Red)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPSeeingRed_6.cpfont",
+          "pt": 6,
+          "size": 162083,
+          "crc32": 4119970439
+        },
+        {
+          "name": "WPSeeingRed_7.cpfont",
+          "pt": 7,
+          "size": 176535,
+          "crc32": 1102712514
+        },
+        {
+          "name": "WPSeeingRed_8.cpfont",
+          "pt": 8,
+          "size": 192456,
+          "crc32": 2457621157
+        },
+        {
+          "name": "WPSeeingRed_9.cpfont",
+          "pt": 9,
+          "size": 209095,
+          "crc32": 4082842353
+        },
+        {
+          "name": "WPSeeingRed_10.cpfont",
+          "pt": 10,
+          "size": 229564,
+          "crc32": 3920445995
+        },
+        {
+          "name": "WPSeeingRed_11.cpfont",
+          "pt": 11,
+          "size": 247764,
+          "crc32": 72083582
+        },
+        {
+          "name": "WPSeeingRed_12.cpfont",
+          "pt": 12,
+          "size": 269103,
+          "crc32": 3661718836
+        },
+        {
+          "name": "WPSeeingRed_13.cpfont",
+          "pt": 13,
+          "size": 292839,
+          "crc32": 57559019
+        },
+        {
+          "name": "WPSeeingRed_14.cpfont",
+          "pt": 14,
+          "size": 318431,
+          "crc32": 1775381010
+        },
+        {
+          "name": "WPSeeingRed_15.cpfont",
+          "pt": 15,
+          "size": 345803,
+          "crc32": 3945356187
+        },
+        {
+          "name": "WPSeeingRed_16.cpfont",
+          "pt": 16,
+          "size": 375408,
+          "crc32": 734283758
+        },
+        {
+          "name": "WPSeeingRed_17.cpfont",
+          "pt": 17,
+          "size": 406926,
+          "crc32": 223201231
+        },
+        {
+          "name": "WPSeeingRed_18.cpfont",
+          "pt": 18,
+          "size": 452789,
+          "crc32": 589243513
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPSeeingRed-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPSeeingRed-14.png"
+        }
+      ],
+      "totalBytes": 3678796
+    },
+    {
+      "name": "WPPeteySerif",
+      "title": "PT Serif",
+      "description": "Compact humanist serif that stays crisp at 6-8pt.",
+      "license": "OFL",
+      "licensePath": "licenses/WPPeteySerif-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/PT Serif - WP Petey Serif)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPPeteySerif_6.cpfont",
+          "pt": 6,
+          "size": 125892,
+          "crc32": 1631492235
+        },
+        {
+          "name": "WPPeteySerif_7.cpfont",
+          "pt": 7,
+          "size": 141314,
+          "crc32": 2524869232
+        },
+        {
+          "name": "WPPeteySerif_8.cpfont",
+          "pt": 8,
+          "size": 157216,
+          "crc32": 165047904
+        },
+        {
+          "name": "WPPeteySerif_9.cpfont",
+          "pt": 9,
+          "size": 177196,
+          "crc32": 1732381565
+        },
+        {
+          "name": "WPPeteySerif_10.cpfont",
+          "pt": 10,
+          "size": 194459,
+          "crc32": 3947306050
+        },
+        {
+          "name": "WPPeteySerif_11.cpfont",
+          "pt": 11,
+          "size": 214782,
+          "crc32": 1212374596
+        },
+        {
+          "name": "WPPeteySerif_12.cpfont",
+          "pt": 12,
+          "size": 241035,
+          "crc32": 2818154160
+        },
+        {
+          "name": "WPPeteySerif_13.cpfont",
+          "pt": 13,
+          "size": 265468,
+          "crc32": 116202230
+        },
+        {
+          "name": "WPPeteySerif_14.cpfont",
+          "pt": 14,
+          "size": 295578,
+          "crc32": 372122820
+        },
+        {
+          "name": "WPPeteySerif_15.cpfont",
+          "pt": 15,
+          "size": 321601,
+          "crc32": 3306004321
+        },
+        {
+          "name": "WPPeteySerif_16.cpfont",
+          "pt": 16,
+          "size": 352387,
+          "crc32": 2987235843
+        },
+        {
+          "name": "WPPeteySerif_17.cpfont",
+          "pt": 17,
+          "size": 382991,
+          "crc32": 2895830980
+        },
+        {
+          "name": "WPPeteySerif_18.cpfont",
+          "pt": 18,
+          "size": 439609,
+          "crc32": 1860093830
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPPeteySerif-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPPeteySerif-14.png"
+        }
+      ],
+      "totalBytes": 3309528
+    },
+    {
+      "name": "WPLeo",
+      "title": "Aleo",
+      "description": "Modern geometric serif, slightly rounded.",
+      "license": "OFL",
+      "licensePath": "licenses/WPLeo-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Aleo - WP Leo)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPLeo_6.cpfont",
+          "pt": 6,
+          "size": 105624,
+          "crc32": 2564595420
+        },
+        {
+          "name": "WPLeo_7.cpfont",
+          "pt": 7,
+          "size": 119767,
+          "crc32": 2259599072
+        },
+        {
+          "name": "WPLeo_8.cpfont",
+          "pt": 8,
+          "size": 140293,
+          "crc32": 3154821518
+        },
+        {
+          "name": "WPLeo_9.cpfont",
+          "pt": 9,
+          "size": 158230,
+          "crc32": 1497069578
+        },
+        {
+          "name": "WPLeo_10.cpfont",
+          "pt": 10,
+          "size": 181400,
+          "crc32": 3956232751
+        },
+        {
+          "name": "WPLeo_11.cpfont",
+          "pt": 11,
+          "size": 205367,
+          "crc32": 3417780952
+        },
+        {
+          "name": "WPLeo_12.cpfont",
+          "pt": 12,
+          "size": 231737,
+          "crc32": 842855571
+        },
+        {
+          "name": "WPLeo_13.cpfont",
+          "pt": 13,
+          "size": 260452,
+          "crc32": 4135695641
+        },
+        {
+          "name": "WPLeo_14.cpfont",
+          "pt": 14,
+          "size": 289514,
+          "crc32": 1777038988
+        },
+        {
+          "name": "WPLeo_15.cpfont",
+          "pt": 15,
+          "size": 322664,
+          "crc32": 1834097762
+        },
+        {
+          "name": "WPLeo_16.cpfont",
+          "pt": 16,
+          "size": 355097,
+          "crc32": 479442595
+        },
+        {
+          "name": "WPLeo_17.cpfont",
+          "pt": 17,
+          "size": 393680,
+          "crc32": 1883369475
+        },
+        {
+          "name": "WPLeo_18.cpfont",
+          "pt": 18,
+          "size": 449433,
+          "crc32": 1515003787
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPLeo-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPLeo-14.png"
+        }
+      ],
+      "totalBytes": 3213258
+    },
+    {
+      "name": "WPSorberto",
+      "title": "Gelasio",
+      "description": "Metrically Georgia-compatible — the classic e-reader feel.",
+      "license": "OFL",
+      "licensePath": "licenses/WPSorberto-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Gelasio - WP Sorberto)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPSorberto_6.cpfont",
+          "pt": 6,
+          "size": 143086,
+          "crc32": 2419166122
+        },
+        {
+          "name": "WPSorberto_7.cpfont",
+          "pt": 7,
+          "size": 168404,
+          "crc32": 3013492997
+        },
+        {
+          "name": "WPSorberto_8.cpfont",
+          "pt": 8,
+          "size": 195742,
+          "crc32": 2093768219
+        },
+        {
+          "name": "WPSorberto_9.cpfont",
+          "pt": 9,
+          "size": 228374,
+          "crc32": 3124946104
+        },
+        {
+          "name": "WPSorberto_10.cpfont",
+          "pt": 10,
+          "size": 259461,
+          "crc32": 791752200
+        },
+        {
+          "name": "WPSorberto_11.cpfont",
+          "pt": 11,
+          "size": 297382,
+          "crc32": 2156686975
+        },
+        {
+          "name": "WPSorberto_12.cpfont",
+          "pt": 12,
+          "size": 336844,
+          "crc32": 1135071766
+        },
+        {
+          "name": "WPSorberto_13.cpfont",
+          "pt": 13,
+          "size": 380913,
+          "crc32": 3918908395
+        },
+        {
+          "name": "WPSorberto_14.cpfont",
+          "pt": 14,
+          "size": 427222,
+          "crc32": 4283118658
+        },
+        {
+          "name": "WPSorberto_15.cpfont",
+          "pt": 15,
+          "size": 474353,
+          "crc32": 496960261
+        },
+        {
+          "name": "WPSorberto_16.cpfont",
+          "pt": 16,
+          "size": 528524,
+          "crc32": 3096666682
+        },
+        {
+          "name": "WPSorberto_17.cpfont",
+          "pt": 17,
+          "size": 584670,
+          "crc32": 4285531805
+        },
+        {
+          "name": "WPSorberto_18.cpfont",
+          "pt": 18,
+          "size": 676692,
+          "crc32": 3356936003
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPSorberto-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPSorberto-14.png"
+        }
+      ],
+      "totalBytes": 4701667
+    },
+    {
+      "name": "WPKorn",
+      "title": "Vollkorn",
+      "description": "Sturdy German book face; dark, even strokes on e-ink.",
+      "license": "OFL",
+      "licensePath": "licenses/WPKorn-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Vollkorn - WP Korn)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPKorn_6.cpfont",
+          "pt": 6,
+          "size": 312725,
+          "crc32": 4257489620
+        },
+        {
+          "name": "WPKorn_7.cpfont",
+          "pt": 7,
+          "size": 340463,
+          "crc32": 2425814444
+        },
+        {
+          "name": "WPKorn_8.cpfont",
+          "pt": 8,
+          "size": 372366,
+          "crc32": 2188462670
+        },
+        {
+          "name": "WPKorn_9.cpfont",
+          "pt": 9,
+          "size": 406543,
+          "crc32": 3606434708
+        },
+        {
+          "name": "WPKorn_10.cpfont",
+          "pt": 10,
+          "size": 445785,
+          "crc32": 373959939
+        },
+        {
+          "name": "WPKorn_11.cpfont",
+          "pt": 11,
+          "size": 487461,
+          "crc32": 4187616004
+        },
+        {
+          "name": "WPKorn_12.cpfont",
+          "pt": 12,
+          "size": 531470,
+          "crc32": 1135288944
+        },
+        {
+          "name": "WPKorn_13.cpfont",
+          "pt": 13,
+          "size": 581604,
+          "crc32": 2350239425
+        },
+        {
+          "name": "WPKorn_14.cpfont",
+          "pt": 14,
+          "size": 632918,
+          "crc32": 1653751724
+        },
+        {
+          "name": "WPKorn_15.cpfont",
+          "pt": 15,
+          "size": 693110,
+          "crc32": 2858884290
+        },
+        {
+          "name": "WPKorn_16.cpfont",
+          "pt": 16,
+          "size": 750594,
+          "crc32": 912120344
+        },
+        {
+          "name": "WPKorn_17.cpfont",
+          "pt": 17,
+          "size": 799652,
+          "crc32": 2390388407
+        },
+        {
+          "name": "WPKorn_18.cpfont",
+          "pt": 18,
+          "size": 909746,
+          "crc32": 4185514615
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPKorn-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPKorn-14.png"
+        }
+      ],
+      "totalBytes": 7264437
+    },
+    {
+      "name": "WPBittersweet",
+      "title": "Bitter",
+      "description": "Slab serif that reads like a crisper Bookerly.",
+      "license": "OFL",
+      "licensePath": "licenses/WPBittersweet-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Bitter - WP Bittersweet)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPBittersweet_6.cpfont",
+          "pt": 6,
+          "size": 221430,
+          "crc32": 1971189756
+        },
+        {
+          "name": "WPBittersweet_7.cpfont",
+          "pt": 7,
+          "size": 244894,
+          "crc32": 3452077939
+        },
+        {
+          "name": "WPBittersweet_8.cpfont",
+          "pt": 8,
+          "size": 272794,
+          "crc32": 149611991
+        },
+        {
+          "name": "WPBittersweet_9.cpfont",
+          "pt": 9,
+          "size": 300206,
+          "crc32": 3376863822
+        },
+        {
+          "name": "WPBittersweet_10.cpfont",
+          "pt": 10,
+          "size": 338933,
+          "crc32": 2807762883
+        },
+        {
+          "name": "WPBittersweet_11.cpfont",
+          "pt": 11,
+          "size": 376945,
+          "crc32": 1991305169
+        },
+        {
+          "name": "WPBittersweet_12.cpfont",
+          "pt": 12,
+          "size": 422738,
+          "crc32": 2193788379
+        },
+        {
+          "name": "WPBittersweet_13.cpfont",
+          "pt": 13,
+          "size": 462453,
+          "crc32": 988280580
+        },
+        {
+          "name": "WPBittersweet_14.cpfont",
+          "pt": 14,
+          "size": 514110,
+          "crc32": 1895028718
+        },
+        {
+          "name": "WPBittersweet_15.cpfont",
+          "pt": 15,
+          "size": 560783,
+          "crc32": 1637308753
+        },
+        {
+          "name": "WPBittersweet_16.cpfont",
+          "pt": 16,
+          "size": 612753,
+          "crc32": 2686018848
+        },
+        {
+          "name": "WPBittersweet_17.cpfont",
+          "pt": 17,
+          "size": 672257,
+          "crc32": 3286973244
+        },
+        {
+          "name": "WPBittersweet_18.cpfont",
+          "pt": 18,
+          "size": 742076,
+          "crc32": 1972320945
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPBittersweet-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPBittersweet-14.png"
+        }
+      ],
+      "totalBytes": 5742372
     }
   ]
 }

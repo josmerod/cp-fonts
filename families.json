@@ -32,6 +32,86 @@
       "description": "Google's e-reader face; even color, strong at 6-9pt.",
       "license": "OFL",
       "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPFexofenadine",
+      "source": "Modified Fonts/Alegreya - WP Fexofenadine",
+      "title": "Alegreya",
+      "description": "Warm calligraphic book serif with generous italics.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPStickler",
+      "source": "Modified Fonts/STIX Two Text - WP Stickler",
+      "title": "STIX Two Text",
+      "description": "Academic serif (Times lineage), clean at small sizes.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPSSerif",
+      "source": "Modified Fonts/Source Serif 4 - WP SSerif",
+      "title": "Source Serif 4",
+      "description": "Adobe's workhorse text serif, sturdy and even.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPArol",
+      "source": "Modified Fonts/Lora - WP Arol",
+      "title": "Lora",
+      "description": "Brushed serif with good contrast for long reading.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPSeeingRed",
+      "source": "Modified Fonts/Crimson Pro - WP Seeing Red",
+      "title": "Crimson Pro",
+      "description": "Light, economical old-style serif; lots of text per page.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPPeteySerif",
+      "source": "Modified Fonts/PT Serif - WP Petey Serif",
+      "title": "PT Serif",
+      "description": "Compact humanist serif that stays crisp at 6-8pt.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPLeo",
+      "source": "Modified Fonts/Aleo - WP Leo",
+      "title": "Aleo",
+      "description": "Modern geometric serif, slightly rounded.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPSorberto",
+      "source": "Modified Fonts/Gelasio - WP Sorberto",
+      "title": "Gelasio",
+      "description": "Metrically Georgia-compatible — the classic e-reader feel.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPKorn",
+      "source": "Modified Fonts/Vollkorn - WP Korn",
+      "title": "Vollkorn",
+      "description": "Sturdy German book face; dark, even strokes on e-ink.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
+    },
+    {
+      "name": "WPBittersweet",
+      "source": "Modified Fonts/Bitter - WP Bittersweet",
+      "title": "Bitter",
+      "description": "Slab serif that reads like a crisper Bookerly.",
+      "license": "OFL",
+      "licenseFile": "OFL.txt"
     }
   ]
 }
