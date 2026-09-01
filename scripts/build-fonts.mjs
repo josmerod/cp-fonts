@@ -44,7 +44,48 @@ const OPTS = {
   jobs: Number(arg('--jobs', String(cpus().length))),
   forceDownload: process.argv.includes('--force-download'),
   skipBuild: process.argv.includes('--skip-build'),
+  catalogOnly: process.argv.includes('--catalog-only'),
 };
+
+// ---- presentation metadata (catalog-time, not build input) ---------------
+
+// Hand-tuned exceptions to the name heuristic; everything else falls back to
+// Serif, which is what a reading-font collection skews to anyway.
+const GROUP_OVERRIDES = {
+  WPBittersweet: 'Slab',      // Bitter
+  WPSpikes: 'Mono',           // Agave
+  WPFourChan: 'Mono',         // Anonymous Pro
+  WPRedDye: 'Serif',          // Cochineal
+  WPKornut: 'Serif',
+  WPBeholderBook: 'Serif',
+};
+function familyGroup(fam) {
+  if (GROUP_OVERRIDES[fam.name]) return GROUP_OVERRIDES[fam.name];
+  const hay = fam.name + ' ' + (fam.title || '');
+  if (/\b(mono|code|console|term)\b/i.test(hay)) return 'Mono';
+  if (/slab/i.test(hay)) return 'Slab';
+  if (/\bsans\b|(^|[^a-z])gothic/i.test(hay)) return 'Sans';
+  return 'Serif';
+}
+
+// Classify a license file by its content — the file is the source of truth,
+// the filename is not (WP-Fonts ships OFL text under several names).
+const LICENSE_SIGNATURES = [
+  [/SIL OPEN FONT LICENSE/i, 'OFL'],
+  [/GNU GENERAL PUBLIC LICENSE/i, 'GPL'],
+  [/APACHE LICENSE/i, 'Apache-2.0'],
+  [/REDISTRIBUTION AND USE IN SOURCE/i, 'BSD'],
+  [/(MIT LICEN[CS]E|Permission is hereby granted, free of charge)/i, 'MIT'],
+  [/CC0|PUBLIC DOMAIN/i, 'CC0/PD'],
+  [/M\+ FONTS? LICEN[CS]E/i, 'M+'],
+  [/UBUNTU FONT LICEN[CS]E/i, 'UFL'],
+  [/IPA FONT LICEN[CS]E/i, 'IPA'],
+];
+function classifyLicense(text) {
+  if (!text) return null;
+  for (const [re, name] of LICENSE_SIGNATURES) if (re.test(text)) return name;
+  return null;
+}
 
 // ---- crc32 (no dependencies) ----------------------------------------------
 
@@ -183,6 +224,15 @@ async function collectOutputs(config, sources) {
   await mkdir(join(ROOT, 'catalog'), { recursive: true });
 
   const families = [];
+  // In catalog-only runs families without local build output keep their
+  // previous catalog entry (files/previews), refreshed with the presentation
+  // fields — so regenerating metadata never shrinks the catalog.
+  let previous = null;
+  if (OPTS.catalogOnly) {
+    try {
+      previous = new Map(JSON.parse(await readFile(join(ROOT, 'catalog', 'fonts.json'), 'utf8')).families.map((f) => [f.name, f]));
+    } catch (e) { /* no previous catalog */ }
+  }
   for (const { fam, styles } of sources) {
     const files = [];
     const famOut = join(cpfonts, fam.name);
@@ -193,7 +243,30 @@ async function collectOutputs(config, sources) {
         files.push({ name, pt: ptFromName(name), size: bytes.length, crc32: crc32(bytes) });
       }
     }
-    if (!files.length) { log(`  SKIPPED ${fam.name}: no .cpfont output`); continue; }
+    // License: read the actual file and classify by content; link it raw.
+    let license = fam.license || '';
+    let licenseUrl = null;
+    if (fam.licenseFile) {
+      const licPath = join(ROOT, 'licenses', `${fam.name}-${fam.licenseFile}`);
+      try {
+        const byName = classifyLicense(await readFile(licPath, 'utf8'));
+        if (byName) license = byName;
+        else if (license === 'see license file') license = 'Other';
+        licenseUrl = OPTS.rawBase.replace(/\/*$/, '/') + `licenses/${fam.name}-${fam.licenseFile}`;
+      } catch (e) { /* license not fetched locally — keep families.json value */ }
+    }
+    const presentation = { group: familyGroup(fam), license, licenseUrl };
+
+    if (!files.length) {
+      const old = previous && previous.get(fam.name);
+      if (old) {
+        log(`  kept previous entry for ${fam.name} (no local output)`);
+        families.push({ ...old, ...presentation, licensePath: old.licensePath || null });
+      } else {
+        log(`  SKIPPED ${fam.name}: no .cpfont output`);
+      }
+      continue;
+    }
     files.sort((a, b) => a.pt - b.pt);
 
     const previews = config.previewSizes
@@ -204,7 +277,9 @@ async function collectOutputs(config, sources) {
       name: fam.name,
       title: fam.title,
       description: fam.description,
-      license: fam.license,
+      group: familyGroup(fam),
+      license,
+      licenseUrl,
       licensePath: fam.licenseFile ? `licenses/${fam.name}-${fam.licenseFile}` : null,
       source: `${config.upstream} (${fam.source})`,
       styles: styles.map((s) => s.toLowerCase()),
@@ -232,13 +307,14 @@ async function collectOutputs(config, sources) {
 // ---- main ------------------------------------------------------------------
 
 const config = JSON.parse(await readFile(join(ROOT, 'families.json'), 'utf8'));
+const catalogOnly = OPTS.catalogOnly;
 log('1/5 CrossGlyph…');
-await ensureCrossglyph();
+if (!catalogOnly) await ensureCrossglyph();
 log('2/5 sources…');
 const sources = await fetchSources(config);
 log('3/5 build…');
 const failedFamilies = [];
-if (!OPTS.skipBuild) {
+if (!catalogOnly && !OPTS.skipBuild) {
   await writeConf(config);
   const buildArgs = ['build',
     '--fonts', join(ROOT, 'workspace', 'fonts'),
@@ -262,16 +338,18 @@ if (!OPTS.skipBuild) {
   }
 }
 log('4/5 previews…');
-await mkdir(join(ROOT, 'previews'), { recursive: true });
-for (const { fam } of sources) {
-  if (failedFamilies.includes(fam.name)) continue;
-  for (const pt of config.previewSizes) {
-    try {
-      runCrossglyph(['preview', '--family', fam.name, '--size', String(pt),
-        '--device', config.device, '--fonts', join(ROOT, 'workspace', 'fonts'),
-        '--png', join(ROOT, 'previews', `${fam.name}-${pt}.png`)]);
-    } catch (e) {
-      log(`  SKIPPED preview ${fam.name}@${pt}: ${e.message}`);
+if (!catalogOnly) {
+  await mkdir(join(ROOT, 'previews'), { recursive: true });
+  for (const { fam } of sources) {
+    if (failedFamilies.includes(fam.name)) continue;
+    for (const pt of config.previewSizes) {
+      try {
+        runCrossglyph(['preview', '--family', fam.name, '--size', String(pt),
+          '--device', config.device, '--fonts', join(ROOT, 'workspace', 'fonts'),
+          '--png', join(ROOT, 'previews', `${fam.name}-${pt}.png`)]);
+      } catch (e) {
+        log(`  SKIPPED preview ${fam.name}@${pt}: ${e.message}`);
+      }
     }
   }
 }
