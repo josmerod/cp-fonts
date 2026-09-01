@@ -1596,7 +1596,9 @@
       "name": "WPAffinity",
       "title": "Adelphe",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAffinity-OIFL.txt",
       "licensePath": "licenses/WPAffinity-OIFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Adelphe - WP Affinity)",
       "styles": [
@@ -1710,15 +1712,15 @@
           "path": "previews/WPAffinity-14.png"
         }
       ],
-      "totalBytes": 1331812,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAffinity-OIFL.txt"
+      "totalBytes": 1331812
     },
     {
       "name": "WPDacafa",
       "title": "Afacad",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDacafa-OFL.txt",
       "licensePath": "licenses/WPDacafa-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Afacad - WP Dacafa)",
       "styles": [
@@ -1832,15 +1834,15 @@
           "path": "previews/WPDacafa-14.png"
         }
       ],
-      "totalBytes": 2799972,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDacafa-OFL.txt"
+      "totalBytes": 2799972
     },
     {
       "name": "WPSpikes",
       "title": "Agave",
       "description": "",
+      "group": "Mono",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSpikes-LICENSE.txt",
       "licensePath": "licenses/WPSpikes-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Agave - WP Spikes)",
       "styles": [
@@ -1951,15 +1953,15 @@
           "path": "previews/WPSpikes-14.png"
         }
       ],
-      "totalBytes": 1439052,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSpikes-LICENSE.txt"
+      "totalBytes": 1439052
     },
     {
       "name": "WPGravyPro",
       "title": "Agràve Pro",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGravyPro-OFL.txt",
       "licensePath": "licenses/WPGravyPro-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Agràve Pro - WP Gravy Pro)",
       "styles": [
@@ -2071,15 +2073,15 @@
           "path": "previews/WPGravyPro-14.png"
         }
       ],
-      "totalBytes": 2005249,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGravyPro-OFL.txt"
+      "totalBytes": 2005249
     },
     {
       "name": "AlegreyaSans",
       "title": "Alegreya Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AlegreyaSans-OFL.txt",
       "licensePath": "licenses/AlegreyaSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Alegreya Sans)",
       "styles": [
@@ -2193,15 +2195,15 @@
           "path": "previews/AlegreyaSans-14.png"
         }
       ],
-      "totalBytes": 4217520,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AlegreyaSans-OFL.txt"
+      "totalBytes": 4217520
     },
     {
       "name": "WPAmygdala",
       "title": "Almendra",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmygdala-OFL.txt",
       "licensePath": "licenses/WPAmygdala-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Almendra - WP Amygdala)",
       "styles": [
@@ -2315,15 +2317,15 @@
           "path": "previews/WPAmygdala-14.png"
         }
       ],
-      "totalBytes": 1045306,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmygdala-OFL.txt"
+      "totalBytes": 1045306
     },
     {
       "name": "WPArmada",
       "title": "Amarna",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPArmada-OFL.txt",
       "licensePath": "licenses/WPArmada-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Amarna - WP Armada)",
       "styles": [
@@ -2437,15 +2439,15 @@
           "path": "previews/WPArmada-14.png"
         }
       ],
-      "totalBytes": 1649603,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPArmada-OFL.txt"
+      "totalBytes": 1649603
     },
     {
       "name": "WPAmsterdam",
       "title": "Amstelvar",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmsterdam-OFL.txt",
       "licensePath": "licenses/WPAmsterdam-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Amstelvar - WP Amsterdam)",
       "styles": [
@@ -2559,15 +2561,15 @@
           "path": "previews/WPAmsterdam-14.png"
         }
       ],
-      "totalBytes": 6484262,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmsterdam-OFL.txt"
+      "totalBytes": 6484262
     },
     {
       "name": "WPCalifornia",
       "title": "Anaheim",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalifornia-OFL.txt",
       "licensePath": "licenses/WPCalifornia-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Anaheim - WP Ducks)",
       "styles": [
@@ -2679,15 +2681,15 @@
           "path": "previews/WPCalifornia-14.png"
         }
       ],
-      "totalBytes": 1459236,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalifornia-OFL.txt"
+      "totalBytes": 1459236
     },
     {
       "name": "AncizarSans",
       "title": "Ancizar Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AncizarSans-OFL.txt",
       "licensePath": "licenses/AncizarSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Ancizar Sans)",
       "styles": [
@@ -2801,15 +2803,15 @@
           "path": "previews/AncizarSans-14.png"
         }
       ],
-      "totalBytes": 2415791,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AncizarSans-OFL.txt"
+      "totalBytes": 2415791
     },
     {
       "name": "AncizarSerif",
       "title": "Ancizar Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AncizarSerif-OFL.txt",
       "licensePath": "licenses/AncizarSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Ancizar Serif)",
       "styles": [
@@ -2923,15 +2925,15 @@
           "path": "previews/AncizarSerif-14.png"
         }
       ],
-      "totalBytes": 2864199,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AncizarSerif-OFL.txt"
+      "totalBytes": 2864199
     },
     {
       "name": "AndadaPro",
       "title": "Andada Pro",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AndadaPro-OFL.txt",
       "licensePath": "licenses/AndadaPro-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Andada Pro)",
       "styles": [
@@ -3045,15 +3047,15 @@
           "path": "previews/AndadaPro-14.png"
         }
       ],
-      "totalBytes": 3640712,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AndadaPro-OFL.txt"
+      "totalBytes": 3640712
     },
     {
       "name": "Andika",
       "title": "Andika",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Andika-OFL.txt",
       "licensePath": "licenses/Andika-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Andika)",
       "styles": [
@@ -3167,15 +3169,15 @@
           "path": "previews/Andika-14.png"
         }
       ],
-      "totalBytes": 7376793,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Andika-OFL.txt"
+      "totalBytes": 7376793
     },
     {
       "name": "WPFourChan",
       "title": "Anonymous Pro",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFourChan-OFL.txt",
       "licensePath": "licenses/WPFourChan-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Anonymous Pro - WP Four Chan)",
       "styles": [
@@ -3289,15 +3291,15 @@
           "path": "previews/WPFourChan-14.png"
         }
       ],
-      "totalBytes": 2253651,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFourChan-OFL.txt"
+      "totalBytes": 2253651
     },
     {
       "name": "WPAnvil",
       "title": "Anvers",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAnvil-OFL.txt",
       "licensePath": "licenses/WPAnvil-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Anvers - WP Anvil)",
       "styles": [
@@ -3409,15 +3411,15 @@
           "path": "previews/WPAnvil-14.png"
         }
       ],
-      "totalBytes": 794157,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAnvil-OFL.txt"
+      "totalBytes": 794157
     },
     {
       "name": "WPArchivist",
       "title": "Archivo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPArchivist-OFL.txt",
       "licensePath": "licenses/WPArchivist-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Archivo - WP Archivist)",
       "styles": [
@@ -3531,15 +3533,15 @@
           "path": "previews/WPArchivist-14.png"
         }
       ],
-      "totalBytes": 3249820,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPArchivist-OFL.txt"
+      "totalBytes": 3249820
     },
     {
       "name": "WPAgileRuqaa",
       "title": "Aref Ruqaa",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAgileRuqaa-OFL.txt",
       "licensePath": "licenses/WPAgileRuqaa-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Aref Ruqaa - WP Agile Ruqaa)",
       "styles": [
@@ -3651,15 +3653,15 @@
           "path": "previews/WPAgileRuqaa-14.png"
         }
       ],
-      "totalBytes": 459169,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAgileRuqaa-OFL.txt"
+      "totalBytes": 459169
     },
     {
       "name": "Arsenal",
       "title": "Arsenal",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Arsenal-OFL.txt",
       "licensePath": "licenses/Arsenal-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Arsenal)",
       "styles": [
@@ -3773,15 +3775,15 @@
           "path": "previews/Arsenal-14.png"
         }
       ],
-      "totalBytes": 2886955,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Arsenal-OFL.txt"
+      "totalBytes": 2886955
     },
     {
       "name": "Asap",
       "title": "Asap",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Asap-OFL.txt",
       "licensePath": "licenses/Asap-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Asap)",
       "styles": [
@@ -3895,15 +3897,15 @@
           "path": "previews/Asap-14.png"
         }
       ],
-      "totalBytes": 2912336,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Asap-OFL.txt"
+      "totalBytes": 2912336
     },
     {
       "name": "WPLusa",
       "title": "Asul",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLusa-OFL.txt",
       "licensePath": "licenses/WPLusa-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Asul - WP Lusa)",
       "styles": [
@@ -4015,15 +4017,15 @@
           "path": "previews/WPLusa-14.png"
         }
       ],
-      "totalBytes": 621916,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLusa-OFL.txt"
+      "totalBytes": 621916
     },
     {
       "name": "WPSuperlegible",
       "title": "Atkinson Hyperlegible Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSuperlegible-OFL.txt",
       "licensePath": "licenses/WPSuperlegible-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Atkinson Hyperlegible Mono - WP Superlegible Mono)",
       "styles": [
@@ -4136,15 +4138,15 @@
           "path": "previews/WPSuperlegible-14.png"
         }
       ],
-      "totalBytes": 1126344,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSuperlegible-OFL.txt"
+      "totalBytes": 1126344
     },
     {
       "name": "WPAngles",
       "title": "Avara",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAngles-OFL.txt",
       "licensePath": "licenses/WPAngles-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Avara - WP Angles)",
       "styles": [
@@ -4257,15 +4259,15 @@
           "path": "previews/WPAngles-14.png"
         }
       ],
-      "totalBytes": 976743,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAngles-OFL.txt"
+      "totalBytes": 976743
     },
     {
       "name": "WPMean",
       "title": "Averia Libre",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMean-OFL.txt",
       "licensePath": "licenses/WPMean-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Averia Libre - WP Mean)",
       "styles": [
@@ -4379,15 +4381,15 @@
           "path": "previews/WPMean-14.png"
         }
       ],
-      "totalBytes": 2659305,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMean-OFL.txt"
+      "totalBytes": 2659305
     },
     {
       "name": "WPMeanSans",
       "title": "Averia Sans Libre",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMeanSans-OFL.txt",
       "licensePath": "licenses/WPMeanSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Averia Sans Libre - WP Mean Sans)",
       "styles": [
@@ -4501,15 +4503,15 @@
           "path": "previews/WPMeanSans-14.png"
         }
       ],
-      "totalBytes": 2647276,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMeanSans-OFL.txt"
+      "totalBytes": 2647276
     },
     {
       "name": "WPMeanSerif",
       "title": "Averia Serif Libre",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMeanSerif-OFL.txt",
       "licensePath": "licenses/WPMeanSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Averia Serif Libre - WP Mean Serif)",
       "styles": [
@@ -4623,15 +4625,15 @@
           "path": "previews/WPMeanSerif-14.png"
         }
       ],
-      "totalBytes": 2691434,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMeanSerif-OFL.txt"
+      "totalBytes": 2691434
     },
     {
       "name": "WPBMincho",
       "title": "BIZ UDPMincho",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBMincho-OFL.txt",
       "licensePath": "licenses/WPBMincho-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/BIZ UDPMincho - WP B Mincho)",
       "styles": [
@@ -4743,15 +4745,15 @@
           "path": "previews/WPBMincho-14.png"
         }
       ],
-      "totalBytes": 1867934,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBMincho-OFL.txt"
+      "totalBytes": 1867934
     },
     {
       "name": "BadComic",
       "title": "Bad Comic",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/BadComic-OFL.txt",
       "licensePath": "licenses/BadComic-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Bad Comic)",
       "styles": [
@@ -4863,15 +4865,15 @@
           "path": "previews/BadComic-14.png"
         }
       ],
-      "totalBytes": 2383301,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/BadComic-OFL.txt"
+      "totalBytes": 2383301
     },
     {
       "name": "WPBasilisk",
       "title": "Baskervaldx",
       "description": "",
+      "group": "Serif",
       "license": "GPL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBasilisk-COPYING.txt",
       "licensePath": "licenses/WPBasilisk-COPYING.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Baskervaldx - WP Basilisk)",
       "styles": [
@@ -4985,15 +4987,15 @@
           "path": "previews/WPBasilisk-14.png"
         }
       ],
-      "totalBytes": 1866254,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBasilisk-COPYING.txt"
+      "totalBytes": 1866254
     },
     {
       "name": "WPStapleton",
       "title": "Baskervville",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStapleton-OFL.txt",
       "licensePath": "licenses/WPStapleton-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Baskervville - WP Stapleton)",
       "styles": [
@@ -5107,15 +5109,15 @@
           "path": "previews/WPStapleton-14.png"
         }
       ],
-      "totalBytes": 2180414,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStapleton-OFL.txt"
+      "totalBytes": 2180414
     },
     {
       "name": "WPBeholder",
       "title": "Beholden",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBeholder-OFL.txt",
       "licensePath": "licenses/WPBeholder-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Beholden - WP Beholder)",
       "styles": [
@@ -5229,15 +5231,15 @@
           "path": "previews/WPBeholder-14.png"
         }
       ],
-      "totalBytes": 1188530,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBeholder-OFL.txt"
+      "totalBytes": 1188530
     },
     {
       "name": "WPBeholderBook",
       "title": "Beholden Book",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBeholderBook-OFL.txt",
       "licensePath": "licenses/WPBeholderBook-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Beholden Book - WP Beholder Book)",
       "styles": [
@@ -5351,15 +5353,15 @@
           "path": "previews/WPBeholderBook-14.png"
         }
       ],
-      "totalBytes": 295346,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBeholderBook-OFL.txt"
+      "totalBytes": 295346
     },
     {
       "name": "WPBestley",
       "title": "Besley",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBestley-OFL.txt",
       "licensePath": "licenses/WPBestley-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Besley - WP Bestley)",
       "styles": [
@@ -5473,15 +5475,15 @@
           "path": "previews/WPBestley-14.png"
         }
       ],
-      "totalBytes": 3444942,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBestley-OFL.txt"
+      "totalBytes": 3444942
     },
     {
       "name": "Bezovka",
       "title": "Bezovka",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Bezovka-OFL.txt",
       "licensePath": "licenses/Bezovka-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Bezovka)",
       "styles": [
@@ -5593,15 +5595,15 @@
           "path": "previews/Bezovka-14.png"
         }
       ],
-      "totalBytes": 1078837,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Bezovka-OFL.txt"
+      "totalBytes": 1078837
     },
     {
       "name": "WPBxtter",
       "title": "Bitter (traditional x)",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBxtter-OFL.txt",
       "licensePath": "licenses/WPBxtter-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Bitter (traditional x) - WP Bxtter)",
       "styles": [
@@ -5715,15 +5717,15 @@
           "path": "previews/WPBxtter-14.png"
         }
       ],
-      "totalBytes": 5936016,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBxtter-OFL.txt"
+      "totalBytes": 5936016
     },
     {
       "name": "WPBona",
       "title": "Bona Nova",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBona-OFL.txt",
       "licensePath": "licenses/WPBona-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Bona Nova - WP Bona)",
       "styles": [
@@ -5836,15 +5838,15 @@
           "path": "previews/WPBona-14.png"
         }
       ],
-      "totalBytes": 3349004,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBona-OFL.txt"
+      "totalBytes": 3349004
     },
     {
       "name": "Brawler",
       "title": "Brawler",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Brawler-OFL.txt",
       "licensePath": "licenses/Brawler-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Brawler)",
       "styles": [
@@ -5956,15 +5958,15 @@
           "path": "previews/Brawler-14.png"
         }
       ],
-      "totalBytes": 1030449,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Brawler-OFL.txt"
+      "totalBytes": 1030449
     },
     {
       "name": "Brygada1918",
       "title": "Brygada 1918",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Brygada1918-OFL.txt",
       "licensePath": "licenses/Brygada1918-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Brygada 1918)",
       "styles": [
@@ -6078,15 +6080,15 @@
           "path": "previews/Brygada1918-14.png"
         }
       ],
-      "totalBytes": 4556418,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Brygada1918-OFL.txt"
+      "totalBytes": 4556418
     },
     {
       "name": "CabinSketch",
       "title": "Cabin Sketch",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CabinSketch-OFL.txt",
       "licensePath": "licenses/CabinSketch-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cabin Sketch)",
       "styles": [
@@ -6198,15 +6200,15 @@
           "path": "previews/CabinSketch-14.png"
         }
       ],
-      "totalBytes": 678505,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CabinSketch-OFL.txt"
+      "totalBytes": 678505
     },
     {
       "name": "Cabin",
       "title": "Cabin",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cabin-OFL.txt",
       "licensePath": "licenses/Cabin-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cabin)",
       "styles": [
@@ -6320,15 +6322,15 @@
           "path": "previews/Cabin-14.png"
         }
       ],
-      "totalBytes": 3405576,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cabin-OFL.txt"
+      "totalBytes": 3405576
     },
     {
       "name": "WPCalamari",
       "title": "Caladea",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalamari-OFL.txt",
       "licensePath": "licenses/WPCalamari-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Caladea - WP Calamari)",
       "styles": [
@@ -6442,15 +6444,15 @@
           "path": "previews/WPCalamari-14.png"
         }
       ],
-      "totalBytes": 1974833,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalamari-OFL.txt"
+      "totalBytes": 1974833
     },
     {
       "name": "WPDishwasher",
       "title": "Cascadia Code",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDishwasher-OFL.txt",
       "licensePath": "licenses/WPDishwasher-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Cascadia Code - WP Dishwasher)",
       "styles": [
@@ -6564,15 +6566,15 @@
           "path": "previews/WPDishwasher-14.png"
         }
       ],
-      "totalBytes": 4855462,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDishwasher-OFL.txt"
+      "totalBytes": 4855462
     },
     {
       "name": "Castoro",
       "title": "Castoro",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Castoro-OFL.txt",
       "licensePath": "licenses/Castoro-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Castoro)",
       "styles": [
@@ -6686,15 +6688,15 @@
           "path": "previews/Castoro-14.png"
         }
       ],
-      "totalBytes": 2635951,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Castoro-OFL.txt"
+      "totalBytes": 2635951
     },
     {
       "name": "WPJust",
       "title": "Cause",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJust-OFL.txt",
       "licensePath": "licenses/WPJust-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Cause - WP Just)",
       "styles": [
@@ -6806,15 +6808,15 @@
           "path": "previews/WPJust-14.png"
         }
       ],
-      "totalBytes": 958675,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJust-OFL.txt"
+      "totalBytes": 958675
     },
     {
       "name": "ChakraPetch",
       "title": "Chakra Petch",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ChakraPetch-OFL.txt",
       "licensePath": "licenses/ChakraPetch-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Chakra Petch)",
       "styles": [
@@ -6928,15 +6930,15 @@
           "path": "previews/ChakraPetch-14.png"
         }
       ],
-      "totalBytes": 3199119,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ChakraPetch-OFL.txt"
+      "totalBytes": 3199119
     },
     {
       "name": "Charis",
       "title": "Charis",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Charis-OFL.txt",
       "licensePath": "licenses/Charis-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Charis)",
       "styles": [
@@ -7050,9 +7052,7 @@
           "path": "previews/Charis-14.png"
         }
       ],
-      "totalBytes": 7019380,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Charis-OFL.txt"
+      "totalBytes": 7019380
     },
     {
       "name": "WPRedDye",
@@ -7180,7 +7180,9 @@
       "name": "Cochineal",
       "title": "Cochineal",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cochineal-OFL.txt",
       "licensePath": "licenses/Cochineal-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cochineal)",
       "styles": [
@@ -7294,15 +7296,15 @@
           "path": "previews/Cochineal-14.png"
         }
       ],
-      "totalBytes": 5003406,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cochineal-OFL.txt"
+      "totalBytes": 5003406
     },
     {
       "name": "WPCoherent",
       "title": "Cohaerentia",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCoherent-OFL.txt",
       "licensePath": "licenses/WPCoherent-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Cohaerentia - WP Coherent)",
       "styles": [
@@ -7414,15 +7416,15 @@
           "path": "previews/WPCoherent-14.png"
         }
       ],
-      "totalBytes": 1485238,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCoherent-OFL.txt"
+      "totalBytes": 1485238
     },
     {
       "name": "ComicNeue",
       "title": "Comic Neue",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ComicNeue-OFL.txt",
       "licensePath": "licenses/ComicNeue-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Comic Neue)",
       "styles": [
@@ -7536,15 +7538,15 @@
           "path": "previews/ComicNeue-14.png"
         }
       ],
-      "totalBytes": 1307443,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ComicNeue-OFL.txt"
+      "totalBytes": 1307443
     },
     {
       "name": "WPClassClown",
       "title": "Comic Relief",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPClassClown-OFL.txt",
       "licensePath": "licenses/WPClassClown-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Comic Relief - WP Class Clown)",
       "styles": [
@@ -7656,15 +7658,15 @@
           "path": "previews/WPClassClown-14.png"
         }
       ],
-      "totalBytes": 1480912,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPClassClown-OFL.txt"
+      "totalBytes": 1480912
     },
     {
       "name": "WPFunnyShanns",
       "title": "Comic Shanns",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFunnyShanns-LICENSE",
       "licensePath": "licenses/WPFunnyShanns-LICENSE",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Comic Shanns - WP Funny Shanns)",
       "styles": [
@@ -7775,15 +7777,15 @@
           "path": "previews/WPFunnyShanns-14.png"
         }
       ],
-      "totalBytes": 321799,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFunnyShanns-LICENSE"
+      "totalBytes": 321799
     },
     {
       "name": "WPCommitted",
       "title": "Commit Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCommitted-LICENSE.txt",
       "licensePath": "licenses/WPCommitted-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Commit Mono - WP Committed)",
       "styles": [
@@ -7897,15 +7899,15 @@
           "path": "previews/WPCommitted-14.png"
         }
       ],
-      "totalBytes": 3420794,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCommitted-LICENSE.txt"
+      "totalBytes": 3420794
     },
     {
       "name": "CooperHewitt",
       "title": "Cooper Hewitt",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CooperHewitt-OFL.txt",
       "licensePath": "licenses/CooperHewitt-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cooper Hewitt)",
       "styles": [
@@ -8018,15 +8020,15 @@
           "path": "previews/CooperHewitt-14.png"
         }
       ],
-      "totalBytes": 1725302,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CooperHewitt-OFL.txt"
+      "totalBytes": 1725302
     },
     {
       "name": "WPPrimeTime",
       "title": "Courier Prime",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPrimeTime-OFL.txt",
       "licensePath": "licenses/WPPrimeTime-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Courier Prime - WP Prime Time)",
       "styles": [
@@ -8140,15 +8142,15 @@
           "path": "previews/WPPrimeTime-14.png"
         }
       ],
-      "totalBytes": 1516278,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPrimeTime-OFL.txt"
+      "totalBytes": 1516278
     },
     {
       "name": "CrayonLibre",
       "title": "Crayon Libre",
       "description": "",
+      "group": "Serif",
       "license": "CC0/PD",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CrayonLibre-License.txt",
       "licensePath": "licenses/CrayonLibre-License.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Crayon Libre)",
       "styles": [
@@ -8260,15 +8262,15 @@
           "path": "previews/CrayonLibre-14.png"
         }
       ],
-      "totalBytes": 1255715,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/CrayonLibre-License.txt"
+      "totalBytes": 1255715
     },
     {
       "name": "WPCretan",
       "title": "Crete Round",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCretan-OFL.txt",
       "licensePath": "licenses/WPCretan-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Crete Round - WP Cretan)",
       "styles": [
@@ -8380,15 +8382,15 @@
           "path": "previews/WPCretan-14.png"
         }
       ],
-      "totalBytes": 1019804,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCretan-OFL.txt"
+      "totalBytes": 1019804
     },
     {
       "name": "WPRedText",
       "title": "Crimson Text",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRedText-OFL.txt",
       "licensePath": "licenses/WPRedText-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Crimson Text - WP Red Text)",
       "styles": [
@@ -8502,15 +8504,15 @@
           "path": "previews/WPRedText-14.png"
         }
       ],
-      "totalBytes": 3263829,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRedText-OFL.txt"
+      "totalBytes": 3263829
     },
     {
       "name": "WPAndrewtype",
       "title": "Cuomotype",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAndrewtype-OFL.txt",
       "licensePath": "licenses/WPAndrewtype-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Cuomotype - WP Andrewtype)",
       "styles": [
@@ -8621,15 +8623,15 @@
           "path": "previews/WPAndrewtype-14.png"
         }
       ],
-      "totalBytes": 411124,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAndrewtype-OFL.txt"
+      "totalBytes": 411124
     },
     {
       "name": "WPExecutivePremier",
       "title": "Cutive Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPExecutivePremier-OFL.txt",
       "licensePath": "licenses/WPExecutivePremier-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Cutive Mono - WP Executive Premier)",
       "styles": [
@@ -8740,15 +8742,15 @@
           "path": "previews/WPExecutivePremier-14.png"
         }
       ],
-      "totalBytes": 380052,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPExecutivePremier-OFL.txt"
+      "totalBytes": 380052
     },
     {
       "name": "WPDredge",
       "title": "DM Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDredge-OFL.txt",
       "licensePath": "licenses/WPDredge-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/DM Mono - WP Dredge)",
       "styles": [
@@ -8860,15 +8862,15 @@
           "path": "previews/WPDredge-14.png"
         }
       ],
-      "totalBytes": 771044,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDredge-OFL.txt"
+      "totalBytes": 771044
     },
     {
       "name": "WPProofreader",
       "title": "DP Sans Mono",
       "description": "",
+      "group": "Mono",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPProofreader-LICENSE.txt",
       "licensePath": "licenses/WPProofreader-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/DP Sans Mono - WP Proofreader)",
       "styles": [
@@ -8979,15 +8981,15 @@
           "path": "previews/WPProofreader-14.png"
         }
       ],
-      "totalBytes": 2120502,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPProofreader-LICENSE.txt"
+      "totalBytes": 2120502
     },
     {
       "name": "WPDSE",
       "title": "DSE Typewriter",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDSE-LICENSE.md",
       "licensePath": "licenses/WPDSE-LICENSE.md",
       "source": "Chairzard/WP-Fonts (Modified Fonts/DSE Typewriter - WP DSE)",
       "styles": [
@@ -9098,15 +9100,15 @@
           "path": "previews/WPDSE-14.png"
         }
       ],
-      "totalBytes": 903476,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDSE-LICENSE.md"
+      "totalBytes": 903476
     },
     {
       "name": "WPDRMono",
       "title": "DejaVu Sans Mono",
       "description": "",
+      "group": "Mono",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDRMono-LICENSE.txt",
       "licensePath": "licenses/WPDRMono-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/DejaVu Sans Mono - WP DR Mono)",
       "styles": [
@@ -9218,15 +9220,15 @@
           "path": "previews/WPDRMono-14.png"
         }
       ],
-      "totalBytes": 4117306,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDRMono-LICENSE.txt"
+      "totalBytes": 4117306
     },
     {
       "name": "WPDRSerif",
       "title": "DejaVu Serif",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDRSerif-LICENSE.txt",
       "licensePath": "licenses/WPDRSerif-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/DejaVu Serif - WP DR Serif)",
       "styles": [
@@ -9340,15 +9342,15 @@
           "path": "previews/WPDRSerif-14.png"
         }
       ],
-      "totalBytes": 10599873,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDRSerif-LICENSE.txt"
+      "totalBytes": 10599873
     },
     {
       "name": "DepartureMono",
       "title": "Departure Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/DepartureMono-LICENSE.txt",
       "licensePath": "licenses/DepartureMono-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Departure Mono)",
       "styles": [
@@ -9459,15 +9461,15 @@
           "path": "previews/DepartureMono-14.png"
         }
       ],
-      "totalBytes": 1121974,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/DepartureMono-LICENSE.txt"
+      "totalBytes": 1121974
     },
     {
       "name": "WPDopamine",
       "title": "Domine",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDopamine-OFL.txt",
       "licensePath": "licenses/WPDopamine-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Domine - WP Dopamine)",
       "styles": [
@@ -9579,15 +9581,15 @@
           "path": "previews/WPDopamine-14.png"
         }
       ],
-      "totalBytes": 1524958,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDopamine-OFL.txt"
+      "totalBytes": 1524958
     },
     {
       "name": "WPDrafting",
       "title": "Drafting Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDrafting-OFL.txt",
       "licensePath": "licenses/WPDrafting-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Drafting Mono - WP Drafting)",
       "styles": [
@@ -9701,15 +9703,15 @@
           "path": "previews/WPDrafting-14.png"
         }
       ],
-      "totalBytes": 1847590,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDrafting-OFL.txt"
+      "totalBytes": 1847590
     },
     {
       "name": "WPbb",
       "title": "ETbb",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPbb-LICENSE.txt",
       "licensePath": "licenses/WPbb-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/ETbb - WPbb)",
       "styles": [
@@ -9823,15 +9825,15 @@
           "path": "previews/WPbb-14.png"
         }
       ],
-      "totalBytes": 2054361,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPbb-LICENSE.txt"
+      "totalBytes": 2054361
     },
     {
       "name": "WPIck",
       "title": "Eczar",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIck-OFL.txt",
       "licensePath": "licenses/WPIck-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Eczar - WP Ick)",
       "styles": [
@@ -9943,15 +9945,15 @@
           "path": "previews/WPIck-14.png"
         }
       ],
-      "totalBytes": 1129991,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIck-OFL.txt"
+      "totalBytes": 1129991
     },
     {
       "name": "WPElectric",
       "title": "Electrum ADF",
       "description": "",
+      "group": "Serif",
       "license": "GPL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPElectric-LICENSE.txt",
       "licensePath": "licenses/WPElectric-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Electrum ADF - WP Electric)",
       "styles": [
@@ -10063,15 +10065,15 @@
           "path": "previews/WPElectric-14.png"
         }
       ],
-      "totalBytes": 736973,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPElectric-LICENSE.txt"
+      "totalBytes": 736973
     },
     {
       "name": "ElstobD",
       "title": "Elstob",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ElstobD-OFL.txt",
       "licensePath": "licenses/ElstobD-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Elstob)",
       "styles": [
@@ -10185,15 +10187,15 @@
           "path": "previews/ElstobD-14.png"
         }
       ],
-      "totalBytes": 3904714,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ElstobD-OFL.txt"
+      "totalBytes": 3904714
     },
     {
       "name": "WPSilkscreen",
       "title": "Enriqueta",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSilkscreen-OFL.txt",
       "licensePath": "licenses/WPSilkscreen-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Enriqueta - WP Silkscreen)",
       "styles": [
@@ -10305,15 +10307,15 @@
           "path": "previews/WPSilkscreen-14.png"
         }
       ],
-      "totalBytes": 1043459,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSilkscreen-OFL.txt"
+      "totalBytes": 1043459
     },
     {
       "name": "Epilogue",
       "title": "Epilogue",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Epilogue-OFL.txt",
       "licensePath": "licenses/Epilogue-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Epilogue)",
       "styles": [
@@ -10427,15 +10429,15 @@
           "path": "previews/Epilogue-14.png"
         }
       ],
-      "totalBytes": 3552166,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Epilogue-OFL.txt"
+      "totalBytes": 3552166
     },
     {
       "name": "WPUpundaSlab",
       "title": "Epunda Slab",
       "description": "",
+      "group": "Slab",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUpundaSlab-OFL.txt",
       "licensePath": "licenses/WPUpundaSlab-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Epunda Slab - WP Upunda)",
       "styles": [
@@ -10549,15 +10551,15 @@
           "path": "previews/WPUpundaSlab-14.png"
         }
       ],
-      "totalBytes": 2257170,
-      "group": "Slab",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUpundaSlab-OFL.txt"
+      "totalBytes": 2257170
     },
     {
       "name": "Exo",
       "title": "Exo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Exo-OFL.txt",
       "licensePath": "licenses/Exo-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Exo)",
       "styles": [
@@ -10671,15 +10673,15 @@
           "path": "previews/Exo-14.png"
         }
       ],
-      "totalBytes": 3443467,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Exo-OFL.txt"
+      "totalBytes": 3443467
     },
     {
       "name": "WPFantastic",
       "title": "Fantasque Sans Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFantastic-OFL.txt",
       "licensePath": "licenses/WPFantastic-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Fantasque Sans Mono - WP Fantastic)",
       "styles": [
@@ -10793,15 +10795,15 @@
           "path": "previews/WPFantastic-14.png"
         }
       ],
-      "totalBytes": 3723909,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFantastic-OFL.txt"
+      "totalBytes": 3723909
     },
     {
       "name": "WPBiggestFan",
       "title": "Fanwood Text",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBiggestFan-OFL.txt",
       "licensePath": "licenses/WPBiggestFan-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Fanwood Text - WP Biggest Fan)",
       "styles": [
@@ -10913,15 +10915,15 @@
           "path": "previews/WPBiggestFan-14.png"
         }
       ],
-      "totalBytes": 959592,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBiggestFan-OFL.txt"
+      "totalBytes": 959592
     },
     {
       "name": "WPWolfgang",
       "title": "Faustina",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPWolfgang-OFL.txt",
       "licensePath": "licenses/WPWolfgang-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Faustina - WP Wolfgang)",
       "styles": [
@@ -11035,15 +11037,15 @@
           "path": "previews/WPWolfgang-14.png"
         }
       ],
-      "totalBytes": 2850758,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPWolfgang-OFL.txt"
+      "totalBytes": 2850758
     },
     {
       "name": "FinlandicaHeadline",
       "title": "Finlandica Headline",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FinlandicaHeadline-OFL.txt",
       "licensePath": "licenses/FinlandicaHeadline-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Finlandica Headline)",
       "styles": [
@@ -11157,15 +11159,15 @@
           "path": "previews/FinlandicaHeadline-14.png"
         }
       ],
-      "totalBytes": 4204657,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FinlandicaHeadline-OFL.txt"
+      "totalBytes": 4204657
     },
     {
       "name": "WPFoxMono",
       "title": "Fira Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFoxMono-OFL.txt",
       "licensePath": "licenses/WPFoxMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Fira Mono - WP Fox Mono)",
       "styles": [
@@ -11277,15 +11279,15 @@
           "path": "previews/WPFoxMono-14.png"
         }
       ],
-      "totalBytes": 2204524,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFoxMono-OFL.txt"
+      "totalBytes": 2204524
     },
     {
       "name": "FiraSans",
       "title": "Fira Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FiraSans-OFL.txt",
       "licensePath": "licenses/FiraSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Fira Sans)",
       "styles": [
@@ -11399,15 +11401,15 @@
           "path": "previews/FiraSans-14.png"
         }
       ],
-      "totalBytes": 7486673,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FiraSans-OFL.txt"
+      "totalBytes": 7486673
     },
     {
       "name": "Flamenco",
       "title": "Flamenco",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Flamenco-OFL.txt",
       "licensePath": "licenses/Flamenco-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Flamenco)",
       "styles": [
@@ -11518,15 +11520,15 @@
           "path": "previews/Flamenco-14.png"
         }
       ],
-      "totalBytes": 288592,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Flamenco-OFL.txt"
+      "totalBytes": 288592
     },
     {
       "name": "WPOrElse",
       "title": "Fluxisch Else",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOrElse-OFL.txt",
       "licensePath": "licenses/WPOrElse-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Fluxisch Else - WP Or Else)",
       "styles": [
@@ -11637,15 +11639,15 @@
           "path": "previews/WPOrElse-14.png"
         }
       ],
-      "totalBytes": 215849,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOrElse-OFL.txt"
+      "totalBytes": 215849
     },
     {
       "name": "WPPast",
       "title": "Formera",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPast-OFL.txt",
       "licensePath": "licenses/WPPast-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Formera - WP Past)",
       "styles": [
@@ -11756,15 +11758,15 @@
           "path": "previews/WPPast-14.png"
         }
       ],
-      "totalBytes": 888261,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPast-OFL.txt"
+      "totalBytes": 888261
     },
     {
       "name": "WPFrankRules",
       "title": "Frank Ruhl Libre",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFrankRules-OFL.txt",
       "licensePath": "licenses/WPFrankRules-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Frank Ruhl Libre - WP Frank Rules)",
       "styles": [
@@ -11876,15 +11878,15 @@
           "path": "previews/WPFrankRules-14.png"
         }
       ],
-      "totalBytes": 926497,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFrankRules-OFL.txt"
+      "totalBytes": 926497
     },
     {
       "name": "WPFreerSerif",
       "title": "FreeSerif",
       "description": "",
+      "group": "Serif",
       "license": "GPL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFreerSerif-LICENSE.txt",
       "licensePath": "licenses/WPFreerSerif-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/FreeSerif - WP FreerSerif)",
       "styles": [
@@ -11998,15 +12000,15 @@
           "path": "previews/WPFreerSerif-14.png"
         }
       ],
-      "totalBytes": 11701193,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFreerSerif-LICENSE.txt"
+      "totalBytes": 11701193
     },
     {
       "name": "FunnelSans",
       "title": "Funnel",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FunnelSans-OFL.txt",
       "licensePath": "licenses/FunnelSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Funnel)",
       "styles": [
@@ -12120,15 +12122,15 @@
           "path": "previews/FunnelSans-14.png"
         }
       ],
-      "totalBytes": 1650828,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FunnelSans-OFL.txt"
+      "totalBytes": 1650828
     },
     {
       "name": "FuzzyBubbles",
       "title": "Fuzzy Bubbles",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FuzzyBubbles-OFL.txt",
       "licensePath": "licenses/FuzzyBubbles-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Fuzzy Bubbles)",
       "styles": [
@@ -12240,15 +12242,15 @@
           "path": "previews/FuzzyBubbles-14.png"
         }
       ],
-      "totalBytes": 1334230,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/FuzzyBubbles-OFL.txt"
+      "totalBytes": 1334230
     },
     {
       "name": "WPGalatians",
       "title": "GFS Galatea",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGalatians-OFL.txt",
       "licensePath": "licenses/WPGalatians-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/GFS Galatea - WP Galatians)",
       "styles": [
@@ -12360,15 +12362,15 @@
           "path": "previews/WPGalatians-14.png"
         }
       ],
-      "totalBytes": 960736,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGalatians-OFL.txt"
+      "totalBytes": 960736
     },
     {
       "name": "Garamontio",
       "title": "Garamontio",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Garamontio-OFL.txt",
       "licensePath": "licenses/Garamontio-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Garamontio)",
       "styles": [
@@ -12481,15 +12483,15 @@
           "path": "previews/Garamontio-14.png"
         }
       ],
-      "totalBytes": 6555925,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Garamontio-OFL.txt"
+      "totalBytes": 6555925
     },
     {
       "name": "Geist",
       "title": "Geist",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Geist-OFL.txt",
       "licensePath": "licenses/Geist-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Geist)",
       "styles": [
@@ -12603,15 +12605,15 @@
           "path": "previews/Geist-14.png"
         }
       ],
-      "totalBytes": 3765208,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Geist-OFL.txt"
+      "totalBytes": 3765208
     },
     {
       "name": "WPLucretia",
       "title": "Gensco",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLucretia-OFL.txt",
       "licensePath": "licenses/WPLucretia-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Gensco - WP Lucretia)",
       "styles": [
@@ -12722,15 +12724,15 @@
           "path": "previews/WPLucretia-14.png"
         }
       ],
-      "totalBytes": 204051,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLucretia-OFL.txt"
+      "totalBytes": 204051
     },
     {
       "name": "GentiumBook",
       "title": "Gentium Book",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/GentiumBook-OFL.txt",
       "licensePath": "licenses/GentiumBook-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Gentium Book)",
       "styles": [
@@ -12844,15 +12846,15 @@
           "path": "previews/GentiumBook-14.png"
         }
       ],
-      "totalBytes": 1688904,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/GentiumBook-OFL.txt"
+      "totalBytes": 1688904
     },
     {
       "name": "Gentium",
       "title": "Gentium",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Gentium-OFL.txt",
       "licensePath": "licenses/Gentium-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Gentium)",
       "styles": [
@@ -12966,15 +12968,15 @@
           "path": "previews/Gentium-14.png"
         }
       ],
-      "totalBytes": 6791504,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Gentium-OFL.txt"
+      "totalBytes": 6791504
     },
     {
       "name": "WPGeometry",
       "title": "Geom",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeometry-OFL.txt",
       "licensePath": "licenses/WPGeometry-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Geom - WP Geometry)",
       "styles": [
@@ -13088,15 +13090,15 @@
           "path": "previews/WPGeometry-14.png"
         }
       ],
-      "totalBytes": 2797469,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeometry-OFL.txt"
+      "totalBytes": 2797469
     },
     {
       "name": "Georama",
       "title": "Georama",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Georama-OFL.txt",
       "licensePath": "licenses/Georama-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Georama)",
       "styles": [
@@ -13210,15 +13212,15 @@
           "path": "previews/Georama-14.png"
         }
       ],
-      "totalBytes": 3472509,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Georama-OFL.txt"
+      "totalBytes": 3472509
     },
     {
       "name": "WPTitanic",
       "title": "Glacial Indifference",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTitanic-OFL.txt",
       "licensePath": "licenses/WPTitanic-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Glacial Indifference - WP Titanic)",
       "styles": [
@@ -13332,15 +13334,15 @@
           "path": "previews/WPTitanic-14.png"
         }
       ],
-      "totalBytes": 773025,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTitanic-OFL.txt"
+      "totalBytes": 773025
     },
     {
       "name": "WPIgloo",
       "title": "Glegoo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIgloo-OFL.txt",
       "licensePath": "licenses/WPIgloo-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Glegoo - WP Igloo)",
       "styles": [
@@ -13452,15 +13454,15 @@
           "path": "previews/WPIgloo-14.png"
         }
       ],
-      "totalBytes": 951006,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIgloo-OFL.txt"
+      "totalBytes": 951006
     },
     {
       "name": "WPCollect200",
       "title": "Go",
       "description": "",
+      "group": "Serif",
       "license": "BSD",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCollect200-LICENSE.txt",
       "licensePath": "licenses/WPCollect200-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Go - WP Collect 200)",
       "styles": [
@@ -13574,15 +13576,15 @@
           "path": "previews/WPCollect200-14.png"
         }
       ],
-      "totalBytes": 3073268,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCollect200-LICENSE.txt"
+      "totalBytes": 3073268
     },
     {
       "name": "WPCollect200Mono",
       "title": "Go Mono",
       "description": "",
+      "group": "Mono",
       "license": "BSD",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCollect200Mono-LICENSE.txt",
       "licensePath": "licenses/WPCollect200Mono-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Go Mono - WP Collect 200 Mono)",
       "styles": [
@@ -13696,15 +13698,15 @@
           "path": "previews/WPCollect200Mono-14.png"
         }
       ],
-      "totalBytes": 3004742,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCollect200Mono-LICENSE.txt"
+      "totalBytes": 3004742
     },
     {
       "name": "WPSearchMono",
       "title": "Google Sans Code",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSearchMono-OFL.txt",
       "licensePath": "licenses/WPSearchMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Google Sans Code - WP Search Mono)",
       "styles": [
@@ -13818,15 +13820,15 @@
           "path": "previews/WPSearchMono-14.png"
         }
       ],
-      "totalBytes": 3129773,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSearchMono-OFL.txt"
+      "totalBytes": 3129773
     },
     {
       "name": "GoogleSans",
       "title": "Google Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/GoogleSans-OFL.txt",
       "licensePath": "licenses/GoogleSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Google Sans)",
       "styles": [
@@ -13940,15 +13942,15 @@
           "path": "previews/GoogleSans-14.png"
         }
       ],
-      "totalBytes": 6665859,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/GoogleSans-OFL.txt"
+      "totalBytes": 6665859
     },
     {
       "name": "Grandstander",
       "title": "Grandstander",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Grandstander-OFL.txt",
       "licensePath": "licenses/Grandstander-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Grandstander)",
       "styles": [
@@ -14062,15 +14064,15 @@
           "path": "previews/Grandstander-14.png"
         }
       ],
-      "totalBytes": 3288072,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Grandstander-OFL.txt"
+      "totalBytes": 3288072
     },
     {
       "name": "Gupter",
       "title": "Gupter",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Gupter-OFL.txt",
       "licensePath": "licenses/Gupter-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Gupter)",
       "styles": [
@@ -14182,15 +14184,15 @@
           "path": "previews/Gupter-14.png"
         }
       ],
-      "totalBytes": 590009,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Gupter-OFL.txt"
+      "totalBytes": 590009
     },
     {
       "name": "WPHacked",
       "title": "Hack",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHacked-LICENSE.md",
       "licensePath": "licenses/WPHacked-LICENSE.md",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Hack - WP Hacked)",
       "styles": [
@@ -14304,15 +14306,15 @@
           "path": "previews/WPHacked-14.png"
         }
       ],
-      "totalBytes": 5397657,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHacked-LICENSE.md"
+      "totalBytes": 5397657
     },
     {
       "name": "Hahmlet",
       "title": "Hahmlet",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Hahmlet-OFL.txt",
       "licensePath": "licenses/Hahmlet-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Hahmlet)",
       "styles": [
@@ -14424,15 +14426,15 @@
           "path": "previews/Hahmlet-14.png"
         }
       ],
-      "totalBytes": 2267464,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Hahmlet-OFL.txt"
+      "totalBytes": 2267464
     },
     {
       "name": "WPHappy",
       "title": "Happy Times at the IKOB",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHappy-OFL.txt",
       "licensePath": "licenses/WPHappy-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Happy Times at the IKOB - WP Happy)",
       "styles": [
@@ -14545,15 +14547,15 @@
           "path": "previews/WPHappy-14.png"
         }
       ],
-      "totalBytes": 924663,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHappy-OFL.txt"
+      "totalBytes": 924663
     },
     {
       "name": "HeptaSlab",
       "title": "Hepta Slab",
       "description": "",
+      "group": "Slab",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/HeptaSlab-OFL.txt",
       "licensePath": "licenses/HeptaSlab-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Hepta Slab)",
       "styles": [
@@ -14665,15 +14667,15 @@
           "path": "previews/HeptaSlab-14.png"
         }
       ],
-      "totalBytes": 2506473,
-      "group": "Slab",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/HeptaSlab-OFL.txt"
+      "totalBytes": 2506473
     },
     {
       "name": "WPTwentyTwenty",
       "title": "Hindsight",
       "description": "",
+      "group": "Serif",
       "license": "Other",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTwentyTwenty-License.txt",
       "licensePath": "licenses/WPTwentyTwenty-License.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Hindsight - WP Twenty Twenty)",
       "styles": [
@@ -14785,15 +14787,15 @@
           "path": "previews/WPTwentyTwenty-14.png"
         }
       ],
-      "totalBytes": 453276,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTwentyTwenty-License.txt"
+      "totalBytes": 453276
     },
     {
       "name": "WPAmazingBulk",
       "title": "Hunck",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmazingBulk-OFL.txt",
       "licensePath": "licenses/WPAmazingBulk-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Hunck - WP Amazing Bulk)",
       "styles": [
@@ -14904,15 +14906,15 @@
           "path": "previews/WPAmazingBulk-14.png"
         }
       ],
-      "totalBytes": 785347,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAmazingBulk-OFL.txt"
+      "totalBytes": 785347
     },
     {
       "name": "WPCharles",
       "title": "Hundar",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCharles-OFL.txt",
       "licensePath": "licenses/WPCharles-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Hundar - WP Charles)",
       "styles": [
@@ -15023,15 +15025,15 @@
           "path": "previews/WPCharles-14.png"
         }
       ],
-      "totalBytes": 106689,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCharles-OFL.txt"
+      "totalBytes": 106689
     },
     {
       "name": "WPJekyll",
       "title": "Hyde",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJekyll-OFL.txt",
       "licensePath": "licenses/WPJekyll-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Hyde - WP Jekyll)",
       "styles": [
@@ -15144,15 +15146,15 @@
           "path": "previews/WPJekyll-14.png"
         }
       ],
-      "totalBytes": 1004009,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJekyll-OFL.txt"
+      "totalBytes": 1004009
     },
     {
       "name": "WP3270",
       "title": "IBM 3270",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WP3270-LICENSE.txt",
       "licensePath": "licenses/WP3270-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IBM 3270 - WP 3270)",
       "styles": [
@@ -15263,15 +15265,15 @@
           "path": "previews/WP3270-14.png"
         }
       ],
-      "totalBytes": 846154,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WP3270-LICENSE.txt"
+      "totalBytes": 846154
     },
     {
       "name": "WPPerplexMono",
       "title": "IBM Plex Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPerplexMono-OFL.txt",
       "licensePath": "licenses/WPPerplexMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IBM Plex Mono - WP Perplex Mono)",
       "styles": [
@@ -15385,15 +15387,15 @@
           "path": "previews/WPPerplexMono-14.png"
         }
       ],
-      "totalBytes": 4326548,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPerplexMono-OFL.txt"
+      "totalBytes": 4326548
     },
     {
       "name": "WPPerplexSerif",
       "title": "IBM Plex Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPerplexSerif-OFL.txt",
       "licensePath": "licenses/WPPerplexSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IBM Plex Serif - WP Perplex Serif)",
       "styles": [
@@ -15507,15 +15509,15 @@
           "path": "previews/WPPerplexSerif-14.png"
         }
       ],
-      "totalBytes": 6845459,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPerplexSerif-OFL.txt"
+      "totalBytes": 6845459
     },
     {
       "name": "WPFellDWPica",
       "title": "IM FELL DW Pica",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellDWPica-OFL.txt",
       "licensePath": "licenses/WPFellDWPica-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IM FELL DW Pica - WP Fell DW Pica)",
       "styles": [
@@ -15627,15 +15629,15 @@
           "path": "previews/WPFellDWPica-14.png"
         }
       ],
-      "totalBytes": 1821488,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellDWPica-OFL.txt"
+      "totalBytes": 1821488
     },
     {
       "name": "WPFellDoublePica",
       "title": "IM FELL Double Pica",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellDoublePica-OFL.txt",
       "licensePath": "licenses/WPFellDoublePica-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IM FELL Double Pica - WP Fell Double Pica)",
       "styles": [
@@ -15747,15 +15749,15 @@
           "path": "previews/WPFellDoublePica-14.png"
         }
       ],
-      "totalBytes": 1844994,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellDoublePica-OFL.txt"
+      "totalBytes": 1844994
     },
     {
       "name": "WPFellEnglish",
       "title": "IM FELL English",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellEnglish-OFL.txt",
       "licensePath": "licenses/WPFellEnglish-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IM FELL English - WP Fell English)",
       "styles": [
@@ -15867,15 +15869,15 @@
           "path": "previews/WPFellEnglish-14.png"
         }
       ],
-      "totalBytes": 1847202,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellEnglish-OFL.txt"
+      "totalBytes": 1847202
     },
     {
       "name": "WPFellFrenchCanon",
       "title": "IM FELL French Canon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellFrenchCanon-OFL.txt",
       "licensePath": "licenses/WPFellFrenchCanon-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IM FELL French Canon - WP Fell French Canon)",
       "styles": [
@@ -15987,15 +15989,15 @@
           "path": "previews/WPFellFrenchCanon-14.png"
         }
       ],
-      "totalBytes": 1883441,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellFrenchCanon-OFL.txt"
+      "totalBytes": 1883441
     },
     {
       "name": "WPFellGreatPrimer",
       "title": "IM FELL Great Primer",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellGreatPrimer-OFL.txt",
       "licensePath": "licenses/WPFellGreatPrimer-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/IM FELL Great Primer - WP Fell Great Primer)",
       "styles": [
@@ -16107,15 +16109,15 @@
           "path": "previews/WPFellGreatPrimer-14.png"
         }
       ],
-      "totalBytes": 1876399,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFellGreatPrimer-OFL.txt"
+      "totalBytes": 1876399
     },
     {
       "name": "WPEureka",
       "title": "Inika",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEureka-OFL.txt",
       "licensePath": "licenses/WPEureka-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Inika - WP Eureka)",
       "styles": [
@@ -16227,15 +16229,15 @@
           "path": "previews/WPEureka-14.png"
         }
       ],
-      "totalBytes": 637381,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEureka-OFL.txt"
+      "totalBytes": 637381
     },
     {
       "name": "WPCalcul",
       "title": "Inria Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalcul-OFL.txt",
       "licensePath": "licenses/WPCalcul-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Inria Serif - WP Calcul)",
       "styles": [
@@ -16349,15 +16351,15 @@
           "path": "previews/WPCalcul-14.png"
         }
       ],
-      "totalBytes": 2098255,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCalcul-OFL.txt"
+      "totalBytes": 2098255
     },
     {
       "name": "WPCPUMono",
       "title": "Intel One Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCPUMono-OFL.txt",
       "licensePath": "licenses/WPCPUMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Intel One Mono - WP CPU Mono)",
       "styles": [
@@ -16471,15 +16473,15 @@
           "path": "previews/WPCPUMono-14.png"
         }
       ],
-      "totalBytes": 3632574,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCPUMono-OFL.txt"
+      "totalBytes": 3632574
     },
     {
       "name": "Inter",
       "title": "Inter",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Inter-OFL.txt",
       "licensePath": "licenses/Inter-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Inter)",
       "styles": [
@@ -16593,15 +16595,15 @@
           "path": "previews/Inter-14.png"
         }
       ],
-      "totalBytes": 9321121,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Inter-OFL.txt"
+      "totalBytes": 9321121
     },
     {
       "name": "WPPlaneBrains",
       "title": "JetBrains Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPlaneBrains-OFL.txt",
       "licensePath": "licenses/WPPlaneBrains-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/JetBrains Mono - WP PlaneBrains)",
       "styles": [
@@ -16715,15 +16717,15 @@
           "path": "previews/WPPlaneBrains-14.png"
         }
       ],
-      "totalBytes": 4147037,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPlaneBrains-OFL.txt"
+      "totalBytes": 4147037
     },
     {
       "name": "JosefinSans",
       "title": "Josefin Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/JosefinSans-OFL.txt",
       "licensePath": "licenses/JosefinSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Josefin Sans)",
       "styles": [
@@ -16837,15 +16839,15 @@
           "path": "previews/JosefinSans-14.png"
         }
       ],
-      "totalBytes": 2871716,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/JosefinSans-OFL.txt"
+      "totalBytes": 2871716
     },
     {
       "name": "WPJasper",
       "title": "Jost",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJasper-OFL.txt",
       "licensePath": "licenses/WPJasper-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Jost - WP Jasper)",
       "styles": [
@@ -16959,15 +16961,15 @@
           "path": "previews/WPJasper-14.png"
         }
       ],
-      "totalBytes": 2392368,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJasper-OFL.txt"
+      "totalBytes": 2392368
     },
     {
       "name": "WPJudder",
       "title": "Judson",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJudder-OFL.txt",
       "licensePath": "licenses/WPJudder-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Judson - WP Judder)",
       "styles": [
@@ -17080,15 +17082,15 @@
           "path": "previews/WPJudder-14.png"
         }
       ],
-      "totalBytes": 2645915,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPJudder-OFL.txt"
+      "totalBytes": 2645915
     },
     {
       "name": "Junicode",
       "title": "Junicode",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Junicode-OFL.txt",
       "licensePath": "licenses/Junicode-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Junicode)",
       "styles": [
@@ -17202,15 +17204,15 @@
           "path": "previews/Junicode-14.png"
         }
       ],
-      "totalBytes": 6891410,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Junicode-OFL.txt"
+      "totalBytes": 6891410
     },
     {
       "name": "WPTicket",
       "title": "Jura",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTicket-OFL.txt",
       "licensePath": "licenses/WPTicket-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Jura - WP Ticket)",
       "styles": [
@@ -17322,15 +17324,15 @@
           "path": "previews/WPTicket-14.png"
         }
       ],
-      "totalBytes": 1676354,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTicket-OFL.txt"
+      "totalBytes": 1676354
     },
     {
       "name": "WPKp",
       "title": "KPRoman",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKp-OFL.txt",
       "licensePath": "licenses/WPKp-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/KPRoman - WP KP)",
       "styles": [
@@ -17444,15 +17446,15 @@
           "path": "previews/WPKp-14.png"
         }
       ],
-      "totalBytes": 2229909,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKp-OFL.txt"
+      "totalBytes": 2229909
     },
     {
       "name": "WPKorma",
       "title": "Karma",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKorma-OFL.txt",
       "licensePath": "licenses/WPKorma-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Karma - WP Korma)",
       "styles": [
@@ -17564,15 +17566,15 @@
           "path": "previews/WPKorma-14.png"
         }
       ],
-      "totalBytes": 799123,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKorma-OFL.txt"
+      "totalBytes": 799123
     },
     {
       "name": "WPKaye",
       "title": "Kay Pho Du",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKaye-OFL.txt",
       "licensePath": "licenses/WPKaye-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Kay Pho Du - WP Kaye)",
       "styles": [
@@ -17684,15 +17686,15 @@
           "path": "previews/WPKaye-14.png"
         }
       ],
-      "totalBytes": 461338,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKaye-OFL.txt"
+      "totalBytes": 461338
     },
     {
       "name": "WPKazuki",
       "title": "KazukiReiwa",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKazuki-OFL.txt",
       "licensePath": "licenses/WPKazuki-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/KazukiReiwa - WP Kazuki)",
       "styles": [
@@ -17803,15 +17805,15 @@
           "path": "previews/WPKazuki-14.png"
         }
       ],
-      "totalBytes": 1588912,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKazuki-OFL.txt"
+      "totalBytes": 1588912
     },
     {
       "name": "WPKelvin",
       "title": "Kelvinch",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKelvin-OFL.txt",
       "licensePath": "licenses/WPKelvin-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Kelvinch - WP Kelvin)",
       "styles": [
@@ -17925,15 +17927,15 @@
           "path": "previews/WPKelvin-14.png"
         }
       ],
-      "totalBytes": 11807411,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKelvin-OFL.txt"
+      "totalBytes": 11807411
     },
     {
       "name": "KierkegaardText",
       "title": "Kierkegaard",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/KierkegaardText-OFL.txt",
       "licensePath": "licenses/KierkegaardText-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Kierkegaard)",
       "styles": [
@@ -18047,15 +18049,15 @@
           "path": "previews/KierkegaardText-14.png"
         }
       ],
-      "totalBytes": 3112266,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/KierkegaardText-OFL.txt"
+      "totalBytes": 3112266
     },
     {
       "name": "KoHo",
       "title": "KoHo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/KoHo-OFL.txt",
       "licensePath": "licenses/KoHo-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/KoHo)",
       "styles": [
@@ -18169,15 +18171,15 @@
           "path": "previews/KoHo-14.png"
         }
       ],
-      "totalBytes": 3241639,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/KoHo-OFL.txt"
+      "totalBytes": 3241639
     },
     {
       "name": "WPKoder",
       "title": "Kode Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKoder-OFL.txt",
       "licensePath": "licenses/WPKoder-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Kode Mono - WP Koder)",
       "styles": [
@@ -18289,15 +18291,15 @@
           "path": "previews/WPKoder-14.png"
         }
       ],
-      "totalBytes": 824911,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKoder-OFL.txt"
+      "totalBytes": 824911
     },
     {
       "name": "WPCrayon",
       "title": "Kreon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCrayon-OFL.txt",
       "licensePath": "licenses/WPCrayon-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Kreon - WP Crayon)",
       "styles": [
@@ -18409,15 +18411,15 @@
           "path": "previews/WPCrayon-14.png"
         }
       ],
-      "totalBytes": 946160,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCrayon-OFL.txt"
+      "totalBytes": 946160
     },
     {
       "name": "Kurland",
       "title": "Kurland",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Kurland-License.txt",
       "licensePath": "licenses/Kurland-License.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Kurland)",
       "styles": [
@@ -18529,15 +18531,15 @@
           "path": "previews/Kurland-14.png"
         }
       ],
-      "totalBytes": 3541206,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Kurland-License.txt"
+      "totalBytes": 3541206
     },
     {
       "name": "LINESeedJP",
       "title": "LINE Seed JP",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LINESeedJP-OFL.txt",
       "licensePath": "licenses/LINESeedJP-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/LINE Seed JP)",
       "styles": [
@@ -18649,15 +18651,15 @@
           "path": "previews/LINESeedJP-14.png"
         }
       ],
-      "totalBytes": 2093614,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LINESeedJP-OFL.txt"
+      "totalBytes": 2093614
     },
     {
       "name": "WPSuperior",
       "title": "LT Superior Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSuperior-OFL.txt",
       "licensePath": "licenses/WPSuperior-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/LT Superior Serif - WP Superior)",
       "styles": [
@@ -18769,15 +18771,15 @@
           "path": "previews/WPSuperior-14.png"
         }
       ],
-      "totalBytes": 2471158,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSuperior-OFL.txt"
+      "totalBytes": 2471158
     },
     {
       "name": "WPSingSong",
       "title": "LXGW Neo ZhiSong Screen",
       "description": "",
+      "group": "Serif",
       "license": "IPA",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSingSong-LICENSE.txt",
       "licensePath": "licenses/WPSingSong-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/LXGW Neo ZhiSong Screen - WP Sing Sing)",
       "styles": [
@@ -18888,15 +18890,15 @@
           "path": "previews/WPSingSong-14.png"
         }
       ],
-      "totalBytes": 2238832,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSingSong-LICENSE.txt"
+      "totalBytes": 2238832
     },
     {
       "name": "WPKadabra",
       "title": "Labrada",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKadabra-OFL.txt",
       "licensePath": "licenses/WPKadabra-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Labrada - WP Kadabra)",
       "styles": [
@@ -19010,15 +19012,15 @@
           "path": "previews/WPKadabra-14.png"
         }
       ],
-      "totalBytes": 2575377,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPKadabra-OFL.txt"
+      "totalBytes": 2575377
     },
     {
       "name": "WPFewWords",
       "title": "Laconic",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFewWords-OFL.txt",
       "licensePath": "licenses/WPFewWords-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Laconic - WP Few Words)",
       "styles": [
@@ -19130,15 +19132,15 @@
           "path": "previews/WPFewWords-14.png"
         }
       ],
-      "totalBytes": 503228,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFewWords-OFL.txt"
+      "totalBytes": 503228
     },
     {
       "name": "WPDominos",
       "title": "Laila",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDominos-OFL.txt",
       "licensePath": "licenses/WPDominos-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Laila - WP Dominos)",
       "styles": [
@@ -19250,15 +19252,15 @@
           "path": "previews/WPDominos-14.png"
         }
       ],
-      "totalBytes": 495758,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDominos-OFL.txt"
+      "totalBytes": 495758
     },
     {
       "name": "Lato",
       "title": "Lato",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Lato-OFL.txt",
       "licensePath": "licenses/Lato-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Lato)",
       "styles": [
@@ -19372,15 +19374,15 @@
           "path": "previews/Lato-14.png"
         }
       ],
-      "totalBytes": 1102382,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Lato-OFL.txt"
+      "totalBytes": 1102382
     },
     {
       "name": "LeagueSpartan",
       "title": "League Spartan",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LeagueSpartan-OFL.txt",
       "licensePath": "licenses/LeagueSpartan-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/League Spartan)",
       "styles": [
@@ -19492,15 +19494,15 @@
           "path": "previews/LeagueSpartan-14.png"
         }
       ],
-      "totalBytes": 1266910,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LeagueSpartan-OFL.txt"
+      "totalBytes": 1266910
     },
     {
       "name": "WPLecturn",
       "title": "Lekton",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLecturn-OFL.txt",
       "licensePath": "licenses/WPLecturn-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Lekton - WP Lecturn)",
       "styles": [
@@ -19613,15 +19615,15 @@
           "path": "previews/WPLecturn-14.png"
         }
       ],
-      "totalBytes": 829245,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLecturn-OFL.txt"
+      "totalBytes": 829245
     },
     {
       "name": "WPUnoriginal",
       "title": "Leluja Original",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUnoriginal-OFL.txt",
       "licensePath": "licenses/WPUnoriginal-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Leluja Original - WP Unoriginal)",
       "styles": [
@@ -19735,15 +19737,15 @@
           "path": "previews/WPUnoriginal-14.png"
         }
       ],
-      "totalBytes": 2180106,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUnoriginal-OFL.txt"
+      "totalBytes": 2180106
     },
     {
       "name": "WPLuthor",
       "title": "Lexend",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLuthor-OFL.txt",
       "licensePath": "licenses/WPLuthor-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Lexend - WP Luthor)",
       "styles": [
@@ -19855,15 +19857,15 @@
           "path": "previews/WPLuthor-14.png"
         }
       ],
-      "totalBytes": 1920742,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLuthor-OFL.txt"
+      "totalBytes": 1920742
     },
     {
       "name": "WPLibertinoMono",
       "title": "Liberation Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoMono-OFL.txt",
       "licensePath": "licenses/WPLibertinoMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Liberation Mono - WP Libertino Mono)",
       "styles": [
@@ -19977,15 +19979,15 @@
           "path": "previews/WPLibertinoMono-14.png"
         }
       ],
-      "totalBytes": 6225002,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoMono-OFL.txt"
+      "totalBytes": 6225002
     },
     {
       "name": "WPLibertinoSans",
       "title": "Liberation Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoSans-OFL.txt",
       "licensePath": "licenses/WPLibertinoSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Liberation Sans - WP Libertino Sans)",
       "styles": [
@@ -20099,15 +20101,15 @@
           "path": "previews/WPLibertinoSans-14.png"
         }
       ],
-      "totalBytes": 7384328,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoSans-OFL.txt"
+      "totalBytes": 7384328
     },
     {
       "name": "WPLibertinoSerif",
       "title": "Liberation Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoSerif-OFL.txt",
       "licensePath": "licenses/WPLibertinoSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Liberation Serif - WP Libertino Serif)",
       "styles": [
@@ -20221,15 +20223,15 @@
           "path": "previews/WPLibertinoSerif-14.png"
         }
       ],
-      "totalBytes": 6943135,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPLibertinoSerif-OFL.txt"
+      "totalBytes": 6943135
     },
     {
       "name": "LibertinusSans",
       "title": "Libertinus Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LibertinusSans-OFL.txt",
       "licensePath": "licenses/LibertinusSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Libertinus Sans)",
       "styles": [
@@ -20342,9 +20344,7 @@
           "path": "previews/LibertinusSans-14.png"
         }
       ],
-      "totalBytes": 4554787,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LibertinusSans-OFL.txt"
+      "totalBytes": 4554787
     },
     {
       "name": "LibertinusSerif",
@@ -20472,7 +20472,9 @@
       "name": "WPMortimer",
       "title": "Libre Baskerville",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMortimer-OFL.txt",
       "licensePath": "licenses/WPMortimer-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Libre Baskerville - WP Mortimer)",
       "styles": [
@@ -20586,15 +20588,15 @@
           "path": "previews/WPMortimer-14.png"
         }
       ],
-      "totalBytes": 5289486,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMortimer-OFL.txt"
+      "totalBytes": 5289486
     },
     {
       "name": "WPCaslon",
       "title": "Libre Caslon Text",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCaslon-OFL.txt",
       "licensePath": "licenses/WPCaslon-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Libre Caslon Text - WP Caslon)",
       "styles": [
@@ -20708,15 +20710,15 @@
           "path": "previews/WPCaslon-14.png"
         }
       ],
-      "totalBytes": 3514335,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCaslon-OFL.txt"
+      "totalBytes": 3514335
     },
     {
       "name": "Libron",
       "title": "Libron",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Libron-OFL.txt",
       "licensePath": "licenses/Libron-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Libron)",
       "styles": [
@@ -20830,15 +20832,15 @@
           "path": "previews/Libron-14.png"
         }
       ],
-      "totalBytes": 5590134,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Libron-OFL.txt"
+      "totalBytes": 5590134
     },
     {
       "name": "WPHillHouse",
       "title": "Linden Hill",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHillHouse-OFL.txt",
       "licensePath": "licenses/WPHillHouse-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Linden Hill - WP Hill House)",
       "styles": [
@@ -20950,15 +20952,15 @@
           "path": "previews/WPHillHouse-14.png"
         }
       ],
-      "totalBytes": 994839,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPHillHouse-OFL.txt"
+      "totalBytes": 994839
     },
     {
       "name": "Listopad",
       "title": "Listopad",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Listopad-OFL.txt",
       "licensePath": "licenses/Listopad-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Listopad)",
       "styles": [
@@ -21072,15 +21074,15 @@
           "path": "previews/Listopad-14.png"
         }
       ],
-      "totalBytes": 7767039,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Listopad-OFL.txt"
+      "totalBytes": 7767039
     },
     {
       "name": "WPIntheBasket",
       "title": "Lotion",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIntheBasket-OFL.txt",
       "licensePath": "licenses/WPIntheBasket-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Lotion - WP In the Basket)",
       "styles": [
@@ -21194,15 +21196,15 @@
           "path": "previews/WPIntheBasket-14.png"
         }
       ],
-      "totalBytes": 597083,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIntheBasket-OFL.txt"
+      "totalBytes": 597083
     },
     {
       "name": "Luciole",
       "title": "Luciole",
       "description": "",
+      "group": "Serif",
       "license": "Other",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Luciole-LICENSE.txt",
       "licensePath": "licenses/Luciole-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Luciole)",
       "styles": [
@@ -21314,15 +21316,15 @@
           "path": "previews/Luciole-14.png"
         }
       ],
-      "totalBytes": 1567251,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Luciole-LICENSE.txt"
+      "totalBytes": 1567251
     },
     {
       "name": "WPMMINUS",
       "title": "M PLUS Code Latin ",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMMINUS-OFL.txt",
       "licensePath": "licenses/WPMMINUS-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/M PLUS Code Latin )",
       "styles": [
@@ -21434,15 +21436,15 @@
           "path": "previews/WPMMINUS-14.png"
         }
       ],
-      "totalBytes": 1128565,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMMINUS-OFL.txt"
+      "totalBytes": 1128565
     },
     {
       "name": "WPMyTree",
       "title": "Maitree",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMyTree-OFL.txt",
       "licensePath": "licenses/WPMyTree-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Maitree - WP My Tree)",
       "styles": [
@@ -21554,15 +21556,15 @@
           "path": "previews/WPMyTree-14.png"
         }
       ],
-      "totalBytes": 1605564,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMyTree-OFL.txt"
+      "totalBytes": 1605564
     },
     {
       "name": "WPBamako",
       "title": "Mali",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBamako-OFL.txt",
       "licensePath": "licenses/WPBamako-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Mali - WP Bamako)",
       "styles": [
@@ -21676,15 +21678,15 @@
           "path": "previews/WPBamako-14.png"
         }
       ],
-      "totalBytes": 3164726,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBamako-OFL.txt"
+      "totalBytes": 3164726
     },
     {
       "name": "WPManually",
       "title": "Manuale",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPManually-OFL.txt",
       "licensePath": "licenses/WPManually-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Manuale - WP Manually)",
       "styles": [
@@ -21798,15 +21800,15 @@
           "path": "previews/WPManually-14.png"
         }
       ],
-      "totalBytes": 3061909,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPManually-OFL.txt"
+      "totalBytes": 3061909
     },
     {
       "name": "WPToronto",
       "title": "Maple Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPToronto-OFL.txt",
       "licensePath": "licenses/WPToronto-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Maple Mono - WP Toronto)",
       "styles": [
@@ -21920,15 +21922,15 @@
           "path": "previews/WPToronto-14.png"
         }
       ],
-      "totalBytes": 4835732,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPToronto-OFL.txt"
+      "totalBytes": 4835732
     },
     {
       "name": "Marauder-Text",
       "title": "Marauder",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Marauder-Text-LICENSE.md",
       "licensePath": "licenses/Marauder-Text-LICENSE.md",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Marauder)",
       "styles": [
@@ -22042,15 +22044,15 @@
           "path": "previews/Marauder-Text-14.png"
         }
       ],
-      "totalBytes": 1594164,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Marauder-Text-LICENSE.md"
+      "totalBytes": 1594164
     },
     {
       "name": "MarkaziText",
       "title": "Markazi Text",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/MarkaziText-OFL.txt",
       "licensePath": "licenses/MarkaziText-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Markazi Text)",
       "styles": [
@@ -22162,15 +22164,15 @@
           "path": "previews/MarkaziText-14.png"
         }
       ],
-      "totalBytes": 1264105,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/MarkaziText-OFL.txt"
+      "totalBytes": 1264105
     },
     {
       "name": "WPCheckmate",
       "title": "Mate",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCheckmate-OFL.txt",
       "licensePath": "licenses/WPCheckmate-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Mate - WP Checkmate)",
       "styles": [
@@ -22282,15 +22284,15 @@
           "path": "previews/WPCheckmate-14.png"
         }
       ],
-      "totalBytes": 850918,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCheckmate-OFL.txt"
+      "totalBytes": 850918
     },
     {
       "name": "WPMerryWeather",
       "title": "Merryweather",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMerryWeather-OFL.txt",
       "licensePath": "licenses/WPMerryWeather-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Merryweather - WP Merry Weather)",
       "styles": [
@@ -22404,15 +22406,15 @@
           "path": "previews/WPMerryWeather-14.png"
         }
       ],
-      "totalBytes": 6703913,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMerryWeather-OFL.txt"
+      "totalBytes": 6703913
     },
     {
       "name": "WPGout",
       "title": "Miju Goudy",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGout-LICENSE.txt",
       "licensePath": "licenses/WPGout-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Miju Goudy - WP Gout)",
       "styles": [
@@ -22526,15 +22528,15 @@
           "path": "previews/WPGout-14.png"
         }
       ],
-      "totalBytes": 8467982,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGout-LICENSE.txt"
+      "totalBytes": 8467982
     },
     {
       "name": "Minipax",
       "title": "Minipax",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Minipax-LICENSE.txt",
       "licensePath": "licenses/Minipax-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Minipax)",
       "styles": [
@@ -22646,15 +22648,15 @@
           "path": "previews/Minipax-14.png"
         }
       ],
-      "totalBytes": 1065467,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Minipax-LICENSE.txt"
+      "totalBytes": 1065467
     },
     {
       "name": "WPMSA",
       "title": "Monaspace Argon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSA-LICENSE.txt",
       "licensePath": "licenses/WPMSA-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Monaspace Argon - WP MS A)",
       "styles": [
@@ -22768,15 +22770,15 @@
           "path": "previews/WPMSA-14.png"
         }
       ],
-      "totalBytes": 6785814,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSA-LICENSE.txt"
+      "totalBytes": 6785814
     },
     {
       "name": "WPMSK",
       "title": "Monaspace Krypton",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSK-LICENSE.txt",
       "licensePath": "licenses/WPMSK-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Monaspace Krypton - WP MS K)",
       "styles": [
@@ -22890,15 +22892,15 @@
           "path": "previews/WPMSK-14.png"
         }
       ],
-      "totalBytes": 6687149,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSK-LICENSE.txt"
+      "totalBytes": 6687149
     },
     {
       "name": "WPMSN",
       "title": "Monaspace Neon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSN-LICENSE.txt",
       "licensePath": "licenses/WPMSN-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Monaspace Neon - WP MS N)",
       "styles": [
@@ -23012,15 +23014,15 @@
           "path": "previews/WPMSN-14.png"
         }
       ],
-      "totalBytes": 6785882,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSN-LICENSE.txt"
+      "totalBytes": 6785882
     },
     {
       "name": "WPMSR",
       "title": "Monaspace Radon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSR-LICENSE.txt",
       "licensePath": "licenses/WPMSR-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Monaspace Radon - WP MS R)",
       "styles": [
@@ -23134,15 +23136,15 @@
           "path": "previews/WPMSR-14.png"
         }
       ],
-      "totalBytes": 6991675,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSR-LICENSE.txt"
+      "totalBytes": 6991675
     },
     {
       "name": "WPMSX",
       "title": "Monaspace Xenon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSX-LICENSE.txt",
       "licensePath": "licenses/WPMSX-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Monaspace Xenon - WP MS X)",
       "styles": [
@@ -23256,15 +23258,15 @@
           "path": "previews/WPMSX-14.png"
         }
       ],
-      "totalBytes": 6910573,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMSX-LICENSE.txt"
+      "totalBytes": 6910573
     },
     {
       "name": "Montserrat",
       "title": "Montserrat",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Montserrat-OFL.txt",
       "licensePath": "licenses/Montserrat-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Montserrat)",
       "styles": [
@@ -23378,15 +23380,15 @@
           "path": "previews/Montserrat-14.png"
         }
       ],
-      "totalBytes": 7192605,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Montserrat-OFL.txt"
+      "totalBytes": 7192605
     },
     {
       "name": "WPNepogrimer",
       "title": "Nepomuk",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNepogrimer-OFL.txt",
       "licensePath": "licenses/WPNepogrimer-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Nepomuk - WP Neogrimer)",
       "styles": [
@@ -23500,15 +23502,15 @@
           "path": "previews/WPNepogrimer-14.png"
         }
       ],
-      "totalBytes": 2047453,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNepogrimer-OFL.txt"
+      "totalBytes": 2047453
     },
     {
       "name": "Neuton",
       "title": "Neuton",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Neuton-OFL.txt",
       "licensePath": "licenses/Neuton-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Neuton)",
       "styles": [
@@ -23621,15 +23623,15 @@
           "path": "previews/Neuton-14.png"
         }
       ],
-      "totalBytes": 581618,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Neuton-OFL.txt"
+      "totalBytes": 581618
     },
     {
       "name": "NeverMindHand",
       "title": "NeverMind Hand",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindHand-OFL.txt",
       "licensePath": "licenses/NeverMindHand-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/NeverMind Hand)",
       "styles": [
@@ -23741,15 +23743,15 @@
           "path": "previews/NeverMindHand-14.png"
         }
       ],
-      "totalBytes": 1188863,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindHand-OFL.txt"
+      "totalBytes": 1188863
     },
     {
       "name": "NeverMindHandwriting",
       "title": "NeverMind Handwriting",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindHandwriting-OFL.txt",
       "licensePath": "licenses/NeverMindHandwriting-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/NeverMind Handwriting)",
       "styles": [
@@ -23861,15 +23863,15 @@
           "path": "previews/NeverMindHandwriting-14.png"
         }
       ],
-      "totalBytes": 1150124,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindHandwriting-OFL.txt"
+      "totalBytes": 1150124
     },
     {
       "name": "WPIMindSlab",
       "title": "NeverMind Slab",
       "description": "",
+      "group": "Slab",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIMindSlab-OFL.txt",
       "licensePath": "licenses/WPIMindSlab-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/NeverMind Slab - WP I Mind Slab)",
       "styles": [
@@ -23981,15 +23983,15 @@
           "path": "previews/WPIMindSlab-14.png"
         }
       ],
-      "totalBytes": 2636953,
-      "group": "Slab",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPIMindSlab-OFL.txt"
+      "totalBytes": 2636953
     },
     {
       "name": "NeverMindsemi-serif",
       "title": "NeverMind semi-serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindsemi-serif-OFL.txt",
       "licensePath": "licenses/NeverMindsemi-serif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/NeverMind semi-serif)",
       "styles": [
@@ -24101,15 +24103,15 @@
           "path": "previews/NeverMindsemi-serif-14.png"
         }
       ],
-      "totalBytes": 1208037,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NeverMindsemi-serif-OFL.txt"
+      "totalBytes": 1208037
     },
     {
       "name": "WPCigaretteBurns",
       "title": "New Tegomin",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCigaretteBurns-OFL.txt",
       "licensePath": "licenses/WPCigaretteBurns-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/New Tegomin - WP Cigarette Burns)",
       "styles": [
@@ -24220,15 +24222,15 @@
           "path": "previews/WPCigaretteBurns-14.png"
         }
       ],
-      "totalBytes": 324335,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPCigaretteBurns-OFL.txt"
+      "totalBytes": 324335
     },
     {
       "name": "Newsreader16pt",
       "title": "Newsreader",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Newsreader16pt-OFL.txt",
       "licensePath": "licenses/Newsreader16pt-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Newsreader)",
       "styles": [
@@ -24342,15 +24344,15 @@
           "path": "previews/Newsreader16pt-14.png"
         }
       ],
-      "totalBytes": 4030920,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Newsreader16pt-OFL.txt"
+      "totalBytes": 4030920
     },
     {
       "name": "WPSalamander",
       "title": "Newt Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSalamander-OFL.txt",
       "licensePath": "licenses/WPSalamander-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Newt Serif - WP Salamander)",
       "styles": [
@@ -24464,15 +24466,15 @@
           "path": "previews/WPSalamander-14.png"
         }
       ],
-      "totalBytes": 1591174,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSalamander-OFL.txt"
+      "totalBytes": 1591174
     },
     {
       "name": "WPPostal",
       "title": "Nimbus Mono PS",
       "description": "",
+      "group": "Mono",
       "license": "GPL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPostal-LICENSE.txt",
       "licensePath": "licenses/WPPostal-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Nimbus Mono PS - WP Postal)",
       "styles": [
@@ -24586,15 +24588,15 @@
           "path": "previews/WPPostal-14.png"
         }
       ],
-      "totalBytes": 2916162,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPostal-LICENSE.txt"
+      "totalBytes": 2916162
     },
     {
       "name": "WPNocturnal",
       "title": "Nocturne Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNocturnal-OFL.txt",
       "licensePath": "licenses/WPNocturnal-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Nocturne Serif - WP Nocturnal)",
       "styles": [
@@ -24705,15 +24707,15 @@
           "path": "previews/WPNocturnal-14.png"
         }
       ],
-      "totalBytes": 527714,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNocturnal-OFL.txt"
+      "totalBytes": 527714
     },
     {
       "name": "WPNotice",
       "title": "Noticia Text",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNotice-OFL.txt",
       "licensePath": "licenses/WPNotice-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Noticia Text - WP Notice)",
       "styles": [
@@ -24827,15 +24829,15 @@
           "path": "previews/WPNotice-14.png"
         }
       ],
-      "totalBytes": 2923886,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNotice-OFL.txt"
+      "totalBytes": 2923886
     },
     {
       "name": "NotoSans",
       "title": "Noto Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NotoSans-OFL.txt",
       "licensePath": "licenses/NotoSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Noto Sans)",
       "styles": [
@@ -24949,15 +24951,15 @@
           "path": "previews/NotoSans-14.png"
         }
       ],
-      "totalBytes": 7857078,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NotoSans-OFL.txt"
+      "totalBytes": 7857078
     },
     {
       "name": "NotoSerif",
       "title": "Noto Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NotoSerif-OFL.txt",
       "licensePath": "licenses/NotoSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Noto Serif)",
       "styles": [
@@ -25071,15 +25073,15 @@
           "path": "previews/NotoSerif-14.png"
         }
       ],
-      "totalBytes": 8433527,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/NotoSerif-OFL.txt"
+      "totalBytes": 8433527
     },
     {
       "name": "WPOCRA",
       "title": "OCR-A",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOCRA-OFL.txt",
       "licensePath": "licenses/WPOCRA-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/OCR-A - WP OCR-A)",
       "styles": [
@@ -25190,15 +25192,15 @@
           "path": "previews/WPOCRA-14.png"
         }
       ],
-      "totalBytes": 113443,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOCRA-OFL.txt"
+      "totalBytes": 113443
     },
     {
       "name": "WPOCRB",
       "title": "OCR-B",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOCRB-OFL.txt",
       "licensePath": "licenses/WPOCRB-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/OCR-B - WP OCR-B)",
       "styles": [
@@ -25309,15 +25311,15 @@
           "path": "previews/WPOCRB-14.png"
         }
       ],
-      "totalBytes": 127896,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOCRB-OFL.txt"
+      "totalBytes": 127896
     },
     {
       "name": "WPOD2",
       "title": "OpenDyslexic 2",
       "description": "",
+      "group": "Serif",
       "license": "Other",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOD2-License.txt",
       "licensePath": "licenses/WPOD2-License.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/OpenDyslexic 2 - WP OD 2)",
       "styles": [
@@ -25431,15 +25433,15 @@
           "path": "previews/WPOD2-14.png"
         }
       ],
-      "totalBytes": 2852982,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOD2-License.txt"
+      "totalBytes": 2852982
     },
     {
       "name": "WPOD4",
       "title": "OpenDyslexic 4",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOD4-OFL.txt",
       "licensePath": "licenses/WPOD4-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/OpenDyslexic 4 - WP OD 4)",
       "styles": [
@@ -25553,15 +25555,15 @@
           "path": "previews/WPOD4-14.png"
         }
       ],
-      "totalBytes": 8149804,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOD4-OFL.txt"
+      "totalBytes": 8149804
     },
     {
       "name": "WPGalaxy",
       "title": "Orbit",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGalaxy-OFL.txt",
       "licensePath": "licenses/WPGalaxy-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Orbit - WP Galaxy)",
       "styles": [
@@ -25672,15 +25674,15 @@
           "path": "previews/WPGalaxy-14.png"
         }
       ],
-      "totalBytes": 388045,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGalaxy-OFL.txt"
+      "totalBytes": 388045
     },
     {
       "name": "WPOutfitted",
       "title": "Outfit",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOutfitted-OFL.txt",
       "licensePath": "licenses/WPOutfitted-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Outfit - WP Outfitted)",
       "styles": [
@@ -25792,15 +25794,15 @@
           "path": "previews/WPOutfitted-14.png"
         }
       ],
-      "totalBytes": 898106,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOutfitted-OFL.txt"
+      "totalBytes": 898106
     },
     {
       "name": "WPOverlocked",
       "title": "Overlock",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOverlocked-OFL.txt",
       "licensePath": "licenses/WPOverlocked-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Overlock - WP Overlocked)",
       "styles": [
@@ -25914,15 +25916,15 @@
           "path": "previews/WPOverlocked-14.png"
         }
       ],
-      "totalBytes": 1038242,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOverlocked-OFL.txt"
+      "totalBytes": 1038242
     },
     {
       "name": "WPUnderpass",
       "title": "Overpass",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUnderpass-OFL.txt",
       "licensePath": "licenses/WPUnderpass-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Overpass - WP Underpass)",
       "styles": [
@@ -26036,15 +26038,15 @@
           "path": "previews/WPUnderpass-14.png"
         }
       ],
-      "totalBytes": 5951219,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPUnderpass-OFL.txt"
+      "totalBytes": 5951219
     },
     {
       "name": "WP46",
       "title": "PL46",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WP46-OFL.txt",
       "licensePath": "licenses/WP46-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/PL46 - WP46)",
       "styles": [
@@ -26155,15 +26157,15 @@
           "path": "previews/WP46-14.png"
         }
       ],
-      "totalBytes": 579794,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WP46-OFL.txt"
+      "totalBytes": 579794
     },
     {
       "name": "WPStar",
       "title": "Patrick Hand",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStar-OFL.txt",
       "licensePath": "licenses/WPStar-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Patrick Hand - WP Star)",
       "styles": [
@@ -26274,15 +26276,15 @@
           "path": "previews/WPStar-14.png"
         }
       ],
-      "totalBytes": 447180,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStar-OFL.txt"
+      "totalBytes": 447180
     },
     {
       "name": "Petrona",
       "title": "Petrona",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Petrona-OFL.txt",
       "licensePath": "licenses/Petrona-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Petrona)",
       "styles": [
@@ -26396,15 +26398,15 @@
           "path": "previews/Petrona-14.png"
         }
       ],
-      "totalBytes": 3420102,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Petrona-OFL.txt"
+      "totalBytes": 3420102
     },
     {
       "name": "Philosopher",
       "title": "Philosopher",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Philosopher-OFL.txt",
       "licensePath": "licenses/Philosopher-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Philosopher)",
       "styles": [
@@ -26518,15 +26520,15 @@
           "path": "previews/Philosopher-14.png"
         }
       ],
-      "totalBytes": 3123703,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Philosopher-OFL.txt"
+      "totalBytes": 3123703
     },
     {
       "name": "Piazzolla",
       "title": "Piazzolla",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Piazzolla-OFL.txt",
       "licensePath": "licenses/Piazzolla-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Piazzolla)",
       "styles": [
@@ -26640,15 +26642,15 @@
           "path": "previews/Piazzolla-14.png"
         }
       ],
-      "totalBytes": 5515654,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Piazzolla-OFL.txt"
+      "totalBytes": 5515654
     },
     {
       "name": "WPPixelC",
       "title": "Pixel Code",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPixelC-OFL.txt",
       "licensePath": "licenses/WPPixelC-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Pixel Code - WP PixelC)",
       "styles": [
@@ -26762,15 +26764,15 @@
           "path": "previews/WPPixelC-14.png"
         }
       ],
-      "totalBytes": 5501583,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPixelC-OFL.txt"
+      "totalBytes": 5501583
     },
     {
       "name": "PlaypenSans",
       "title": "Playpen Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/PlaypenSans-OFL.txt",
       "licensePath": "licenses/PlaypenSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Playpen Sans)",
       "styles": [
@@ -26882,15 +26884,15 @@
           "path": "previews/PlaypenSans-14.png"
         }
       ],
-      "totalBytes": 4188003,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/PlaypenSans-OFL.txt"
+      "totalBytes": 4188003
     },
     {
       "name": "Podkova",
       "title": "Podkova",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Podkova-OFL.txt",
       "licensePath": "licenses/Podkova-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Podkova)",
       "styles": [
@@ -27002,15 +27004,15 @@
           "path": "previews/Podkova-14.png"
         }
       ],
-      "totalBytes": 2130445,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Podkova-OFL.txt"
+      "totalBytes": 2130445
     },
     {
       "name": "WPPolybius",
       "title": "Poly",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPolybius-OFL.txt",
       "licensePath": "licenses/WPPolybius-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Poly - WP Polybius)",
       "styles": [
@@ -27122,15 +27124,15 @@
           "path": "previews/WPPolybius-14.png"
         }
       ],
-      "totalBytes": 809708,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPolybius-OFL.txt"
+      "totalBytes": 809708
     },
     {
       "name": "WPMary",
       "title": "Poppins",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMary-OFL.txt",
       "licensePath": "licenses/WPMary-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Poppins - WP Mary)",
       "styles": [
@@ -27244,15 +27246,15 @@
           "path": "previews/WPMary-14.png"
         }
       ],
-      "totalBytes": 1734262,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMary-OFL.txt"
+      "totalBytes": 1734262
     },
     {
       "name": "WPFroggy",
       "title": "Proggy",
       "description": "",
+      "group": "Serif",
       "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFroggy-LICENSE.txt",
       "licensePath": "licenses/WPFroggy-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Proggy - WP Froggy)",
       "styles": [
@@ -27363,15 +27365,15 @@
           "path": "previews/WPFroggy-14.png"
         }
       ],
-      "totalBytes": 1208639,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFroggy-LICENSE.txt"
+      "totalBytes": 1208639
     },
     {
       "name": "WPProse",
       "title": "Proza Libre",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPProse-OFL.txt",
       "licensePath": "licenses/WPProse-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Proza Libre - WP Prose)",
       "styles": [
@@ -27485,15 +27487,15 @@
           "path": "previews/WPProse-14.png"
         }
       ],
-      "totalBytes": 1755042,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPProse-OFL.txt"
+      "totalBytes": 1755042
     },
     {
       "name": "WPPoltergeist",
       "title": "Półtawski Nowy",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPoltergeist-OFL.txt",
       "licensePath": "licenses/WPPoltergeist-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Półtawski Nowy - WP Poltergeist)",
       "styles": [
@@ -27607,15 +27609,15 @@
           "path": "previews/WPPoltergeist-14.png"
         }
       ],
-      "totalBytes": 4623475,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPoltergeist-OFL.txt"
+      "totalBytes": 4623475
     },
     {
       "name": "REM",
       "title": "REM",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/REM-OFL.txt",
       "licensePath": "licenses/REM-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/REM)",
       "styles": [
@@ -27729,15 +27731,15 @@
           "path": "previews/REM-14.png"
         }
       ],
-      "totalBytes": 3450638,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/REM-OFL.txt"
+      "totalBytes": 3450638
     },
     {
       "name": "WPRadical",
       "title": "Radley",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRadical-OFL.txt",
       "licensePath": "licenses/WPRadical-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Radley - WP Radical)",
       "styles": [
@@ -27849,15 +27851,15 @@
           "path": "previews/WPRadical-14.png"
         }
       ],
-      "totalBytes": 797417,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRadical-OFL.txt"
+      "totalBytes": 797417
     },
     {
       "name": "Raleway",
       "title": "Raleway",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Raleway-OFL.txt",
       "licensePath": "licenses/Raleway-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Raleway)",
       "styles": [
@@ -27971,15 +27973,15 @@
           "path": "previews/Raleway-14.png"
         }
       ],
-      "totalBytes": 5592126,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Raleway-OFL.txt"
+      "totalBytes": 5592126
     },
     {
       "name": "Readerly",
       "title": "Readerly",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Readerly-OFL.txt",
       "licensePath": "licenses/Readerly-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Readerly)",
       "styles": [
@@ -28093,15 +28095,15 @@
           "path": "previews/Readerly-14.png"
         }
       ],
-      "totalBytes": 5584086,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Readerly-OFL.txt"
+      "totalBytes": 5584086
     },
     {
       "name": "WPRecurrentSansCasual",
       "title": "Recursive Sans Casual",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRecurrentSansCasual-OFL.txt",
       "licensePath": "licenses/WPRecurrentSansCasual-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Recursive Sans Casual - WP Recurrent Sans Casual)",
       "styles": [
@@ -28215,15 +28217,15 @@
           "path": "previews/WPRecurrentSansCasual-14.png"
         }
       ],
-      "totalBytes": 3877992,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRecurrentSansCasual-OFL.txt"
+      "totalBytes": 3877992
     },
     {
       "name": "RecursiveSansCslSt",
       "title": "Recursive Sans Casual",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RecursiveSansCslSt-OFL.txt",
       "licensePath": "licenses/RecursiveSansCslSt-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Recursive Sans Casual)",
       "styles": [
@@ -28336,15 +28338,15 @@
           "path": "previews/RecursiveSansCslSt-14.png"
         }
       ],
-      "totalBytes": 2832140,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RecursiveSansCslSt-OFL.txt"
+      "totalBytes": 2832140
     },
     {
       "name": "WPRecurrentSansLinear",
       "title": "Recursive Sans Linear",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRecurrentSansLinear-OFL.txt",
       "licensePath": "licenses/WPRecurrentSansLinear-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Recursive Sans Linear - WP Recurrent Sans Linear)",
       "styles": [
@@ -28458,15 +28460,15 @@
           "path": "previews/WPRecurrentSansLinear-14.png"
         }
       ],
-      "totalBytes": 3896533,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRecurrentSansLinear-OFL.txt"
+      "totalBytes": 3896533
     },
     {
       "name": "RecursiveSansLnrSt",
       "title": "Recursive Sans Linear",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RecursiveSansLnrSt-OFL.txt",
       "licensePath": "licenses/RecursiveSansLnrSt-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Recursive Sans Linear)",
       "styles": [
@@ -28580,15 +28582,15 @@
           "path": "previews/RecursiveSansLnrSt-14.png"
         }
       ],
-      "totalBytes": 3882319,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RecursiveSansLnrSt-OFL.txt"
+      "totalBytes": 3882319
     },
     {
       "name": "Redaction",
       "title": "Redaction",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Redaction-OFL.txt",
       "licensePath": "licenses/Redaction-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Redaction)",
       "styles": [
@@ -28701,15 +28703,15 @@
           "path": "previews/Redaction-14.png"
         }
       ],
-      "totalBytes": 1444298,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Redaction-OFL.txt"
+      "totalBytes": 1444298
     },
     {
       "name": "RedditSans",
       "title": "Reddit Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RedditSans-OFL.txt",
       "licensePath": "licenses/RedditSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Reddit Sans)",
       "styles": [
@@ -28823,15 +28825,15 @@
           "path": "previews/RedditSans-14.png"
         }
       ],
-      "totalBytes": 4140777,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RedditSans-OFL.txt"
+      "totalBytes": 4140777
     },
     {
       "name": "WPBotMono",
       "title": "Roboto Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBotMono-OFL.txt",
       "licensePath": "licenses/WPBotMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Roboto Mono - WP Bot Mono)",
       "styles": [
@@ -28945,15 +28947,15 @@
           "path": "previews/WPBotMono-14.png"
         }
       ],
-      "totalBytes": 3843279,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBotMono-OFL.txt"
+      "totalBytes": 3843279
     },
     {
       "name": "WPBotSerif",
       "title": "Roboto Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBotSerif-OFL.txt",
       "licensePath": "licenses/WPBotSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Roboto Serif - WP Bot Serif)",
       "styles": [
@@ -29067,15 +29069,15 @@
           "path": "previews/WPBotSerif-14.png"
         }
       ],
-      "totalBytes": 6548342,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBotSerif-OFL.txt"
+      "totalBytes": 6548342
     },
     {
       "name": "RobotoSlab",
       "title": "Roboto Slab",
       "description": "",
+      "group": "Slab",
       "license": "Apache-2.0",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RobotoSlab-LICENSE.txt",
       "licensePath": "licenses/RobotoSlab-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Roboto Slab)",
       "styles": [
@@ -29187,15 +29189,15 @@
           "path": "previews/RobotoSlab-14.png"
         }
       ],
-      "totalBytes": 2435637,
-      "group": "Slab",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/RobotoSlab-LICENSE.txt"
+      "totalBytes": 2435637
     },
     {
       "name": "Roboto",
       "title": "Roboto",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Roboto-OFL.txt",
       "licensePath": "licenses/Roboto-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Roboto)",
       "styles": [
@@ -29309,15 +29311,15 @@
           "path": "previews/Roboto-14.png"
         }
       ],
-      "totalBytes": 4933479,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Roboto-OFL.txt"
+      "totalBytes": 4933479
     },
     {
       "name": "Rosario",
       "title": "Rosario",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Rosario-OFL.txt",
       "licensePath": "licenses/Rosario-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Rosario)",
       "styles": [
@@ -29431,15 +29433,15 @@
           "path": "previews/Rosario-14.png"
         }
       ],
-      "totalBytes": 3000427,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Rosario-OFL.txt"
+      "totalBytes": 3000427
     },
     {
       "name": "WPRosebud",
       "title": "Rosarivo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRosebud-OFL.txt",
       "licensePath": "licenses/WPRosebud-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Rosarivo - WP Rosebud)",
       "styles": [
@@ -29551,15 +29553,15 @@
           "path": "previews/WPRosebud-14.png"
         }
       ],
-      "totalBytes": 545549,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRosebud-OFL.txt"
+      "totalBytes": 545549
     },
     {
       "name": "WPGeeko",
       "title": "SUSE",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeeko-OFL.txt",
       "licensePath": "licenses/WPGeeko-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/SUSE - WP Geeko)",
       "styles": [
@@ -29673,15 +29675,15 @@
           "path": "previews/WPGeeko-14.png"
         }
       ],
-      "totalBytes": 3551616,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeeko-OFL.txt"
+      "totalBytes": 3551616
     },
     {
       "name": "WPGeekoMono",
       "title": "SUSE Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeekoMono-OFL.txt",
       "licensePath": "licenses/WPGeekoMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/SUSE Mono - WP Geeko Mono)",
       "styles": [
@@ -29795,15 +29797,15 @@
           "path": "previews/WPGeekoMono-14.png"
         }
       ],
-      "totalBytes": 2211156,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGeekoMono-OFL.txt"
+      "totalBytes": 2211156
     },
     {
       "name": "Sanchez",
       "title": "Sanchez",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Sanchez-OFL.txt",
       "licensePath": "licenses/Sanchez-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Sanchez)",
       "styles": [
@@ -29915,15 +29917,15 @@
           "path": "previews/Sanchez-14.png"
         }
       ],
-      "totalBytes": 960699,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Sanchez-OFL.txt"
+      "totalBytes": 960699
     },
     {
       "name": "WPZenith",
       "title": "Sawarabi Mincho",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPZenith-OFL.txt",
       "licensePath": "licenses/WPZenith-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Sawarabi Mincho - WP Zenith)",
       "styles": [
@@ -30034,15 +30036,15 @@
           "path": "previews/WPZenith-14.png"
         }
       ],
-      "totalBytes": 1113023,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPZenith-OFL.txt"
+      "totalBytes": 1113023
     },
     {
       "name": "WPScience",
       "title": "Science Gothic",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPScience-OFL.txt",
       "licensePath": "licenses/WPScience-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Science Gothic - WP Science)",
       "styles": [
@@ -30156,15 +30158,15 @@
           "path": "previews/WPScience-14.png"
         }
       ],
-      "totalBytes": 4862150,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPScience-OFL.txt"
+      "totalBytes": 4862150
     },
     {
       "name": "WPSeiklus",
       "title": "Secuela",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSeiklus-OFL.txt",
       "licensePath": "licenses/WPSeiklus-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Secuela - WP Seiklus)",
       "styles": [
@@ -30278,15 +30280,15 @@
           "path": "previews/WPSeiklus-14.png"
         }
       ],
-      "totalBytes": 2071427,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSeiklus-OFL.txt"
+      "totalBytes": 2071427
     },
     {
       "name": "WPVroom",
       "title": "Sedan",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPVroom-OFL.txt",
       "licensePath": "licenses/WPVroom-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Sedan - WP Vroom)",
       "styles": [
@@ -30398,15 +30400,15 @@
           "path": "previews/WPVroom-14.png"
         }
       ],
-      "totalBytes": 947694,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPVroom-OFL.txt"
+      "totalBytes": 947694
     },
     {
       "name": "WPSelective",
       "title": "Selectric Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSelective-OFL.txt",
       "licensePath": "licenses/WPSelective-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Selectric Mono - WP Selective)",
       "styles": [
@@ -30517,15 +30519,15 @@
           "path": "previews/WPSelective-14.png"
         }
       ],
-      "totalBytes": 197999,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSelective-OFL.txt"
+      "totalBytes": 197999
     },
     {
       "name": "ShantellSans",
       "title": "Shantell Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ShantellSans-OFL.txt",
       "licensePath": "licenses/ShantellSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Shantell Sans)",
       "styles": [
@@ -30639,15 +30641,15 @@
           "path": "previews/ShantellSans-14.png"
         }
       ],
-      "totalBytes": 4492098,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/ShantellSans-OFL.txt"
+      "totalBytes": 4492098
     },
     {
       "name": "WPSharedTechMono",
       "title": "Share Tech Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSharedTechMono-OFL.txt",
       "licensePath": "licenses/WPSharedTechMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Share Tech Mono - WP Shared Tech)",
       "styles": [
@@ -30758,15 +30760,15 @@
           "path": "previews/WPSharedTechMono-14.png"
         }
       ],
-      "totalBytes": 213476,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSharedTechMono-OFL.txt"
+      "totalBytes": 213476
     },
     {
       "name": "Share",
       "title": "Share",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Share-OFL.txt",
       "licensePath": "licenses/Share-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Share)",
       "styles": [
@@ -30880,15 +30882,15 @@
           "path": "previews/Share-14.png"
         }
       ],
-      "totalBytes": 945079,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Share-OFL.txt"
+      "totalBytes": 945079
     },
     {
       "name": "WPSMincho",
       "title": "Shippori Mincho",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSMincho-OFL.txt",
       "licensePath": "licenses/WPSMincho-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Shippori Mincho - WP S Mincho)",
       "styles": [
@@ -31000,15 +31002,15 @@
           "path": "previews/WPSMincho-14.png"
         }
       ],
-      "totalBytes": 722829,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSMincho-OFL.txt"
+      "totalBytes": 722829
     },
     {
       "name": "Signika",
       "title": "Signika",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Signika-OFL.txt",
       "licensePath": "licenses/Signika-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Signika)",
       "styles": [
@@ -31120,15 +31122,15 @@
           "path": "previews/Signika-14.png"
         }
       ],
-      "totalBytes": 2103179,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Signika-OFL.txt"
+      "totalBytes": 2103179
     },
     {
       "name": "SofiaSans",
       "title": "Sofia Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/SofiaSans-OFL.txt",
       "licensePath": "licenses/SofiaSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Sofia Sans)",
       "styles": [
@@ -31242,15 +31244,15 @@
           "path": "previews/SofiaSans-14.png"
         }
       ],
-      "totalBytes": 3240681,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/SofiaSans-OFL.txt"
+      "totalBytes": 3240681
     },
     {
       "name": "WPSomeTypeMono",
       "title": "Sometype Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSomeTypeMono-OFL.txt",
       "licensePath": "licenses/WPSomeTypeMono-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Sometype Mono - WP Sum Type Mono)",
       "styles": [
@@ -31364,15 +31366,15 @@
           "path": "previews/WPSomeTypeMono-14.png"
         }
       ],
-      "totalBytes": 1830482,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSomeTypeMono-OFL.txt"
+      "totalBytes": 1830482
     },
     {
       "name": "SourGummy",
       "title": "Sour Gummy",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/SourGummy-OFL.txt",
       "licensePath": "licenses/SourGummy-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Sour Gummy)",
       "styles": [
@@ -31484,15 +31486,15 @@
           "path": "previews/SourGummy-14.png"
         }
       ],
-      "totalBytes": 811567,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/SourGummy-OFL.txt"
+      "totalBytes": 811567
     },
     {
       "name": "WPSCodePro",
       "title": "Source Code Pro",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSCodePro-OFL.txt",
       "licensePath": "licenses/WPSCodePro-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Source Code Pro - WP SCode Pro)",
       "styles": [
@@ -31606,15 +31608,15 @@
           "path": "previews/WPSCodePro-14.png"
         }
       ],
-      "totalBytes": 4538388,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSCodePro-OFL.txt"
+      "totalBytes": 4538388
     },
     {
       "name": "WPSpacedOut",
       "title": "Space Mono",
       "description": "",
+      "group": "Mono",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSpacedOut-OFL.txt",
       "licensePath": "licenses/WPSpacedOut-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Space Mono - WP Spaced Out)",
       "styles": [
@@ -31728,15 +31730,15 @@
           "path": "previews/WPSpacedOut-14.png"
         }
       ],
-      "totalBytes": 2658946,
-      "group": "Mono",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSpacedOut-OFL.txt"
+      "totalBytes": 2658946
     },
     {
       "name": "WPElite",
       "title": "Special Elite",
       "description": "",
+      "group": "Serif",
       "license": "Apache-2.0",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPElite-LICENSE.txt",
       "licensePath": "licenses/WPElite-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Special Elite - WP Elite)",
       "styles": [
@@ -31847,15 +31849,15 @@
           "path": "previews/WPElite-14.png"
         }
       ],
-      "totalBytes": 513999,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPElite-LICENSE.txt"
+      "totalBytes": 513999
     },
     {
       "name": "Spectral",
       "title": "Spectral",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Spectral-OFL.txt",
       "licensePath": "licenses/Spectral-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Spectral)",
       "styles": [
@@ -31969,15 +31971,15 @@
           "path": "previews/Spectral-14.png"
         }
       ],
-      "totalBytes": 4867703,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Spectral-OFL.txt"
+      "totalBytes": 4867703
     },
     {
       "name": "WPSplendid",
       "title": "Splentinex",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSplendid-OFL.txt",
       "licensePath": "licenses/WPSplendid-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Splentinex - WP Splendid)",
       "styles": [
@@ -32091,15 +32093,15 @@
           "path": "previews/WPSplendid-14.png"
         }
       ],
-      "totalBytes": 1596823,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSplendid-OFL.txt"
+      "totalBytes": 1596823
     },
     {
       "name": "WPStyleU",
       "title": "Stilu",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStyleU-OFL.txt",
       "licensePath": "licenses/WPStyleU-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Stilu - WP Style U)",
       "styles": [
@@ -32211,15 +32213,15 @@
           "path": "previews/WPStyleU-14.png"
         }
       ],
-      "totalBytes": 634856,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPStyleU-OFL.txt"
+      "totalBytes": 634856
     },
     {
       "name": "WPRMRF",
       "title": "Sudo",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRMRF-OFL.txt",
       "licensePath": "licenses/WPRMRF-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Sudo - WP RM RF)",
       "styles": [
@@ -32333,15 +32335,15 @@
           "path": "previews/WPRMRF-14.png"
         }
       ],
-      "totalBytes": 5222194,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRMRF-OFL.txt"
+      "totalBytes": 5222194
     },
     {
       "name": "WPOneDay",
       "title": "Tagesschrift",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOneDay-OFL.txt",
       "licensePath": "licenses/WPOneDay-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Tagesschrift - WP One Day)",
       "styles": [
@@ -32452,15 +32454,15 @@
           "path": "previews/WPOneDay-14.png"
         }
       ],
-      "totalBytes": 503713,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOneDay-OFL.txt"
+      "totalBytes": 503713
     },
     {
       "name": "Taviraj",
       "title": "Taviraj",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Taviraj-OFL.txt",
       "licensePath": "licenses/Taviraj-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Taviraj)",
       "styles": [
@@ -32574,15 +32576,15 @@
           "path": "previews/Taviraj-14.png"
         }
       ],
-      "totalBytes": 3329303,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Taviraj-OFL.txt"
+      "totalBytes": 3329303
     },
     {
       "name": "WPTexture",
       "title": "Texturina",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTexture-OFL.txt",
       "licensePath": "licenses/WPTexture-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Texturina - WP Texture)",
       "styles": [
@@ -32696,15 +32698,15 @@
           "path": "previews/WPTexture-14.png"
         }
       ],
-      "totalBytes": 3201488,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTexture-OFL.txt"
+      "totalBytes": 3201488
     },
     {
       "name": "WPYours",
       "title": "Tienne",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPYours-OFL.txt",
       "licensePath": "licenses/WPYours-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Tienne - WP Yours)",
       "styles": [
@@ -32816,15 +32818,15 @@
           "path": "previews/WPYours-14.png"
         }
       ],
-      "totalBytes": 724475,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPYours-OFL.txt"
+      "totalBytes": 724475
     },
     {
       "name": "WPTribute",
       "title": "Tribun ADF Std",
       "description": "",
+      "group": "Serif",
       "license": "GPL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTribute-LICENSE.txt",
       "licensePath": "licenses/WPTribute-LICENSE.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Tribun ADF Std - WP Tribute)",
       "styles": [
@@ -32938,15 +32940,15 @@
           "path": "previews/WPTribute-14.png"
         }
       ],
-      "totalBytes": 1572479,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPTribute-LICENSE.txt"
+      "totalBytes": 1572479
     },
     {
       "name": "WPFaceOff",
       "title": "Typey McTypeface",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFaceOff-OFL.txt",
       "licensePath": "licenses/WPFaceOff-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Typey McTypeface - WP Face Off)",
       "styles": [
@@ -33058,15 +33060,15 @@
           "path": "previews/WPFaceOff-14.png"
         }
       ],
-      "totalBytes": 1644425,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFaceOff-OFL.txt"
+      "totalBytes": 1644425
     },
     {
       "name": "WPVenus",
       "title": "Vesper Libre",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPVenus-OFL.txt",
       "licensePath": "licenses/WPVenus-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Vesper Libre - WP Evening)",
       "styles": [
@@ -33178,15 +33180,15 @@
           "path": "previews/WPVenus-14.png"
         }
       ],
-      "totalBytes": 785898,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPVenus-OFL.txt"
+      "totalBytes": 785898
     },
     {
       "name": "WPMotivator",
       "title": "Volkhov",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMotivator-OFL.txt",
       "licensePath": "licenses/WPMotivator-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Volkhov - WP Motivator)",
       "styles": [
@@ -33300,15 +33302,15 @@
           "path": "previews/WPMotivator-14.png"
         }
       ],
-      "totalBytes": 1437283,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPMotivator-OFL.txt"
+      "totalBytes": 1437283
     },
     {
       "name": "WPRipVanWinkle",
       "title": "Winky Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRipVanWinkle-OFL.txt",
       "licensePath": "licenses/WPRipVanWinkle-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Winky Sans - WP Rip Van Winkle)",
       "styles": [
@@ -33422,15 +33424,15 @@
           "path": "previews/WPRipVanWinkle-14.png"
         }
       ],
-      "totalBytes": 2069861,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPRipVanWinkle-OFL.txt"
+      "totalBytes": 2069861
     },
     {
       "name": "Wittgenstein",
       "title": "Wittgenstein",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Wittgenstein-OFL.txt",
       "licensePath": "licenses/Wittgenstein-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Wittgenstein)",
       "styles": [
@@ -33544,15 +33546,15 @@
           "path": "previews/Wittgenstein-14.png"
         }
       ],
-      "totalBytes": 3438195,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Wittgenstein-OFL.txt"
+      "totalBytes": 3438195
     },
     {
       "name": "WorkSans",
       "title": "Work Sans",
       "description": "",
+      "group": "Sans",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WorkSans-OFL.txt",
       "licensePath": "licenses/WorkSans-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Work Sans)",
       "styles": [
@@ -33666,15 +33668,15 @@
           "path": "previews/WorkSans-14.png"
         }
       ],
-      "totalBytes": 4489485,
-      "group": "Sans",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WorkSans-OFL.txt"
+      "totalBytes": 4489485
     },
     {
       "name": "WPYTypewriter",
       "title": "X Typewriter",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPYTypewriter-OFL.txt",
       "licensePath": "licenses/WPYTypewriter-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/X Typewriter - WP Y Typewriter)",
       "styles": [
@@ -33786,15 +33788,15 @@
           "path": "previews/WPYTypewriter-14.png"
         }
       ],
-      "totalBytes": 989346,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPYTypewriter-OFL.txt"
+      "totalBytes": 989346
     },
     {
       "name": "YoungSerif",
       "title": "Young Serif",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/YoungSerif-OFL.txt",
       "licensePath": "licenses/YoungSerif-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Young Serif)",
       "styles": [
@@ -33907,15 +33909,15 @@
           "path": "previews/YoungSerif-14.png"
         }
       ],
-      "totalBytes": 3198374,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/YoungSerif-OFL.txt"
+      "totalBytes": 3198374
     },
     {
       "name": "Yrsa",
       "title": "Yrsa",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Yrsa-OFL.txt",
       "licensePath": "licenses/Yrsa-OFL.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Yrsa)",
       "styles": [
@@ -34029,15 +34031,15 @@
           "path": "previews/Yrsa-14.png"
         }
       ],
-      "totalBytes": 4833633,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Yrsa-OFL.txt"
+      "totalBytes": 4833633
     },
     {
       "name": "WPEezahboh",
       "title": "Ysabeau",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh-OFL.txt",
       "licensePath": "licenses/WPEezahboh-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Ysabeau - WP Eezahboh)",
       "styles": [
@@ -34151,15 +34153,15 @@
           "path": "previews/WPEezahboh-14.png"
         }
       ],
-      "totalBytes": 5445982,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh-OFL.txt"
+      "totalBytes": 5445982
     },
     {
       "name": "WPEezahboh2",
       "title": "Ysabeau Medium",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh2-OFL.txt",
       "licensePath": "licenses/WPEezahboh2-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Ysabeau Medium - WP Eezahboh 2)",
       "styles": [
@@ -34273,15 +34275,15 @@
           "path": "previews/WPEezahboh2-14.png"
         }
       ],
-      "totalBytes": 5597998,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh2-OFL.txt"
+      "totalBytes": 5597998
     },
     {
       "name": "WPEezahboh3",
       "title": "Ysabeau Semibold",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh3-OFL.txt",
       "licensePath": "licenses/WPEezahboh3-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Ysabeau Semibold - WP Eezahboh 3)",
       "styles": [
@@ -34395,15 +34397,15 @@
           "path": "previews/WPEezahboh3-14.png"
         }
       ],
-      "totalBytes": 5771387,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPEezahboh3-OFL.txt"
+      "totalBytes": 5771387
     },
     {
       "name": "WPWesker",
       "title": "Yuji Syuku",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPWesker-OFL.txt",
       "licensePath": "licenses/WPWesker-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Yuji Syuku - WP Wesker)",
       "styles": [
@@ -34514,15 +34516,15 @@
           "path": "previews/WPWesker-14.png"
         }
       ],
-      "totalBytes": 612925,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPWesker-OFL.txt"
+      "totalBytes": 612925
     },
     {
       "name": "WPOldMincho",
       "title": "Zen Old Mincho",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOldMincho-OFL.txt",
       "licensePath": "licenses/WPOldMincho-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Zen Old Mincho - WP Old Mincho)",
       "styles": [
@@ -34634,15 +34636,15 @@
           "path": "previews/WPOldMincho-14.png"
         }
       ],
-      "totalBytes": 1278337,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPOldMincho-OFL.txt"
+      "totalBytes": 1278337
     },
     {
       "name": "WPFoxSlab",
       "title": "Zilla Slab",
       "description": "",
+      "group": "Slab",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFoxSlab-OFL.txt",
       "licensePath": "licenses/WPFoxSlab-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Zilla Slab - WP Fox Slab)",
       "styles": [
@@ -34756,15 +34758,15 @@
           "path": "previews/WPFoxSlab-14.png"
         }
       ],
-      "totalBytes": 3171446,
-      "group": "Slab",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFoxSlab-OFL.txt"
+      "totalBytes": 3171446
     },
     {
       "name": "WPNowhere",
       "title": "erewhon",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNowhere-OFL.txt",
       "licensePath": "licenses/WPNowhere-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/erewhon - WP Nowhere)",
       "styles": [
@@ -34878,15 +34880,15 @@
           "path": "previews/WPNowhere-14.png"
         }
       ],
-      "totalBytes": 6028733,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNowhere-OFL.txt"
+      "totalBytes": 6028733
     },
     {
       "name": "WPDokiDoki",
       "title": "mononoki",
       "description": "",
+      "group": "Serif",
       "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDokiDoki-OFL.txt",
       "licensePath": "licenses/WPDokiDoki-OFL.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/mononoki - WP Doki Doki)",
       "styles": [
@@ -35000,9 +35002,7 @@
           "path": "previews/WPDokiDoki-14.png"
         }
       ],
-      "totalBytes": 3441176,
-      "group": "Serif",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPDokiDoki-OFL.txt"
+      "totalBytes": 3441176
     }
   ]
 }
