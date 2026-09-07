@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-01",
+  "updated": "2026-09-07",
   "generator": "cp-fonts build-fonts.mjs (crossglyph 0.9.1)",
   "baseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/fonts/assets/",
   "rawBase": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/",
