@@ -19,7 +19,7 @@
 // on first run; keep tools/ and workspace/ cached in CI to stay incremental.
 
 import { spawnSync } from 'node:child_process';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { copyFile, mkdir, readdir, readFile, stat, writeFile } from 'node:fs/promises';
 import { cpus } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
@@ -49,23 +49,58 @@ const OPTS = {
 
 // ---- presentation metadata (catalog-time, not build input) ---------------
 
-// Hand-tuned exceptions to the name heuristic; everything else falls back to
-// Serif, which is what a reading-font collection skews to anyway.
-const GROUP_OVERRIDES = {
-  WPBittersweet: 'Slab',      // Bitter
-  WPSpikes: 'Mono',           // Agave
-  WPFourChan: 'Mono',         // Anonymous Pro
-  WPRedDye: 'Serif',          // Cochineal
-  WPKornut: 'Serif',
-  WPBeholderBook: 'Serif',
-};
+// Functional grouping, read from the font binary itself: the `post` table's
+// isFixedPitch flags monospaced faces, and OS/2's PANOSE bytes classify the
+// family the way the type designer intended (text vs script vs decorative,
+// serifed vs sans). Name heuristics are only the fallback.
+function readFontMeta(file) {
+  try {
+    const b = readFileSync(file);
+    const u16 = (o) => b.readUInt16BE(o);
+    const u32 = (o) => b.readUInt32BE(o);
+    const numTables = u16(4);
+    let post = -1, os2 = -1;
+    for (let i = 0; i < numTables; i++) {
+      const rec = 12 + 16 * i;
+      const tag = b.toString('latin1', rec, rec + 4);
+      if (tag === 'post') post = u32(rec + 8);
+      else if (tag === 'OS/2') os2 = u32(rec + 8);
+    }
+    const meta = { fixedPitch: false, panose: null };
+    if (post >= 0 && post + 16 <= b.length) meta.fixedPitch = u32(post + 12) !== 0;
+    // sFamilyClass at 30, PANOSE (10 bytes) at 32 — present in OS/2 v0+.
+    if (os2 >= 0 && os2 + 42 <= b.length) {
+      meta.panose = [...b.slice(os2 + 32, os2 + 42)];
+      meta.familyClass = b.readInt16BE(os2 + 30);
+    }
+    return meta;
+  } catch (e) { return null; }
+}
+
 function familyGroup(fam) {
-  if (GROUP_OVERRIDES[fam.name]) return GROUP_OVERRIDES[fam.name];
   const hay = fam.name + ' ' + (fam.title || '');
+  const dir = join(ROOT, 'workspace', 'fonts', fam.name);
+  const reg = existsSync(join(dir, `${fam.name}-Regular.ttf`)) ? join(dir, `${fam.name}-Regular.ttf`)
+    : existsSync(join(dir, `${fam.name}-Regular.otf`)) ? join(dir, `${fam.name}-Regular.otf`) : null;
+  const meta = reg && readFontMeta(reg);
+
+  if (meta) {
+    if (meta.fixedPitch) return 'Mono';
+    const kind = meta.panose ? meta.panose[0] : 0;
+    if (kind === 3) return 'Script';
+    if (kind === 4 || kind === 5) return 'Display';
+    if (/\b(display|titling|poster)\b/i.test(hay)) return 'Display';
+    // PANOSE serif style: 0 any, 1 no-fit, 2-10 serifed, 11-15 sans/flared.
+    const serifStyle = meta.panose ? meta.panose[1] : 0;
+    if (serifStyle >= 11 && serifStyle <= 14) return 'Interface';
+    return 'Reading';
+  }
+  // Fallback when the binary is not around (fresh catalog-only runs).
   if (/\b(mono|code|console|term)\b/i.test(hay)) return 'Mono';
-  if (/slab/i.test(hay)) return 'Slab';
-  if (/\bsans\b|(^|[^a-z])gothic/i.test(hay)) return 'Sans';
-  return 'Serif';
+  if (/\b(script|hand|callig)\w*/i.test(hay)) return 'Script';
+  if (/\b(display|titling|poster)\b/i.test(hay)) return 'Display';
+  if (/\bsans\b|(^|[^a-z])gothic/i.test(hay)) return 'Interface';
+  return 'Reading';
 }
 
 // Classify a license file by its content — the file is the source of truth,
