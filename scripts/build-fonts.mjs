@@ -25,6 +25,7 @@ import { cpus } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
+import { classifyLicense } from './lib/license.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const CROSSGLYPH_VERSION = '0.9.1';
@@ -101,25 +102,6 @@ function familyGroup(fam) {
   if (/\b(display|titling|poster)\b/i.test(hay)) return 'Display';
   if (/\bsans\b|(^|[^a-z])gothic/i.test(hay)) return 'Interface';
   return 'Reading';
-}
-
-// Classify a license file by its content — the file is the source of truth,
-// the filename is not (WP-Fonts ships OFL text under several names).
-const LICENSE_SIGNATURES = [
-  [/SIL OPEN FONT LICENSE/i, 'OFL'],
-  [/GNU GENERAL PUBLIC LICENSE/i, 'GPL'],
-  [/APACHE LICENSE/i, 'Apache-2.0'],
-  [/REDISTRIBUTION AND USE IN SOURCE/i, 'BSD'],
-  [/(MIT LICEN[CS]E|Permission is hereby granted, free of charge)/i, 'MIT'],
-  [/CC0|PUBLIC DOMAIN/i, 'CC0/PD'],
-  [/M\+ FONTS? LICEN[CS]E/i, 'M+'],
-  [/UBUNTU FONT LICEN[CS]E/i, 'UFL'],
-  [/IPA FONT LICEN[CS]E/i, 'IPA'],
-];
-function classifyLicense(text) {
-  if (!text) return null;
-  for (const [re, name] of LICENSE_SIGNATURES) if (re.test(text)) return name;
-  return null;
 }
 
 // ---- crc32 (no dependencies) ----------------------------------------------
