@@ -478,7 +478,9 @@ async function compose(config, plan, sources, failed, previousCatalog, published
         group,
         license,
         licenseUrl,
-        licensePath: fam.licenseFile ? `licenses/${fam.name}-${fam.licenseFile}` : null,
+        // A link only to a file this run could read: one the upstream folder
+        // no longer has must not stay in the catalog, pointing at nothing.
+        licensePath: read ? `licenses/${fam.name}-${fam.licenseFile}` : null,
         source,
         styles: sources.find((s) => s.fam.name === fam.name).styles.map((s) => s.toLowerCase()),
         sizes: files.map((f) => f.pt),
