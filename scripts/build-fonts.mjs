@@ -187,7 +187,11 @@ async function ensureCrossglyph() {
   await mkdir(join(ROOT, 'tools'), { recursive: true });
   const zip = join(ROOT, 'tools', `crossglyph-${CROSSGLYPH_VERSION}.zip`);
   await fetchBin(CROSSGLYPH_ZIP_URL, zip);
-  execFileSync('unzip', ['-q', '-o', zip, '-d', join(ROOT, 'tools', 'crossglyph')], { stdio: 'inherit' });
+  try {
+    execFileSync('unzip', ['-q', '-o', zip, '-d', join(ROOT, 'tools', 'crossglyph')], { stdio: 'inherit' });
+  } catch (e) {
+    throw new Error(`cannot unpack CrossGlyph: ${e.code === 'ENOENT' ? 'unzip is not installed' : e.message}`);
+  }
   log('CrossGlyph ready.');
 }
 
