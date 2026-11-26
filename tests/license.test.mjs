@@ -1,9 +1,18 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { classifyLicense } from '../scripts/lib/license.mjs';
+import { classifyLicense, licenseLink } from '../scripts/lib/license.mjs';
 
 const OFL = 'SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007';
 const MIT = 'Permission is hereby granted, free of charge, to any person obtaining a copy';
+
+test('a license file with spaces in its name is linked encoded', () => {
+  // WP-Fonts calls some of them "SIL Open Font License.txt", and a space is
+  // no URL character: a link with one is refused by everything but a browser.
+  const base = 'https://raw.githubusercontent.com/josmerod/cp-fonts/main/';
+  assert.equal(licenseLink(base, 'licenses/WPBane-SIL Open Font License.txt'),
+    base + 'licenses/WPBane-SIL%20Open%20Font%20License.txt');
+  assert.equal(licenseLink('https://example.dev/a', 'licenses/A-OFL.txt'), 'https://example.dev/a/licenses/A-OFL.txt');
+});
 
 test('a license is named by its text, whatever its file is called', () => {
   assert.equal(classifyLicense('Copyright someone\n\n' + OFL + '\n\nPREAMBLE'), 'OFL');

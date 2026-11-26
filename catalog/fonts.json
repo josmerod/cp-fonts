@@ -35141,7 +35141,7 @@
       "description": "Bainsley: legible text sans for general use, by Paul James Miller.",
       "group": "Interface",
       "license": "OFL",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBane-SIL Open Font License.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBane-SIL%20Open%20Font%20License.txt",
       "licensePath": "licenses/WPBane-SIL Open Font License.txt",
       "source": "Chairzard/WP-Fonts (Modified Fonts/Bainsley - WP Bane)",
       "styles": [
@@ -36841,7 +36841,7 @@
       "description": "Cadman: legible sans made with dyslexic readers in mind, by Paul James Miller.",
       "group": "Interface",
       "license": "OFL",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cadman-SIL Open Font License.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cadman-SIL%20Open%20Font%20License.txt",
       "licensePath": "licenses/Cadman-SIL Open Font License.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cadman)",
       "styles": [
@@ -38179,7 +38179,7 @@
       "description": "Munson: slab serif after Stephenson Blake's Consort and Clarendon, by Paul James Miller.",
       "group": "Reading",
       "license": "OFL",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Munson-SIL Open Font License.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Munson-SIL%20Open%20Font%20License.txt",
       "licensePath": "licenses/Munson-SIL Open Font License.txt",
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Munson)",
       "styles": [

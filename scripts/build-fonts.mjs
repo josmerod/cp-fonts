@@ -43,7 +43,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { blankGlyphs, isUnusable, readCpfont } from './lib/cpfont.mjs';
 import { fetchTree } from './lib/github-tree.mjs';
-import { classifyLicense } from './lib/license.mjs';
+import { classifyLicense, licenseLink } from './lib/license.mjs';
 import { carriedOver, HINTING_MODES, isNewProblem, planBuild, sourceFile, STYLES } from './lib/plan.mjs';
 import { fetchPublished } from './lib/published.mjs';
 
@@ -422,7 +422,7 @@ async function licenseOf(fam) {
   try {
     const path = `licenses/${fam.name}-${fam.licenseFile}`;
     const text = await readFile(join(ROOT, path), 'utf8');
-    return { license: classifyLicense(text) || 'Other', licenseUrl: OPTS.rawBase.replace(/\/*$/, '/') + path };
+    return { license: classifyLicense(text) || 'Other', licenseUrl: licenseLink(OPTS.rawBase, path) };
   } catch (e) { return null; } // not fetched locally, or none declared
 }
 
