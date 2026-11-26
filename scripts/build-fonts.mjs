@@ -51,6 +51,9 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const CROSSGLYPH_VERSION = '0.9.1';
 const CROSSGLYPH_ZIP_URL =
   `https://github.com/CrazyCoder/crossglyph/releases/download/v${CROSSGLYPH_VERSION}/crossglyph-${CROSSGLYPH_VERSION}.zip`;
+// Every family is built with the bytes of that zip: a release uploaded again
+// must not pass for the tool the families were verified with.
+const CROSSGLYPH_ZIP_SHA256 = '9ac7e76d1b9a04342bdaf11551bbfb569b5a02b89b80b7897a6208b0a71f5615';
 const CATALOG = join(ROOT, 'catalog', 'fonts.json');
 const STATE = join(ROOT, 'catalog', 'build-state.json');
 const DIST = join(ROOT, 'dist');
@@ -187,11 +190,19 @@ async function ensureCrossglyph() {
   log(`Downloading CrossGlyph ${CROSSGLYPH_VERSION}…`);
   await mkdir(join(ROOT, 'tools'), { recursive: true });
   const zip = join(ROOT, 'tools', `crossglyph-${CROSSGLYPH_VERSION}.zip`);
-  await fetchBin(CROSSGLYPH_ZIP_URL, zip);
+  const bytes = await fetchBin(CROSSGLYPH_ZIP_URL, zip);
+  const digest = createHash('sha256').update(bytes).digest('hex');
+  if (digest !== CROSSGLYPH_ZIP_SHA256) {
+    await rm(zip, { force: true });
+    throw new Error(`CrossGlyph ${CROSSGLYPH_VERSION} is not the build it was checked with (sha256 ${digest}, `
+      + `expected ${CROSSGLYPH_ZIP_SHA256}): not unpacked, nothing built`);
+  }
   try {
     execFileSync('unzip', ['-q', '-o', zip, '-d', join(ROOT, 'tools', 'crossglyph')], { stdio: 'inherit' });
   } catch (e) {
     throw new Error(`cannot unpack CrossGlyph: ${e.code === 'ENOENT' ? 'unzip is not installed' : e.message}`);
+  } finally {
+    await rm(zip, { force: true }); // what is kept is the unpacked tool
   }
   log('CrossGlyph ready.');
 }

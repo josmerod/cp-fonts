@@ -79,6 +79,12 @@ published is left alone — not downloaded, not built, not previewed. Only what
 changed goes through the pipeline, and only those binaries are uploaded, as
 one commit on top of what the `fonts` branch already holds.
 
+The CrossGlyph download is checked against a pinned sha256 before it is
+unpacked, so a release uploaded again cannot pass for the tool the published
+families were verified with. A new CrossGlyph version therefore means a new
+`CROSSGLYPH_ZIP_SHA256` next to `CROSSGLYPH_VERSION` in
+`scripts/build-fonts.mjs`, and a `--force` rebuild.
+
 A family that fails to build is retried on every run and reported by name; a
 family removed from `families.json` leaves the catalog and the published set.
 The run goes red only for a problem it has not reported before, so one broken

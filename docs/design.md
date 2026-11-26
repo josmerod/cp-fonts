@@ -61,7 +61,10 @@ selection. Two repos: this one (fonts factory) and the **Fonts** plugin
    `hinting` of its own gets a conf of its own that overrides that one key.
 3. **Build.** One `crossglyph build` for the batch; what it could not build is
    retried alone, so one broken source is reported by name instead of sinking
-   the run. Then every file built is read back (`scripts/lib/cpfont.mjs`)
+   the run. CrossGlyph itself is unpacked only when its zip hashes to the
+   pinned `CROSSGLYPH_ZIP_SHA256` in `scripts/build-fonts.mjs`: a fingerprint
+   names the tool by version, and a release uploaded again must not pass for
+   it. Then every file built is read back (`scripts/lib/cpfont.mjs`)
    and checked for blank letters: a style with a single empty ASCII letter or
    digit, or five or more empty Latin ones, makes the family a failed build.
    A few empty glyphs are normal (sources map rare characters to nothing), so
