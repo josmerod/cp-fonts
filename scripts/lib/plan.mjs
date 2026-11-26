@@ -92,6 +92,15 @@ export function planBuild({ config, state, shas, published, tool, only = null, f
   return { rows, retired };
 }
 
+// The catalog entries of the families families.json no longer declares. A run
+// that retires nothing (--catalog-only, --only) carries them into the new
+// catalog as they are: left out, they would drop out unrecorded, their
+// published files still served. A full build run retires them instead.
+export function carriedOver(config, catalog) {
+  const declared = new Set(config.families.map((f) => f.name));
+  return ((catalog && catalog.families) || []).filter((f) => !declared.has(f.name));
+}
+
 // True when `problem` is not what an earlier run already recorded for the
 // row's input, so a known issue does not turn every weekly run red.
 export function isNewProblem(row, problem = row.problem) {

@@ -164,7 +164,8 @@ Kept close to the firmware's official `fonts.json` manifest (which also keys on
 per-file `crc32`), so a future firmware fork could point its built-in downloader
 at this catalog. `description` is curated by hand in `families.json`; a
 `--catalog-only` run brings title, description and license edits into the
-catalog without building anything.
+catalog without building anything, and keeps the entry of a family that
+`families.json` no longer declares: only a full build run retires it.
 
 ## Resyncing with upstream (`scripts/gen-families.mjs`)
 

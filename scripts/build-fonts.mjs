@@ -44,7 +44,7 @@ import { fileURLToPath } from 'node:url';
 import { blankGlyphs, isUnusable, readCpfont } from './lib/cpfont.mjs';
 import { fetchTree } from './lib/github-tree.mjs';
 import { classifyLicense } from './lib/license.mjs';
-import { HINTING_MODES, isNewProblem, planBuild, sourceFile, STYLES } from './lib/plan.mjs';
+import { carriedOver, HINTING_MODES, isNewProblem, planBuild, sourceFile, STYLES } from './lib/plan.mjs';
 import { fetchPublished } from './lib/published.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
@@ -418,7 +418,12 @@ async function compose(config, plan, sources, failed, previousCatalog, published
   await mkdir(join(DIST, 'assets'), { recursive: true });
   const previous = new Map((previousCatalog && previousCatalog.families || []).map((f) => [f.name, f]));
   const built = new Set(sources.filter((s) => !s.error).map((s) => s.fam.name));
-  const retired = plan.retired;
+  // Gone from families.json: leaves the catalog and the published set. Only
+  // a full build run retires — it is the one that can remove what was
+  // published; --catalog-only and --only carry the entry over as it was.
+  const undeclared = carriedOver(config, previousCatalog);
+  const full = !OPTS.catalogOnly && !OPTS.only;
+  const retired = full ? [...new Set([...plan.retired, ...undeclared.map((f) => f.name)])].sort() : [];
   const families = [];
   const stateFamilies = {};
   const add = [];
@@ -511,6 +516,11 @@ async function compose(config, plan, sources, failed, previousCatalog, published
         output: (prev && prev.output) || {},
       };
     }
+  }
+
+  if (!full) {
+    families.push(...undeclared);
+    report.kept += undeclared.length;
   }
 
   const unchanged = JSON.stringify(families) === JSON.stringify(previousCatalog && previousCatalog.families) && !add.length && !remove.size;

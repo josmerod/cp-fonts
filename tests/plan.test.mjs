@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { familyFingerprint, planBuild, STYLES } from '../scripts/lib/plan.mjs';
+import { carriedOver, familyFingerprint, planBuild, STYLES } from '../scripts/lib/plan.mjs';
 
 const TOOL = '0.9.1';
 const fam = (name, extra = {}) => ({
@@ -147,6 +147,16 @@ test('a family removed from families.json is retired from the catalog', () => {
   const plan = planBuild({ config: cfg, state, shas, published: publishedAfter(state), tool: TOOL });
   assert.deepEqual(plan.retired, ['C']);
   assert.deepEqual(names(plan, 'keep'), ['A', 'B']);
+});
+
+test('a run that retires nothing keeps what families.json no longer declares', () => {
+  const gone = { name: 'C', title: 'C', files: [{ name: 'C_6.cpfont' }] };
+  const catalog = { version: 1, families: [{ name: 'A' }, gone] };
+  const cfg = config([fam('A'), fam('B')]);
+  assert.deepEqual(carriedOver(cfg, catalog), [gone]);
+  assert.deepEqual(carriedOver(cfg, catalog).map((f) => f.name), ['C'], 'nothing else is touched');
+  assert.deepEqual(carriedOver(cfg, null), [], 'no catalog yet');
+  assert.deepEqual(carriedOver(config([fam('A'), fam('B'), fam('C')]), catalog), []);
 });
 
 test('a family that failed to build is tried again every run, and reported once per input', () => {
