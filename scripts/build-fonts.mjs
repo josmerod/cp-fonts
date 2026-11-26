@@ -8,7 +8,7 @@
 // are still published is left alone: not downloaded, not built, not previewed.
 // Only what changed goes through the pipeline
 //
-//   download TTF/OTF -> crossglyph build -> preview PNGs
+//   download TTF/OTF -> crossglyph build -> check for blank glyphs -> preview PNGs
 //   -> catalog/fonts.json
 //
 // and only those binaries are handed to scripts/publish-binaries.mjs. The
@@ -41,6 +41,7 @@ import { appendFile, copyFile, mkdir, readdir, readFile, rm, stat, writeFile } f
 import { cpus } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { blankGlyphs, isUnusable, readCpfont } from './lib/cpfont.mjs';
 import { fetchTree } from './lib/github-tree.mjs';
 import { classifyLicense } from './lib/license.mjs';
 import { HINTING_MODES, isNewProblem, planBuild, sourceFile, STYLES } from './lib/plan.mjs';
@@ -348,6 +349,31 @@ async function buildFamilies(config, sources, failed) {
   }
 }
 
+// A build can succeed and still be unusable. Some fonts carry TrueType
+// instructions that make FreeType's native hinting collapse an outline, and
+// the converter writes what it is handed: WPGalatians' bold was published with
+// a third of its letters as gaps. What a family drew is checked here, before
+// anything of it is previewed or published.
+async function checkGlyphs(sources, failed) {
+  for (const { fam } of sources) {
+    if (failed.has(fam.name)) continue;
+    const dir = join(CPFONTS, fam.name);
+    for (const name of (await readdir(dir)).filter((f) => f.endsWith('.cpfont')).sort()) {
+      const cpfont = readCpfont(await readFile(join(dir, name)));
+      if (!cpfont) failed.set(fam.name, `${name} is not a .cpfont v4 file`);
+      else {
+        const blank = blankGlyphs(cpfont).filter(isUnusable);
+        if (!blank.length) continue;
+        failed.set(fam.name, `blank glyphs in ${name}: ` + blank
+          .map((b) => `${b.style} ${b.chars.slice(0, 24).map((cp) => String.fromCodePoint(cp)).join('')}… (${b.chars.length} letters)`)
+          .join('; '));
+      }
+      log(`  SKIPPED ${fam.name}: ${failed.get(fam.name)}`);
+      break;
+    }
+  }
+}
+
 // Each preview is one crossglyph start (about 13 s on CI), which is what made
 // a full rebuild take two hours; only families built in this run are rendered,
 // several at a time.
@@ -588,6 +614,7 @@ for (const s of sources) if (s.error) failed.set(s.fam.name, s.error);
 
 log('3/5 build…');
 await buildFamilies(config, sources.filter((s) => !s.error), failed);
+await checkGlyphs(sources, failed);
 
 log('4/5 previews…');
 await renderPreviews(config, sources.filter((s) => !failed.has(s.fam.name)));
