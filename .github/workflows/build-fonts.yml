@@ -1,14 +1,33 @@
-# Build the curated .cpfont families and publish them:
-# assets to the rolling `fonts` release, catalog + previews + licenses back to
-# main (the plugin reads them via raw.githubusercontent.com).
+# Build the curated .cpfont families — only what changed — and publish them.
+#
+# Every family is fingerprinted by its inputs (source and license blob shas,
+# sizes, CrossGlyph version). A run downloads, builds and previews just the
+# families whose fingerprint moved since catalog/build-state.json was written,
+# and uploads just their binaries. The binaries live on the `fonts` branch,
+# served straight by raw.githubusercontent.com; the catalog, previews,
+# licenses and the build state are committed back to main for the plugin.
 name: Build fonts
 
 on:
   workflow_dispatch:
+    inputs:
+      rebuild:
+        description: Rebuild every family, whatever the build state says
+        type: boolean
+        default: false
+      prune:
+        description: Allow removing more than half of the published files
+        type: boolean
+        default: false
+      squash:
+        description: Fold the fonts history into one commit (moves the whole set)
+        type: boolean
+        default: false
   schedule:
     - cron: '23 3 * * 1'  # weekly; picks up upstream WP-Fonts updates
   push:
-    paths: ['families.json', 'scripts/build-fonts.mjs', '.github/workflows/build-fonts.yml']
+    branches: [main]
+    paths: ['families.json', 'scripts/**', '.github/workflows/build-fonts.yml']
 
 permissions:
   contents: write
@@ -23,53 +42,57 @@ jobs:
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: the catalog commit may have to be rebased onto a
+          # main that moved while the build ran.
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # workspace/ (downloaded TTFs + crossglyph's incremental build cache) and
-      # tools/ (the crossglyph release) make every run after the first fast.
-      - uses: actions/cache@v4
-        with:
-          path: |
-            workspace
-            tools
-          key: fonts-cg-0.9.1-${{ hashFiles('families.json') }}
+      # Before anything creates a commit: publishing makes one with git
+      # plumbing, and a fresh runner has no identity for git to name it by.
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Build families, previews and catalog
+      - name: Test
+        run: node --test tests/*.test.mjs
+
+      # Nothing is cached and nothing is downloaded up front: the plan reads
+      # the upstream tree listing and the published file list, and a family
+      # whose inputs did not change costs no download, build or preview.
+      - name: Build, preview and catalog what changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # upstream tree listing: 60 requests an hour without it
         run: >
           node scripts/build-fonts.mjs
           --base-url "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/fonts/assets/"
           --raw-base "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/"
+          ${{ inputs.rebuild == true && '--force' || '' }}
 
-      - name: Commit regenerated catalog, previews and licenses
+      # Before the catalog commit, so no entry is ever committed ahead of the
+      # binary it points at. Only the changed binaries are uploaded.
+      - name: Publish changed binaries to the fonts branch
+        run: >
+          node scripts/publish-binaries.mjs
+          ${{ inputs.prune == true && '--allow-prune' || '' }}
+          ${{ inputs.squash == true && '--squash' || '' }}
+
+      - name: Commit catalog, previews, licenses and build state
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add catalog previews licenses
           if git diff --cached --quiet; then
             echo "Catalog unchanged"
           else
             git commit -m "Rebuild font catalog"
+            git pull --rebase --quiet origin main
             git push
           fi
 
-      # Binaries live on an orphan branch (recreated each run, so no history
-      # growth) served directly by raw.githubusercontent.com — no redirects,
-      # so the reader downloads each file with a single HTTPS connection
-      # instead of relay-HEAD resolving a release redirect first.
-      - name: Publish binaries to the raw-served fonts branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          ORPHAN="fonts-build-$GITHUB_RUN_ID"
-          git checkout --orphan "$ORPHAN"
-          git rm -rf --quiet .
-          mkdir -p assets
-          cp dist/assets/*.cpfont assets/
-          git add assets
-          git commit -m "font builds"
-          git push -f origin "HEAD:fonts"
-          git checkout main
-          git branch -D "$ORPHAN"
+      # Last, so a problem never keeps the healthy families from reaching the
+      # catalog. The run goes red only for a problem not seen before.
+      - name: Fail the run if something new went wrong
+        run: node scripts/build-fonts.mjs --report
