@@ -126,7 +126,7 @@
       "name": "WPAffinity",
       "source": "Modified Fonts/Adelphe - WP Affinity",
       "title": "Adelphe",
-      "description": "",
+      "description": "Adelphe: serif for long text at small sizes, by Eugénie Bidaut (Bye Bye Binary).",
       "license": "OFL",
       "licenseFile": "OIFL.txt",
       "files": {
@@ -140,7 +140,7 @@
       "name": "WPDacafa",
       "source": "Modified Fonts/Afacad - WP Dacafa",
       "title": "Afacad",
-      "description": "",
+      "description": "Afacad: geometric sans by Kristian Möller (Dicotype), begun as house numbers for a 1940s block.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -154,7 +154,7 @@
       "name": "WPSpikes",
       "source": "Modified Fonts/Agave - WP Spikes",
       "title": "Agave",
-      "description": "",
+      "description": "Agave: plain geometric monospace for terminals, by type agaric; regular only.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -165,7 +165,7 @@
       "name": "AlegreyaSans",
       "source": "Unmodified Fonts/Alegreya Sans",
       "title": "Alegreya Sans",
-      "description": "",
+      "description": "Humanist sans companion to Alegreya, by Juan Pablo del Peral (Huerta Tipográfica).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -179,7 +179,7 @@
       "name": "WPAmygdala",
       "source": "Modified Fonts/Almendra - WP Amygdala",
       "title": "Almendra",
-      "description": "",
+      "description": "Almendra: calligraphic serif by Ana Sanfelippo, from chancery and gothic hands.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -193,7 +193,7 @@
       "name": "WPArmada",
       "source": "Modified Fonts/Amarna - WP Armada",
       "title": "Amarna",
-      "description": "",
+      "description": "Amarna: semi-glyphic humanist sans by Ishtar van Looy, after Gill Sans and Albertus.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -207,7 +207,7 @@
       "name": "WPAmsterdam",
       "source": "Modified Fonts/Amstelvar - WP Amsterdam",
       "title": "Amstelvar",
-      "description": "",
+      "description": "Amstelvar: Font Bureau's parametric serif (David Berlow), here as static cuts.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -221,7 +221,7 @@
       "name": "WPCalifornia",
       "source": "Modified Fonts/Anaheim - WP Ducks",
       "title": "Anaheim",
-      "description": "",
+      "description": "Anaheim: narrow sans with squared bowls, by Vernon Adams.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -233,7 +233,7 @@
       "name": "AncizarSans",
       "source": "Unmodified Fonts/Ancizar Sans",
       "title": "Ancizar Sans",
-      "description": "",
+      "description": "Ancizar Sans: humanist sans by César Puertas, Viviana Monsalve and colleagues.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -247,7 +247,7 @@
       "name": "AncizarSerif",
       "source": "Unmodified Fonts/Ancizar Serif",
       "title": "Ancizar Serif",
-      "description": "",
+      "description": "Ancizar Serif: text serif by César Puertas, Viviana Monsalve and colleagues.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -261,7 +261,7 @@
       "name": "AndadaPro",
       "source": "Unmodified Fonts/Andada Pro",
       "title": "Andada Pro",
-      "description": "",
+      "description": "Andada Pro: organic slab serif for Spanish and Guaraní, by Carolina Giovagnoli (Huerta Tipográfica).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -275,7 +275,7 @@
       "name": "Andika",
       "source": "Unmodified Fonts/Andika",
       "title": "Andika",
-      "description": "",
+      "description": "SIL's literacy sans, with simple, open letterforms for beginner readers.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -289,7 +289,7 @@
       "name": "WPFourChan",
       "source": "Modified Fonts/Anonymous Pro - WP Four Chan",
       "title": "Anonymous Pro",
-      "description": "",
+      "description": "Anonymous Pro: monospaced serif by Mark Simonson, with a true italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -303,7 +303,7 @@
       "name": "WPAnvil",
       "source": "Modified Fonts/Anvers - WP Anvil",
       "title": "Anvers",
-      "description": "",
+      "description": "Anvers: Garamond-style workhorse serif for long small text, by Ishtar van Looy.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -315,7 +315,7 @@
       "name": "WPArchivist",
       "source": "Modified Fonts/Archivo - WP Archivist",
       "title": "Archivo",
-      "description": "",
+      "description": "Archivo: grotesque sans from Omnibus-Type, after 19th-century American gothics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -329,7 +329,7 @@
       "name": "WPAgileRuqaa",
       "source": "Modified Fonts/Aref Ruqaa - WP Agile Ruqaa",
       "title": "Aref Ruqaa",
-      "description": "",
+      "description": "Aref Ruqaa: Latin half of an Arabic ruqaa serif, drawn after AMS Euler; Arabic removed.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -341,7 +341,7 @@
       "name": "Arsenal",
       "source": "Unmodified Fonts/Arsenal",
       "title": "Arsenal",
-      "description": "",
+      "description": "Arsenal: narrow semi-grotesque sans for body text by Andrij Shevchenko (Ukraine, 2011).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -355,7 +355,7 @@
       "name": "Asap",
       "source": "Unmodified Fonts/Asap",
       "title": "Asap",
-      "description": "",
+      "description": "Asap: sans with subtle rounded corners by Pablo Cosgaya (Omnibus-Type), based on Ancha.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -369,7 +369,7 @@
       "name": "WPLusa",
       "source": "Modified Fonts/Asul - WP Lusa",
       "title": "Asul",
-      "description": "",
+      "description": "Asul: baroque humanist semi-serif by Mariela Monsalve, for editorial use.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -381,7 +381,7 @@
       "name": "WPSuperlegible",
       "source": "Modified Fonts/Atkinson Hyperlegible Mono - WP Superlegible Mono",
       "title": "Atkinson Hyperlegible Mono",
-      "description": "",
+      "description": "Monospace cut of Atkinson Hyperlegible, the Braille Institute's low-vision face.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -395,7 +395,7 @@
       "name": "WPAngles",
       "source": "Modified Fonts/Avara - WP Angles",
       "title": "Avara",
-      "description": "",
+      "description": "Avara: blocky, curveless serif by Raphaël Bastide, Wei Huang and Lucas Le Bihan (Velvetyne).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -408,7 +408,7 @@
       "name": "WPMean",
       "source": "Modified Fonts/Averia Libre - WP Mean",
       "title": "Averia Libre",
-      "description": "",
+      "description": "Averia Libre: the average of hundreds of fonts, so every stroke is slightly soft.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -422,7 +422,7 @@
       "name": "WPMeanSans",
       "source": "Modified Fonts/Averia Sans Libre - WP Mean Sans",
       "title": "Averia Sans Libre",
-      "description": "",
+      "description": "Averia Sans Libre: an average of hundreds of sans fonts; friendly, slightly irregular.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -436,7 +436,7 @@
       "name": "WPMeanSerif",
       "source": "Modified Fonts/Averia Serif Libre - WP Mean Serif",
       "title": "Averia Serif Libre",
-      "description": "",
+      "description": "Averia Serif Libre: an average of hundreds of serif fonts; gentle, slightly blurred.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -450,7 +450,7 @@
       "name": "WPBMincho",
       "source": "Modified Fonts/BIZ UDPMincho - WP B Mincho",
       "title": "BIZ UDPMincho",
-      "description": "",
+      "description": "BIZ UDPMincho: Morisawa's Japanese Mincho; this cut keeps the Latin only.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -462,7 +462,7 @@
       "name": "BadComic",
       "source": "Unmodified Fonts/Bad Comic",
       "title": "Bad Comic",
-      "description": "",
+      "description": "Bad Comic: hand-lettered comic face by GGBotNet; regular and italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -474,7 +474,7 @@
       "name": "WPBasilisk",
       "source": "Modified Fonts/Baskervaldx - WP Basilisk",
       "title": "Baskervaldx",
-      "description": "",
+      "description": "Baskervaldx: free Baskerville revival from Arkandis Digital Foundry (GPL).",
       "license": "see license file",
       "licenseFile": "COPYING.txt",
       "files": {
@@ -488,7 +488,7 @@
       "name": "WPStapleton",
       "source": "Modified Fonts/Baskervville - WP Stapleton",
       "title": "Baskervville",
-      "description": "",
+      "description": "Baskervville (ANRT's Baskerville revival), served here in Medium for e-ink.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -502,7 +502,7 @@
       "name": "WPBeholder",
       "source": "Modified Fonts/Beholden - WP Beholder",
       "title": "Beholden",
-      "description": "",
+      "description": "Beholden: hand-drawn serif by Amorphous, after Crimson Pro and Alegreya; for headings.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -516,7 +516,7 @@
       "name": "WPBeholderBook",
       "source": "Modified Fonts/Beholden Book - WP Beholder Book",
       "title": "Beholden Book",
-      "description": "",
+      "description": "Beholden Book: Amorphous's hand-drawn Beholden, cleaned up for longform text.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -530,7 +530,7 @@
       "name": "WPBestley",
       "source": "Modified Fonts/Besley - WP Bestley",
       "title": "Besley",
-      "description": "",
+      "description": "Besley: slab serif after Robert Besley's Clarendon, by Owen Earl (indestructible type*).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -544,7 +544,7 @@
       "name": "Bezovka",
       "source": "Unmodified Fonts/Bezovka",
       "title": "Bezovka",
-      "description": "",
+      "description": "Bezovka: grotesque with an Art Nouveau lean, by Ondřej Trégler (Pils Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -556,7 +556,7 @@
       "name": "WPBxtter",
       "source": "Modified Fonts/Bitter (traditional x) - WP Bxtter",
       "title": "Bitter (traditional x)",
-      "description": "",
+      "description": "Bitter, the slab serif, with its lowercase x swapped for the more traditional shape.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -570,7 +570,7 @@
       "name": "WPBona",
       "source": "Modified Fonts/Bona Nova - WP Bona",
       "title": "Bona Nova",
-      "description": "",
+      "description": "Bona Nova: cursive-flavoured serif by Mateusz Machalski, digitising Andrzej Heidrich's Bona (1971).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -583,7 +583,7 @@
       "name": "Brawler",
       "source": "Unmodified Fonts/Brawler",
       "title": "Brawler",
-      "description": "",
+      "description": "Brawler: compact, sturdy text serif for small sizes, by Oleg Frolov and Haley Fiege.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -595,7 +595,7 @@
       "name": "Brygada1918",
       "source": "Unmodified Fonts/Brygada 1918",
       "title": "Brygada 1918",
-      "description": "",
+      "description": "Brygada 1918: Polish book serif by Mateusz Machalski, Borys Kosmynka and Przemek Hoffer.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -609,7 +609,7 @@
       "name": "CabinSketch",
       "source": "Unmodified Fonts/Cabin Sketch",
       "title": "Cabin Sketch",
-      "description": "",
+      "description": "Hand-drawn sketch variant of Impallari's Cabin; regular and bold.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -621,7 +621,7 @@
       "name": "Cabin",
       "source": "Unmodified Fonts/Cabin",
       "title": "Cabin",
-      "description": "",
+      "description": "Humanist sans by Pablo Impallari, in the Gill Sans/Johnston tradition.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -635,7 +635,7 @@
       "name": "WPCalamari",
       "source": "Modified Fonts/Caladea - WP Calamari",
       "title": "Caladea",
-      "description": "",
+      "description": "Caladea: Cambria-metric text serif by Carolina Giovagnoli and Andrés Torresi (Huerta Tipográfica).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -649,7 +649,7 @@
       "name": "WPDishwasher",
       "source": "Modified Fonts/Cascadia Code - WP Dishwasher",
       "title": "Cascadia Code",
-      "description": "",
+      "description": "Cascadia Mono: Microsoft's coding monospace by Aaron Bell.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -663,7 +663,7 @@
       "name": "Castoro",
       "source": "Unmodified Fonts/Castoro",
       "title": "Castoro",
-      "description": "",
+      "description": "Castoro: sturdy book serif by John Hudson, Paul Hanslow and Kaja Słojewska (Tiro).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -677,7 +677,7 @@
       "name": "WPJust",
       "source": "Modified Fonts/Cause - WP Just",
       "title": "Cause",
-      "description": "",
+      "description": "Cause: casual monoline handwriting-style sans by Saurabh Sharma, for learning material.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -689,7 +689,7 @@
       "name": "ChakraPetch",
       "source": "Unmodified Fonts/Chakra Petch",
       "title": "Chakra Petch",
-      "description": "",
+      "description": "Chakra Petch: square Thai-and-Latin sans with tapered corners, by Cadson Demak.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -703,7 +703,7 @@
       "name": "Charis",
       "source": "Unmodified Fonts/Charis",
       "title": "Charis",
-      "description": "",
+      "description": "Charis SIL: Charter-derived text font by SIL for Latin and Cyrillic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -717,7 +717,7 @@
       "name": "WPRedDye",
       "source": "Modified Fonts/Cochineal - WP Red Dye",
       "title": "Cochineal",
-      "description": "",
+      "description": "Cochineal with a glyph bug fixed and its vertical metrics corrected (WP edition).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -731,7 +731,7 @@
       "name": "Cochineal",
       "source": "Unmodified Fonts/Cochineal",
       "title": "Cochineal",
-      "description": "",
+      "description": "Cochineal: Michael Sharpe's fork of Crimson (Sebastian Kosch), a garalde book serif for TeX.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -745,7 +745,7 @@
       "name": "WPCoherent",
       "source": "Modified Fonts/Cohaerentia - WP Coherent",
       "title": "Cohaerentia",
-      "description": "",
+      "description": "Cohaerentia: text serif by Michele Giordano, with small caps in place of a bold.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -757,7 +757,7 @@
       "name": "ComicNeue",
       "source": "Unmodified Fonts/Comic Neue",
       "title": "Comic Neue",
-      "description": "",
+      "description": "Comic Sans redrawn with cleaner shapes by Craig Rozynski.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -771,7 +771,7 @@
       "name": "WPClassClown",
       "source": "Modified Fonts/Comic Relief - WP Class Clown",
       "title": "Comic Relief",
-      "description": "",
+      "description": "Comic Relief: metric-compatible with Comic Sans MS; regular and bold.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -783,7 +783,7 @@
       "name": "WPFunnyShanns",
       "source": "Modified Fonts/Comic Shanns - WP Funny Shanns",
       "title": "Comic Shanns",
-      "description": "",
+      "description": "Comic Shanns: monospaced take on Comic Sans by Shannon Miwa, for terminals.",
       "license": "see license file",
       "licenseFile": "LICENSE",
       "files": {
@@ -794,7 +794,7 @@
       "name": "WPCommitted",
       "source": "Modified Fonts/Commit Mono - WP Committed",
       "title": "Commit Mono",
-      "description": "",
+      "description": "Commit Mono: anonymous, neutral coding monospace by Eigil Nikolajsen.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -808,7 +808,7 @@
       "name": "CooperHewitt",
       "source": "Unmodified Fonts/Cooper Hewitt",
       "title": "Cooper Hewitt",
-      "description": "",
+      "description": "The Cooper Hewitt museum's geometric sans, drawn by Village Type.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -822,7 +822,7 @@
       "name": "WPPrimeTime",
       "source": "Modified Fonts/Courier Prime - WP Prime Time",
       "title": "Courier Prime",
-      "description": "",
+      "description": "Courier Prime: typewriter face tuned for screenplays by Quote-Unquote Apps.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -836,7 +836,7 @@
       "name": "CrayonLibre",
       "source": "Unmodified Fonts/Crayon Libre",
       "title": "Crayon Libre",
-      "description": "",
+      "description": "Crayon Libre: crayon-style handwritten face by GGBotNet; regular and italic.",
       "license": "see license file",
       "licenseFile": "License.txt",
       "files": {
@@ -848,7 +848,7 @@
       "name": "WPCretan",
       "source": "Modified Fonts/Crete Round - WP Cretan",
       "title": "Crete Round",
-      "description": "",
+      "description": "Crete Round: warm slab serif from TypeTogether (Veronika Burian), a rounder take on Crete.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -860,7 +860,7 @@
       "name": "WPRedText",
       "source": "Modified Fonts/Crimson Text - WP Red Text",
       "title": "Crimson Text",
-      "description": "",
+      "description": "Crimson Text: Garamond-style text serif by Sebastian Kosch, light and compact.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -874,7 +874,7 @@
       "name": "WPAndrewtype",
       "source": "Modified Fonts/Cuomotype - WP Andrewtype",
       "title": "Cuomotype",
-      "description": "",
+      "description": "Cuomotype: Ray Larabie's distressed typewriter-style sans (Typodermic); a display face.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -885,7 +885,7 @@
       "name": "WPExecutivePremier",
       "source": "Modified Fonts/Cutive Mono - WP Executive Premier",
       "title": "Cutive Mono",
-      "description": "",
+      "description": "Cutive Mono: monospace after IBM Executive and Smith-Premier typewriters, by Vernon Adams.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -896,7 +896,7 @@
       "name": "WPDredge",
       "source": "Modified Fonts/DM Mono - WP Dredge",
       "title": "DM Mono",
-      "description": "",
+      "description": "DM Mono: monospace drawn by Colophon Foundry for DeepMind.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -908,7 +908,7 @@
       "name": "WPProofreader",
       "source": "Modified Fonts/DP Sans Mono - WP Proofreader",
       "title": "DP Sans Mono",
-      "description": "",
+      "description": "DP Sans Mono: DejaVu Sans Mono derivative made for Distributed Proofreaders.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -919,7 +919,7 @@
       "name": "WPDSE",
       "source": "Modified Fonts/DSE Typewriter - WP DSE",
       "title": "DSE Typewriter",
-      "description": "",
+      "description": "DSE Typewriter: monospaced coding font with a pre-war typewriter look, by Darren Embry.",
       "license": "see license file",
       "licenseFile": "LICENSE.md",
       "files": {
@@ -930,7 +930,7 @@
       "name": "WPDRMono",
       "source": "Modified Fonts/DejaVu Sans Mono - WP DR Mono",
       "title": "DejaVu Sans Mono",
-      "description": "",
+      "description": "DejaVu Sans Mono: broad-Unicode monospace that grew out of Bitstream Vera.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -942,7 +942,7 @@
       "name": "WPDRSerif",
       "source": "Modified Fonts/DejaVu Serif - WP DR Serif",
       "title": "DejaVu Serif",
-      "description": "",
+      "description": "DejaVu Serif: broad-Unicode text serif that grew out of Bitstream Vera.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -956,7 +956,7 @@
       "name": "DepartureMono",
       "source": "Unmodified Fonts/Departure Mono",
       "title": "Departure Mono",
-      "description": "",
+      "description": "Departure Mono: pixel-style monospace by Helena Zhang, with a retro-terminal look.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -967,7 +967,7 @@
       "name": "WPDopamine",
       "source": "Modified Fonts/Domine - WP Dopamine",
       "title": "Domine",
-      "description": "",
+      "description": "Domine: serif by Impallari and Fuenzalida, designed for body text on screen.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -979,7 +979,7 @@
       "name": "WPDrafting",
       "source": "Modified Fonts/Drafting Mono - WP Drafting",
       "title": "Drafting Mono",
-      "description": "",
+      "description": "Drafting Mono: typewriter-inspired monospace by Owen Earl (indestructible type*).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -993,7 +993,7 @@
       "name": "WPbb",
       "source": "Modified Fonts/ETbb - WPbb",
       "title": "ETbb",
-      "description": "",
+      "description": "ETbb, the Bembo-style book serif made for Edward Tufte (MIT licence).",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1007,7 +1007,7 @@
       "name": "WPIck",
       "source": "Modified Fonts/Eczar - WP Ick",
       "title": "Eczar",
-      "description": "",
+      "description": "Eczar: serif by Vaibhav Singh (Rosetta) for Latin and Devanagari, sturdy at text sizes.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1019,7 +1019,7 @@
       "name": "WPElectric",
       "source": "Modified Fonts/Electrum ADF - WP Electric",
       "title": "Electrum ADF",
-      "description": "",
+      "description": "Electrum ADF: wide monoline sans by Hirwen Harendal (Arkandis), Eurostile in spirit.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1031,7 +1031,7 @@
       "name": "ElstobD",
       "source": "Unmodified Fonts/Elstob",
       "title": "Elstob",
-      "description": "",
+      "description": "Elstob: Peter S. Baker's text serif after Bishop Fell's Double Pica (17th c.), for medievalists.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1045,7 +1045,7 @@
       "name": "WPSilkscreen",
       "source": "Modified Fonts/Enriqueta - WP Silkscreen",
       "title": "Enriqueta",
-      "description": "",
+      "description": "Enriqueta: slab-and-roman serif made for silkscreen, by Viviana Monsalve and Gustavo Ibarra.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1057,7 +1057,7 @@
       "name": "Epilogue",
       "source": "Unmodified Fonts/Epilogue",
       "title": "Epilogue",
-      "description": "",
+      "description": "Nine-weight sans by Tyler Finck (Etcetera Type), from thin to black.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1071,7 +1071,7 @@
       "name": "WPUpundaSlab",
       "source": "Modified Fonts/Epunda Slab - WP Upunda",
       "title": "Epunda Slab",
-      "description": "",
+      "description": "Epunda Slab: slab serif with angled serifs, by Simon Atzbach (typofactur).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1085,7 +1085,7 @@
       "name": "Exo",
       "source": "Unmodified Fonts/Exo",
       "title": "Exo",
-      "description": "",
+      "description": "Geometric sans with a futuristic feel, by Natanael Gama.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1099,7 +1099,7 @@
       "name": "WPFantastic",
       "source": "Modified Fonts/Fantasque Sans Mono - WP Fantastic",
       "title": "Fantasque Sans Mono",
-      "description": "",
+      "description": "Fantasque Sans Mono: playful monospace by Jany Belluz, with a true italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1113,7 +1113,7 @@
       "name": "WPBiggestFan",
       "source": "Modified Fonts/Fanwood Text - WP Biggest Fan",
       "title": "Fanwood Text",
-      "description": "",
+      "description": "Fanwood Text: Barry Schwartz's serif revival of Fairfield, tuned for the Kindle 3.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1125,7 +1125,7 @@
       "name": "WPWolfgang",
       "source": "Modified Fonts/Faustina - WP Wolfgang",
       "title": "Faustina",
-      "description": "",
+      "description": "Faustina: editorial serif for print and screen by Alfonso García (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1139,7 +1139,7 @@
       "name": "FinlandicaHeadline",
       "source": "Unmodified Fonts/Finlandica Headline",
       "title": "Finlandica Headline",
-      "description": "",
+      "description": "Finlandica Headline: compressed headline cut of Finlandica, Finland's official sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1153,7 +1153,7 @@
       "name": "WPFoxMono",
       "source": "Modified Fonts/Fira Mono - WP Fox Mono",
       "title": "Fira Mono",
-      "description": "",
+      "description": "Fira Mono: monospace of Mozilla's Fira family, by Carrois and Spiekermann.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1165,7 +1165,7 @@
       "name": "FiraSans",
       "source": "Unmodified Fonts/Fira Sans",
       "title": "Fira Sans",
-      "description": "",
+      "description": "Mozilla's sans, by Carrois Type and Edenspiekermann (Spiekermann).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1179,7 +1179,7 @@
       "name": "Flamenco",
       "source": "Unmodified Fonts/Flamenco",
       "title": "Flamenco",
-      "description": "",
+      "description": "Flamenco: monoline semi-serif slab with long extenders, by Luciano Vergara (Latinotype).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1190,7 +1190,7 @@
       "name": "WPOrElse",
       "source": "Modified Fonts/Fluxisch Else - WP Or Else",
       "title": "Fluxisch Else",
-      "description": "",
+      "description": "Fluxisch Else: sans redrawn from 1960s phototypesetting output, by OSP foundry (Brussels).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1201,7 +1201,7 @@
       "name": "WPPast",
       "source": "Modified Fonts/Formera - WP Past",
       "title": "Formera",
-      "description": "",
+      "description": "Formera: Bastien Sozeau's digitisation of lead type said to be Futura's first draft (1927).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1212,7 +1212,7 @@
       "name": "WPFrankRules",
       "source": "Modified Fonts/Frank Ruhl Libre - WP Frank Rules",
       "title": "Frank Ruhl Libre",
-      "description": "",
+      "description": "Frank Rühl Libre: Hebrew-Latin serif by Yanek Iontef, after Frank Rühl's classic; Latin only here.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1224,7 +1224,7 @@
       "name": "WPFreerSerif",
       "source": "Modified Fonts/FreeSerif - WP FreerSerif",
       "title": "FreeSerif",
-      "description": "",
+      "description": "GNU FreeSerif: Times-like general-purpose serif from the GNU FreeFont project.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1238,7 +1238,7 @@
       "name": "FunnelSans",
       "source": "Unmodified Fonts/Funnel",
       "title": "Funnel",
-      "description": "",
+      "description": "Funnel Sans: text sans mixing square and round shapes, by NORD ID and Kristian Möller (Dicotype).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1252,7 +1252,7 @@
       "name": "FuzzyBubbles",
       "source": "Unmodified Fonts/Fuzzy Bubbles",
       "title": "Fuzzy Bubbles",
-      "description": "",
+      "description": "Fuzzy Bubbles: cute juvenile handwriting by Robert E. Leuschke (TypeSETit).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1264,7 +1264,7 @@
       "name": "WPGalatians",
       "source": "Modified Fonts/GFS Galatea - WP Galatians",
       "title": "GFS Galatea",
-      "description": "",
+      "description": "GFS Galatea: text serif by George Triantafyllakos for the Greek Font Society.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "hinting": "auto",
@@ -1278,7 +1278,7 @@
       "name": "Garamontio",
       "source": "Unmodified Fonts/Garamontio",
       "title": "Garamontio",
-      "description": "",
+      "description": "Garamontio: Michele Casanova's fork of EB Garamond, with a reworked italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1292,7 +1292,7 @@
       "name": "Geist",
       "source": "Unmodified Fonts/Geist",
       "title": "Geist",
-      "description": "",
+      "description": "Vercel's interface sans, drawn by Basement.studio; Geist Mono is its partner.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1306,7 +1306,7 @@
       "name": "WPLucretia",
       "source": "Modified Fonts/Gensco - WP Lucretia",
       "title": "Gensco",
-      "description": "",
+      "description": "Gensco: rough serif generated from scans of a Lucretius edition, by Cédric Rossignol Brunet.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1317,7 +1317,7 @@
       "name": "GentiumBook",
       "source": "Unmodified Fonts/Gentium Book",
       "title": "Gentium Book",
-      "description": "",
+      "description": "Gentium Book: SIL's literate serif in a slightly heavier weight, for Latin, Cyrillic and Greek.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1331,7 +1331,7 @@
       "name": "Gentium",
       "source": "Unmodified Fonts/Gentium",
       "title": "Gentium",
-      "description": "",
+      "description": "Gentium: SIL's book serif for Latin, Cyrillic and Greek.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1345,7 +1345,7 @@
       "name": "WPGeometry",
       "source": "Modified Fonts/Geom - WP Geometry",
       "title": "Geom",
-      "description": "",
+      "description": "Geom: geometric sans by Thanos Poulakidas.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1359,7 +1359,7 @@
       "name": "Georama",
       "source": "Unmodified Fonts/Georama",
       "title": "Georama",
-      "description": "",
+      "description": "Georama: geometric grotesque sans, from narrow to wide, by Production Type.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1373,7 +1373,7 @@
       "name": "WPTitanic",
       "source": "Modified Fonts/Glacial Indifference - WP Titanic",
       "title": "Glacial Indifference",
-      "description": "",
+      "description": "Glacial Indifference: bold geometric grotesque by Alfredo Marco Pradil.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1387,7 +1387,7 @@
       "name": "WPIgloo",
       "source": "Modified Fonts/Glegoo - WP Igloo",
       "title": "Glegoo",
-      "description": "",
+      "description": "Glegoo: slightly condensed slab serif with a large x-height, by Eduardo Tunni and Jason Vandenberg.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1399,7 +1399,7 @@
       "name": "WPCollect200",
       "source": "Modified Fonts/Go - WP Collect 200",
       "title": "Go",
-      "description": "",
+      "description": "Go: the programming language's system font, by Bigelow & Holmes.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1413,7 +1413,7 @@
       "name": "WPCollect200Mono",
       "source": "Modified Fonts/Go Mono - WP Collect 200 Mono",
       "title": "Go Mono",
-      "description": "",
+      "description": "Go Mono: Bigelow & Holmes' monospaced slab companion to the Go font.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1427,7 +1427,7 @@
       "name": "WPSearchMono",
       "source": "Modified Fonts/Google Sans Code - WP Search Mono",
       "title": "Google Sans Code",
-      "description": "",
+      "description": "Google Sans Code: Google's monospace for code.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1441,7 +1441,7 @@
       "name": "GoogleSans",
       "source": "Unmodified Fonts/Google Sans",
       "title": "Google Sans",
-      "description": "",
+      "description": "Google's own interface sans, released under the OFL.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1455,7 +1455,7 @@
       "name": "Grandstander",
       "source": "Unmodified Fonts/Grandstander",
       "title": "Grandstander",
-      "description": "",
+      "description": "Playful, handmade-feeling sans by Tyler Finck (Etcetera Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1469,7 +1469,7 @@
       "name": "Gupter",
       "source": "Unmodified Fonts/Gupter",
       "title": "Gupter",
-      "description": "",
+      "description": "Gupter: condensed serif after early-20th-century English faces, by Octavio Pardo.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1481,7 +1481,7 @@
       "name": "WPHacked",
       "source": "Modified Fonts/Hack - WP Hacked",
       "title": "Hack",
-      "description": "",
+      "description": "Hack: monospace for source code by Chris Simpkins (Source Foundry).",
       "license": "see license file",
       "licenseFile": "LICENSE.md",
       "files": {
@@ -1495,7 +1495,7 @@
       "name": "Hahmlet",
       "source": "Unmodified Fonts/Hahmlet",
       "title": "Hahmlet",
-      "description": "",
+      "description": "Hahmlet: Korean-and-Latin serif by Minjoo Ham and Mark Frömberg, after a 1940s film poster.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1507,7 +1507,7 @@
       "name": "WPHappy",
       "source": "Modified Fonts/Happy Times at the IKOB - WP Happy",
       "title": "Happy Times at the IKOB",
-      "description": "",
+      "description": "Happy Times at the IKOB: Lucas Le Bihan's contemporary take on Times, for a Belgian museum.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1520,7 +1520,7 @@
       "name": "HeptaSlab",
       "source": "Unmodified Fonts/Hepta Slab",
       "title": "Hepta Slab",
-      "description": "",
+      "description": "Hepta Slab: slab serif after Bruce's Antique 307, by Michael LaGattuta; no italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1532,7 +1532,7 @@
       "name": "WPTwentyTwenty",
       "source": "Modified Fonts/Hindsight - WP Twenty Twenty",
       "title": "Hindsight",
-      "description": "",
+      "description": "Hindsight: proportional serif version of Darren Rigby's History Happens Bold.",
       "license": "see license file",
       "licenseFile": "License.txt",
       "files": {
@@ -1544,7 +1544,7 @@
       "name": "WPAmazingBulk",
       "source": "Modified Fonts/Hunck - WP Amazing Bulk",
       "title": "Hunck",
-      "description": "",
+      "description": "Hunck: legible serif for text and display by Colin Lammie; regular only.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1555,7 +1555,7 @@
       "name": "WPCharles",
       "source": "Modified Fonts/Hundar - WP Charles",
       "title": "Hundar",
-      "description": "",
+      "description": "Hundar: serif for academic and book writing by Emily de Oliveira Santos; still in development.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1566,7 +1566,7 @@
       "name": "WPJekyll",
       "source": "Modified Fonts/Hyde - WP Jekyll",
       "title": "Hyde",
-      "description": "",
+      "description": "Hyde: generous serif for magazines and books by Andrew Berry, with small caps.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1579,7 +1579,7 @@
       "name": "WP3270",
       "source": "Modified Fonts/IBM 3270 - WP 3270",
       "title": "IBM 3270",
-      "description": "",
+      "description": "IBM 3270: the terminal's glyphs, hand-copied into a scalable monospace (3270font).",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1590,7 +1590,7 @@
       "name": "WPPerplexMono",
       "source": "Modified Fonts/IBM Plex Mono - WP Perplex Mono",
       "title": "IBM Plex Mono",
-      "description": "",
+      "description": "IBM Plex Mono: IBM's monospace by Bold Monday, for code and text.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1604,7 +1604,7 @@
       "name": "WPPerplexSerif",
       "source": "Modified Fonts/IBM Plex Serif - WP Perplex Serif",
       "title": "IBM Plex Serif",
-      "description": "",
+      "description": "IBM Plex Serif in its Text weight, IBM's text serif by Bold Monday.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1618,7 +1618,7 @@
       "name": "WPFellDWPica",
       "source": "Modified Fonts/IM FELL DW Pica - WP Fell DW Pica",
       "title": "IM FELL DW Pica",
-      "description": "",
+      "description": "Fell DW Pica: Igino Marini's revival of the types bequeathed to Oxford in 1686.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1630,7 +1630,7 @@
       "name": "WPFellDoublePica",
       "source": "Modified Fonts/IM FELL Double Pica - WP Fell Double Pica",
       "title": "IM FELL Double Pica",
-      "description": "",
+      "description": "Fell Double Pica: Igino Marini's revival of the types bequeathed to Oxford in 1686.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1642,7 +1642,7 @@
       "name": "WPFellEnglish",
       "source": "Modified Fonts/IM FELL English - WP Fell English",
       "title": "IM FELL English",
-      "description": "",
+      "description": "Fell English: Igino Marini's revival of the types bequeathed to Oxford in 1686.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1654,7 +1654,7 @@
       "name": "WPFellFrenchCanon",
       "source": "Modified Fonts/IM FELL French Canon - WP Fell French Canon",
       "title": "IM FELL French Canon",
-      "description": "",
+      "description": "Fell French Canon: Igino Marini's revival of the types bequeathed to Oxford in 1686.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1666,7 +1666,7 @@
       "name": "WPFellGreatPrimer",
       "source": "Modified Fonts/IM FELL Great Primer - WP Fell Great Primer",
       "title": "IM FELL Great Primer",
-      "description": "",
+      "description": "Fell Great Primer: Igino Marini's revival of the types bequeathed to Oxford in 1686.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1678,7 +1678,7 @@
       "name": "WPEureka",
       "source": "Modified Fonts/Inika - WP Eureka",
       "title": "Inika",
-      "description": "",
+      "description": "Inika: serif with a touch of tiki style, by Constanza Artigas Preller, after Easter Island.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1690,7 +1690,7 @@
       "name": "WPCalcul",
       "source": "Modified Fonts/Inria Serif - WP Calcul",
       "title": "Inria Serif",
-      "description": "",
+      "description": "Inria Serif: text serif drawn by Black Foundry for Inria, the French research institute.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1704,7 +1704,7 @@
       "name": "WPCPUMono",
       "source": "Modified Fonts/Intel One Mono - WP CPU Mono",
       "title": "Intel One Mono",
-      "description": "",
+      "description": "Intel One Mono: Intel's monospace for code, by Frere-Jones Type.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1718,7 +1718,7 @@
       "name": "Inter",
       "source": "Unmodified Fonts/Inter",
       "title": "Inter",
-      "description": "",
+      "description": "Interface sans by Rasmus Andersson, tuned for small sizes on screens.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1732,7 +1732,7 @@
       "name": "WPPlaneBrains",
       "source": "Modified Fonts/JetBrains Mono - WP PlaneBrains",
       "title": "JetBrains Mono",
-      "description": "",
+      "description": "JetBrains Mono: coding monospace with a tall x-height by JetBrains.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1746,7 +1746,7 @@
       "name": "JosefinSans",
       "source": "Unmodified Fonts/Josefin Sans",
       "title": "Josefin Sans",
-      "description": "",
+      "description": "Geometric vintage sans in the 1920s style, by Santiago Orozco.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1760,7 +1760,7 @@
       "name": "WPJasper",
       "source": "Modified Fonts/Jost - WP Jasper",
       "title": "Jost",
-      "description": "",
+      "description": "Jost: geometric sans after the 1920s German sans-serifs, by Owen Earl (indestructible type*).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1774,7 +1774,7 @@
       "name": "WPJudder",
       "source": "Modified Fonts/Judson - WP Judder",
       "title": "Judson",
-      "description": "",
+      "description": "Judson: text serif by Daniel Johnson, designed for African languages in Latin script.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1787,7 +1787,7 @@
       "name": "Junicode",
       "source": "Unmodified Fonts/Junicode",
       "title": "Junicode",
-      "description": "",
+      "description": "Peter S. Baker's font for medievalists, rich in specialist characters.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1801,7 +1801,7 @@
       "name": "WPTicket",
       "source": "Modified Fonts/Jura - WP Ticket",
       "title": "Jura",
-      "description": "",
+      "description": "Jura: light squarish sans by Daniel Johnson, in the Eurostile vein.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1813,7 +1813,7 @@
       "name": "WPKp",
       "source": "Modified Fonts/KPRoman - WP KP",
       "title": "KPRoman",
-      "description": "",
+      "description": "KPRoman: TeX serif derived from URW Palladio, by Caignaert and Flipo (KP-Fonts).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1827,7 +1827,7 @@
       "name": "WPKorma",
       "source": "Modified Fonts/Karma - WP Korma",
       "title": "Karma",
-      "description": "",
+      "description": "Karma: Devanagari-and-Latin serif by Joana Correia (Indian Type Foundry); Latin only in this cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1839,7 +1839,7 @@
       "name": "WPKaye",
       "source": "Modified Fonts/Kay Pho Du - WP Kaye",
       "title": "Kay Pho Du",
-      "description": "",
+      "description": "Kay Pho Du: SIL's serif for the Kayah Li script, by Victor Gaultney and Khu Oo Reh; Latin only.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1851,7 +1851,7 @@
       "name": "WPKazuki",
       "source": "Modified Fonts/KazukiReiwa - WP Kazuki",
       "title": "KazukiReiwa",
-      "description": "",
+      "description": "KazukiReiwa: Japanese face by Kazuki Kimura; Latin only in this cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1862,7 +1862,7 @@
       "name": "WPKelvin",
       "source": "Modified Fonts/Kelvinch - WP Kelvin",
       "title": "Kelvinch",
-      "description": "",
+      "description": "Kelvinch: Paul James Miller's reworking of Gentium Book Basic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1876,7 +1876,7 @@
       "name": "KierkegaardText",
       "source": "Unmodified Fonts/Kierkegaard",
       "title": "Kierkegaard",
-      "description": "",
+      "description": "Kierkegaard: modern serif in Renaissance style, by Jörg Drees.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1890,7 +1890,7 @@
       "name": "KoHo",
       "source": "Unmodified Fonts/KoHo",
       "title": "KoHo",
-      "description": "",
+      "description": "KoHo: Thai-and-Latin sans by Cadson Demak, between geometric and humanist.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1904,7 +1904,7 @@
       "name": "WPKoder",
       "source": "Modified Fonts/Kode Mono - WP Koder",
       "title": "Kode Mono",
-      "description": "",
+      "description": "Kode Mono: coding monospace by Isa Özler for Kadena, with width and roundness axes.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1916,7 +1916,7 @@
       "name": "WPCrayon",
       "source": "Modified Fonts/Kreon - WP Crayon",
       "title": "Kreon",
-      "description": "",
+      "description": "Kreon: low-contrast slab serif by Julia Petretta and Eli Heuer, for magazines and news.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1928,7 +1928,7 @@
       "name": "Kurland",
       "source": "Unmodified Fonts/Kurland",
       "title": "Kurland",
-      "description": "",
+      "description": "Kurland: grunge sans by GGBotNet; regular and italic.",
       "license": "see license file",
       "licenseFile": "License.txt",
       "files": {
@@ -1940,7 +1940,7 @@
       "name": "LINESeedJP",
       "source": "Unmodified Fonts/LINE Seed JP",
       "title": "LINE Seed JP",
-      "description": "",
+      "description": "LINE Seed JP: rounded Japanese gothic sans made for the LINE messaging app.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1952,7 +1952,7 @@
       "name": "WPSuperior",
       "source": "Modified Fonts/LT Superior Serif - WP Superior",
       "title": "LT Superior Serif",
-      "description": "",
+      "description": "LT Superior Serif: book serif by Daniel Lyons (LyonsType).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1964,7 +1964,7 @@
       "name": "WPSingSong",
       "source": "Modified Fonts/LXGW Neo ZhiSong Screen - WP Sing Sing",
       "title": "LXGW Neo ZhiSong Screen",
-      "description": "",
+      "description": "LXGW Neo ZhiSong: Chinese Song face built on Japan's IPA Mincho; CJK not included.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -1975,7 +1975,7 @@
       "name": "WPKadabra",
       "source": "Modified Fonts/Labrada - WP Kadabra",
       "title": "Labrada",
-      "description": "",
+      "description": "Labrada: text serif by Mercedes Jáuregui (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -1989,7 +1989,7 @@
       "name": "WPFewWords",
       "source": "Modified Fonts/Laconic - WP Few Words",
       "title": "Laconic",
-      "description": "",
+      "description": "Laconic: condensed sans by Robby Woodard.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2001,7 +2001,7 @@
       "name": "WPDominos",
       "source": "Modified Fonts/Laila - WP Dominos",
       "title": "Laila",
-      "description": "",
+      "description": "Laila: informal sans with brush terminals, by Hitesh Malaviya and Jonny Pinhorn (ITF); Latin only.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2013,7 +2013,7 @@
       "name": "Lato",
       "source": "Unmodified Fonts/Lato",
       "title": "Lato",
-      "description": "",
+      "description": "Warm humanist sans by Łukasz Dziedzic, named after a Polish summer.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2027,7 +2027,7 @@
       "name": "LeagueSpartan",
       "source": "Unmodified Fonts/League Spartan",
       "title": "League Spartan",
-      "description": "",
+      "description": "League Spartan: geometric sans from the League of Moveable Type, after Matt Bailey's Spartan.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2039,7 +2039,7 @@
       "name": "WPLecturn",
       "source": "Modified Fonts/Lekton - WP Lecturn",
       "title": "Lekton",
-      "description": "",
+      "description": "Lekton: narrow monospace from ISIA Urbino, inspired by Olivetti typewriters.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2052,7 +2052,7 @@
       "name": "WPUnoriginal",
       "source": "Modified Fonts/Leluja Original - WP Unoriginal",
       "title": "Leluja Original",
-      "description": "",
+      "description": "Leluja Original: serif after Polish paper cut-outs (wycinanki), by Andrea Kulpas (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2066,7 +2066,7 @@
       "name": "WPLuthor",
       "source": "Modified Fonts/Lexend - WP Luthor",
       "title": "Lexend",
-      "description": "",
+      "description": "Lexend: sans by Bonnie Shaver-Troup, spaced for more fluent reading.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2078,7 +2078,7 @@
       "name": "WPLibertinoMono",
       "source": "Modified Fonts/Liberation Mono - WP Libertino Mono",
       "title": "Liberation Mono",
-      "description": "",
+      "description": "Liberation Mono: free metric-compatible stand-in for Courier New.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2092,7 +2092,7 @@
       "name": "WPLibertinoSans",
       "source": "Modified Fonts/Liberation Sans - WP Libertino Sans",
       "title": "Liberation Sans",
-      "description": "",
+      "description": "Liberation Sans: free metric-compatible stand-in for Arial.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2106,7 +2106,7 @@
       "name": "WPLibertinoSerif",
       "source": "Modified Fonts/Liberation Serif - WP Libertino Serif",
       "title": "Liberation Serif",
-      "description": "",
+      "description": "Liberation Serif: free metric-compatible stand-in for Times New Roman.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2120,7 +2120,7 @@
       "name": "LibertinusSans",
       "source": "Unmodified Fonts/Libertinus Sans",
       "title": "Libertinus Sans",
-      "description": "",
+      "description": "Libertinus Sans: companion to Libertinus Serif (the old Linux Biolinum).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2133,7 +2133,7 @@
       "name": "LibertinusSerif",
       "source": "Unmodified Fonts/Libertinus Serif",
       "title": "Libertinus Serif",
-      "description": "",
+      "description": "Libertinus Serif: successor to Linux Libertine, a classical book face.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2147,7 +2147,7 @@
       "name": "WPMortimer",
       "source": "Modified Fonts/Libre Baskerville - WP Mortimer",
       "title": "Libre Baskerville",
-      "description": "",
+      "description": "Libre Baskerville: web serif after ATF's 1941 Baskerville, with a taller x-height (Impallari).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2161,7 +2161,7 @@
       "name": "WPCaslon",
       "source": "Modified Fonts/Libre Caslon Text - WP Caslon",
       "title": "Libre Caslon Text",
-      "description": "",
+      "description": "Libre Caslon Text: Impallari's Caslon, cut for body text.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2175,7 +2175,7 @@
       "name": "Libron",
       "source": "Unmodified Fonts/Libron",
       "title": "Libron",
-      "description": "",
+      "description": "Libron: Nico Verbruggen's neutral reworking of Readerly (Newsreader-based) for e-readers.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2189,7 +2189,7 @@
       "name": "WPHillHouse",
       "source": "Modified Fonts/Linden Hill - WP Hill House",
       "title": "Linden Hill",
-      "description": "",
+      "description": "Linden Hill: Barry Schwartz's digitisation of Frederic Goudy's serif Deepdene, with small caps.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2201,7 +2201,7 @@
       "name": "Listopad",
       "source": "Unmodified Fonts/Listopad",
       "title": "Listopad",
-      "description": "",
+      "description": "Listopad: Stefan Peev's Open Sans with Cyrillic local forms (LOCALFONTS project).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2215,7 +2215,7 @@
       "name": "WPIntheBasket",
       "source": "Modified Fonts/Lotion - WP In the Basket",
       "title": "Lotion",
-      "description": "",
+      "description": "Lotion: monospace by Nina Belikova, with bold and italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2229,7 +2229,7 @@
       "name": "Luciole",
       "source": "Unmodified Fonts/Luciole",
       "title": "Luciole",
-      "description": "",
+      "description": "Luciole: sans with a large x-height by Laurent Bourcellier, made for low-vision readers.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2243,7 +2243,7 @@
       "name": "WPMMINUS",
       "source": "Modified Fonts/M PLUS Code Latin ",
       "title": "M PLUS Code Latin",
-      "description": "",
+      "description": "M PLUS Code Latin: the Latin half of Coji Morishita's coding monospace.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2255,7 +2255,7 @@
       "name": "WPMyTree",
       "source": "Modified Fonts/Maitree - WP My Tree",
       "title": "Maitree",
-      "description": "",
+      "description": "Maitree: wide serif by Cadson Demak for Thai and Latin; Latin only in this cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2267,7 +2267,7 @@
       "name": "WPBamako",
       "source": "Modified Fonts/Mali - WP Bamako",
       "title": "Mali",
-      "description": "",
+      "description": "Mali: Thai-and-Latin sans inspired by a child's handwriting, by Cadson Demak; Latin only here.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2281,7 +2281,7 @@
       "name": "WPManually",
       "source": "Modified Fonts/Manuale - WP Manually",
       "title": "Manuale",
-      "description": "",
+      "description": "Manuale: text serif for print and screen by Pablo Cosgaya and Eduardo Tunni (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2295,7 +2295,7 @@
       "name": "WPToronto",
       "source": "Modified Fonts/Maple Mono - WP Toronto",
       "title": "Maple Mono",
-      "description": "",
+      "description": "Maple Mono NL: round-cornered coding monospace by subframe7536, without ligatures.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2309,7 +2309,7 @@
       "name": "Marauder-Text",
       "source": "Unmodified Fonts/Marauder",
       "title": "Marauder",
-      "description": "",
+      "description": "Marauder Text: Owen Earl's mid-century-flavoured serif (indestructible type*), text-size cut.",
       "license": "see license file",
       "licenseFile": "LICENSE.md",
       "files": {
@@ -2323,7 +2323,7 @@
       "name": "MarkaziText",
       "source": "Unmodified Fonts/Markazi Text",
       "title": "Markazi Text",
-      "description": "",
+      "description": "Markazi Text: Arabic-and-Latin text serif by Borna Izadpanah and Florian Runge.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2335,7 +2335,7 @@
       "name": "WPCheckmate",
       "source": "Modified Fonts/Mate - WP Checkmate",
       "title": "Mate",
-      "description": "",
+      "description": "Mate: narrow text serif by Eduardo Rodríguez Tunni, with true small caps.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2347,7 +2347,7 @@
       "name": "WPMerryWeather",
       "source": "Modified Fonts/Merryweather - WP Merry Weather",
       "title": "Merryweather",
-      "description": "",
+      "description": "Merriweather: sturdy screen-reading serif by Eben Sorkin.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2361,7 +2361,7 @@
       "name": "WPGout",
       "source": "Modified Fonts/Miju Goudy - WP Gout",
       "title": "Miju Goudy",
-      "description": "",
+      "description": "Miju Goudy: Goudy-style serif derived from Sukhumala (Bhikkhu Pesala), for Miju Magazine.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2375,7 +2375,7 @@
       "name": "Minipax",
       "source": "Unmodified Fonts/Minipax",
       "title": "Minipax",
-      "description": "",
+      "description": "Minipax: sturdy narrow serif by Raphaël Ronot (Velvetyne).",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2387,7 +2387,7 @@
       "name": "WPMSA",
       "source": "Modified Fonts/Monaspace Argon - WP MS A",
       "title": "Monaspace Argon",
-      "description": "",
+      "description": "Monaspace Argon: GitHub's monospace in its humanist sans voice.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2401,7 +2401,7 @@
       "name": "WPMSK",
       "source": "Modified Fonts/Monaspace Krypton - WP MS K",
       "title": "Monaspace Krypton",
-      "description": "",
+      "description": "Monaspace Krypton: GitHub's monospace in its mechanical voice.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2415,7 +2415,7 @@
       "name": "WPMSN",
       "source": "Modified Fonts/Monaspace Neon - WP MS N",
       "title": "Monaspace Neon",
-      "description": "",
+      "description": "Monaspace Neon: GitHub's monospace in its neo-grotesque voice.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2429,7 +2429,7 @@
       "name": "WPMSR",
       "source": "Modified Fonts/Monaspace Radon - WP MS R",
       "title": "Monaspace Radon",
-      "description": "",
+      "description": "Monaspace Radon: GitHub's monospace in its monoline handwriting voice.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2443,7 +2443,7 @@
       "name": "WPMSX",
       "source": "Modified Fonts/Monaspace Xenon - WP MS X",
       "title": "Monaspace Xenon",
-      "description": "",
+      "description": "Monaspace Xenon: GitHub's monospace in its slab serif voice.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2457,7 +2457,7 @@
       "name": "Montserrat",
       "source": "Unmodified Fonts/Montserrat",
       "title": "Montserrat",
-      "description": "",
+      "description": "Geometric sans by Julieta Ulanovsky, from old Buenos Aires signage.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2471,7 +2471,7 @@
       "name": "WPNepogrimer",
       "source": "Modified Fonts/Nepomuk - WP Neogrimer",
       "title": "Nepomuk",
-      "description": "",
+      "description": "Nepomuk: serif after the lettering of engraved music plates, by Kretlow and Byram-Wigfield.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2485,7 +2485,7 @@
       "name": "Neuton",
       "source": "Unmodified Fonts/Neuton",
       "title": "Neuton",
-      "description": "",
+      "description": "Neuton: dark, compact serif with a Dutch flavour, by Brian M. Zick.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2498,7 +2498,7 @@
       "name": "NeverMindHand",
       "source": "Unmodified Fonts/NeverMind Hand",
       "title": "NeverMind Hand",
-      "description": "",
+      "description": "NeverMind Hand: handwritten cut of NeverMind, the Xmind brand font.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2510,7 +2510,7 @@
       "name": "NeverMindHandwriting",
       "source": "Unmodified Fonts/NeverMind Handwriting",
       "title": "NeverMind Handwriting",
-      "description": "",
+      "description": "NeverMind Handwriting: handwriting cut of NeverMind, the Xmind brand font.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2522,7 +2522,7 @@
       "name": "WPIMindSlab",
       "source": "Modified Fonts/NeverMind Slab - WP I Mind Slab",
       "title": "NeverMind Slab",
-      "description": "",
+      "description": "NeverMind Slab: slab cut of NeverMind, the Xmind brand font.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2534,7 +2534,7 @@
       "name": "NeverMindsemi-serif",
       "source": "Unmodified Fonts/NeverMind semi-serif",
       "title": "NeverMind semi-serif",
-      "description": "",
+      "description": "NeverMind semi-serif: flared-stroke cut of NeverMind, the Xmind brand font.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2546,7 +2546,7 @@
       "name": "WPCigaretteBurns",
       "source": "Modified Fonts/New Tegomin - WP Cigarette Burns",
       "title": "New Tegomin",
-      "description": "",
+      "description": "New Tegomin: hand-drawn Japanese Mincho by Kyosuke Nagai; Latin only here.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2557,7 +2557,7 @@
       "name": "Newsreader16pt",
       "source": "Unmodified Fonts/Newsreader",
       "title": "Newsreader",
-      "description": "",
+      "description": "Newsreader: text serif by Hugues Gentile (Production Type), for reading the news on screen.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2571,7 +2571,7 @@
       "name": "WPSalamander",
       "source": "Modified Fonts/Newt Serif - WP Salamander",
       "title": "Newt Serif",
-      "description": "",
+      "description": "Newt Serif: soft, friendly serif with a calligraphic bent, by Nathanael Bonnell.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2585,7 +2585,7 @@
       "name": "WPPostal",
       "source": "Modified Fonts/Nimbus Mono PS - WP Postal",
       "title": "Nimbus Mono PS",
-      "description": "",
+      "description": "Nimbus Mono PS: URW's Courier replica; regular and bold with italics.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2599,7 +2599,7 @@
       "name": "WPNocturnal",
       "source": "Modified Fonts/Nocturne Serif - WP Nocturnal",
       "title": "Nocturne Serif",
-      "description": "",
+      "description": "Nocturne Serif: book serif by Mateusz Machalski; only the regular is free.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2610,7 +2610,7 @@
       "name": "WPNotice",
       "source": "Modified Fonts/Noticia Text - WP Notice",
       "title": "Noticia Text",
-      "description": "",
+      "description": "Noticia Text: slab serif for online news by JM Solé, with big serifs and apertures.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2624,7 +2624,7 @@
       "name": "NotoSans",
       "source": "Unmodified Fonts/Noto Sans",
       "title": "Noto Sans",
-      "description": "",
+      "description": "Noto Sans: Google's pan-script sans, \"no more tofu\".",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2638,7 +2638,7 @@
       "name": "NotoSerif",
       "source": "Unmodified Fonts/Noto Serif",
       "title": "Noto Serif",
-      "description": "",
+      "description": "Noto Serif: Google's pan-script reading companion to Noto Sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2652,7 +2652,7 @@
       "name": "WPOCRA",
       "source": "Modified Fonts/OCR-A - WP OCR-A",
       "title": "OCR-A",
-      "description": "",
+      "description": "OCR-A: the machine-readable typeface of the 1960s; few diacritics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2663,7 +2663,7 @@
       "name": "WPOCRB",
       "source": "Modified Fonts/OCR-B - WP OCR-B",
       "title": "OCR-B",
-      "description": "",
+      "description": "OCR-B: the friendlier OCR standard face, drawn by Adrian Frutiger.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2674,7 +2674,7 @@
       "name": "WPOD2",
       "source": "Modified Fonts/OpenDyslexic 2 - WP OD 2",
       "title": "OpenDyslexic 2",
-      "description": "",
+      "description": "OpenDyslexic 2: sans with letters weighted to keep b/d and p/q apart.",
       "license": "see license file",
       "licenseFile": "License.txt",
       "files": {
@@ -2688,7 +2688,7 @@
       "name": "WPOD4",
       "source": "Modified Fonts/OpenDyslexic 4 - WP OD 4",
       "title": "OpenDyslexic 4",
-      "description": "",
+      "description": "OpenDyslexic 4: newer, roomier cut of the dyslexia-friendly sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2702,7 +2702,7 @@
       "name": "WPGalaxy",
       "source": "Modified Fonts/Orbit - WP Galaxy",
       "title": "Orbit",
-      "description": "",
+      "description": "Orbit: monospace by Sooun Cho (JAMO); ligatures and Korean removed.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2713,7 +2713,7 @@
       "name": "WPOutfitted",
       "source": "Modified Fonts/Outfit - WP Outfitted",
       "title": "Outfit",
-      "description": "",
+      "description": "Outfit: geometric brand sans for outfit.io, by Rodrigo Fuenzalida; one ligature removed.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2725,7 +2725,7 @@
       "name": "WPOverlocked",
       "source": "Modified Fonts/Overlock - WP Overlocked",
       "title": "Overlock",
-      "description": "",
+      "description": "Overlock: rounded display sans by Dario Muhafara, after the overlock stitch.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2739,7 +2739,7 @@
       "name": "WPUnderpass",
       "source": "Modified Fonts/Overpass - WP Underpass",
       "title": "Overpass",
-      "description": "",
+      "description": "Overpass: free sans interpretation of the US Highway Gothic signage lettering.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2753,7 +2753,7 @@
       "name": "WP46",
       "source": "Modified Fonts/PL46 - WP46",
       "title": "PL46",
-      "description": "",
+      "description": "PL46: monospace cut of a skeleton-drawn family covering Latin, Greek and Cyrillic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2764,7 +2764,7 @@
       "name": "WPStar",
       "source": "Modified Fonts/Patrick Hand - WP Star",
       "title": "Patrick Hand",
-      "description": "",
+      "description": "Patrick Hand: casual handwriting by Patrick Wagesreiter.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2775,7 +2775,7 @@
       "name": "Petrona",
       "source": "Unmodified Fonts/Petrona",
       "title": "Petrona",
-      "description": "",
+      "description": "Petrona: text serif by Ringo R. Seeber (Glyph Co), heavy serifs on its capitals.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2789,7 +2789,7 @@
       "name": "Philosopher",
       "source": "Unmodified Fonts/Philosopher",
       "title": "Philosopher",
-      "description": "",
+      "description": "Philosopher: sans by Jovanny Lemonad, after Agfa Rotis and ITC Binary.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2803,7 +2803,7 @@
       "name": "Piazzolla",
       "source": "Unmodified Fonts/Piazzolla",
       "title": "Piazzolla",
-      "description": "",
+      "description": "Piazzolla: compact serif for long texts, by Juan Pablo del Peral (Huerta Tipográfica).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2817,7 +2817,7 @@
       "name": "WPPixelC",
       "source": "Modified Fonts/Pixel Code - WP PixelC",
       "title": "Pixel Code",
-      "description": "",
+      "description": "Pixel Code: pixel monospace by Qwerasd, with bold and italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2831,7 +2831,7 @@
       "name": "PlaypenSans",
       "source": "Unmodified Fonts/Playpen Sans",
       "title": "Playpen Sans",
-      "description": "",
+      "description": "Handwriting-flavoured sans by TypeTogether, rich in alternate forms.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2843,7 +2843,7 @@
       "name": "Podkova",
       "source": "Unmodified Fonts/Podkova",
       "title": "Podkova",
-      "description": "",
+      "description": "Podkova: monoline slab serif with diagonal terminals, by Ilya Yudin (Cyreal).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2855,7 +2855,7 @@
       "name": "WPPolybius",
       "source": "Modified Fonts/Poly - WP Polybius",
       "title": "Poly",
-      "description": "",
+      "description": "Poly: medium-contrast serif with a very high x-height, by José Nicolás Silva Schwarzenberg.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2867,7 +2867,7 @@
       "name": "WPMary",
       "source": "Modified Fonts/Poppins - WP Mary",
       "title": "Poppins",
-      "description": "",
+      "description": "Poppins: geometric sans by Indian Type Foundry, built on circles.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2881,7 +2881,7 @@
       "name": "WPFroggy",
       "source": "Modified Fonts/Proggy - WP Froggy",
       "title": "Proggy",
-      "description": "",
+      "description": "Proggy: compact bitmap-style programming font by Tristan Grimmer.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -2892,7 +2892,7 @@
       "name": "WPProse",
       "source": "Modified Fonts/Proza Libre - WP Prose",
       "title": "Proza Libre",
-      "description": "",
+      "description": "Proza Libre: text sans by Jasper de Waard.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2906,7 +2906,7 @@
       "name": "WPPoltergeist",
       "source": "Modified Fonts/Półtawski Nowy - WP Poltergeist",
       "title": "Półtawski Nowy",
-      "description": "",
+      "description": "Półtawski Nowy: revival of Adam Półtawski's Polish antiqua, by Capitalics.wtf.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2920,7 +2920,7 @@
       "name": "REM",
       "source": "Unmodified Fonts/REM",
       "title": "REM",
-      "description": "",
+      "description": "REM: sans for corporate and display use by Octavio Pardo, heavy and low in contrast.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2934,7 +2934,7 @@
       "name": "WPRadical",
       "source": "Modified Fonts/Radley - WP Radical",
       "title": "Radley",
-      "description": "",
+      "description": "Radley: light serif from lettering for woodcarved titles, by Vernon Adams.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2946,7 +2946,7 @@
       "name": "Raleway",
       "source": "Unmodified Fonts/Raleway",
       "title": "Raleway",
-      "description": "",
+      "description": "Elegant light sans begun by Matt McInerney, completed by Impallari Type.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2960,7 +2960,7 @@
       "name": "Readerly",
       "source": "Unmodified Fonts/Readerly",
       "title": "Readerly",
-      "description": "",
+      "description": "Readerly: Nico Verbruggen's Newsreader retuned to Bookerly's metrics, for e-readers.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2974,7 +2974,7 @@
       "name": "WPRecurrentSansCasual",
       "source": "Modified Fonts/Recursive Sans Casual - WP Recurrent Sans Casual",
       "title": "Recursive Sans Casual",
-      "description": "",
+      "description": "Recursive Sans Casual, WP-Fonts' edited copy: soft, hand-drawn-leaning sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -2988,7 +2988,7 @@
       "name": "RecursiveSansCslSt",
       "source": "Unmodified Fonts/Recursive Sans Casual",
       "title": "Recursive Sans Casual",
-      "description": "",
+      "description": "Recursive Sans Casual, upstream's unmodified cut: soft, hand-drawn-leaning sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3002,7 +3002,7 @@
       "name": "WPRecurrentSansLinear",
       "source": "Modified Fonts/Recursive Sans Linear - WP Recurrent Sans Linear",
       "title": "Recursive Sans Linear",
-      "description": "",
+      "description": "Recursive Sans Linear, WP-Fonts' edited copy: clean, linear sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3016,7 +3016,7 @@
       "name": "RecursiveSansLnrSt",
       "source": "Unmodified Fonts/Recursive Sans Linear",
       "title": "Recursive Sans Linear",
-      "description": "",
+      "description": "Recursive Sans Linear, upstream's unmodified cut: clean, linear sans.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3030,7 +3030,7 @@
       "name": "Redaction",
       "source": "Unmodified Fonts/Redaction",
       "title": "Redaction",
-      "description": "",
+      "description": "Redaction: Times-based serif by Jeremy Mickel and Forest Young, made for a MoMA PS1 show.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3043,7 +3043,7 @@
       "name": "RedditSans",
       "source": "Unmodified Fonts/Reddit Sans",
       "title": "Reddit Sans",
-      "description": "",
+      "description": "Reddit's brand sans by Stephen Hutchings (Order).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3057,7 +3057,7 @@
       "name": "WPBotMono",
       "source": "Modified Fonts/Roboto Mono - WP Bot Mono",
       "title": "Roboto Mono",
-      "description": "",
+      "description": "Roboto Mono: monospaced companion to Roboto.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3071,7 +3071,7 @@
       "name": "WPBotSerif",
       "source": "Modified Fonts/Roboto Serif - WP Bot Serif",
       "title": "Roboto Serif",
-      "description": "",
+      "description": "Roboto Serif: Google's text serif, by Greg Gazdowicz (Commercial Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3085,7 +3085,7 @@
       "name": "RobotoSlab",
       "source": "Unmodified Fonts/Roboto Slab",
       "title": "Roboto Slab",
-      "description": "",
+      "description": "Roboto Slab: slab companion to Roboto; regular and bold.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -3097,7 +3097,7 @@
       "name": "Roboto",
       "source": "Unmodified Fonts/Roboto",
       "title": "Roboto",
-      "description": "",
+      "description": "Android's default sans by Christian Robertson; neutral and compact.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3111,7 +3111,7 @@
       "name": "Rosario",
       "source": "Unmodified Fonts/Rosario",
       "title": "Rosario",
-      "description": "",
+      "description": "Rosario: calligraphic humanist sans by Héctor Gatti (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3125,7 +3125,7 @@
       "name": "WPRosebud",
       "source": "Modified Fonts/Rosarivo - WP Rosebud",
       "title": "Rosarivo",
-      "description": "",
+      "description": "Rosarivo: calligraphic text serif by Pablo Ugerman, in regular and italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3137,7 +3137,7 @@
       "name": "WPGeeko",
       "source": "Modified Fonts/SUSE - WP Geeko",
       "title": "SUSE",
-      "description": "",
+      "description": "SUSE: the Linux distribution's interface sans, by Rene Bieder.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3151,7 +3151,7 @@
       "name": "WPGeekoMono",
       "source": "Modified Fonts/SUSE Mono - WP Geeko Mono",
       "title": "SUSE Mono",
-      "description": "",
+      "description": "SUSE Mono: monospaced companion to the SUSE sans, by Rene Bieder.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3165,7 +3165,7 @@
       "name": "Sanchez",
       "source": "Unmodified Fonts/Sanchez",
       "title": "Sanchez",
-      "description": "",
+      "description": "Sanchez: rounded slab serif in the Rockwell manner, by Daniel Hernández (Latinotype).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3177,7 +3177,7 @@
       "name": "WPZenith",
       "source": "Modified Fonts/Sawarabi Mincho - WP Zenith",
       "title": "Sawarabi Mincho",
-      "description": "",
+      "description": "Sawarabi Mincho: Japanese Mincho by mshio; Latin only in this cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3188,7 +3188,7 @@
       "name": "WPScience",
       "source": "Modified Fonts/Science Gothic - WP Science",
       "title": "Science Gothic",
-      "description": "",
+      "description": "Science Gothic: Phinney, Kateliev and Buerkle's geometric sans, in light and semibold cuts.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3202,7 +3202,7 @@
       "name": "WPSeiklus",
       "source": "Modified Fonts/Secuela - WP Seiklus",
       "title": "Secuela",
-      "description": "",
+      "description": "Secuela: condensed geometric sans by Fernando Haro (deFharo).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3216,7 +3216,7 @@
       "name": "WPVroom",
       "source": "Modified Fonts/Sedan - WP Vroom",
       "title": "Sedan",
-      "description": "",
+      "description": "Sedan: garalde serif by Sebastian Salazar, with small caps and ligatures.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3228,7 +3228,7 @@
       "name": "WPSelective",
       "source": "Modified Fonts/Selectric Mono - WP Selective",
       "title": "Selectric Mono",
-      "description": "",
+      "description": "Selectric Mono: open revival of the IBM Selectric's typewriter face, by Leonard Mabille.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3239,7 +3239,7 @@
       "name": "ShantellSans",
       "source": "Unmodified Fonts/Shantell Sans",
       "title": "Shantell Sans",
-      "description": "",
+      "description": "Bouncy, playful sans by Shantell Martin and Arrow Type.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3253,7 +3253,7 @@
       "name": "WPSharedTechMono",
       "source": "Modified Fonts/Share Tech Mono - WP Shared Tech",
       "title": "Share Tech Mono",
-      "description": "",
+      "description": "Share Tech Mono: monospaced companion to Carrois' Share, for technical text.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3264,7 +3264,7 @@
       "name": "Share",
       "source": "Unmodified Fonts/Share",
       "title": "Share",
-      "description": "",
+      "description": "Share: square-shouldered sans by Ralph du Carrois, with bold and italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3278,7 +3278,7 @@
       "name": "WPSMincho",
       "source": "Modified Fonts/Shippori Mincho - WP S Mincho",
       "title": "Shippori Mincho",
-      "description": "",
+      "description": "Shippori Mincho: Japanese Mincho by FONTDASU after Tsukiji No. 5; Latin only in this cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3290,7 +3290,7 @@
       "name": "Signika",
       "source": "Unmodified Fonts/Signika",
       "title": "Signika",
-      "description": "",
+      "description": "Signika: signage sans by Anna Giedryś, with a tall x-height.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3302,7 +3302,7 @@
       "name": "SofiaSans",
       "source": "Unmodified Fonts/Sofia Sans",
       "title": "Sofia Sans",
-      "description": "",
+      "description": "Sofia Sans: sans first made for Bulgaria's capital, by Botio Nikoltchev and Ani Petrova.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3316,7 +3316,7 @@
       "name": "WPSomeTypeMono",
       "source": "Modified Fonts/Sometype Mono - WP Sum Type Mono",
       "title": "Sometype Mono",
-      "description": "",
+      "description": "Sometype Mono: monospace by Ryoichi Tsunekawa (Dharma Type), with italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3330,7 +3330,7 @@
       "name": "SourGummy",
       "source": "Unmodified Fonts/Sour Gummy",
       "title": "Sour Gummy",
-      "description": "",
+      "description": "Sour Gummy: bubble-style hand lettering by Stefie Justprince.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3342,7 +3342,7 @@
       "name": "WPSCodePro",
       "source": "Modified Fonts/Source Code Pro - WP SCode Pro",
       "title": "Source Code Pro",
-      "description": "",
+      "description": "Source Code Pro: Adobe's monospace by Paul D. Hunt.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3356,7 +3356,7 @@
       "name": "WPSpacedOut",
       "source": "Modified Fonts/Space Mono - WP Spaced Out",
       "title": "Space Mono",
-      "description": "",
+      "description": "Space Mono: quirky monospace by Colophon Foundry for Google.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3370,7 +3370,7 @@
       "name": "WPElite",
       "source": "Modified Fonts/Special Elite - WP Elite",
       "title": "Special Elite",
-      "description": "",
+      "description": "Special Elite: worn typewriter face by Astigmatic.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -3381,7 +3381,7 @@
       "name": "Spectral",
       "source": "Unmodified Fonts/Spectral",
       "title": "Spectral",
-      "description": "",
+      "description": "Spectral: light text serif by Production Type (Jean-Baptiste Levée), for screen reading.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3395,7 +3395,7 @@
       "name": "WPSplendid",
       "source": "Modified Fonts/Splentinex - WP Splendid",
       "title": "Splentinex",
-      "description": "",
+      "description": "Splentinex: Plantin revival by Ben Byram-Wigfield and Daniel Benjamin Miller.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3409,7 +3409,7 @@
       "name": "WPStyleU",
       "source": "Modified Fonts/Stilu - WP Style U",
       "title": "Stilu",
-      "description": "",
+      "description": "Stilu: bold, rounded marker-style sans by Genilson Lima Santos.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3421,7 +3421,7 @@
       "name": "WPRMRF",
       "source": "Modified Fonts/Sudo - WP RM RF",
       "title": "Sudo",
-      "description": "",
+      "description": "Sudo: pixel-grid monospace by Jens Kutilek, best at 13 px (Sudo Mono).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3435,7 +3435,7 @@
       "name": "WPOneDay",
       "source": "Modified Fonts/Tagesschrift - WP One Day",
       "title": "Tagesschrift",
-      "description": "",
+      "description": "Tagesschrift: broad-nib Antiqua drawn, digitized and finished in a single day, by Yanone.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3446,7 +3446,7 @@
       "name": "Taviraj",
       "source": "Unmodified Fonts/Taviraj",
       "title": "Taviraj",
-      "description": "",
+      "description": "Taviraj: Thai-and-Latin serif by Cadson Demak, for formal setting.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3460,7 +3460,7 @@
       "name": "WPTexture",
       "source": "Modified Fonts/Texturina - WP Texture",
       "title": "Texturina",
-      "description": "",
+      "description": "Texturina: serif with a touch of blackletter, by Guillermo Torres (Omnibus-Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3474,7 +3474,7 @@
       "name": "WPYours",
       "source": "Modified Fonts/Tienne - WP Yours",
       "title": "Tienne",
-      "description": "",
+      "description": "Tienne: display and text serif by Vernon Adams, remixed from Droid Serif and Artifika.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3486,7 +3486,7 @@
       "name": "WPTribute",
       "source": "Modified Fonts/Tribun ADF Std - WP Tribute",
       "title": "Tribun ADF Std",
-      "description": "",
+      "description": "Tribun ADF Std: sturdy serif by Hirwen Harendal (Arkandis Digital Foundry).",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -3500,7 +3500,7 @@
       "name": "WPFaceOff",
       "source": "Modified Fonts/Typey McTypeface - WP Face Off",
       "title": "Typey McTypeface",
-      "description": "",
+      "description": "Typey McTypeface: Paul J. Miller's reworking of Steffmann's Chelsea, an old-style book serif.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3512,7 +3512,7 @@
       "name": "WPVenus",
       "source": "Modified Fonts/Vesper Libre - WP Evening",
       "title": "Vesper Libre",
-      "description": "",
+      "description": "Vesper Libre: solid text serif by Robert Keller and Kimya Gandhi (Mota Italic); Latin only here.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3524,7 +3524,7 @@
       "name": "WPMotivator",
       "source": "Modified Fonts/Volkhov - WP Motivator",
       "title": "Volkhov",
-      "description": "",
+      "description": "Volkhov: serif by Ivan Petrov for Cyreal.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3538,7 +3538,7 @@
       "name": "WPRipVanWinkle",
       "source": "Modified Fonts/Winky Sans - WP Rip Van Winkle",
       "title": "Winky Sans",
-      "description": "",
+      "description": "Winky Sans: rounded geometric sans by Simon Atzbach (typofactur).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3552,7 +3552,7 @@
       "name": "Wittgenstein",
       "source": "Unmodified Fonts/Wittgenstein",
       "title": "Wittgenstein",
-      "description": "",
+      "description": "Wittgenstein: serif after Trump's Mediaeval and Diethelm's Antiqua, by Jörg Drees.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3566,7 +3566,7 @@
       "name": "WorkSans",
       "source": "Unmodified Fonts/Work Sans",
       "title": "Work Sans",
-      "description": "",
+      "description": "Sans by Wei Huang after the early grotesques; wide and airy.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3580,7 +3580,7 @@
       "name": "WPYTypewriter",
       "source": "Modified Fonts/X Typewriter - WP Y Typewriter",
       "title": "X Typewriter",
-      "description": "",
+      "description": "X Typewriter: typewriter monospace by GGBotNet, in regular and bold.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3592,7 +3592,7 @@
       "name": "YoungSerif",
       "source": "Unmodified Fonts/Young Serif",
       "title": "Young Serif",
-      "description": "",
+      "description": "Young Serif: generous old-style serif by Bastien Sozeau.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3606,7 +3606,7 @@
       "name": "Yrsa",
       "source": "Unmodified Fonts/Yrsa",
       "title": "Yrsa",
-      "description": "",
+      "description": "Yrsa: serif by Anna Giedryś, art-directed by David Březina (Rosetta Type).",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3620,7 +3620,7 @@
       "name": "WPEezahboh",
       "source": "Modified Fonts/Ysabeau - WP Eezahboh",
       "title": "Ysabeau",
-      "description": "",
+      "description": "Ysabeau: low-contrast sans with Garamond letterforms, by Christian Thalmann; no true italic.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3634,7 +3634,7 @@
       "name": "WPEezahboh2",
       "source": "Modified Fonts/Ysabeau Medium - WP Eezahboh 2",
       "title": "Ysabeau Medium",
-      "description": "",
+      "description": "Ysabeau Medium: the same face at its Medium weight, for those who prefer it heavier.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3648,7 +3648,7 @@
       "name": "WPEezahboh3",
       "source": "Modified Fonts/Ysabeau Semibold - WP Eezahboh 3",
       "title": "Ysabeau Semibold",
-      "description": "",
+      "description": "Ysabeau Semibold: the same face at its Semibold weight, the heaviest cut.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3662,7 +3662,7 @@
       "name": "WPWesker",
       "source": "Modified Fonts/Yuji Syuku - WP Wesker",
       "title": "Yuji Syuku",
-      "description": "",
+      "description": "Yuji Syuku: brush-written face by Yuji Kataoka (Kinuta Font Factory); Latin only here.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3673,7 +3673,7 @@
       "name": "WPOldMincho",
       "source": "Modified Fonts/Zen Old Mincho - WP Old Mincho",
       "title": "Zen Old Mincho",
-      "description": "",
+      "description": "Zen Old Mincho: Japanese Mincho by Yoshimichi Ohira; Latin only here, bold is subtle.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3685,7 +3685,7 @@
       "name": "WPFoxSlab",
       "source": "Modified Fonts/Zilla Slab - WP Fox Slab",
       "title": "Zilla Slab",
-      "description": "",
+      "description": "Zilla Slab: Mozilla's core typeface, a slab serif based on Typotheque's Tesla.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3699,7 +3699,7 @@
       "name": "WPNowhere",
       "source": "Modified Fonts/erewhon - WP Nowhere",
       "title": "erewhon",
-      "description": "",
+      "description": "Erewhon: text serif by Michael Sharpe, extending Adobe's Utopia through Heuristica.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3713,7 +3713,7 @@
       "name": "WPDokiDoki",
       "source": "Modified Fonts/mononoki - WP Doki Doki",
       "title": "mononoki",
-      "description": "",
+      "description": "mononoki: coding monospace by Matthias Tellen, with bold and italics.",
       "license": "see license file",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3727,7 +3727,7 @@
       "name": "WPFexofenadineG",
       "source": "Modified Fonts/Alegreya (modified italic g) - WP Fexofenadine G",
       "title": "Alegreya (modified italic g)",
-      "description": "",
+      "description": "Alegreya with the same fixes and a more conventional italic g.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3741,7 +3741,7 @@
       "name": "WPAntique",
       "source": "Modified Fonts/Antykwa Toruńska - WP Antique",
       "title": "Antykwa Toruńska",
-      "description": "",
+      "description": "Antykwa Toruńska: Polish antiqua by Zygfryd Gardzielewski, digitised by Janusz Nowacki.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3755,7 +3755,7 @@
       "name": "WPSuperlegibleNext",
       "source": "Modified Fonts/Atkinson Hyperlegible Next - WP Superlegible",
       "title": "Atkinson Hyperlegible Next",
-      "description": "",
+      "description": "Atkinson Hyperlegible Next: the Braille Institute's low-vision sans, updated.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3769,7 +3769,7 @@
       "name": "WPBane",
       "source": "Modified Fonts/Bainsley - WP Bane",
       "title": "Bainsley",
-      "description": "",
+      "description": "Bainsley: legible text sans for general use, by Paul James Miller.",
       "license": "OFL",
       "licenseFile": "SIL Open Font License.txt",
       "files": {
@@ -3783,7 +3783,7 @@
       "name": "WPElectra",
       "source": "Modified Fonts/Dihjau - WP Electra",
       "title": "Dihjau",
-      "description": "",
+      "description": "Dihjau: text serif after Dwiggins's Electra, by T. Christopher White.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3797,7 +3797,7 @@
       "name": "WPNewComputerModerner",
       "source": "Modified Fonts/New Computer Modern - WP New Computer Moderner",
       "title": "New Computer Modern",
-      "description": "",
+      "description": "New Computer Modern: Antonis Tsolomitis' wide-ranging extension of Computer Modern.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3811,7 +3811,7 @@
       "name": "WPNewComputerModernerMono",
       "source": "Modified Fonts/New Computer Modern Mono - WP New Computer Moderner Mono",
       "title": "New Computer Modern Mono",
-      "description": "",
+      "description": "New Computer Modern Mono: the monospaced member of the New Computer Modern family.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3823,7 +3823,7 @@
       "name": "WPClick",
       "source": "Modified Fonts/TeX Gyre Cursor - WP Click",
       "title": "TeX Gyre Cursor",
-      "description": "",
+      "description": "TeX Gyre Cursor: GUST's Courier replica; ligatures removed here.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3837,7 +3837,7 @@
       "name": "WPPages",
       "source": "Modified Fonts/TeX Gyre Pagella - WP Pages",
       "title": "TeX Gyre Pagella",
-      "description": "",
+      "description": "TeX Gyre Pagella: GUST's replica of Palatino.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3851,7 +3851,7 @@
       "name": "WPScholar",
       "source": "Modified Fonts/TeX Gyre Schola - WP Scholar",
       "title": "TeX Gyre Schola",
-      "description": "",
+      "description": "TeX Gyre Schola: GUST's replica of Century Schoolbook.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3865,7 +3865,7 @@
       "name": "WPNewTimes",
       "source": "Modified Fonts/TeX Gyre Termes - WP New Times",
       "title": "TeX Gyre Termes",
-      "description": "",
+      "description": "TeX Gyre Termes: GUST's replica of Times.",
       "license": "OFL",
       "licenseFile": "GUST-FONT-LICENSE.txt",
       "files": {
@@ -3879,7 +3879,7 @@
       "name": "UbuntuMonoderivativeWP",
       "source": "Modified Fonts/Ubuntu Mono - Ubuntu Mono derivative WP",
       "title": "Ubuntu Mono",
-      "description": "",
+      "description": "Ubuntu Mono: the Ubuntu family's monospace (Dalton Maag).",
       "license": "see license file",
       "licenseFile": "UFL.txt",
       "files": {
@@ -3893,7 +3893,7 @@
       "name": "UbuntuSansderivativeWP",
       "source": "Modified Fonts/Ubuntu Sans - Ubuntu Sans derivative WP",
       "title": "Ubuntu Sans",
-      "description": "",
+      "description": "Ubuntu Sans, the Ubuntu operating system's font by Dalton Maag.",
       "license": "see license file",
       "licenseFile": "UFL.txt",
       "files": {
@@ -3907,7 +3907,7 @@
       "name": "AgravePro",
       "source": "Unmodified Fonts/Agrave Pro",
       "title": "Agràve Pro",
-      "description": "",
+      "description": "Agràve Pro: handwritten face for longer texts, with uniform strokes, by Daan Jobsis.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3919,7 +3919,7 @@
       "name": "AsapSharp",
       "source": "Unmodified Fonts/Asap Sharp",
       "title": "Asap Sharp",
-      "description": "",
+      "description": "Asap Sharp: the Asap sans with sharper, more angular details, by Pablo Cosgaya (Omnibus-Type).",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/asapsharp/OFL.txt",
@@ -3935,7 +3935,7 @@
       "name": "BaskervillePunch",
       "source": "Unmodified Fonts/Baskerville Punch",
       "title": "Baskerville Punch",
-      "description": "",
+      "description": "Baskerville Punch: revival drawn from Baskerville's original steel punches (Cambridge).",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -3947,7 +3947,7 @@
       "name": "BreezeSans",
       "source": "Unmodified Fonts/BreezeSans",
       "title": "Breeze Sans",
-      "description": "",
+      "description": "Breeze Sans: Dalton Maag's humanist sans, the Tizen system's interface face (Samsung).",
       "license": "see license file",
       "licenseFile": "LICENSE.Apache.v2.0.txt",
       "files": {
@@ -3959,7 +3959,7 @@
       "name": "Cadman",
       "source": "Unmodified Fonts/Cadman",
       "title": "Cadman",
-      "description": "",
+      "description": "Cadman: legible sans made with dyslexic readers in mind, by Paul James Miller.",
       "license": "OFL",
       "licenseFile": "SIL Open Font License.txt",
       "files": {
@@ -3973,7 +3973,7 @@
       "name": "Coelacanth",
       "source": "Unmodified Fonts/Coelacanth",
       "title": "Coelacanth",
-      "description": "",
+      "description": "Coelacanth: Venetian-style book serif honouring Bruce Rogers' Centaur, by Ben Whitmore.",
       "license": "see license file",
       "licenseFile": "LICENSE.md",
       "files": {
@@ -3987,7 +3987,7 @@
       "name": "Giphurs",
       "source": "Unmodified Fonts/Giphurs",
       "title": "Giphurs",
-      "description": "",
+      "description": "Giphurs: sans by Corne2Plum3, inspired by Arial, Helvetica, Circular Std and Inter.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4001,7 +4001,7 @@
       "name": "IBMPlexSans",
       "source": "Unmodified Fonts/IBM Plex Sans",
       "title": "IBM Plex Sans",
-      "description": "",
+      "description": "IBM Plex Sans in its Text weight, IBM's interface sans by Bold Monday.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4015,7 +4015,7 @@
       "name": "Irradiant",
       "source": "Unmodified Fonts/Irradiant",
       "title": "Irradiant",
-      "description": "",
+      "description": "Irradiant: Peter S. Baker's serif after Francesco Griffo's Aldine types, for informal reading.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/psb1558/Irradiant-font/master/OFL.txt",
@@ -4031,7 +4031,7 @@
       "name": "Joan",
       "source": "Unmodified Fonts/Joan",
       "title": "Joan",
-      "description": "",
+      "description": "Joan: narrow serif after Francesco Griffo's roman, by Paolo Biagini.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/joan/OFL.txt",
@@ -4044,7 +4044,7 @@
       "name": "Kerberos",
       "source": "Unmodified Fonts/Kerberos",
       "title": "Kerberos",
-      "description": "",
+      "description": "Kerberos: transitional serif derived from Alegreya, by Juan Pablo del Peral and Juliette Pluto.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4058,7 +4058,7 @@
       "name": "Kufam",
       "source": "Unmodified Fonts/Kufam",
       "title": "Kufam",
-      "description": "",
+      "description": "Kufam: Arabic-Kufi and Latin sans for signage, by Wael Morcos and Artur Schmal (Original Type).",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/kufam/OFL.txt",
@@ -4074,7 +4074,7 @@
       "name": "LibreCheltenham",
       "source": "Unmodified Fonts/Libre Cheltenham",
       "title": "Libre Cheltenham",
-      "description": "",
+      "description": "Libre Cheltenham: open revival of Cheltenham, the 1896 American face; still in development.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4088,7 +4088,7 @@
       "name": "Marta",
       "source": "Unmodified Fonts/Marta",
       "title": "Marta",
-      "description": "",
+      "description": "Marta: sturdy serif by Michael Chereda; regular, bold and italic.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4101,7 +4101,7 @@
       "name": "MinyaNouvelle",
       "source": "Unmodified Fonts/Minya Nouvelle",
       "title": "Minya Nouvelle",
-      "description": "",
+      "description": "Minya Nouvelle: Ray Larabie's redraw of his 1996 novelty Minya, in four styles (CC0).",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -4115,7 +4115,7 @@
       "name": "Munson",
       "source": "Unmodified Fonts/Munson",
       "title": "Munson",
-      "description": "",
+      "description": "Munson: slab serif after Stephenson Blake's Consort and Clarendon, by Paul James Miller.",
       "license": "OFL",
       "licenseFile": "SIL Open Font License.txt",
       "files": {
@@ -4129,7 +4129,7 @@
       "name": "Noctilucenta",
       "source": "Unmodified Fonts/Noctilucenta",
       "title": "Noctilucenta",
-      "description": "",
+      "description": "Noctilucenta: classic serif by Kelvin Song, in regular and bold with italics.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4143,7 +4143,7 @@
       "name": "OldTimeyMono",
       "source": "Unmodified Fonts/Old Timey Mono",
       "title": "Old Timey Mono",
-      "description": "",
+      "description": "Old Timey Mono: monospace after Reproducing Typewriter, a 1906 face, by Darren Embry.",
       "license": "see license file",
       "licenseFile": "LICENSE.md",
       "files": {
@@ -4154,7 +4154,7 @@
       "name": "Pelagiad",
       "source": "Unmodified Fonts/Pelagiad",
       "title": "Pelagiad",
-      "description": "",
+      "description": "Pelagiad: medieval-flavoured serif made for the OpenMW game engine, by Isak Larborn.",
       "license": "see license file",
       "licenseFile": "LICENSE.txt",
       "files": {
@@ -4165,7 +4165,7 @@
       "name": "Questrial",
       "source": "Unmodified Fonts/Questrial",
       "title": "Questrial",
-      "description": "",
+      "description": "Questrial: single-weight Swiss-style sans by Joe Prince and Laura Meseguer.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/questrial/OFL.txt",
@@ -4178,7 +4178,7 @@
       "name": "SourceSerif4",
       "source": "Unmodified Fonts/Source Serif 4",
       "title": "Source Serif 4",
-      "description": "",
+      "description": "Adobe's transitional text serif, loosely after Fournier, companion to Source Sans.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4192,7 +4192,7 @@
       "name": "Teachers",
       "source": "Unmodified Fonts/Teachers",
       "title": "Teachers",
-      "description": "",
+      "description": "Teachers: casual monoline sans by Alfredo Marco Pradil and Chank Diesel.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/teachers/OFL.txt",
@@ -4208,7 +4208,7 @@
       "name": "Temprano",
       "source": "Unmodified Fonts/Temprano",
       "title": "Temprano",
-      "description": "",
+      "description": "Temprano: slab serif by Sergio Navarro; regular and bold.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4220,7 +4220,7 @@
       "name": "Turpis",
       "source": "Unmodified Fonts/Turpis",
       "title": "Turpis",
-      "description": "",
+      "description": "Turpis: narrow sans by GGBotNet.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
@@ -4232,7 +4232,7 @@
       "name": "Walleye",
       "source": "Unmodified Fonts/Walleye",
       "title": "Walleye",
-      "description": "",
+      "description": "Walleye: narrow serif by Nathanael Bonnell.",
       "license": "OFL",
       "licenseFile": "OFL.txt",
       "files": {
