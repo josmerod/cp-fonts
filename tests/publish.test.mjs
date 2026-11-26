@@ -66,7 +66,10 @@ test.before(() => {
   git(seed, 'commit', '-q', '-m', 'seed');
   seedSha = git(seed, 'rev-parse', 'HEAD');
   git(seed, 'push', '-q', url(join(dir, 'remote.git')), `HEAD:${REF}`);
-  git(seed, 'push', '-q', url(join(dir, 'remote.git')), `HEAD:${LEGACY_TAG}`); // the legacy tag the old workflow kept updating
+  // The legacy tag the old workflow kept updating. Annotated: its object is
+  // then not the commit it points at, which is the case a parent needs.
+  git(seed, 'tag', '-a', '-m', 'font builds', 'legacy');
+  git(seed, 'push', '-q', url(join(dir, 'remote.git')), `refs/tags/legacy:${LEGACY_TAG}`);
 
   filteredClone('remote.git', 'work');
   asBot(join(dir, 'work'));
@@ -107,13 +110,13 @@ test('with nothing published, the first publish is one parentless commit', async
 
 test('binaries left on the legacy tag are found, built upon, and the tag goes', async () => {
   bareRepo('tagged.git');
-  git(join(dir, 'seed'), 'push', '-q', url(join(dir, 'tagged.git')), `HEAD:${LEGACY_TAG}`);
+  git(join(dir, 'seed'), 'push', '-q', url(join(dir, 'tagged.git')), `refs/tags/legacy:${LEGACY_TAG}`);
   const tagged = to('tagged', 'tagged.git');
   filteredClone('tagged.git', 'tagged');
   asBot(join(dir, 'tagged'));
 
   const base = await fetchPublished(tagged);
-  assert.equal(base.sha, seedSha, 'the tag is the published set until the branch exists');
+  assert.equal(base.sha, seedSha, 'the tag is the published set until the branch exists, by the commit it points at');
   const result = publish({ ...tagged, base, assetsDir: stage('assets-tagged', { 'B_6.cpfont': 'new B_6' }),
     add: ['B_6.cpfont'], message: 'on top of the tag' });
 

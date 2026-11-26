@@ -59,7 +59,9 @@ export function fetchPublished({ cwd = process.cwd(), remote = 'origin' } = {}) 
   if (probe.status !== 0) throw new Error(`cannot look up ${ref} on ${remote}: ${(probe.stderr || '').trim()}`);
 
   withoutBecomingPromisor(cwd, remote, () => git(cwd, ['fetch', '--quiet', '--filter=blob:none', remote, ref]));
-  const sha = git(cwd, ['rev-parse', 'FETCH_HEAD']).trim();
+  // Peeled: the legacy ref is a tag, and an annotated one is an object of its
+  // own, which is no parent for a commit.
+  const sha = git(cwd, ['rev-parse', 'FETCH_HEAD^{commit}']).trim();
   const files = new Map();
   for (const line of git(cwd, ['ls-tree', '-r', sha]).split('\n')) {
     const m = line.match(/^\d+ blob ([0-9a-f]+)\tassets\/(.+)$/);
@@ -122,7 +124,7 @@ export function publish({ cwd = process.cwd(), remote = 'origin', ref = PUBLISH_
 // first — never the object-by-object download a promisor clone would do.
 export function squash({ cwd = process.cwd(), remote = 'origin', ref = PUBLISH_REF, tip, message }) {
   git(cwd, ['fetch', '--quiet', '--refetch', '--depth', '1', '--no-filter', remote, ref]);
-  if (git(cwd, ['rev-parse', 'FETCH_HEAD']).trim() !== tip) throw new Error(`${ref} moved since it was read — run again`);
+  if (git(cwd, ['rev-parse', 'FETCH_HEAD^{commit}']).trim() !== tip) throw new Error(`${ref} moved since it was read — run again`);
   const tree = git(cwd, ['rev-parse', `${tip}^{tree}`]).trim();
   const commit = git(cwd, ['commit-tree', tree, '-m', message]).trim();
   // The lease keeps a run from overwriting a ref that moved since `tip`.
