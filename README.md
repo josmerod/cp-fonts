@@ -57,8 +57,11 @@ selected families and sizes straight to `/.fonts/<Familia>/` on the SD card.
    ```
 
    The first run downloads CrossGlyph into `tools/` (~6 MB) and the font
-   files into `workspace/`. Check `previews/Familia-6.png`: if 6 pt looks
-   broken, give its entry a `hinting` of its own (see below) and re-run.
+   files into `workspace/`. It needs `curl` and `unzip` on the PATH (both
+   come with Git Bash on Windows), and lists the upstream tree with one
+   GitHub API call: export `GH_TOKEN` when the anonymous quota is used up.
+   Check `previews/Familia-6.png`: if 6 pt looks broken, give its entry a
+   `hinting` of its own (see below) and re-run.
 
 4. Commit. CI builds the new family, publishes its `.cpfont` files to the
    `fonts` branch and commits the regenerated catalog, previews and licenses
