@@ -67,14 +67,6 @@
       "licenseFile": "OFL.txt"
     },
     {
-      "name": "WPSSerif",
-      "source": "Modified Fonts/Source Serif 4 - WP SSerif",
-      "title": "Source Serif 4",
-      "description": "Adobe's workhorse text serif, sturdy and even.",
-      "license": "OFL",
-      "licenseFile": "OFL.txt"
-    },
-    {
       "name": "WPArol",
       "source": "Modified Fonts/Lora - WP Arol",
       "title": "Lora",
@@ -167,18 +159,6 @@
       "licenseFile": "LICENSE.txt",
       "files": {
         "regular": "WPSpikes-Regular.ttf"
-      }
-    },
-    {
-      "name": "WPGravyPro",
-      "source": "Modified Fonts/Agràve Pro - WP Gravy Pro",
-      "title": "Agràve Pro",
-      "description": "",
-      "license": "see license file",
-      "licenseFile": "OFL.txt",
-      "files": {
-        "regular": "WPGravyPro-Regular.ttf",
-        "bold": "WPGravyPro-Bold.ttf"
       }
     },
     {
@@ -407,6 +387,7 @@
       "files": {
         "regular": "WPSuperlegible-Regular.ttf",
         "bold": "WPSuperlegible-Bold.ttf",
+        "italic": "WPSuperlegibleMono-Italic.ttf",
         "bolditalic": "WPSuperlegible-BoldItalic.ttf"
       }
     },
@@ -833,6 +814,7 @@
       "files": {
         "regular": "CooperHewitt-Book.otf",
         "bold": "CooperHewitt-Bold.otf",
+        "italic": "CooperHewitt-BookItalic.otf",
         "bolditalic": "CooperHewitt-BoldItalic.otf"
       }
     },
@@ -1302,6 +1284,7 @@
       "files": {
         "regular": "Garamontio-Regular.ttf",
         "bold": "Garamontio-Bold.ttf",
+        "italic": "Garamontio-RegularItalic.ttf",
         "bolditalic": "Garamontio-BoldItalic.ttf"
       }
     },
@@ -2251,13 +2234,15 @@
       "licenseFile": "LICENSE.txt",
       "files": {
         "regular": "Luciole-Regular.ttf",
-        "bold": "Luciole-Bold.ttf"
+        "bold": "Luciole-Bold.ttf",
+        "italic": "Luciole-Regular-Italic.ttf",
+        "bolditalic": "Luciole-Bold-Italic.ttf"
       }
     },
     {
       "name": "WPMMINUS",
       "source": "Modified Fonts/M PLUS Code Latin ",
-      "title": "M PLUS Code Latin ",
+      "title": "M PLUS Code Latin",
       "description": "",
       "license": "see license file",
       "licenseFile": "OFL.txt",
@@ -3009,7 +2994,8 @@
       "files": {
         "regular": "RecursiveSansCslSt-Regular.ttf",
         "bold": "RecursiveSansCslSt-Bold.ttf",
-        "italic": "RecursiveSansCslSt-Italic.ttf"
+        "italic": "RecursiveSansCslSt-Italic.ttf",
+        "bolditalic": "RecursiveSansCslSt-BdItalic.ttf"
       }
     },
     {
@@ -3612,6 +3598,7 @@
       "files": {
         "regular": "YoungSerif-Regular.ttf",
         "bold": "YoungSerif-Bold.ttf",
+        "italic": "YoungSerif-RegularItalic.ttf",
         "bolditalic": "YoungSerif-BoldItalic.ttf"
       }
     },
@@ -3734,6 +3721,525 @@
         "bold": "WPDokiDoki-Bold.ttf",
         "italic": "WPDokiDoki-Italic.ttf",
         "bolditalic": "WPDokiDoki-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPFexofenadineG",
+      "source": "Modified Fonts/Alegreya (modified italic g) - WP Fexofenadine G",
+      "title": "Alegreya (modified italic g)",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPFexofenadineG-Regular.ttf",
+        "bold": "WPFexofenadineG-Bold.ttf",
+        "italic": "WPFexofenadineG-Italic.ttf",
+        "bolditalic": "WPFexofenadineG-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPAntique",
+      "source": "Modified Fonts/Antykwa Toruńska - WP Antique",
+      "title": "Antykwa Toruńska",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPAntique-Regular.ttf",
+        "bold": "WPAntique-Bold.ttf",
+        "italic": "WPAntique-Italic.ttf",
+        "bolditalic": "WPAntique-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPSuperlegibleNext",
+      "source": "Modified Fonts/Atkinson Hyperlegible Next - WP Superlegible",
+      "title": "Atkinson Hyperlegible Next",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPSuperlegible-Regular.ttf",
+        "bold": "WPSuperlegible-Bold.ttf",
+        "italic": "WPSuperlegible-Italic.ttf",
+        "bolditalic": "WPSuperlegible-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPBane",
+      "source": "Modified Fonts/Bainsley - WP Bane",
+      "title": "Bainsley",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "SIL Open Font License.txt",
+      "files": {
+        "regular": "WPBane-Regular.otf",
+        "bold": "WPBane-Bold.otf",
+        "italic": "WPBane-Italic.otf",
+        "bolditalic": "WPBane-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPElectra",
+      "source": "Modified Fonts/Dihjau - WP Electra",
+      "title": "Dihjau",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "WPElectra-Regular.ttf",
+        "bold": "WPElectra-Bold.ttf",
+        "italic": "WPElectra-Italic.ttf",
+        "bolditalic": "WPElectra-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "WPNewComputerModerner",
+      "source": "Modified Fonts/New Computer Modern - WP New Computer Moderner",
+      "title": "New Computer Modern",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPNewComputerModerner-Regular.otf",
+        "bold": "WPNewComputerModerner-Bold.otf",
+        "italic": "WPNewComputerModerner-Italic.otf",
+        "bolditalic": "WPNewComputerModerner-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPNewComputerModernerMono",
+      "source": "Modified Fonts/New Computer Modern Mono - WP New Computer Moderner Mono",
+      "title": "New Computer Modern Mono",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPNewComputerModernerMono-Regular.otf",
+        "italic": "WPNewComputerModernerMono-Italic.otf"
+      }
+    },
+    {
+      "name": "WPClick",
+      "source": "Modified Fonts/TeX Gyre Cursor - WP Click",
+      "title": "TeX Gyre Cursor",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPClick-Regular.otf",
+        "bold": "WPClick-Bold.otf",
+        "italic": "WPClick-Italic.otf",
+        "bolditalic": "WPClick-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPPages",
+      "source": "Modified Fonts/TeX Gyre Pagella - WP Pages",
+      "title": "TeX Gyre Pagella",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPPages-Regular.otf",
+        "bold": "WPPages-Bold.otf",
+        "italic": "WPPages-Italic.otf",
+        "bolditalic": "WPPages-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPScholar",
+      "source": "Modified Fonts/TeX Gyre Schola - WP Scholar",
+      "title": "TeX Gyre Schola",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPScholar-Regular.otf",
+        "bold": "WPScholar-Bold.otf",
+        "italic": "WPScholar-Italic.otf",
+        "bolditalic": "WPScholar-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "WPNewTimes",
+      "source": "Modified Fonts/TeX Gyre Termes - WP New Times",
+      "title": "TeX Gyre Termes",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "GUST-FONT-LICENSE.txt",
+      "files": {
+        "regular": "WPNewTimes-Regular.ttf",
+        "bold": "WPNewTimes-Bold.ttf",
+        "italic": "WPNewTimes-Italic.ttf",
+        "bolditalic": "WPNewTimes-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "UbuntuMonoderivativeWP",
+      "source": "Modified Fonts/Ubuntu Mono - Ubuntu Mono derivative WP",
+      "title": "Ubuntu Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "UFL.txt",
+      "files": {
+        "regular": "UbuntuMonoderivativeWP-Regular.ttf",
+        "bold": "UbuntuMonoderivativeWP-Bold.ttf",
+        "italic": "UbuntuMonoderivativeWP-Italic.ttf",
+        "bolditalic": "UbuntuMonoderivativeWP-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "UbuntuSansderivativeWP",
+      "source": "Modified Fonts/Ubuntu Sans - Ubuntu Sans derivative WP",
+      "title": "Ubuntu Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "UFL.txt",
+      "files": {
+        "regular": "UbuntuSansderivativeWP-Regular.ttf",
+        "bold": "UbuntuSansderivativeWP-Bold.ttf",
+        "italic": "UbuntuSansderivativeWP-Italic.ttf",
+        "bolditalic": "UbuntuSansderivativeWP-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "AgravePro",
+      "source": "Unmodified Fonts/Agrave Pro",
+      "title": "Agràve Pro",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "AgravePro-Regular.ttf",
+        "bold": "AgravePro-Bold.ttf"
+      }
+    },
+    {
+      "name": "AsapSharp",
+      "source": "Unmodified Fonts/Asap Sharp",
+      "title": "Asap Sharp",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/asapsharp/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/google/fonts/main/ofl/asapsharp/OFL.txt.",
+      "files": {
+        "regular": "AsapSharp-Regular.ttf",
+        "bold": "AsapSharp-Bold.ttf",
+        "italic": "AsapSharp-Italic.ttf",
+        "bolditalic": "AsapSharp-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "BaskervillePunch",
+      "source": "Unmodified Fonts/Baskerville Punch",
+      "title": "Baskerville Punch",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "BaskervillePunch-Text.otf",
+        "italic": "BaskervillePunch-TextItalic.otf"
+      }
+    },
+    {
+      "name": "BreezeSans",
+      "source": "Unmodified Fonts/BreezeSans",
+      "title": "Breeze Sans",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.Apache.v2.0.txt",
+      "files": {
+        "regular": "BreezeSans-Regular_20150728.ttf",
+        "bold": "BreezeSans-Bold_20150728.ttf"
+      }
+    },
+    {
+      "name": "Cadman",
+      "source": "Unmodified Fonts/Cadman",
+      "title": "Cadman",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "SIL Open Font License.txt",
+      "files": {
+        "regular": "Cadman_Roman.otf",
+        "bold": "Cadman_Bold.otf",
+        "italic": "Cadman_Italic.otf",
+        "bolditalic": "Cadman_BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Coelacanth",
+      "source": "Unmodified Fonts/Coelacanth",
+      "title": "Coelacanth",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.md",
+      "files": {
+        "regular": "Coelacanth.otf",
+        "bold": "Coelacanth-Bold.otf",
+        "italic": "Coelacanth-It.otf",
+        "bolditalic": "Coelacanth-BoldIt.otf"
+      }
+    },
+    {
+      "name": "Giphurs",
+      "source": "Unmodified Fonts/Giphurs",
+      "title": "Giphurs",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Giphurs-Regular.ttf",
+        "bold": "Giphurs-Bold.ttf",
+        "italic": "Giphurs-Italic.ttf",
+        "bolditalic": "Giphurs-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "IBMPlexSans",
+      "source": "Unmodified Fonts/IBM Plex Sans",
+      "title": "IBM Plex Sans",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "IBMPlexSans-Text.ttf",
+        "bold": "IBMPlexSans-Bold.ttf",
+        "italic": "IBMPlexSans-TextItalic.ttf",
+        "bolditalic": "IBMPlexSans-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Irradiant",
+      "source": "Unmodified Fonts/Irradiant",
+      "title": "Irradiant",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/psb1558/Irradiant-font/master/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/psb1558/Irradiant-font/master/OFL.txt.",
+      "files": {
+        "regular": "Irradiant-Regular.otf",
+        "bold": "Irradiant-Bold.otf",
+        "italic": "Irradiant-Italic.otf",
+        "bolditalic": "Irradiant-BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Joan",
+      "source": "Unmodified Fonts/Joan",
+      "title": "Joan",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/joan/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/google/fonts/main/ofl/joan/OFL.txt.",
+      "files": {
+        "regular": "Joan-Regular.ttf"
+      }
+    },
+    {
+      "name": "Kerberos",
+      "source": "Unmodified Fonts/Kerberos",
+      "title": "Kerberos",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Kerberos-Regular.ttf",
+        "bold": "Kerberos-Bold.ttf",
+        "italic": "Kerberos-Italic.ttf",
+        "bolditalic": "Kerberos-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Kufam",
+      "source": "Unmodified Fonts/Kufam",
+      "title": "Kufam",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/kufam/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/google/fonts/main/ofl/kufam/OFL.txt.",
+      "files": {
+        "regular": "Kufam-Regular.ttf",
+        "bold": "Kufam-Bold.ttf",
+        "italic": "Kufam-Italic.ttf",
+        "bolditalic": "Kufam-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "LibreCheltenham",
+      "source": "Unmodified Fonts/Libre Cheltenham",
+      "title": "Libre Cheltenham",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "LibreCheltenham-Regular.ttf",
+        "bold": "LibreCheltenham-Bold.ttf",
+        "italic": "LibreCheltenham-Italic.ttf",
+        "bolditalic": "LibreCheltenham-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Marta",
+      "source": "Unmodified Fonts/Marta",
+      "title": "Marta",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Marta_Regular.otf",
+        "bold": "Marta_Bold.otf",
+        "italic": "Marta_Italic.otf"
+      }
+    },
+    {
+      "name": "MinyaNouvelle",
+      "source": "Unmodified Fonts/Minya Nouvelle",
+      "title": "Minya Nouvelle",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "Minya Nouvelle Rg.otf",
+        "bold": "Minya Nouvelle Bd.otf",
+        "italic": "Minya Nouvelle It.otf",
+        "bolditalic": "Minya Nouvelle Bd It.otf"
+      }
+    },
+    {
+      "name": "Munson",
+      "source": "Unmodified Fonts/Munson",
+      "title": "Munson",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "SIL Open Font License.txt",
+      "files": {
+        "regular": "Munson_Roman.otf",
+        "bold": "Munson_Bold.otf",
+        "italic": "Munson_Italic.otf",
+        "bolditalic": "Munson_BoldItalic.otf"
+      }
+    },
+    {
+      "name": "Noctilucenta",
+      "source": "Unmodified Fonts/Noctilucenta",
+      "title": "Noctilucenta",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Noctilucenta Regular.otf",
+        "bold": "Noctilucenta Bold.otf",
+        "italic": "Noctilucenta Italic.otf",
+        "bolditalic": "Noctilucenta Bold Italic.otf"
+      }
+    },
+    {
+      "name": "OldTimeyMono",
+      "source": "Unmodified Fonts/Old Timey Mono",
+      "title": "Old Timey Mono",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.md",
+      "files": {
+        "regular": "OldTimeyMono.ttf"
+      }
+    },
+    {
+      "name": "Pelagiad",
+      "source": "Unmodified Fonts/Pelagiad",
+      "title": "Pelagiad",
+      "description": "",
+      "license": "see license file",
+      "licenseFile": "LICENSE.txt",
+      "files": {
+        "regular": "Pelagiad.ttf"
+      }
+    },
+    {
+      "name": "Questrial",
+      "source": "Unmodified Fonts/Questrial",
+      "title": "Questrial",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/questrial/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/google/fonts/main/ofl/questrial/OFL.txt.",
+      "files": {
+        "regular": "Questrial-Regular.ttf"
+      }
+    },
+    {
+      "name": "SourceSerif4",
+      "source": "Unmodified Fonts/Source Serif 4",
+      "title": "Source Serif 4",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "SourceSerif4-Regular.ttf",
+        "bold": "SourceSerif4-Bold.ttf",
+        "italic": "SourceSerif4-Italic.ttf",
+        "bolditalic": "SourceSerif4-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Teachers",
+      "source": "Unmodified Fonts/Teachers",
+      "title": "Teachers",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/teachers/OFL.txt",
+      "$licenseNote": "WP-Fonts ships no license file for this folder; the license text is carried from https://raw.githubusercontent.com/google/fonts/main/ofl/teachers/OFL.txt.",
+      "files": {
+        "regular": "Teachers-Regular.ttf",
+        "bold": "Teachers-Bold.ttf",
+        "italic": "Teachers-Italic.ttf",
+        "bolditalic": "Teachers-BoldItalic.ttf"
+      }
+    },
+    {
+      "name": "Temprano",
+      "source": "Unmodified Fonts/Temprano",
+      "title": "Temprano",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Temprano.otf",
+        "bold": "TempranoBold.otf"
+      }
+    },
+    {
+      "name": "Turpis",
+      "source": "Unmodified Fonts/Turpis",
+      "title": "Turpis",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Turpis.ttf",
+        "italic": "TurpisItalic.ttf"
+      }
+    },
+    {
+      "name": "Walleye",
+      "source": "Unmodified Fonts/Walleye",
+      "title": "Walleye",
+      "description": "",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": {
+        "regular": "Walleye.otf",
+        "bold": "Walleye-Bold.otf",
+        "italic": "Walleye-Italic.otf",
+        "bolditalic": "Walleye-BoldItalic.otf"
       }
     }
   ]
