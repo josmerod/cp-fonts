@@ -60,7 +60,8 @@ selected families and sizes straight to `/.fonts/<Familia>/` on the SD card.
    files into `workspace/`. It needs `curl` and `unzip` on the PATH (both
    come with Git Bash on Windows), and lists the upstream tree with one
    GitHub API call: export `GH_TOKEN` when the anonymous quota is used up.
-   Check `previews/Familia-6.png`: if 6 pt looks broken, give its entry a
+   Check `previews/Familia-6.png`: if the family is
+   reported for blank glyphs, or 6 pt looks broken, give its entry a
    `hinting` of its own (see below) and re-run.
 
 4. Commit. CI builds the new family, publishes its `.cpfont` files to the
@@ -83,9 +84,12 @@ family removed from `families.json` leaves the catalog and the published set.
 The run goes red only for a problem it has not reported before, so one broken
 upstream folder cannot turn every weekly run red.
 
-Some fonts carry instructions that make CrossGlyph's default hinting
-collapse their outlines, so a family can come out with letters missing. Such
-a family needs `"hinting": "auto"` (or `light` or `none`) in its
+A build can also succeed and still be unusable: some fonts carry instructions
+that make CrossGlyph's default hinting collapse their outlines (GFS Galatea's
+bold came out with a third of its letters missing). So every file built is
+checked for blank letters before anything of its family is previewed or
+published, and a family that fails the check is reported like a failed build.
+Such a family needs `"hinting": "auto"` (or `light` or `none`) in its
 `families.json` entry, which makes CrossGlyph fit its outlines another way.
 Its preview is then rendered with that same setting, because
 `crossglyph preview --png` draws every family with the default one.

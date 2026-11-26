@@ -61,7 +61,13 @@ selection. Two repos: this one (fonts factory) and the **Fonts** plugin
    `hinting` of its own gets a conf of its own that overrides that one key.
 3. **Build.** One `crossglyph build` for the batch; what it could not build is
    retried alone, so one broken source is reported by name instead of sinking
-   the run.
+   the run. Then every file built is read back (`scripts/lib/cpfont.mjs`)
+   and checked for blank letters: a style with a single empty ASCII letter or
+   digit, or five or more empty Latin ones, makes the family a failed build.
+   A few empty glyphs are normal (sources map rare characters to nothing), so
+   the count is what tells a collapsed font apart; of the 3,731 binaries
+   published before the check existed, it flagged the one broken family and
+   let three families with isolated gaps through.
 4. **Previews** for the families built in this run, several at a time. This
    step was the bulk of a full rebuild (one tool start per preview), which is
    why not rendering unchanged ones matters most. A family with a `hinting` of
