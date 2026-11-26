@@ -33,3 +33,10 @@ export function classifyLicense(text) {
   for (const [re, name] of SIGNATURES) if (re.test(text)) return name;
   return null;
 }
+
+// Where the catalog links a family's license: its path in the repository as
+// served under rawBase, each segment encoded — WP-Fonts has files called
+// "SIL Open Font License.txt", and a space is no URL character.
+export function licenseLink(rawBase, licensePath) {
+  return rawBase.replace(/\/*$/, '/') + licensePath.split('/').map(encodeURIComponent).join('/');
+}
