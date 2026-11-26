@@ -396,6 +396,9 @@ async function renderPreviews(config, sources) {
   let done = 0;
   await mapLimit(jobs, OPTS.jobs, async ({ fam, pt }) => {
     const png = join(ROOT, 'previews', `${fam.name}-${pt}.png`);
+    // First, so a render that fails leaves no preview of the previous build
+    // to be listed as the new one's.
+    await rm(png, { force: true });
     // `crossglyph preview --png` draws every family with the default settings,
     // so one built with a `hinting` of its own goes through preview-page.py,
     // which gives it the settings it was built with.
