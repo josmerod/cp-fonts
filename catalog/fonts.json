@@ -162,80 +162,80 @@
         {
           "name": "WPGaramond_6.cpfont",
           "pt": 6,
-          "size": 265830,
-          "crc32": 3686572518
+          "size": 265732,
+          "crc32": 2463456101
         },
         {
           "name": "WPGaramond_7.cpfont",
           "pt": 7,
-          "size": 297315,
-          "crc32": 143272657
+          "size": 297217,
+          "crc32": 3943138955
         },
         {
           "name": "WPGaramond_8.cpfont",
           "pt": 8,
-          "size": 329362,
-          "crc32": 1378925437
+          "size": 329264,
+          "crc32": 1679940593
         },
         {
           "name": "WPGaramond_9.cpfont",
           "pt": 9,
-          "size": 372154,
-          "crc32": 3443947323
+          "size": 372056,
+          "crc32": 343639972
         },
         {
           "name": "WPGaramond_10.cpfont",
           "pt": 10,
-          "size": 420834,
-          "crc32": 3796447592
+          "size": 420736,
+          "crc32": 724432478
         },
         {
           "name": "WPGaramond_11.cpfont",
           "pt": 11,
-          "size": 474148,
-          "crc32": 2769704794
+          "size": 474050,
+          "crc32": 266557480
         },
         {
           "name": "WPGaramond_12.cpfont",
           "pt": 12,
-          "size": 525941,
-          "crc32": 1505014038
+          "size": 525843,
+          "crc32": 2191739872
         },
         {
           "name": "WPGaramond_13.cpfont",
           "pt": 13,
-          "size": 585779,
-          "crc32": 2146274301
+          "size": 585681,
+          "crc32": 1926091682
         },
         {
           "name": "WPGaramond_14.cpfont",
           "pt": 14,
-          "size": 654938,
-          "crc32": 3614672671
+          "size": 654840,
+          "crc32": 620494279
         },
         {
           "name": "WPGaramond_15.cpfont",
           "pt": 15,
-          "size": 725575,
-          "crc32": 2125782915
+          "size": 725477,
+          "crc32": 3747787034
         },
         {
           "name": "WPGaramond_16.cpfont",
           "pt": 16,
-          "size": 785386,
-          "crc32": 2284088697
+          "size": 785288,
+          "crc32": 910646144
         },
         {
           "name": "WPGaramond_17.cpfont",
           "pt": 17,
-          "size": 865095,
-          "crc32": 285675684
+          "size": 864997,
+          "crc32": 3288590042
         },
         {
           "name": "WPGaramond_18.cpfont",
           "pt": 18,
-          "size": 1004746,
-          "crc32": 3691944691
+          "size": 1004648,
+          "crc32": 1420406306
         }
       ],
       "previews": [
@@ -248,7 +248,7 @@
           "path": "previews/WPGaramond-14.png"
         }
       ],
-      "totalBytes": 7307103
+      "totalBytes": 7305829
     },
     {
       "name": "WPIlliterata",
@@ -285,79 +285,79 @@
           "name": "WPIlliterata_6.cpfont",
           "pt": 6,
           "size": 347645,
-          "crc32": 3719181734
+          "crc32": 2331054216
         },
         {
           "name": "WPIlliterata_7.cpfont",
           "pt": 7,
           "size": 371899,
-          "crc32": 1915130150
+          "crc32": 4294523258
         },
         {
           "name": "WPIlliterata_8.cpfont",
           "pt": 8,
           "size": 342834,
-          "crc32": 3362498385
+          "crc32": 740960051
         },
         {
           "name": "WPIlliterata_9.cpfont",
           "pt": 9,
           "size": 374972,
-          "crc32": 2622800473
+          "crc32": 699743643
         },
         {
           "name": "WPIlliterata_10.cpfont",
           "pt": 10,
           "size": 407454,
-          "crc32": 1460209392
+          "crc32": 3684011848
         },
         {
           "name": "WPIlliterata_11.cpfont",
           "pt": 11,
           "size": 444067,
-          "crc32": 1753094781
+          "crc32": 340364433
         },
         {
           "name": "WPIlliterata_12.cpfont",
           "pt": 12,
           "size": 482555,
-          "crc32": 2087037647
+          "crc32": 4192379388
         },
         {
           "name": "WPIlliterata_13.cpfont",
           "pt": 13,
           "size": 525922,
-          "crc32": 409015842
+          "crc32": 884562795
         },
         {
           "name": "WPIlliterata_14.cpfont",
           "pt": 14,
           "size": 573570,
-          "crc32": 3127554253
+          "crc32": 28101710
         },
         {
           "name": "WPIlliterata_15.cpfont",
           "pt": 15,
           "size": 622430,
-          "crc32": 3885995977
+          "crc32": 3673607333
         },
         {
           "name": "WPIlliterata_16.cpfont",
           "pt": 16,
           "size": 679134,
-          "crc32": 2763798252
+          "crc32": 1830436497
         },
         {
           "name": "WPIlliterata_17.cpfont",
           "pt": 17,
           "size": 734598,
-          "crc32": 370259844
+          "crc32": 137157647
         },
         {
           "name": "WPIlliterata_18.cpfont",
           "pt": 18,
           "size": 823536,
-          "crc32": 1891856303
+          "crc32": 3168774990
         }
       ],
       "previews": [
@@ -406,80 +406,80 @@
         {
           "name": "WPFexofenadine_6.cpfont",
           "pt": 6,
-          "size": 172239,
-          "crc32": 2053530504
+          "size": 172819,
+          "crc32": 1406584854
         },
         {
           "name": "WPFexofenadine_7.cpfont",
           "pt": 7,
-          "size": 195213,
-          "crc32": 1866107101
+          "size": 195793,
+          "crc32": 1106227517
         },
         {
           "name": "WPFexofenadine_8.cpfont",
           "pt": 8,
-          "size": 218607,
-          "crc32": 1329208802
+          "size": 219187,
+          "crc32": 2425709568
         },
         {
           "name": "WPFexofenadine_9.cpfont",
           "pt": 9,
-          "size": 245739,
-          "crc32": 3169298295
+          "size": 246319,
+          "crc32": 1159529539
         },
         {
           "name": "WPFexofenadine_10.cpfont",
           "pt": 10,
-          "size": 275150,
-          "crc32": 633199664
+          "size": 275730,
+          "crc32": 2836438334
         },
         {
           "name": "WPFexofenadine_11.cpfont",
           "pt": 11,
-          "size": 306569,
-          "crc32": 2907364273
+          "size": 307149,
+          "crc32": 2835946075
         },
         {
           "name": "WPFexofenadine_12.cpfont",
           "pt": 12,
-          "size": 342828,
-          "crc32": 2664773385
+          "size": 343408,
+          "crc32": 3690326488
         },
         {
           "name": "WPFexofenadine_13.cpfont",
           "pt": 13,
-          "size": 379477,
-          "crc32": 3475785155
+          "size": 380057,
+          "crc32": 3945929262
         },
         {
           "name": "WPFexofenadine_14.cpfont",
           "pt": 14,
-          "size": 419200,
-          "crc32": 2873609990
+          "size": 419780,
+          "crc32": 2970199972
         },
         {
           "name": "WPFexofenadine_15.cpfont",
           "pt": 15,
-          "size": 462935,
-          "crc32": 2089839041
+          "size": 463515,
+          "crc32": 3818534146
         },
         {
           "name": "WPFexofenadine_16.cpfont",
           "pt": 16,
-          "size": 507279,
-          "crc32": 2878749173
+          "size": 507859,
+          "crc32": 2033516576
         },
         {
           "name": "WPFexofenadine_17.cpfont",
           "pt": 17,
-          "size": 552162,
-          "crc32": 2374194
+          "size": 552742,
+          "crc32": 3454941244
         },
         {
           "name": "WPFexofenadine_18.cpfont",
           "pt": 18,
-          "size": 628293,
-          "crc32": 403576583
+          "size": 628873,
+          "crc32": 2763627750
         }
       ],
       "previews": [
@@ -492,7 +492,7 @@
           "path": "previews/WPFexofenadine-14.png"
         }
       ],
-      "totalBytes": 4705691
+      "totalBytes": 4713231
     },
     {
       "name": "WPStickler",
@@ -3789,6 +3789,7 @@
       "styles": [
         "regular",
         "bold",
+        "italic",
         "bolditalic"
       ],
       "sizes": [
@@ -3810,80 +3811,80 @@
         {
           "name": "WPSuperlegible_6.cpfont",
           "pt": 6,
-          "size": 38455,
-          "crc32": 17652610
+          "size": 51397,
+          "crc32": 3714071060
         },
         {
           "name": "WPSuperlegible_7.cpfont",
           "pt": 7,
-          "size": 43889,
-          "crc32": 320164733
+          "size": 58638,
+          "crc32": 856170004
         },
         {
           "name": "WPSuperlegible_8.cpfont",
           "pt": 8,
-          "size": 50044,
-          "crc32": 2725996101
+          "size": 66859,
+          "crc32": 741084758
         },
         {
           "name": "WPSuperlegible_9.cpfont",
           "pt": 9,
-          "size": 56397,
-          "crc32": 3604908669
+          "size": 75544,
+          "crc32": 776565300
         },
         {
           "name": "WPSuperlegible_10.cpfont",
           "pt": 10,
-          "size": 64309,
-          "crc32": 174393829
+          "size": 85935,
+          "crc32": 3613136922
         },
         {
           "name": "WPSuperlegible_11.cpfont",
           "pt": 11,
-          "size": 72396,
-          "crc32": 2595391242
+          "size": 96888,
+          "crc32": 3074040726
         },
         {
           "name": "WPSuperlegible_12.cpfont",
           "pt": 12,
-          "size": 80844,
-          "crc32": 359440844
+          "size": 108199,
+          "crc32": 1053844853
         },
         {
           "name": "WPSuperlegible_13.cpfont",
           "pt": 13,
-          "size": 91196,
-          "crc32": 418949834
+          "size": 121867,
+          "crc32": 2627389823
         },
         {
           "name": "WPSuperlegible_14.cpfont",
           "pt": 14,
-          "size": 100933,
-          "crc32": 404291154
+          "size": 135103,
+          "crc32": 1613408283
         },
         {
           "name": "WPSuperlegible_15.cpfont",
           "pt": 15,
-          "size": 112193,
-          "crc32": 1580056357
+          "size": 150130,
+          "crc32": 1849527017
         },
         {
           "name": "WPSuperlegible_16.cpfont",
           "pt": 16,
-          "size": 123727,
-          "crc32": 147487059
+          "size": 165700,
+          "crc32": 3625281790
         },
         {
           "name": "WPSuperlegible_17.cpfont",
           "pt": 17,
-          "size": 136043,
-          "crc32": 1753749016
+          "size": 182197,
+          "crc32": 1141608352
         },
         {
           "name": "WPSuperlegible_18.cpfont",
           "pt": 18,
-          "size": 155918,
-          "crc32": 1477533857
+          "size": 208654,
+          "crc32": 3571535993
         }
       ],
       "previews": [
@@ -3896,7 +3897,7 @@
           "path": "previews/WPSuperlegible-14.png"
         }
       ],
-      "totalBytes": 1126344
+      "totalBytes": 1507111
     },
     {
       "name": "WPAngles",
@@ -7671,6 +7672,7 @@
       "styles": [
         "regular",
         "bold",
+        "italic",
         "bolditalic"
       ],
       "sizes": [
@@ -7692,80 +7694,80 @@
         {
           "name": "CooperHewitt_6.cpfont",
           "pt": 6,
-          "size": 57497,
-          "crc32": 2942502382
+          "size": 76418,
+          "crc32": 1129787957
         },
         {
           "name": "CooperHewitt_7.cpfont",
           "pt": 7,
-          "size": 66175,
-          "crc32": 3936295030
+          "size": 87979,
+          "crc32": 4271648084
         },
         {
           "name": "CooperHewitt_8.cpfont",
           "pt": 8,
-          "size": 75634,
-          "crc32": 1100511093
+          "size": 100561,
+          "crc32": 2866418294
         },
         {
           "name": "CooperHewitt_9.cpfont",
           "pt": 9,
-          "size": 85494,
-          "crc32": 1443440858
+          "size": 113691,
+          "crc32": 1211730387
         },
         {
           "name": "CooperHewitt_10.cpfont",
           "pt": 10,
-          "size": 98219,
-          "crc32": 4260734379
+          "size": 130679,
+          "crc32": 3325948663
         },
         {
           "name": "CooperHewitt_11.cpfont",
           "pt": 11,
-          "size": 110694,
-          "crc32": 3393098744
+          "size": 147093,
+          "crc32": 1203347305
         },
         {
           "name": "CooperHewitt_12.cpfont",
           "pt": 12,
-          "size": 124570,
-          "crc32": 3880745187
+          "size": 165543,
+          "crc32": 1095800123
         },
         {
           "name": "CooperHewitt_13.cpfont",
           "pt": 13,
-          "size": 140444,
-          "crc32": 1242572179
+          "size": 186727,
+          "crc32": 1714540446
         },
         {
           "name": "CooperHewitt_14.cpfont",
           "pt": 14,
-          "size": 155973,
-          "crc32": 835006524
+          "size": 207317,
+          "crc32": 2242199341
         },
         {
           "name": "CooperHewitt_15.cpfont",
           "pt": 15,
-          "size": 173785,
-          "crc32": 2276999146
+          "size": 231034,
+          "crc32": 2696930961
         },
         {
           "name": "CooperHewitt_16.cpfont",
           "pt": 16,
-          "size": 191897,
-          "crc32": 1043222355
+          "size": 254934,
+          "crc32": 1227603053
         },
         {
           "name": "CooperHewitt_17.cpfont",
           "pt": 17,
-          "size": 212161,
-          "crc32": 4192797015
+          "size": 281586,
+          "crc32": 2158237205
         },
         {
           "name": "CooperHewitt_18.cpfont",
           "pt": 18,
-          "size": 232759,
-          "crc32": 1067100432
+          "size": 309382,
+          "crc32": 4290751149
         }
       ],
       "previews": [
@@ -7778,7 +7780,7 @@
           "path": "previews/CooperHewitt-14.png"
         }
       ],
-      "totalBytes": 1725302
+      "totalBytes": 2292944
     },
     {
       "name": "WPPrimeTime",
@@ -12034,80 +12036,80 @@
         {
           "name": "WPGalatians_6.cpfont",
           "pt": 6,
-          "size": 33486,
-          "crc32": 2555150982
+          "size": 36527,
+          "crc32": 3005548302
         },
         {
           "name": "WPGalatians_7.cpfont",
           "pt": 7,
-          "size": 38222,
-          "crc32": 2233869639
+          "size": 41959,
+          "crc32": 20738892
         },
         {
           "name": "WPGalatians_8.cpfont",
           "pt": 8,
-          "size": 43416,
-          "crc32": 3140770227
+          "size": 47472,
+          "crc32": 2773914774
         },
         {
           "name": "WPGalatians_9.cpfont",
           "pt": 9,
-          "size": 49122,
-          "crc32": 3269683056
+          "size": 54890,
+          "crc32": 1689505213
         },
         {
           "name": "WPGalatians_10.cpfont",
           "pt": 10,
-          "size": 54961,
-          "crc32": 1197139775
+          "size": 62423,
+          "crc32": 2506254633
         },
         {
           "name": "WPGalatians_11.cpfont",
           "pt": 11,
-          "size": 62395,
-          "crc32": 2987404868
+          "size": 71562,
+          "crc32": 1362294226
         },
         {
           "name": "WPGalatians_12.cpfont",
           "pt": 12,
-          "size": 68916,
-          "crc32": 3913265498
+          "size": 80697,
+          "crc32": 3300236243
         },
         {
           "name": "WPGalatians_13.cpfont",
           "pt": 13,
-          "size": 77157,
-          "crc32": 3175286568
+          "size": 91383,
+          "crc32": 3266860380
         },
         {
           "name": "WPGalatians_14.cpfont",
           "pt": 14,
-          "size": 85718,
-          "crc32": 2937044548
+          "size": 102922,
+          "crc32": 3971683154
         },
         {
           "name": "WPGalatians_15.cpfont",
           "pt": 15,
-          "size": 95531,
-          "crc32": 725427713
+          "size": 114912,
+          "crc32": 3105190495
         },
         {
           "name": "WPGalatians_16.cpfont",
           "pt": 16,
-          "size": 105145,
-          "crc32": 1351213008
+          "size": 127194,
+          "crc32": 2874925171
         },
         {
           "name": "WPGalatians_17.cpfont",
           "pt": 17,
-          "size": 115181,
-          "crc32": 207398078
+          "size": 140626,
+          "crc32": 1500317496
         },
         {
           "name": "WPGalatians_18.cpfont",
           "pt": 18,
-          "size": 131486,
-          "crc32": 3767958975
+          "size": 155129,
+          "crc32": 352878735
         }
       ],
       "previews": [
@@ -12120,7 +12122,7 @@
           "path": "previews/WPGalatians-14.png"
         }
       ],
-      "totalBytes": 960736
+      "totalBytes": 1127696
     },
     {
       "name": "Garamontio",
@@ -12134,6 +12136,7 @@
       "styles": [
         "regular",
         "bold",
+        "italic",
         "bolditalic"
       ],
       "sizes": [
@@ -12155,80 +12158,80 @@
         {
           "name": "Garamontio_6.cpfont",
           "pt": 6,
-          "size": 244045,
-          "crc32": 4060624609
+          "size": 322571,
+          "crc32": 3101515377
         },
         {
           "name": "Garamontio_7.cpfont",
           "pt": 7,
-          "size": 266536,
-          "crc32": 84884401
+          "size": 354960,
+          "crc32": 1706796514
         },
         {
           "name": "Garamontio_8.cpfont",
           "pt": 8,
-          "size": 303071,
-          "crc32": 3220876767
+          "size": 403737,
+          "crc32": 2954368312
         },
         {
           "name": "Garamontio_9.cpfont",
           "pt": 9,
-          "size": 337930,
-          "crc32": 3623342294
+          "size": 451376,
+          "crc32": 2178551627
         },
         {
           "name": "Garamontio_10.cpfont",
           "pt": 10,
-          "size": 382593,
-          "crc32": 3031762964
+          "size": 510706,
+          "crc32": 3379733037
         },
         {
           "name": "Garamontio_11.cpfont",
           "pt": 11,
-          "size": 429066,
-          "crc32": 3983850917
+          "size": 574210,
+          "crc32": 3014052066
         },
         {
           "name": "Garamontio_12.cpfont",
           "pt": 12,
-          "size": 475645,
-          "crc32": 2803664661
+          "size": 631554,
+          "crc32": 3035113756
         },
         {
           "name": "Garamontio_13.cpfont",
           "pt": 13,
-          "size": 529244,
-          "crc32": 929587060
+          "size": 703766,
+          "crc32": 1034181187
         },
         {
           "name": "Garamontio_14.cpfont",
           "pt": 14,
-          "size": 591960,
-          "crc32": 4147392795
+          "size": 786597,
+          "crc32": 220795597
         },
         {
           "name": "Garamontio_15.cpfont",
           "pt": 15,
-          "size": 655624,
-          "crc32": 665352240
+          "size": 872821,
+          "crc32": 3068114485
         },
         {
           "name": "Garamontio_16.cpfont",
           "pt": 16,
-          "size": 702560,
-          "crc32": 3437969052
+          "size": 942413,
+          "crc32": 645974518
         },
         {
           "name": "Garamontio_17.cpfont",
           "pt": 17,
-          "size": 782800,
-          "crc32": 3720413992
+          "size": 1048698,
+          "crc32": 496374173
         },
         {
           "name": "Garamontio_18.cpfont",
           "pt": 18,
-          "size": 854851,
-          "crc32": 2262934268
+          "size": 1146512,
+          "crc32": 3995736457
         }
       ],
       "previews": [
@@ -12241,7 +12244,7 @@
           "path": "previews/Garamontio-14.png"
         }
       ],
-      "totalBytes": 6555925
+      "totalBytes": 8749921
     },
     {
       "name": "Geist",
@@ -18563,79 +18566,79 @@
           "name": "WPSingSong_6.cpfont",
           "pt": 6,
           "size": 68686,
-          "crc32": 2056666316
+          "crc32": 1766589719
         },
         {
           "name": "WPSingSong_7.cpfont",
           "pt": 7,
           "size": 79728,
-          "crc32": 2528590662
+          "crc32": 2631199198
         },
         {
           "name": "WPSingSong_8.cpfont",
           "pt": 8,
           "size": 94250,
-          "crc32": 174583111
+          "crc32": 2855652769
         },
         {
           "name": "WPSingSong_9.cpfont",
           "pt": 9,
           "size": 106114,
-          "crc32": 4288014056
+          "crc32": 3248336273
         },
         {
           "name": "WPSingSong_10.cpfont",
           "pt": 10,
           "size": 122619,
-          "crc32": 320877142
+          "crc32": 2254141032
         },
         {
           "name": "WPSingSong_11.cpfont",
           "pt": 11,
           "size": 143323,
-          "crc32": 2589237237
+          "crc32": 3340691951
         },
         {
           "name": "WPSingSong_12.cpfont",
           "pt": 12,
-          "size": 163078,
-          "crc32": 1888661109
+          "size": 163074,
+          "crc32": 1963905124
         },
         {
           "name": "WPSingSong_13.cpfont",
           "pt": 13,
           "size": 184182,
-          "crc32": 3047202885
+          "crc32": 3757132271
         },
         {
           "name": "WPSingSong_14.cpfont",
           "pt": 14,
           "size": 203840,
-          "crc32": 1037573175
+          "crc32": 1576946398
         },
         {
           "name": "WPSingSong_15.cpfont",
           "pt": 15,
           "size": 226902,
-          "crc32": 1847512856
+          "crc32": 1630685377
         },
         {
           "name": "WPSingSong_16.cpfont",
           "pt": 16,
           "size": 254390,
-          "crc32": 2649954643
+          "crc32": 1635717477
         },
         {
           "name": "WPSingSong_17.cpfont",
           "pt": 17,
           "size": 280510,
-          "crc32": 3972444109
+          "crc32": 2729049982
         },
         {
           "name": "WPSingSong_18.cpfont",
           "pt": 18,
           "size": 311210,
-          "crc32": 3437394899
+          "crc32": 3187271517
         }
       ],
       "previews": [
@@ -18648,7 +18651,7 @@
           "path": "previews/WPSingSong-14.png"
         }
       ],
-      "totalBytes": 2238832
+      "totalBytes": 2238828
     },
     {
       "name": "WPKadabra",
@@ -20504,80 +20507,80 @@
         {
           "name": "Libron_6.cpfont",
           "pt": 6,
-          "size": 230891,
-          "crc32": 1164674036
+          "size": 231003,
+          "crc32": 3095679087
         },
         {
           "name": "Libron_7.cpfont",
           "pt": 7,
-          "size": 252246,
-          "crc32": 717762156
+          "size": 252596,
+          "crc32": 2235253107
         },
         {
           "name": "Libron_8.cpfont",
           "pt": 8,
-          "size": 276811,
-          "crc32": 753229201
+          "size": 276905,
+          "crc32": 41670434
         },
         {
           "name": "Libron_9.cpfont",
           "pt": 9,
-          "size": 310274,
-          "crc32": 3307479640
+          "size": 310627,
+          "crc32": 3013328758
         },
         {
           "name": "Libron_10.cpfont",
           "pt": 10,
-          "size": 346172,
-          "crc32": 1382191208
+          "size": 346610,
+          "crc32": 2885160373
         },
         {
           "name": "Libron_11.cpfont",
           "pt": 11,
-          "size": 377862,
-          "crc32": 3123918732
+          "size": 378029,
+          "crc32": 337037613
         },
         {
           "name": "Libron_12.cpfont",
           "pt": 12,
-          "size": 411573,
-          "crc32": 156260582
+          "size": 411708,
+          "crc32": 2562651094
         },
         {
           "name": "Libron_13.cpfont",
           "pt": 13,
-          "size": 449303,
-          "crc32": 1576557108
+          "size": 449504,
+          "crc32": 2652120434
         },
         {
           "name": "Libron_14.cpfont",
           "pt": 14,
-          "size": 489055,
-          "crc32": 3115589571
+          "size": 489152,
+          "crc32": 1440276380
         },
         {
           "name": "Libron_15.cpfont",
           "pt": 15,
-          "size": 532375,
-          "crc32": 1004981055
+          "size": 532245,
+          "crc32": 3390688497
         },
         {
           "name": "Libron_16.cpfont",
           "pt": 16,
-          "size": 575776,
-          "crc32": 4244787494
+          "size": 575675,
+          "crc32": 1733497102
         },
         {
           "name": "Libron_17.cpfont",
           "pt": 17,
-          "size": 624718,
-          "crc32": 2008121666
+          "size": 624948,
+          "crc32": 2110469186
         },
         {
           "name": "Libron_18.cpfont",
           "pt": 18,
-          "size": 713078,
-          "crc32": 722056956
+          "size": 713124,
+          "crc32": 2554810208
         }
       ],
       "previews": [
@@ -20590,7 +20593,7 @@
           "path": "previews/Libron-14.png"
         }
       ],
-      "totalBytes": 5590134
+      "totalBytes": 5592126
     },
     {
       "name": "WPHillHouse",
@@ -20967,7 +20970,9 @@
       "source": "Chairzard/WP-Fonts (Unmodified Fonts/Luciole)",
       "styles": [
         "regular",
-        "bold"
+        "bold",
+        "italic",
+        "bolditalic"
       ],
       "sizes": [
         6,
@@ -20988,80 +20993,80 @@
         {
           "name": "Luciole_6.cpfont",
           "pt": 6,
-          "size": 66940,
-          "crc32": 68911124
+          "size": 137623,
+          "crc32": 1179977939
         },
         {
           "name": "Luciole_7.cpfont",
           "pt": 7,
-          "size": 72371,
-          "crc32": 2161226472
+          "size": 149607,
+          "crc32": 3338640265
         },
         {
           "name": "Luciole_8.cpfont",
           "pt": 8,
-          "size": 78704,
-          "crc32": 802298939
+          "size": 163338,
+          "crc32": 3907765958
         },
         {
           "name": "Luciole_9.cpfont",
           "pt": 9,
-          "size": 88673,
-          "crc32": 3135650291
+          "size": 185160,
+          "crc32": 1980256547
         },
         {
           "name": "Luciole_10.cpfont",
           "pt": 10,
-          "size": 96201,
-          "crc32": 632022834
+          "size": 202161,
+          "crc32": 1971995222
         },
         {
           "name": "Luciole_11.cpfont",
           "pt": 11,
-          "size": 105181,
-          "crc32": 473171318
+          "size": 222393,
+          "crc32": 1099527524
         },
         {
           "name": "Luciole_12.cpfont",
           "pt": 12,
-          "size": 113742,
-          "crc32": 4060720713
+          "size": 242257,
+          "crc32": 1682877047
         },
         {
           "name": "Luciole_13.cpfont",
           "pt": 13,
-          "size": 124818,
-          "crc32": 3144291726
+          "size": 266237,
+          "crc32": 2520325536
         },
         {
           "name": "Luciole_14.cpfont",
           "pt": 14,
-          "size": 135816,
-          "crc32": 706559055
+          "size": 290495,
+          "crc32": 469515217
         },
         {
           "name": "Luciole_15.cpfont",
           "pt": 15,
-          "size": 149875,
-          "crc32": 4093313780
+          "size": 324523,
+          "crc32": 2785093895
         },
         {
           "name": "Luciole_16.cpfont",
           "pt": 16,
-          "size": 164351,
-          "crc32": 1984482336
+          "size": 354002,
+          "crc32": 541565357
         },
         {
           "name": "Luciole_17.cpfont",
           "pt": 17,
-          "size": 177987,
-          "crc32": 481879457
+          "size": 383813,
+          "crc32": 4246013355
         },
         {
           "name": "Luciole_18.cpfont",
           "pt": 18,
-          "size": 192592,
-          "crc32": 477244429
+          "size": 416583,
+          "crc32": 765491491
         }
       ],
       "previews": [
@@ -21074,7 +21079,7 @@
           "path": "previews/Luciole-14.png"
         }
       ],
-      "totalBytes": 1567251
+      "totalBytes": 3338192
     },
     {
       "name": "WPMMINUS",
@@ -27989,7 +27994,8 @@
       "styles": [
         "regular",
         "bold",
-        "italic"
+        "italic",
+        "bolditalic"
       ],
       "sizes": [
         6,
@@ -28010,80 +28016,80 @@
         {
           "name": "RecursiveSansCslSt_6.cpfont",
           "pt": 6,
-          "size": 98829,
-          "crc32": 2699773674
+          "size": 133297,
+          "crc32": 3539794766
         },
         {
           "name": "RecursiveSansCslSt_7.cpfont",
           "pt": 7,
-          "size": 111223,
-          "crc32": 526572702
+          "size": 149703,
+          "crc32": 1532096285
         },
         {
           "name": "RecursiveSansCslSt_8.cpfont",
           "pt": 8,
-          "size": 125741,
-          "crc32": 1222282267
+          "size": 169167,
+          "crc32": 915262521
         },
         {
           "name": "RecursiveSansCslSt_9.cpfont",
           "pt": 9,
-          "size": 140914,
-          "crc32": 3382162261
+          "size": 191128,
+          "crc32": 2773727880
         },
         {
           "name": "RecursiveSansCslSt_10.cpfont",
           "pt": 10,
-          "size": 159586,
-          "crc32": 2394341882
+          "size": 219022,
+          "crc32": 1229925391
         },
         {
           "name": "RecursiveSansCslSt_11.cpfont",
           "pt": 11,
-          "size": 186105,
-          "crc32": 3240410733
+          "size": 253242,
+          "crc32": 1503654303
         },
         {
           "name": "RecursiveSansCslSt_12.cpfont",
           "pt": 12,
-          "size": 207584,
-          "crc32": 1398904439
+          "size": 282668,
+          "crc32": 997372294
         },
         {
           "name": "RecursiveSansCslSt_13.cpfont",
           "pt": 13,
-          "size": 230628,
-          "crc32": 235366120
+          "size": 314762,
+          "crc32": 871837329
         },
         {
           "name": "RecursiveSansCslSt_14.cpfont",
           "pt": 14,
-          "size": 256336,
-          "crc32": 218548386
+          "size": 349202,
+          "crc32": 1221545559
         },
         {
           "name": "RecursiveSansCslSt_15.cpfont",
           "pt": 15,
-          "size": 281925,
-          "crc32": 315762696
+          "size": 385212,
+          "crc32": 222091640
         },
         {
           "name": "RecursiveSansCslSt_16.cpfont",
           "pt": 16,
-          "size": 310599,
-          "crc32": 1922893936
+          "size": 424044,
+          "crc32": 1651685268
         },
         {
           "name": "RecursiveSansCslSt_17.cpfont",
           "pt": 17,
-          "size": 345804,
-          "crc32": 3052021875
+          "size": 475743,
+          "crc32": 1700532534
         },
         {
           "name": "RecursiveSansCslSt_18.cpfont",
           "pt": 18,
-          "size": 376866,
-          "crc32": 2333795772
+          "size": 518924,
+          "crc32": 3754027959
         }
       ],
       "previews": [
@@ -28096,7 +28102,7 @@
           "path": "previews/RecursiveSansCslSt-14.png"
         }
       ],
-      "totalBytes": 2832140
+      "totalBytes": 3866114
     },
     {
       "name": "WPRecurrentSansLinear",
@@ -30675,79 +30681,79 @@
           "name": "WPSMincho_6.cpfont",
           "pt": 6,
           "size": 22896,
-          "crc32": 2703712297
+          "crc32": 87953455
         },
         {
           "name": "WPSMincho_7.cpfont",
           "pt": 7,
-          "size": 26376,
-          "crc32": 2704065098
+          "size": 26370,
+          "crc32": 1333069050
         },
         {
           "name": "WPSMincho_8.cpfont",
           "pt": 8,
           "size": 30462,
-          "crc32": 4152897535
+          "crc32": 1047938615
         },
         {
           "name": "WPSMincho_9.cpfont",
           "pt": 9,
           "size": 34674,
-          "crc32": 3485858225
+          "crc32": 1914714730
         },
         {
           "name": "WPSMincho_10.cpfont",
           "pt": 10,
-          "size": 40584,
-          "crc32": 3587336591
+          "size": 40577,
+          "crc32": 1646838355
         },
         {
           "name": "WPSMincho_11.cpfont",
           "pt": 11,
-          "size": 46404,
-          "crc32": 4068925112
+          "size": 46397,
+          "crc32": 3257635911
         },
         {
           "name": "WPSMincho_12.cpfont",
           "pt": 12,
-          "size": 52338,
-          "crc32": 371816840
+          "size": 52327,
+          "crc32": 258433829
         },
         {
           "name": "WPSMincho_13.cpfont",
           "pt": 13,
           "size": 58629,
-          "crc32": 3390204435
+          "crc32": 922930552
         },
         {
           "name": "WPSMincho_14.cpfont",
           "pt": 14,
           "size": 65791,
-          "crc32": 1466855653
+          "crc32": 842010809
         },
         {
           "name": "WPSMincho_15.cpfont",
           "pt": 15,
-          "size": 73421,
-          "crc32": 3022093113
+          "size": 73408,
+          "crc32": 1280445700
         },
         {
           "name": "WPSMincho_16.cpfont",
           "pt": 16,
           "size": 80897,
-          "crc32": 188736393
+          "crc32": 2698999342
         },
         {
           "name": "WPSMincho_17.cpfont",
           "pt": 17,
           "size": 89623,
-          "crc32": 592260936
+          "crc32": 3592735900
         },
         {
           "name": "WPSMincho_18.cpfont",
           "pt": 18,
           "size": 100734,
-          "crc32": 2470261298
+          "crc32": 2555133769
         }
       ],
       "previews": [
@@ -30760,7 +30766,7 @@
           "path": "previews/WPSMincho-14.png"
         }
       ],
-      "totalBytes": 722829
+      "totalBytes": 722785
     },
     {
       "name": "Signika",
@@ -33560,6 +33566,7 @@
       "styles": [
         "regular",
         "bold",
+        "italic",
         "bolditalic"
       ],
       "sizes": [
@@ -33581,80 +33588,80 @@
         {
           "name": "YoungSerif_6.cpfont",
           "pt": 6,
-          "size": 120529,
-          "crc32": 1318007622
+          "size": 159933,
+          "crc32": 4272136637
         },
         {
           "name": "YoungSerif_7.cpfont",
           "pt": 7,
-          "size": 134295,
-          "crc32": 3105316768
+          "size": 178119,
+          "crc32": 1965281106
         },
         {
           "name": "YoungSerif_8.cpfont",
           "pt": 8,
-          "size": 153203,
-          "crc32": 115486666
+          "size": 203023,
+          "crc32": 4142882104
         },
         {
           "name": "YoungSerif_9.cpfont",
           "pt": 9,
-          "size": 170798,
-          "crc32": 951454295
+          "size": 226412,
+          "crc32": 1464254197
         },
         {
           "name": "YoungSerif_10.cpfont",
           "pt": 10,
-          "size": 192032,
-          "crc32": 3144573841
+          "size": 254427,
+          "crc32": 939341872
         },
         {
           "name": "YoungSerif_11.cpfont",
           "pt": 11,
-          "size": 213112,
-          "crc32": 513633172
+          "size": 282678,
+          "crc32": 812996720
         },
         {
           "name": "YoungSerif_12.cpfont",
           "pt": 12,
-          "size": 228390,
-          "crc32": 78445610
+          "size": 302780,
+          "crc32": 766526293
         },
         {
           "name": "YoungSerif_13.cpfont",
           "pt": 13,
-          "size": 253831,
-          "crc32": 2648126001
+          "size": 337154,
+          "crc32": 1843960680
         },
         {
           "name": "YoungSerif_14.cpfont",
           "pt": 14,
-          "size": 281989,
-          "crc32": 1190342439
+          "size": 374254,
+          "crc32": 486337098
         },
         {
           "name": "YoungSerif_15.cpfont",
           "pt": 15,
-          "size": 310395,
-          "crc32": 1042689084
+          "size": 411775,
+          "crc32": 3394582886
         },
         {
           "name": "YoungSerif_16.cpfont",
           "pt": 16,
-          "size": 342036,
-          "crc32": 1253149113
+          "size": 453897,
+          "crc32": 1470506278
         },
         {
           "name": "YoungSerif_17.cpfont",
           "pt": 17,
-          "size": 374168,
-          "crc32": 3579402123
+          "size": 496465,
+          "crc32": 3941001334
         },
         {
           "name": "YoungSerif_18.cpfont",
           "pt": 18,
-          "size": 423596,
-          "crc32": 1661726548
+          "size": 562144,
+          "crc32": 2297598697
         }
       ],
       "previews": [
@@ -33667,7 +33674,7 @@
           "path": "previews/YoungSerif-14.png"
         }
       ],
-      "totalBytes": 3198374
+      "totalBytes": 4243061
     },
     {
       "name": "Yrsa",
@@ -34763,14 +34770,14 @@
       "totalBytes": 3441176
     },
     {
-      "name": "WPSSerif",
-      "title": "Source Serif 4",
-      "description": "Adobe's workhorse text serif, sturdy and even.",
+      "name": "WPFexofenadineG",
+      "title": "Alegreya (modified italic g)",
+      "description": "Alegreya with the same fixes and a more conventional italic g.",
       "group": "Reading",
       "license": "OFL",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSSerif-OFL.txt",
-      "licensePath": "licenses/WPSSerif-OFL.txt",
-      "source": "Chairzard/WP-Fonts (Modified Fonts/Source Serif 4 - WP SSerif)",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPFexofenadineG-OFL.txt",
+      "licensePath": "licenses/WPFexofenadineG-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Alegreya (modified italic g) - WP Fexofenadine G)",
       "styles": [
         "regular",
         "bold",
@@ -34794,105 +34801,1567 @@
       ],
       "files": [
         {
-          "name": "WPSSerif_6.cpfont",
+          "name": "WPFexofenadineG_6.cpfont",
           "pt": 6,
-          "size": 232589,
-          "crc32": 3315945707
+          "size": 172851,
+          "crc32": 3095945628
         },
         {
-          "name": "WPSSerif_7.cpfont",
+          "name": "WPFexofenadineG_7.cpfont",
           "pt": 7,
-          "size": 252579,
-          "crc32": 2260114905
+          "size": 195793,
+          "crc32": 1117165782
         },
         {
-          "name": "WPSSerif_8.cpfont",
+          "name": "WPFexofenadineG_8.cpfont",
           "pt": 8,
-          "size": 274160,
-          "crc32": 146366036
+          "size": 219219,
+          "crc32": 3963535206
         },
         {
-          "name": "WPSSerif_9.cpfont",
+          "name": "WPFexofenadineG_9.cpfont",
           "pt": 9,
-          "size": 297011,
-          "crc32": 2248638223
+          "size": 246316,
+          "crc32": 3083506332
         },
         {
-          "name": "WPSSerif_10.cpfont",
+          "name": "WPFexofenadineG_10.cpfont",
           "pt": 10,
-          "size": 330904,
-          "crc32": 2335825966
+          "size": 275766,
+          "crc32": 1616734223
         },
         {
-          "name": "WPSSerif_11.cpfont",
+          "name": "WPFexofenadineG_11.cpfont",
           "pt": 11,
-          "size": 361562,
-          "crc32": 3465949308
+          "size": 307143,
+          "crc32": 3740221480
         },
         {
-          "name": "WPSSerif_12.cpfont",
+          "name": "WPFexofenadineG_12.cpfont",
           "pt": 12,
-          "size": 394266,
-          "crc32": 3661417637
+          "size": 343451,
+          "crc32": 370844538
         },
         {
-          "name": "WPSSerif_13.cpfont",
+          "name": "WPFexofenadineG_13.cpfont",
           "pt": 13,
-          "size": 431028,
-          "crc32": 2983800497
+          "size": 380049,
+          "crc32": 2872150111
         },
         {
-          "name": "WPSSerif_14.cpfont",
+          "name": "WPFexofenadineG_14.cpfont",
           "pt": 14,
-          "size": 470945,
-          "crc32": 1096698859
+          "size": 419772,
+          "crc32": 176513427
         },
         {
-          "name": "WPSSerif_15.cpfont",
+          "name": "WPFexofenadineG_15.cpfont",
           "pt": 15,
-          "size": 513102,
-          "crc32": 3624467996
+          "size": 463507,
+          "crc32": 3285240538
         },
         {
-          "name": "WPSSerif_16.cpfont",
+          "name": "WPFexofenadineG_16.cpfont",
           "pt": 16,
-          "size": 557990,
-          "crc32": 1839977517
+          "size": 507859,
+          "crc32": 2092217564
         },
         {
-          "name": "WPSSerif_17.cpfont",
+          "name": "WPFexofenadineG_17.cpfont",
           "pt": 17,
-          "size": 606003,
-          "crc32": 1345190248
+          "size": 552742,
+          "crc32": 2897666780
         },
         {
-          "name": "WPSSerif_18.cpfont",
+          "name": "WPFexofenadineG_18.cpfont",
           "pt": 18,
-          "size": 657679,
-          "crc32": 1725947929
+          "size": 628873,
+          "crc32": 1787767019
         }
       ],
       "previews": [
         {
           "pt": 6,
-          "path": "previews/WPSSerif-6.png"
+          "path": "previews/WPFexofenadineG-6.png"
         },
         {
           "pt": 14,
-          "path": "previews/WPSSerif-14.png"
+          "path": "previews/WPFexofenadineG-14.png"
         }
       ],
-      "totalBytes": 5379818
+      "totalBytes": 4713341
     },
     {
-      "name": "WPGravyPro",
-      "title": "Agràve Pro",
-      "description": "",
+      "name": "WPAntique",
+      "title": "Antykwa Toruńska",
+      "description": "Antykwa Toruńska: Polish antiqua by Zygfryd Gardzielewski, digitised by Janusz Nowacki.",
+      "group": "Reading",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPAntique-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPAntique-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Antykwa Toruńska - WP Antique)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPAntique_6.cpfont",
+          "pt": 6,
+          "size": 127468,
+          "crc32": 1467568501
+        },
+        {
+          "name": "WPAntique_7.cpfont",
+          "pt": 7,
+          "size": 146022,
+          "crc32": 3207430747
+        },
+        {
+          "name": "WPAntique_8.cpfont",
+          "pt": 8,
+          "size": 167310,
+          "crc32": 3765298778
+        },
+        {
+          "name": "WPAntique_9.cpfont",
+          "pt": 9,
+          "size": 190285,
+          "crc32": 1187980218
+        },
+        {
+          "name": "WPAntique_10.cpfont",
+          "pt": 10,
+          "size": 217569,
+          "crc32": 3741498672
+        },
+        {
+          "name": "WPAntique_11.cpfont",
+          "pt": 11,
+          "size": 245553,
+          "crc32": 2322114283
+        },
+        {
+          "name": "WPAntique_12.cpfont",
+          "pt": 12,
+          "size": 279659,
+          "crc32": 3753440186
+        },
+        {
+          "name": "WPAntique_13.cpfont",
+          "pt": 13,
+          "size": 312112,
+          "crc32": 2419149774
+        },
+        {
+          "name": "WPAntique_14.cpfont",
+          "pt": 14,
+          "size": 348891,
+          "crc32": 3417614427
+        },
+        {
+          "name": "WPAntique_15.cpfont",
+          "pt": 15,
+          "size": 389700,
+          "crc32": 7707746
+        },
+        {
+          "name": "WPAntique_16.cpfont",
+          "pt": 16,
+          "size": 431099,
+          "crc32": 1311793859
+        },
+        {
+          "name": "WPAntique_17.cpfont",
+          "pt": 17,
+          "size": 477060,
+          "crc32": 3500306476
+        },
+        {
+          "name": "WPAntique_18.cpfont",
+          "pt": 18,
+          "size": 525147,
+          "crc32": 3903646707
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPAntique-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPAntique-14.png"
+        }
+      ],
+      "totalBytes": 3857875
+    },
+    {
+      "name": "WPSuperlegibleNext",
+      "title": "Atkinson Hyperlegible Next",
+      "description": "Atkinson Hyperlegible Next: the Braille Institute's low-vision sans, updated.",
       "group": "Reading",
       "license": "OFL",
-      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPGravyPro-OFL.txt",
-      "licensePath": "licenses/WPGravyPro-OFL.txt",
-      "source": "Chairzard/WP-Fonts (Modified Fonts/Agràve Pro - WP Gravy Pro)",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPSuperlegibleNext-OFL.txt",
+      "licensePath": "licenses/WPSuperlegibleNext-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Atkinson Hyperlegible Next - WP Superlegible)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPSuperlegibleNext_6.cpfont",
+          "pt": 6,
+          "size": 94417,
+          "crc32": 3572853222
+        },
+        {
+          "name": "WPSuperlegibleNext_7.cpfont",
+          "pt": 7,
+          "size": 102041,
+          "crc32": 2336113450
+        },
+        {
+          "name": "WPSuperlegibleNext_8.cpfont",
+          "pt": 8,
+          "size": 109883,
+          "crc32": 4197122533
+        },
+        {
+          "name": "WPSuperlegibleNext_9.cpfont",
+          "pt": 9,
+          "size": 119327,
+          "crc32": 1472014907
+        },
+        {
+          "name": "WPSuperlegibleNext_10.cpfont",
+          "pt": 10,
+          "size": 130454,
+          "crc32": 3967487269
+        },
+        {
+          "name": "WPSuperlegibleNext_11.cpfont",
+          "pt": 11,
+          "size": 140848,
+          "crc32": 2791426021
+        },
+        {
+          "name": "WPSuperlegibleNext_12.cpfont",
+          "pt": 12,
+          "size": 153099,
+          "crc32": 3031556244
+        },
+        {
+          "name": "WPSuperlegibleNext_13.cpfont",
+          "pt": 13,
+          "size": 167284,
+          "crc32": 26210166
+        },
+        {
+          "name": "WPSuperlegibleNext_14.cpfont",
+          "pt": 14,
+          "size": 180289,
+          "crc32": 789891355
+        },
+        {
+          "name": "WPSuperlegibleNext_15.cpfont",
+          "pt": 15,
+          "size": 196009,
+          "crc32": 2587828359
+        },
+        {
+          "name": "WPSuperlegibleNext_16.cpfont",
+          "pt": 16,
+          "size": 212790,
+          "crc32": 215280060
+        },
+        {
+          "name": "WPSuperlegibleNext_17.cpfont",
+          "pt": 17,
+          "size": 228290,
+          "crc32": 3136061663
+        },
+        {
+          "name": "WPSuperlegibleNext_18.cpfont",
+          "pt": 18,
+          "size": 255911,
+          "crc32": 2991355926
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPSuperlegibleNext-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPSuperlegibleNext-14.png"
+        }
+      ],
+      "totalBytes": 2090642
+    },
+    {
+      "name": "WPBane",
+      "title": "Bainsley",
+      "description": "Bainsley: legible text sans for general use, by Paul James Miller.",
+      "group": "Interface",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPBane-SIL Open Font License.txt",
+      "licensePath": "licenses/WPBane-SIL Open Font License.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Bainsley - WP Bane)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPBane_6.cpfont",
+          "pt": 6,
+          "size": 186512,
+          "crc32": 977041888
+        },
+        {
+          "name": "WPBane_7.cpfont",
+          "pt": 7,
+          "size": 215016,
+          "crc32": 4223450173
+        },
+        {
+          "name": "WPBane_8.cpfont",
+          "pt": 8,
+          "size": 249294,
+          "crc32": 551859940
+        },
+        {
+          "name": "WPBane_9.cpfont",
+          "pt": 9,
+          "size": 285190,
+          "crc32": 1303654425
+        },
+        {
+          "name": "WPBane_10.cpfont",
+          "pt": 10,
+          "size": 319790,
+          "crc32": 1800993532
+        },
+        {
+          "name": "WPBane_11.cpfont",
+          "pt": 11,
+          "size": 364717,
+          "crc32": 2737860788
+        },
+        {
+          "name": "WPBane_12.cpfont",
+          "pt": 12,
+          "size": 412042,
+          "crc32": 803415785
+        },
+        {
+          "name": "WPBane_13.cpfont",
+          "pt": 13,
+          "size": 466190,
+          "crc32": 2651143833
+        },
+        {
+          "name": "WPBane_14.cpfont",
+          "pt": 14,
+          "size": 522924,
+          "crc32": 1967006663
+        },
+        {
+          "name": "WPBane_15.cpfont",
+          "pt": 15,
+          "size": 580994,
+          "crc32": 3132000990
+        },
+        {
+          "name": "WPBane_16.cpfont",
+          "pt": 16,
+          "size": 645160,
+          "crc32": 3410663639
+        },
+        {
+          "name": "WPBane_17.cpfont",
+          "pt": 17,
+          "size": 715902,
+          "crc32": 1722015868
+        },
+        {
+          "name": "WPBane_18.cpfont",
+          "pt": 18,
+          "size": 786546,
+          "crc32": 288775492
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPBane-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPBane-14.png"
+        }
+      ],
+      "totalBytes": 5750277
+    },
+    {
+      "name": "WPElectra",
+      "title": "Dihjau",
+      "description": "Dihjau: text serif after Dwiggins's Electra, by T. Christopher White.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPElectra-OFL.txt",
+      "licensePath": "licenses/WPElectra-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Dihjau - WP Electra)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPElectra_6.cpfont",
+          "pt": 6,
+          "size": 298867,
+          "crc32": 1039625388
+        },
+        {
+          "name": "WPElectra_7.cpfont",
+          "pt": 7,
+          "size": 345949,
+          "crc32": 2066543679
+        },
+        {
+          "name": "WPElectra_8.cpfont",
+          "pt": 8,
+          "size": 389305,
+          "crc32": 64495635
+        },
+        {
+          "name": "WPElectra_9.cpfont",
+          "pt": 9,
+          "size": 446427,
+          "crc32": 2077193300
+        },
+        {
+          "name": "WPElectra_10.cpfont",
+          "pt": 10,
+          "size": 507943,
+          "crc32": 1778468196
+        },
+        {
+          "name": "WPElectra_11.cpfont",
+          "pt": 11,
+          "size": 577374,
+          "crc32": 489133280
+        },
+        {
+          "name": "WPElectra_12.cpfont",
+          "pt": 12,
+          "size": 656540,
+          "crc32": 42164048
+        },
+        {
+          "name": "WPElectra_13.cpfont",
+          "pt": 13,
+          "size": 704915,
+          "crc32": 2181222006
+        },
+        {
+          "name": "WPElectra_14.cpfont",
+          "pt": 14,
+          "size": 790188,
+          "crc32": 3875764334
+        },
+        {
+          "name": "WPElectra_15.cpfont",
+          "pt": 15,
+          "size": 881088,
+          "crc32": 2333410884
+        },
+        {
+          "name": "WPElectra_16.cpfont",
+          "pt": 16,
+          "size": 975791,
+          "crc32": 3474814318
+        },
+        {
+          "name": "WPElectra_17.cpfont",
+          "pt": 17,
+          "size": 1083663,
+          "crc32": 1622340234
+        },
+        {
+          "name": "WPElectra_18.cpfont",
+          "pt": 18,
+          "size": 1191340,
+          "crc32": 2575715690
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPElectra-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPElectra-14.png"
+        }
+      ],
+      "totalBytes": 8849390
+    },
+    {
+      "name": "WPNewComputerModerner",
+      "title": "New Computer Modern",
+      "description": "New Computer Modern: Antonis Tsolomitis' wide-ranging extension of Computer Modern.",
+      "group": "Reading",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNewComputerModerner-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPNewComputerModerner-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/New Computer Modern - WP New Computer Moderner)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPNewComputerModerner_6.cpfont",
+          "pt": 6,
+          "size": 233110,
+          "crc32": 2357218000
+        },
+        {
+          "name": "WPNewComputerModerner_7.cpfont",
+          "pt": 7,
+          "size": 265682,
+          "crc32": 3329029361
+        },
+        {
+          "name": "WPNewComputerModerner_8.cpfont",
+          "pt": 8,
+          "size": 307535,
+          "crc32": 1302634820
+        },
+        {
+          "name": "WPNewComputerModerner_9.cpfont",
+          "pt": 9,
+          "size": 350832,
+          "crc32": 153962445
+        },
+        {
+          "name": "WPNewComputerModerner_10.cpfont",
+          "pt": 10,
+          "size": 403744,
+          "crc32": 1602840645
+        },
+        {
+          "name": "WPNewComputerModerner_11.cpfont",
+          "pt": 11,
+          "size": 459357,
+          "crc32": 2775738505
+        },
+        {
+          "name": "WPNewComputerModerner_12.cpfont",
+          "pt": 12,
+          "size": 515388,
+          "crc32": 1539360471
+        },
+        {
+          "name": "WPNewComputerModerner_13.cpfont",
+          "pt": 13,
+          "size": 582303,
+          "crc32": 1467134906
+        },
+        {
+          "name": "WPNewComputerModerner_14.cpfont",
+          "pt": 14,
+          "size": 659520,
+          "crc32": 2215595712
+        },
+        {
+          "name": "WPNewComputerModerner_15.cpfont",
+          "pt": 15,
+          "size": 733610,
+          "crc32": 3970115912
+        },
+        {
+          "name": "WPNewComputerModerner_16.cpfont",
+          "pt": 16,
+          "size": 810426,
+          "crc32": 1011314537
+        },
+        {
+          "name": "WPNewComputerModerner_17.cpfont",
+          "pt": 17,
+          "size": 892756,
+          "crc32": 2585816114
+        },
+        {
+          "name": "WPNewComputerModerner_18.cpfont",
+          "pt": 18,
+          "size": 987503,
+          "crc32": 1777794994
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPNewComputerModerner-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPNewComputerModerner-14.png"
+        }
+      ],
+      "totalBytes": 7201766
+    },
+    {
+      "name": "WPNewComputerModernerMono",
+      "title": "New Computer Modern Mono",
+      "description": "New Computer Modern Mono: the monospaced member of the New Computer Modern family.",
+      "group": "Mono",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNewComputerModernerMono-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPNewComputerModernerMono-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/New Computer Modern Mono - WP New Computer Moderner Mono)",
+      "styles": [
+        "regular",
+        "italic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPNewComputerModernerMono_6.cpfont",
+          "pt": 6,
+          "size": 90040,
+          "crc32": 3861189770
+        },
+        {
+          "name": "WPNewComputerModernerMono_7.cpfont",
+          "pt": 7,
+          "size": 102416,
+          "crc32": 2598837996
+        },
+        {
+          "name": "WPNewComputerModernerMono_8.cpfont",
+          "pt": 8,
+          "size": 121073,
+          "crc32": 3972372859
+        },
+        {
+          "name": "WPNewComputerModernerMono_9.cpfont",
+          "pt": 9,
+          "size": 135331,
+          "crc32": 3659548816
+        },
+        {
+          "name": "WPNewComputerModernerMono_10.cpfont",
+          "pt": 10,
+          "size": 154135,
+          "crc32": 1686225162
+        },
+        {
+          "name": "WPNewComputerModernerMono_11.cpfont",
+          "pt": 11,
+          "size": 173562,
+          "crc32": 2301973910
+        },
+        {
+          "name": "WPNewComputerModernerMono_12.cpfont",
+          "pt": 12,
+          "size": 199239,
+          "crc32": 230148812
+        },
+        {
+          "name": "WPNewComputerModernerMono_13.cpfont",
+          "pt": 13,
+          "size": 222768,
+          "crc32": 1580916805
+        },
+        {
+          "name": "WPNewComputerModernerMono_14.cpfont",
+          "pt": 14,
+          "size": 248434,
+          "crc32": 1394762250
+        },
+        {
+          "name": "WPNewComputerModernerMono_15.cpfont",
+          "pt": 15,
+          "size": 274460,
+          "crc32": 1671459266
+        },
+        {
+          "name": "WPNewComputerModernerMono_16.cpfont",
+          "pt": 16,
+          "size": 310753,
+          "crc32": 4137624264
+        },
+        {
+          "name": "WPNewComputerModernerMono_17.cpfont",
+          "pt": 17,
+          "size": 337575,
+          "crc32": 458735980
+        },
+        {
+          "name": "WPNewComputerModernerMono_18.cpfont",
+          "pt": 18,
+          "size": 369507,
+          "crc32": 1279522294
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPNewComputerModernerMono-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPNewComputerModernerMono-14.png"
+        }
+      ],
+      "totalBytes": 2739293
+    },
+    {
+      "name": "WPClick",
+      "title": "TeX Gyre Cursor",
+      "description": "TeX Gyre Cursor: GUST's Courier replica; ligatures removed here.",
+      "group": "Mono",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPClick-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPClick-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/TeX Gyre Cursor - WP Click)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPClick_6.cpfont",
+          "pt": 6,
+          "size": 86561,
+          "crc32": 629253076
+        },
+        {
+          "name": "WPClick_7.cpfont",
+          "pt": 7,
+          "size": 99297,
+          "crc32": 4003195237
+        },
+        {
+          "name": "WPClick_8.cpfont",
+          "pt": 8,
+          "size": 113961,
+          "crc32": 3062535142
+        },
+        {
+          "name": "WPClick_9.cpfont",
+          "pt": 9,
+          "size": 130651,
+          "crc32": 1540300907
+        },
+        {
+          "name": "WPClick_10.cpfont",
+          "pt": 10,
+          "size": 147280,
+          "crc32": 4162858371
+        },
+        {
+          "name": "WPClick_11.cpfont",
+          "pt": 11,
+          "size": 168941,
+          "crc32": 4102614921
+        },
+        {
+          "name": "WPClick_12.cpfont",
+          "pt": 12,
+          "size": 189152,
+          "crc32": 680485424
+        },
+        {
+          "name": "WPClick_13.cpfont",
+          "pt": 13,
+          "size": 213275,
+          "crc32": 2501842909
+        },
+        {
+          "name": "WPClick_14.cpfont",
+          "pt": 14,
+          "size": 238861,
+          "crc32": 4264207258
+        },
+        {
+          "name": "WPClick_15.cpfont",
+          "pt": 15,
+          "size": 266275,
+          "crc32": 294436340
+        },
+        {
+          "name": "WPClick_16.cpfont",
+          "pt": 16,
+          "size": 296281,
+          "crc32": 2414097861
+        },
+        {
+          "name": "WPClick_17.cpfont",
+          "pt": 17,
+          "size": 326372,
+          "crc32": 3073763782
+        },
+        {
+          "name": "WPClick_18.cpfont",
+          "pt": 18,
+          "size": 357624,
+          "crc32": 3536688179
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPClick-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPClick-14.png"
+        }
+      ],
+      "totalBytes": 2634531
+    },
+    {
+      "name": "WPPages",
+      "title": "TeX Gyre Pagella",
+      "description": "TeX Gyre Pagella: GUST's replica of Palatino.",
+      "group": "Reading",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPPages-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPPages-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/TeX Gyre Pagella - WP Pages)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPPages_6.cpfont",
+          "pt": 6,
+          "size": 210305,
+          "crc32": 1314194343
+        },
+        {
+          "name": "WPPages_7.cpfont",
+          "pt": 7,
+          "size": 230798,
+          "crc32": 2739648765
+        },
+        {
+          "name": "WPPages_8.cpfont",
+          "pt": 8,
+          "size": 262136,
+          "crc32": 3064758069
+        },
+        {
+          "name": "WPPages_9.cpfont",
+          "pt": 9,
+          "size": 292771,
+          "crc32": 3237609338
+        },
+        {
+          "name": "WPPages_10.cpfont",
+          "pt": 10,
+          "size": 329809,
+          "crc32": 1213079765
+        },
+        {
+          "name": "WPPages_11.cpfont",
+          "pt": 11,
+          "size": 369989,
+          "crc32": 43311717
+        },
+        {
+          "name": "WPPages_12.cpfont",
+          "pt": 12,
+          "size": 411260,
+          "crc32": 2770446451
+        },
+        {
+          "name": "WPPages_13.cpfont",
+          "pt": 13,
+          "size": 454690,
+          "crc32": 1563513272
+        },
+        {
+          "name": "WPPages_14.cpfont",
+          "pt": 14,
+          "size": 501005,
+          "crc32": 3870493568
+        },
+        {
+          "name": "WPPages_15.cpfont",
+          "pt": 15,
+          "size": 556461,
+          "crc32": 3949752767
+        },
+        {
+          "name": "WPPages_16.cpfont",
+          "pt": 16,
+          "size": 611674,
+          "crc32": 948797635
+        },
+        {
+          "name": "WPPages_17.cpfont",
+          "pt": 17,
+          "size": 676817,
+          "crc32": 1257688807
+        },
+        {
+          "name": "WPPages_18.cpfont",
+          "pt": 18,
+          "size": 732540,
+          "crc32": 915304317
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPPages-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPPages-14.png"
+        }
+      ],
+      "totalBytes": 5640255
+    },
+    {
+      "name": "WPScholar",
+      "title": "TeX Gyre Schola",
+      "description": "TeX Gyre Schola: GUST's replica of Century Schoolbook.",
+      "group": "Reading",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPScholar-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPScholar-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/TeX Gyre Schola - WP Scholar)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPScholar_6.cpfont",
+          "pt": 6,
+          "size": 161150,
+          "crc32": 4089805053
+        },
+        {
+          "name": "WPScholar_7.cpfont",
+          "pt": 7,
+          "size": 179986,
+          "crc32": 3374612626
+        },
+        {
+          "name": "WPScholar_8.cpfont",
+          "pt": 8,
+          "size": 198347,
+          "crc32": 1881031363
+        },
+        {
+          "name": "WPScholar_9.cpfont",
+          "pt": 9,
+          "size": 222826,
+          "crc32": 2816327619
+        },
+        {
+          "name": "WPScholar_10.cpfont",
+          "pt": 10,
+          "size": 245747,
+          "crc32": 147001356
+        },
+        {
+          "name": "WPScholar_11.cpfont",
+          "pt": 11,
+          "size": 274997,
+          "crc32": 736863225
+        },
+        {
+          "name": "WPScholar_12.cpfont",
+          "pt": 12,
+          "size": 302434,
+          "crc32": 1886478552
+        },
+        {
+          "name": "WPScholar_13.cpfont",
+          "pt": 13,
+          "size": 338148,
+          "crc32": 4074625468
+        },
+        {
+          "name": "WPScholar_14.cpfont",
+          "pt": 14,
+          "size": 368641,
+          "crc32": 913081166
+        },
+        {
+          "name": "WPScholar_15.cpfont",
+          "pt": 15,
+          "size": 409452,
+          "crc32": 4160320477
+        },
+        {
+          "name": "WPScholar_16.cpfont",
+          "pt": 16,
+          "size": 445635,
+          "crc32": 2450401177
+        },
+        {
+          "name": "WPScholar_17.cpfont",
+          "pt": 17,
+          "size": 490628,
+          "crc32": 3896997262
+        },
+        {
+          "name": "WPScholar_18.cpfont",
+          "pt": 18,
+          "size": 531768,
+          "crc32": 910010871
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPScholar-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPScholar-14.png"
+        }
+      ],
+      "totalBytes": 4169759
+    },
+    {
+      "name": "WPNewTimes",
+      "title": "TeX Gyre Termes",
+      "description": "TeX Gyre Termes: GUST's replica of Times.",
+      "group": "Reading",
+      "license": "GUST",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/WPNewTimes-GUST-FONT-LICENSE.txt",
+      "licensePath": "licenses/WPNewTimes-GUST-FONT-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/TeX Gyre Termes - WP New Times)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "WPNewTimes_6.cpfont",
+          "pt": 6,
+          "size": 155563,
+          "crc32": 4159360720
+        },
+        {
+          "name": "WPNewTimes_7.cpfont",
+          "pt": 7,
+          "size": 169578,
+          "crc32": 405131762
+        },
+        {
+          "name": "WPNewTimes_8.cpfont",
+          "pt": 8,
+          "size": 186976,
+          "crc32": 2453088510
+        },
+        {
+          "name": "WPNewTimes_9.cpfont",
+          "pt": 9,
+          "size": 207653,
+          "crc32": 2874710929
+        },
+        {
+          "name": "WPNewTimes_10.cpfont",
+          "pt": 10,
+          "size": 224506,
+          "crc32": 2535422426
+        },
+        {
+          "name": "WPNewTimes_11.cpfont",
+          "pt": 11,
+          "size": 249465,
+          "crc32": 1335529134
+        },
+        {
+          "name": "WPNewTimes_12.cpfont",
+          "pt": 12,
+          "size": 273697,
+          "crc32": 209349522
+        },
+        {
+          "name": "WPNewTimes_13.cpfont",
+          "pt": 13,
+          "size": 303592,
+          "crc32": 2230488724
+        },
+        {
+          "name": "WPNewTimes_14.cpfont",
+          "pt": 14,
+          "size": 328787,
+          "crc32": 3099728255
+        },
+        {
+          "name": "WPNewTimes_15.cpfont",
+          "pt": 15,
+          "size": 355437,
+          "crc32": 4233420101
+        },
+        {
+          "name": "WPNewTimes_16.cpfont",
+          "pt": 16,
+          "size": 390503,
+          "crc32": 987827710
+        },
+        {
+          "name": "WPNewTimes_17.cpfont",
+          "pt": 17,
+          "size": 425258,
+          "crc32": 1389685477
+        },
+        {
+          "name": "WPNewTimes_18.cpfont",
+          "pt": 18,
+          "size": 485360,
+          "crc32": 3166515657
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/WPNewTimes-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/WPNewTimes-14.png"
+        }
+      ],
+      "totalBytes": 3756375
+    },
+    {
+      "name": "UbuntuMonoderivativeWP",
+      "title": "Ubuntu Mono",
+      "description": "Ubuntu Mono: the Ubuntu family's monospace (Dalton Maag).",
+      "group": "Mono",
+      "license": "UFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/UbuntuMonoderivativeWP-UFL.txt",
+      "licensePath": "licenses/UbuntuMonoderivativeWP-UFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Ubuntu Mono - Ubuntu Mono derivative WP)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "UbuntuMonoderivativeWP_6.cpfont",
+          "pt": 6,
+          "size": 118303,
+          "crc32": 226627126
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_7.cpfont",
+          "pt": 7,
+          "size": 133916,
+          "crc32": 746079503
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_8.cpfont",
+          "pt": 8,
+          "size": 155393,
+          "crc32": 1846265837
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_9.cpfont",
+          "pt": 9,
+          "size": 174279,
+          "crc32": 818359131
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_10.cpfont",
+          "pt": 10,
+          "size": 198543,
+          "crc32": 3822204290
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_11.cpfont",
+          "pt": 11,
+          "size": 222229,
+          "crc32": 2961849476
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_12.cpfont",
+          "pt": 12,
+          "size": 247878,
+          "crc32": 2158553996
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_13.cpfont",
+          "pt": 13,
+          "size": 282154,
+          "crc32": 92073506
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_14.cpfont",
+          "pt": 14,
+          "size": 310816,
+          "crc32": 4256173292
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_15.cpfont",
+          "pt": 15,
+          "size": 342489,
+          "crc32": 241950591
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_16.cpfont",
+          "pt": 16,
+          "size": 379353,
+          "crc32": 664884964
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_17.cpfont",
+          "pt": 17,
+          "size": 420000,
+          "crc32": 1304260171
+        },
+        {
+          "name": "UbuntuMonoderivativeWP_18.cpfont",
+          "pt": 18,
+          "size": 480154,
+          "crc32": 3341393191
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/UbuntuMonoderivativeWP-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/UbuntuMonoderivativeWP-14.png"
+        }
+      ],
+      "totalBytes": 3465507
+    },
+    {
+      "name": "UbuntuSansderivativeWP",
+      "title": "Ubuntu Sans",
+      "description": "Ubuntu Sans, the Ubuntu operating system's font by Dalton Maag.",
+      "group": "Reading",
+      "license": "UFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/UbuntuSansderivativeWP-UFL.txt",
+      "licensePath": "licenses/UbuntuSansderivativeWP-UFL.txt",
+      "source": "Chairzard/WP-Fonts (Modified Fonts/Ubuntu Sans - Ubuntu Sans derivative WP)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "UbuntuSansderivativeWP_6.cpfont",
+          "pt": 6,
+          "size": 203558,
+          "crc32": 4084501742
+        },
+        {
+          "name": "UbuntuSansderivativeWP_7.cpfont",
+          "pt": 7,
+          "size": 217671,
+          "crc32": 2349477502
+        },
+        {
+          "name": "UbuntuSansderivativeWP_8.cpfont",
+          "pt": 8,
+          "size": 240212,
+          "crc32": 803436198
+        },
+        {
+          "name": "UbuntuSansderivativeWP_9.cpfont",
+          "pt": 9,
+          "size": 260548,
+          "crc32": 3616062015
+        },
+        {
+          "name": "UbuntuSansderivativeWP_10.cpfont",
+          "pt": 10,
+          "size": 283145,
+          "crc32": 1276199793
+        },
+        {
+          "name": "UbuntuSansderivativeWP_11.cpfont",
+          "pt": 11,
+          "size": 308420,
+          "crc32": 705851933
+        },
+        {
+          "name": "UbuntuSansderivativeWP_12.cpfont",
+          "pt": 12,
+          "size": 333914,
+          "crc32": 1151630220
+        },
+        {
+          "name": "UbuntuSansderivativeWP_13.cpfont",
+          "pt": 13,
+          "size": 360701,
+          "crc32": 2071896531
+        },
+        {
+          "name": "UbuntuSansderivativeWP_14.cpfont",
+          "pt": 14,
+          "size": 395511,
+          "crc32": 1867804631
+        },
+        {
+          "name": "UbuntuSansderivativeWP_15.cpfont",
+          "pt": 15,
+          "size": 438418,
+          "crc32": 856965698
+        },
+        {
+          "name": "UbuntuSansderivativeWP_16.cpfont",
+          "pt": 16,
+          "size": 480476,
+          "crc32": 1388957946
+        },
+        {
+          "name": "UbuntuSansderivativeWP_17.cpfont",
+          "pt": 17,
+          "size": 518451,
+          "crc32": 2318640907
+        },
+        {
+          "name": "UbuntuSansderivativeWP_18.cpfont",
+          "pt": 18,
+          "size": 570292,
+          "crc32": 462375018
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/UbuntuSansderivativeWP-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/UbuntuSansderivativeWP-14.png"
+        }
+      ],
+      "totalBytes": 4611317
+    },
+    {
+      "name": "AgravePro",
+      "title": "Agràve Pro",
+      "description": "Agràve Pro: handwritten face for longer texts, with uniform strokes, by Daan Jobsis.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AgravePro-OFL.txt",
+      "licensePath": "licenses/AgravePro-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Agrave Pro)",
       "styles": [
         "regular",
         "bold"
@@ -34914,95 +36383,3002 @@
       ],
       "files": [
         {
-          "name": "WPGravyPro_6.cpfont",
+          "name": "AgravePro_6.cpfont",
           "pt": 6,
-          "size": 32839,
-          "crc32": 3123001631
+          "size": 35910,
+          "crc32": 352992678
         },
         {
-          "name": "WPGravyPro_7.cpfont",
+          "name": "AgravePro_7.cpfont",
           "pt": 7,
-          "size": 38056,
-          "crc32": 3022181534
+          "size": 40855,
+          "crc32": 117349189
         },
         {
-          "name": "WPGravyPro_8.cpfont",
+          "name": "AgravePro_8.cpfont",
           "pt": 8,
-          "size": 46704,
-          "crc32": 2720619170
+          "size": 47140,
+          "crc32": 3233923530
         },
         {
-          "name": "WPGravyPro_9.cpfont",
+          "name": "AgravePro_9.cpfont",
           "pt": 9,
-          "size": 53243,
-          "crc32": 2961967864
+          "size": 53378,
+          "crc32": 1968249716
         },
         {
-          "name": "WPGravyPro_10.cpfont",
+          "name": "AgravePro_10.cpfont",
           "pt": 10,
-          "size": 171963,
-          "crc32": 792238893
+          "size": 172738,
+          "crc32": 3426476964
         },
         {
-          "name": "WPGravyPro_11.cpfont",
+          "name": "AgravePro_11.cpfont",
           "pt": 11,
-          "size": 177491,
-          "crc32": 405298956
+          "size": 178297,
+          "crc32": 350789039
         },
         {
-          "name": "WPGravyPro_12.cpfont",
+          "name": "AgravePro_12.cpfont",
           "pt": 12,
-          "size": 184660,
-          "crc32": 3588976618
+          "size": 186964,
+          "crc32": 4072352698
         },
         {
-          "name": "WPGravyPro_13.cpfont",
+          "name": "AgravePro_13.cpfont",
           "pt": 13,
-          "size": 193206,
-          "crc32": 1077836431
+          "size": 195486,
+          "crc32": 2333288114
         },
         {
-          "name": "WPGravyPro_14.cpfont",
+          "name": "AgravePro_14.cpfont",
           "pt": 14,
-          "size": 202726,
-          "crc32": 1981652638
+          "size": 205430,
+          "crc32": 2329751958
         },
         {
-          "name": "WPGravyPro_15.cpfont",
+          "name": "AgravePro_15.cpfont",
           "pt": 15,
-          "size": 210427,
-          "crc32": 4274819447
+          "size": 211580,
+          "crc32": 3294426890
         },
         {
-          "name": "WPGravyPro_16.cpfont",
+          "name": "AgravePro_16.cpfont",
           "pt": 16,
-          "size": 219120,
-          "crc32": 657919585
+          "size": 219525,
+          "crc32": 3604455722
         },
         {
-          "name": "WPGravyPro_17.cpfont",
+          "name": "AgravePro_17.cpfont",
           "pt": 17,
-          "size": 231256,
-          "crc32": 115390220
+          "size": 230468,
+          "crc32": 124006417
         },
         {
-          "name": "WPGravyPro_18.cpfont",
+          "name": "AgravePro_18.cpfont",
           "pt": 18,
-          "size": 243558,
-          "crc32": 1465078584
+          "size": 248053,
+          "crc32": 547454561
         }
       ],
       "previews": [
         {
           "pt": 6,
-          "path": "previews/WPGravyPro-6.png"
+          "path": "previews/AgravePro-6.png"
         },
         {
           "pt": 14,
-          "path": "previews/WPGravyPro-14.png"
+          "path": "previews/AgravePro-14.png"
         }
       ],
-      "totalBytes": 2005249
+      "totalBytes": 2025824
+    },
+    {
+      "name": "AsapSharp",
+      "title": "Asap Sharp",
+      "description": "Asap Sharp: the Asap sans with sharper, more angular details, by Pablo Cosgaya (Omnibus-Type).",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/AsapSharp-OFL.txt",
+      "licensePath": "licenses/AsapSharp-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Asap Sharp)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "AsapSharp_6.cpfont",
+          "pt": 6,
+          "size": 103978,
+          "crc32": 2739095432
+        },
+        {
+          "name": "AsapSharp_7.cpfont",
+          "pt": 7,
+          "size": 117075,
+          "crc32": 3229002367
+        },
+        {
+          "name": "AsapSharp_8.cpfont",
+          "pt": 8,
+          "size": 132830,
+          "crc32": 2879481130
+        },
+        {
+          "name": "AsapSharp_9.cpfont",
+          "pt": 9,
+          "size": 149457,
+          "crc32": 2334951803
+        },
+        {
+          "name": "AsapSharp_10.cpfont",
+          "pt": 10,
+          "size": 167952,
+          "crc32": 2728386729
+        },
+        {
+          "name": "AsapSharp_11.cpfont",
+          "pt": 11,
+          "size": 186213,
+          "crc32": 3215442794
+        },
+        {
+          "name": "AsapSharp_12.cpfont",
+          "pt": 12,
+          "size": 207465,
+          "crc32": 3055505163
+        },
+        {
+          "name": "AsapSharp_13.cpfont",
+          "pt": 13,
+          "size": 231555,
+          "crc32": 3605987963
+        },
+        {
+          "name": "AsapSharp_14.cpfont",
+          "pt": 14,
+          "size": 255612,
+          "crc32": 3384968355
+        },
+        {
+          "name": "AsapSharp_15.cpfont",
+          "pt": 15,
+          "size": 294432,
+          "crc32": 3040887996
+        },
+        {
+          "name": "AsapSharp_16.cpfont",
+          "pt": 16,
+          "size": 324784,
+          "crc32": 2150441237
+        },
+        {
+          "name": "AsapSharp_17.cpfont",
+          "pt": 17,
+          "size": 355300,
+          "crc32": 766722223
+        },
+        {
+          "name": "AsapSharp_18.cpfont",
+          "pt": 18,
+          "size": 396376,
+          "crc32": 694273352
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/AsapSharp-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/AsapSharp-14.png"
+        }
+      ],
+      "totalBytes": 2923029
+    },
+    {
+      "name": "BaskervillePunch",
+      "title": "Baskerville Punch",
+      "description": "Baskerville Punch: revival drawn from Baskerville's original steel punches (Cambridge).",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/BaskervillePunch-OFL.txt",
+      "licensePath": "licenses/BaskervillePunch-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Baskerville Punch)",
+      "styles": [
+        "regular",
+        "italic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "BaskervillePunch_6.cpfont",
+          "pt": 6,
+          "size": 125310,
+          "crc32": 3860275138
+        },
+        {
+          "name": "BaskervillePunch_7.cpfont",
+          "pt": 7,
+          "size": 129559,
+          "crc32": 331106145
+        },
+        {
+          "name": "BaskervillePunch_8.cpfont",
+          "pt": 8,
+          "size": 134115,
+          "crc32": 2300127484
+        },
+        {
+          "name": "BaskervillePunch_9.cpfont",
+          "pt": 9,
+          "size": 139440,
+          "crc32": 2066564604
+        },
+        {
+          "name": "BaskervillePunch_10.cpfont",
+          "pt": 10,
+          "size": 144197,
+          "crc32": 304731663
+        },
+        {
+          "name": "BaskervillePunch_11.cpfont",
+          "pt": 11,
+          "size": 151189,
+          "crc32": 859254789
+        },
+        {
+          "name": "BaskervillePunch_12.cpfont",
+          "pt": 12,
+          "size": 156841,
+          "crc32": 3632373802
+        },
+        {
+          "name": "BaskervillePunch_13.cpfont",
+          "pt": 13,
+          "size": 163025,
+          "crc32": 3257847719
+        },
+        {
+          "name": "BaskervillePunch_14.cpfont",
+          "pt": 14,
+          "size": 171688,
+          "crc32": 987178354
+        },
+        {
+          "name": "BaskervillePunch_15.cpfont",
+          "pt": 15,
+          "size": 179465,
+          "crc32": 398362980
+        },
+        {
+          "name": "BaskervillePunch_16.cpfont",
+          "pt": 16,
+          "size": 189175,
+          "crc32": 2882349253
+        },
+        {
+          "name": "BaskervillePunch_17.cpfont",
+          "pt": 17,
+          "size": 198681,
+          "crc32": 3265673595
+        },
+        {
+          "name": "BaskervillePunch_18.cpfont",
+          "pt": 18,
+          "size": 210620,
+          "crc32": 3540902227
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/BaskervillePunch-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/BaskervillePunch-14.png"
+        }
+      ],
+      "totalBytes": 2093305
+    },
+    {
+      "name": "BreezeSans",
+      "title": "Breeze Sans",
+      "description": "Breeze Sans: Dalton Maag's humanist sans, the Tizen system's interface face (Samsung).",
+      "group": "Interface",
+      "license": "Apache-2.0",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/BreezeSans-LICENSE.Apache.v2.0.txt",
+      "licensePath": "licenses/BreezeSans-LICENSE.Apache.v2.0.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/BreezeSans)",
+      "styles": [
+        "regular",
+        "bold"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "BreezeSans_6.cpfont",
+          "pt": 6,
+          "size": 69194,
+          "crc32": 1114334649
+        },
+        {
+          "name": "BreezeSans_7.cpfont",
+          "pt": 7,
+          "size": 80289,
+          "crc32": 3418007212
+        },
+        {
+          "name": "BreezeSans_8.cpfont",
+          "pt": 8,
+          "size": 90576,
+          "crc32": 398426990
+        },
+        {
+          "name": "BreezeSans_9.cpfont",
+          "pt": 9,
+          "size": 103605,
+          "crc32": 4019106866
+        },
+        {
+          "name": "BreezeSans_10.cpfont",
+          "pt": 10,
+          "size": 118553,
+          "crc32": 3092886092
+        },
+        {
+          "name": "BreezeSans_11.cpfont",
+          "pt": 11,
+          "size": 135606,
+          "crc32": 191133095
+        },
+        {
+          "name": "BreezeSans_12.cpfont",
+          "pt": 12,
+          "size": 153049,
+          "crc32": 568946936
+        },
+        {
+          "name": "BreezeSans_13.cpfont",
+          "pt": 13,
+          "size": 173332,
+          "crc32": 865745739
+        },
+        {
+          "name": "BreezeSans_14.cpfont",
+          "pt": 14,
+          "size": 195037,
+          "crc32": 2909813263
+        },
+        {
+          "name": "BreezeSans_15.cpfont",
+          "pt": 15,
+          "size": 218228,
+          "crc32": 3735704297
+        },
+        {
+          "name": "BreezeSans_16.cpfont",
+          "pt": 16,
+          "size": 240786,
+          "crc32": 1797540157
+        },
+        {
+          "name": "BreezeSans_17.cpfont",
+          "pt": 17,
+          "size": 266129,
+          "crc32": 2929946768
+        },
+        {
+          "name": "BreezeSans_18.cpfont",
+          "pt": 18,
+          "size": 301298,
+          "crc32": 1037549813
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/BreezeSans-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/BreezeSans-14.png"
+        }
+      ],
+      "totalBytes": 2145682
+    },
+    {
+      "name": "Cadman",
+      "title": "Cadman",
+      "description": "Cadman: legible sans made with dyslexic readers in mind, by Paul James Miller.",
+      "group": "Interface",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Cadman-SIL Open Font License.txt",
+      "licensePath": "licenses/Cadman-SIL Open Font License.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Cadman)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Cadman_6.cpfont",
+          "pt": 6,
+          "size": 174432,
+          "crc32": 4054114467
+        },
+        {
+          "name": "Cadman_7.cpfont",
+          "pt": 7,
+          "size": 199193,
+          "crc32": 3439203029
+        },
+        {
+          "name": "Cadman_8.cpfont",
+          "pt": 8,
+          "size": 230724,
+          "crc32": 3550144640
+        },
+        {
+          "name": "Cadman_9.cpfont",
+          "pt": 9,
+          "size": 263847,
+          "crc32": 810569658
+        },
+        {
+          "name": "Cadman_10.cpfont",
+          "pt": 10,
+          "size": 295399,
+          "crc32": 581450895
+        },
+        {
+          "name": "Cadman_11.cpfont",
+          "pt": 11,
+          "size": 332953,
+          "crc32": 3591003048
+        },
+        {
+          "name": "Cadman_12.cpfont",
+          "pt": 12,
+          "size": 378195,
+          "crc32": 1337212180
+        },
+        {
+          "name": "Cadman_13.cpfont",
+          "pt": 13,
+          "size": 423015,
+          "crc32": 1909763139
+        },
+        {
+          "name": "Cadman_14.cpfont",
+          "pt": 14,
+          "size": 474333,
+          "crc32": 2422732875
+        },
+        {
+          "name": "Cadman_15.cpfont",
+          "pt": 15,
+          "size": 528065,
+          "crc32": 1487808855
+        },
+        {
+          "name": "Cadman_16.cpfont",
+          "pt": 16,
+          "size": 598172,
+          "crc32": 463206841
+        },
+        {
+          "name": "Cadman_17.cpfont",
+          "pt": 17,
+          "size": 658829,
+          "crc32": 800629924
+        },
+        {
+          "name": "Cadman_18.cpfont",
+          "pt": 18,
+          "size": 753032,
+          "crc32": 657869929
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Cadman-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Cadman-14.png"
+        }
+      ],
+      "totalBytes": 5310189
+    },
+    {
+      "name": "Coelacanth",
+      "title": "Coelacanth",
+      "description": "Coelacanth: Venetian-style book serif honouring Bruce Rogers' Centaur, by Ben Whitmore.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Coelacanth-LICENSE.md",
+      "licensePath": "licenses/Coelacanth-LICENSE.md",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Coelacanth)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Coelacanth_6.cpfont",
+          "pt": 6,
+          "size": 218453,
+          "crc32": 3856387372
+        },
+        {
+          "name": "Coelacanth_7.cpfont",
+          "pt": 7,
+          "size": 251896,
+          "crc32": 1259789870
+        },
+        {
+          "name": "Coelacanth_8.cpfont",
+          "pt": 8,
+          "size": 294705,
+          "crc32": 666553655
+        },
+        {
+          "name": "Coelacanth_9.cpfont",
+          "pt": 9,
+          "size": 337020,
+          "crc32": 2576809654
+        },
+        {
+          "name": "Coelacanth_10.cpfont",
+          "pt": 10,
+          "size": 383925,
+          "crc32": 784489822
+        },
+        {
+          "name": "Coelacanth_11.cpfont",
+          "pt": 11,
+          "size": 442279,
+          "crc32": 1853155581
+        },
+        {
+          "name": "Coelacanth_12.cpfont",
+          "pt": 12,
+          "size": 495743,
+          "crc32": 923774835
+        },
+        {
+          "name": "Coelacanth_13.cpfont",
+          "pt": 13,
+          "size": 564309,
+          "crc32": 2597753564
+        },
+        {
+          "name": "Coelacanth_14.cpfont",
+          "pt": 14,
+          "size": 629439,
+          "crc32": 1125722098
+        },
+        {
+          "name": "Coelacanth_15.cpfont",
+          "pt": 15,
+          "size": 696946,
+          "crc32": 3127933425
+        },
+        {
+          "name": "Coelacanth_16.cpfont",
+          "pt": 16,
+          "size": 778234,
+          "crc32": 127881959
+        },
+        {
+          "name": "Coelacanth_17.cpfont",
+          "pt": 17,
+          "size": 858152,
+          "crc32": 1432085290
+        },
+        {
+          "name": "Coelacanth_18.cpfont",
+          "pt": 18,
+          "size": 951636,
+          "crc32": 676626102
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Coelacanth-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Coelacanth-14.png"
+        }
+      ],
+      "totalBytes": 6902737
+    },
+    {
+      "name": "Giphurs",
+      "title": "Giphurs",
+      "description": "Giphurs: sans by Corne2Plum3, inspired by Arial, Helvetica, Circular Std and Inter.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Giphurs-OFL.txt",
+      "licensePath": "licenses/Giphurs-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Giphurs)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Giphurs_6.cpfont",
+          "pt": 6,
+          "size": 298282,
+          "crc32": 4118872650
+        },
+        {
+          "name": "Giphurs_7.cpfont",
+          "pt": 7,
+          "size": 339260,
+          "crc32": 580818985
+        },
+        {
+          "name": "Giphurs_8.cpfont",
+          "pt": 8,
+          "size": 399700,
+          "crc32": 4075883379
+        },
+        {
+          "name": "Giphurs_9.cpfont",
+          "pt": 9,
+          "size": 454475,
+          "crc32": 3687940814
+        },
+        {
+          "name": "Giphurs_10.cpfont",
+          "pt": 10,
+          "size": 518250,
+          "crc32": 2237368546
+        },
+        {
+          "name": "Giphurs_11.cpfont",
+          "pt": 11,
+          "size": 589148,
+          "crc32": 2798609618
+        },
+        {
+          "name": "Giphurs_12.cpfont",
+          "pt": 12,
+          "size": 672862,
+          "crc32": 4028566424
+        },
+        {
+          "name": "Giphurs_13.cpfont",
+          "pt": 13,
+          "size": 756578,
+          "crc32": 99077468
+        },
+        {
+          "name": "Giphurs_14.cpfont",
+          "pt": 14,
+          "size": 848481,
+          "crc32": 228229639
+        },
+        {
+          "name": "Giphurs_15.cpfont",
+          "pt": 15,
+          "size": 938149,
+          "crc32": 282468736
+        },
+        {
+          "name": "Giphurs_16.cpfont",
+          "pt": 16,
+          "size": 1053095,
+          "crc32": 3474896969
+        },
+        {
+          "name": "Giphurs_17.cpfont",
+          "pt": 17,
+          "size": 1156757,
+          "crc32": 2756163755
+        },
+        {
+          "name": "Giphurs_18.cpfont",
+          "pt": 18,
+          "size": 1284700,
+          "crc32": 2896716294
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Giphurs-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Giphurs-14.png"
+        }
+      ],
+      "totalBytes": 9309737
+    },
+    {
+      "name": "IBMPlexSans",
+      "title": "IBM Plex Sans",
+      "description": "IBM Plex Sans in its Text weight, IBM's interface sans by Bold Monday.",
+      "group": "Interface",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/IBMPlexSans-OFL.txt",
+      "licensePath": "licenses/IBMPlexSans-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/IBM Plex Sans)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "IBMPlexSans_6.cpfont",
+          "pt": 6,
+          "size": 308268,
+          "crc32": 811624874
+        },
+        {
+          "name": "IBMPlexSans_7.cpfont",
+          "pt": 7,
+          "size": 327267,
+          "crc32": 2939988139
+        },
+        {
+          "name": "IBMPlexSans_8.cpfont",
+          "pt": 8,
+          "size": 352904,
+          "crc32": 4019164039
+        },
+        {
+          "name": "IBMPlexSans_9.cpfont",
+          "pt": 9,
+          "size": 375992,
+          "crc32": 528081679
+        },
+        {
+          "name": "IBMPlexSans_10.cpfont",
+          "pt": 10,
+          "size": 406676,
+          "crc32": 2428782992
+        },
+        {
+          "name": "IBMPlexSans_11.cpfont",
+          "pt": 11,
+          "size": 435511,
+          "crc32": 2905968313
+        },
+        {
+          "name": "IBMPlexSans_12.cpfont",
+          "pt": 12,
+          "size": 467966,
+          "crc32": 2035232638
+        },
+        {
+          "name": "IBMPlexSans_13.cpfont",
+          "pt": 13,
+          "size": 505639,
+          "crc32": 1074072016
+        },
+        {
+          "name": "IBMPlexSans_14.cpfont",
+          "pt": 14,
+          "size": 540883,
+          "crc32": 1659299595
+        },
+        {
+          "name": "IBMPlexSans_15.cpfont",
+          "pt": 15,
+          "size": 586769,
+          "crc32": 614256871
+        },
+        {
+          "name": "IBMPlexSans_16.cpfont",
+          "pt": 16,
+          "size": 627623,
+          "crc32": 2004228135
+        },
+        {
+          "name": "IBMPlexSans_17.cpfont",
+          "pt": 17,
+          "size": 675733,
+          "crc32": 411733202
+        },
+        {
+          "name": "IBMPlexSans_18.cpfont",
+          "pt": 18,
+          "size": 756520,
+          "crc32": 2082638597
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/IBMPlexSans-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/IBMPlexSans-14.png"
+        }
+      ],
+      "totalBytes": 6367751
+    },
+    {
+      "name": "Irradiant",
+      "title": "Irradiant",
+      "description": "Irradiant: Peter S. Baker's serif after Francesco Griffo's Aldine types, for informal reading.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Irradiant-OFL.txt",
+      "licensePath": "licenses/Irradiant-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Irradiant)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Irradiant_6.cpfont",
+          "pt": 6,
+          "size": 131348,
+          "crc32": 1477088637
+        },
+        {
+          "name": "Irradiant_7.cpfont",
+          "pt": 7,
+          "size": 147474,
+          "crc32": 543361559
+        },
+        {
+          "name": "Irradiant_8.cpfont",
+          "pt": 8,
+          "size": 162741,
+          "crc32": 874204238
+        },
+        {
+          "name": "Irradiant_9.cpfont",
+          "pt": 9,
+          "size": 179974,
+          "crc32": 3331613208
+        },
+        {
+          "name": "Irradiant_10.cpfont",
+          "pt": 10,
+          "size": 202709,
+          "crc32": 1679573563
+        },
+        {
+          "name": "Irradiant_11.cpfont",
+          "pt": 11,
+          "size": 223375,
+          "crc32": 2149776845
+        },
+        {
+          "name": "Irradiant_12.cpfont",
+          "pt": 12,
+          "size": 246557,
+          "crc32": 3713079285
+        },
+        {
+          "name": "Irradiant_13.cpfont",
+          "pt": 13,
+          "size": 275447,
+          "crc32": 3889875141
+        },
+        {
+          "name": "Irradiant_14.cpfont",
+          "pt": 14,
+          "size": 302586,
+          "crc32": 1455518648
+        },
+        {
+          "name": "Irradiant_15.cpfont",
+          "pt": 15,
+          "size": 331618,
+          "crc32": 3649793527
+        },
+        {
+          "name": "Irradiant_16.cpfont",
+          "pt": 16,
+          "size": 366328,
+          "crc32": 179257111
+        },
+        {
+          "name": "Irradiant_17.cpfont",
+          "pt": 17,
+          "size": 397082,
+          "crc32": 3070805571
+        },
+        {
+          "name": "Irradiant_18.cpfont",
+          "pt": 18,
+          "size": 442646,
+          "crc32": 2743087544
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Irradiant-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Irradiant-14.png"
+        }
+      ],
+      "totalBytes": 3409885
+    },
+    {
+      "name": "Joan",
+      "title": "Joan",
+      "description": "Joan: narrow serif after Francesco Griffo's roman, by Paolo Biagini.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Joan-OFL.txt",
+      "licensePath": "licenses/Joan-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Joan)",
+      "styles": [
+        "regular"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Joan_6.cpfont",
+          "pt": 6,
+          "size": 31966,
+          "crc32": 4104547968
+        },
+        {
+          "name": "Joan_7.cpfont",
+          "pt": 7,
+          "size": 34421,
+          "crc32": 1302337314
+        },
+        {
+          "name": "Joan_8.cpfont",
+          "pt": 8,
+          "size": 37289,
+          "crc32": 3738484832
+        },
+        {
+          "name": "Joan_9.cpfont",
+          "pt": 9,
+          "size": 40620,
+          "crc32": 1695475403
+        },
+        {
+          "name": "Joan_10.cpfont",
+          "pt": 10,
+          "size": 43573,
+          "crc32": 4065701608
+        },
+        {
+          "name": "Joan_11.cpfont",
+          "pt": 11,
+          "size": 47636,
+          "crc32": 1727628615
+        },
+        {
+          "name": "Joan_12.cpfont",
+          "pt": 12,
+          "size": 51814,
+          "crc32": 661761545
+        },
+        {
+          "name": "Joan_13.cpfont",
+          "pt": 13,
+          "size": 56553,
+          "crc32": 207564061
+        },
+        {
+          "name": "Joan_14.cpfont",
+          "pt": 14,
+          "size": 61399,
+          "crc32": 2574393146
+        },
+        {
+          "name": "Joan_15.cpfont",
+          "pt": 15,
+          "size": 66801,
+          "crc32": 4230406222
+        },
+        {
+          "name": "Joan_16.cpfont",
+          "pt": 16,
+          "size": 69778,
+          "crc32": 2534129305
+        },
+        {
+          "name": "Joan_17.cpfont",
+          "pt": 17,
+          "size": 75431,
+          "crc32": 1000352192
+        },
+        {
+          "name": "Joan_18.cpfont",
+          "pt": 18,
+          "size": 86392,
+          "crc32": 3821630780
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Joan-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Joan-14.png"
+        }
+      ],
+      "totalBytes": 703673
+    },
+    {
+      "name": "Kerberos",
+      "title": "Kerberos",
+      "description": "Kerberos: transitional serif derived from Alegreya, by Juan Pablo del Peral and Juliette Pluto.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Kerberos-OFL.txt",
+      "licensePath": "licenses/Kerberos-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Kerberos)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Kerberos_6.cpfont",
+          "pt": 6,
+          "size": 148049,
+          "crc32": 2751558554
+        },
+        {
+          "name": "Kerberos_7.cpfont",
+          "pt": 7,
+          "size": 171921,
+          "crc32": 820406837
+        },
+        {
+          "name": "Kerberos_8.cpfont",
+          "pt": 8,
+          "size": 201127,
+          "crc32": 823775970
+        },
+        {
+          "name": "Kerberos_9.cpfont",
+          "pt": 9,
+          "size": 231541,
+          "crc32": 994840028
+        },
+        {
+          "name": "Kerberos_10.cpfont",
+          "pt": 10,
+          "size": 268634,
+          "crc32": 3390564546
+        },
+        {
+          "name": "Kerberos_11.cpfont",
+          "pt": 11,
+          "size": 305293,
+          "crc32": 3464951776
+        },
+        {
+          "name": "Kerberos_12.cpfont",
+          "pt": 12,
+          "size": 348532,
+          "crc32": 4192234807
+        },
+        {
+          "name": "Kerberos_13.cpfont",
+          "pt": 13,
+          "size": 393294,
+          "crc32": 3024915520
+        },
+        {
+          "name": "Kerberos_14.cpfont",
+          "pt": 14,
+          "size": 442633,
+          "crc32": 2621518915
+        },
+        {
+          "name": "Kerberos_15.cpfont",
+          "pt": 15,
+          "size": 494275,
+          "crc32": 2032006727
+        },
+        {
+          "name": "Kerberos_16.cpfont",
+          "pt": 16,
+          "size": 552650,
+          "crc32": 431233430
+        },
+        {
+          "name": "Kerberos_17.cpfont",
+          "pt": 17,
+          "size": 613286,
+          "crc32": 1712504708
+        },
+        {
+          "name": "Kerberos_18.cpfont",
+          "pt": 18,
+          "size": 675398,
+          "crc32": 1588899500
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Kerberos-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Kerberos-14.png"
+        }
+      ],
+      "totalBytes": 4846633
+    },
+    {
+      "name": "Kufam",
+      "title": "Kufam",
+      "description": "Kufam: Arabic-Kufi and Latin sans for signage, by Wael Morcos and Artur Schmal (Original Type).",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Kufam-OFL.txt",
+      "licensePath": "licenses/Kufam-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Kufam)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Kufam_6.cpfont",
+          "pt": 6,
+          "size": 136222,
+          "crc32": 1477382301
+        },
+        {
+          "name": "Kufam_7.cpfont",
+          "pt": 7,
+          "size": 147642,
+          "crc32": 982607237
+        },
+        {
+          "name": "Kufam_8.cpfont",
+          "pt": 8,
+          "size": 177182,
+          "crc32": 4064847051
+        },
+        {
+          "name": "Kufam_9.cpfont",
+          "pt": 9,
+          "size": 196752,
+          "crc32": 3995960012
+        },
+        {
+          "name": "Kufam_10.cpfont",
+          "pt": 10,
+          "size": 222017,
+          "crc32": 2060627376
+        },
+        {
+          "name": "Kufam_11.cpfont",
+          "pt": 11,
+          "size": 247540,
+          "crc32": 3781928987
+        },
+        {
+          "name": "Kufam_12.cpfont",
+          "pt": 12,
+          "size": 274849,
+          "crc32": 3848336749
+        },
+        {
+          "name": "Kufam_13.cpfont",
+          "pt": 13,
+          "size": 306696,
+          "crc32": 3529890196
+        },
+        {
+          "name": "Kufam_14.cpfont",
+          "pt": 14,
+          "size": 341838,
+          "crc32": 3816877751
+        },
+        {
+          "name": "Kufam_15.cpfont",
+          "pt": 15,
+          "size": 376726,
+          "crc32": 1776405680
+        },
+        {
+          "name": "Kufam_16.cpfont",
+          "pt": 16,
+          "size": 417514,
+          "crc32": 3795261057
+        },
+        {
+          "name": "Kufam_17.cpfont",
+          "pt": 17,
+          "size": 472009,
+          "crc32": 4136803801
+        },
+        {
+          "name": "Kufam_18.cpfont",
+          "pt": 18,
+          "size": 530447,
+          "crc32": 2412516185
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Kufam-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Kufam-14.png"
+        }
+      ],
+      "totalBytes": 3847434
+    },
+    {
+      "name": "LibreCheltenham",
+      "title": "Libre Cheltenham",
+      "description": "Libre Cheltenham: open revival of Cheltenham, the 1896 American face; still in development.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/LibreCheltenham-OFL.txt",
+      "licensePath": "licenses/LibreCheltenham-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Libre Cheltenham)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "LibreCheltenham_6.cpfont",
+          "pt": 6,
+          "size": 62867,
+          "crc32": 346060469
+        },
+        {
+          "name": "LibreCheltenham_7.cpfont",
+          "pt": 7,
+          "size": 70044,
+          "crc32": 2846260109
+        },
+        {
+          "name": "LibreCheltenham_8.cpfont",
+          "pt": 8,
+          "size": 79354,
+          "crc32": 2899917858
+        },
+        {
+          "name": "LibreCheltenham_9.cpfont",
+          "pt": 9,
+          "size": 87817,
+          "crc32": 1248335265
+        },
+        {
+          "name": "LibreCheltenham_10.cpfont",
+          "pt": 10,
+          "size": 98950,
+          "crc32": 2952756163
+        },
+        {
+          "name": "LibreCheltenham_11.cpfont",
+          "pt": 11,
+          "size": 109703,
+          "crc32": 456234703
+        },
+        {
+          "name": "LibreCheltenham_12.cpfont",
+          "pt": 12,
+          "size": 122837,
+          "crc32": 148729523
+        },
+        {
+          "name": "LibreCheltenham_13.cpfont",
+          "pt": 13,
+          "size": 135790,
+          "crc32": 4058631221
+        },
+        {
+          "name": "LibreCheltenham_14.cpfont",
+          "pt": 14,
+          "size": 150916,
+          "crc32": 2460604895
+        },
+        {
+          "name": "LibreCheltenham_15.cpfont",
+          "pt": 15,
+          "size": 164634,
+          "crc32": 2737633971
+        },
+        {
+          "name": "LibreCheltenham_16.cpfont",
+          "pt": 16,
+          "size": 182576,
+          "crc32": 4212612810
+        },
+        {
+          "name": "LibreCheltenham_17.cpfont",
+          "pt": 17,
+          "size": 199226,
+          "crc32": 4115613700
+        },
+        {
+          "name": "LibreCheltenham_18.cpfont",
+          "pt": 18,
+          "size": 217802,
+          "crc32": 2716576464
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/LibreCheltenham-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/LibreCheltenham-14.png"
+        }
+      ],
+      "totalBytes": 1682516
+    },
+    {
+      "name": "Marta",
+      "title": "Marta",
+      "description": "Marta: sturdy serif by Michael Chereda; regular, bold and italic.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Marta-OFL.txt",
+      "licensePath": "licenses/Marta-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Marta)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Marta_6.cpfont",
+          "pt": 6,
+          "size": 76516,
+          "crc32": 4294639874
+        },
+        {
+          "name": "Marta_7.cpfont",
+          "pt": 7,
+          "size": 87353,
+          "crc32": 481612876
+        },
+        {
+          "name": "Marta_8.cpfont",
+          "pt": 8,
+          "size": 97633,
+          "crc32": 3979349898
+        },
+        {
+          "name": "Marta_9.cpfont",
+          "pt": 9,
+          "size": 109794,
+          "crc32": 2196318529
+        },
+        {
+          "name": "Marta_10.cpfont",
+          "pt": 10,
+          "size": 125309,
+          "crc32": 2663341537
+        },
+        {
+          "name": "Marta_11.cpfont",
+          "pt": 11,
+          "size": 139625,
+          "crc32": 655581559
+        },
+        {
+          "name": "Marta_12.cpfont",
+          "pt": 12,
+          "size": 158288,
+          "crc32": 29251389
+        },
+        {
+          "name": "Marta_13.cpfont",
+          "pt": 13,
+          "size": 174266,
+          "crc32": 4179619552
+        },
+        {
+          "name": "Marta_14.cpfont",
+          "pt": 14,
+          "size": 194304,
+          "crc32": 3198971979
+        },
+        {
+          "name": "Marta_15.cpfont",
+          "pt": 15,
+          "size": 214435,
+          "crc32": 511144112
+        },
+        {
+          "name": "Marta_16.cpfont",
+          "pt": 16,
+          "size": 235862,
+          "crc32": 1443383215
+        },
+        {
+          "name": "Marta_17.cpfont",
+          "pt": 17,
+          "size": 260563,
+          "crc32": 3265000319
+        },
+        {
+          "name": "Marta_18.cpfont",
+          "pt": 18,
+          "size": 284715,
+          "crc32": 2105025448
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Marta-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Marta-14.png"
+        }
+      ],
+      "totalBytes": 2158663
+    },
+    {
+      "name": "MinyaNouvelle",
+      "title": "Minya Nouvelle",
+      "description": "Minya Nouvelle: Ray Larabie's redraw of his 1996 novelty Minya, in four styles (CC0).",
+      "group": "Reading",
+      "license": "CC0/PD",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/MinyaNouvelle-LICENSE.txt",
+      "licensePath": "licenses/MinyaNouvelle-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Minya Nouvelle)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "MinyaNouvelle_6.cpfont",
+          "pt": 6,
+          "size": 65881,
+          "crc32": 3061529054
+        },
+        {
+          "name": "MinyaNouvelle_7.cpfont",
+          "pt": 7,
+          "size": 73869,
+          "crc32": 3984034059
+        },
+        {
+          "name": "MinyaNouvelle_8.cpfont",
+          "pt": 8,
+          "size": 82659,
+          "crc32": 3138977098
+        },
+        {
+          "name": "MinyaNouvelle_9.cpfont",
+          "pt": 9,
+          "size": 92995,
+          "crc32": 1521193994
+        },
+        {
+          "name": "MinyaNouvelle_10.cpfont",
+          "pt": 10,
+          "size": 104268,
+          "crc32": 1074287119
+        },
+        {
+          "name": "MinyaNouvelle_11.cpfont",
+          "pt": 11,
+          "size": 115914,
+          "crc32": 1528944312
+        },
+        {
+          "name": "MinyaNouvelle_12.cpfont",
+          "pt": 12,
+          "size": 129681,
+          "crc32": 722086964
+        },
+        {
+          "name": "MinyaNouvelle_13.cpfont",
+          "pt": 13,
+          "size": 143924,
+          "crc32": 3765614208
+        },
+        {
+          "name": "MinyaNouvelle_14.cpfont",
+          "pt": 14,
+          "size": 159829,
+          "crc32": 1493764474
+        },
+        {
+          "name": "MinyaNouvelle_15.cpfont",
+          "pt": 15,
+          "size": 176435,
+          "crc32": 3989530899
+        },
+        {
+          "name": "MinyaNouvelle_16.cpfont",
+          "pt": 16,
+          "size": 194381,
+          "crc32": 1458917681
+        },
+        {
+          "name": "MinyaNouvelle_17.cpfont",
+          "pt": 17,
+          "size": 212601,
+          "crc32": 4241361446
+        },
+        {
+          "name": "MinyaNouvelle_18.cpfont",
+          "pt": 18,
+          "size": 232086,
+          "crc32": 3381256314
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/MinyaNouvelle-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/MinyaNouvelle-14.png"
+        }
+      ],
+      "totalBytes": 1784523
+    },
+    {
+      "name": "Munson",
+      "title": "Munson",
+      "description": "Munson: slab serif after Stephenson Blake's Consort and Clarendon, by Paul James Miller.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Munson-SIL Open Font License.txt",
+      "licensePath": "licenses/Munson-SIL Open Font License.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Munson)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Munson_6.cpfont",
+          "pt": 6,
+          "size": 151340,
+          "crc32": 1132571528
+        },
+        {
+          "name": "Munson_7.cpfont",
+          "pt": 7,
+          "size": 176666,
+          "crc32": 751238465
+        },
+        {
+          "name": "Munson_8.cpfont",
+          "pt": 8,
+          "size": 202489,
+          "crc32": 4059026833
+        },
+        {
+          "name": "Munson_9.cpfont",
+          "pt": 9,
+          "size": 234089,
+          "crc32": 1708486925
+        },
+        {
+          "name": "Munson_10.cpfont",
+          "pt": 10,
+          "size": 265608,
+          "crc32": 3077296095
+        },
+        {
+          "name": "Munson_11.cpfont",
+          "pt": 11,
+          "size": 305020,
+          "crc32": 809777556
+        },
+        {
+          "name": "Munson_12.cpfont",
+          "pt": 12,
+          "size": 343070,
+          "crc32": 2462449206
+        },
+        {
+          "name": "Munson_13.cpfont",
+          "pt": 13,
+          "size": 390863,
+          "crc32": 1657780916
+        },
+        {
+          "name": "Munson_14.cpfont",
+          "pt": 14,
+          "size": 434195,
+          "crc32": 1840262357
+        },
+        {
+          "name": "Munson_15.cpfont",
+          "pt": 15,
+          "size": 482983,
+          "crc32": 4265620451
+        },
+        {
+          "name": "Munson_16.cpfont",
+          "pt": 16,
+          "size": 536653,
+          "crc32": 3359474445
+        },
+        {
+          "name": "Munson_17.cpfont",
+          "pt": 17,
+          "size": 584846,
+          "crc32": 3699474204
+        },
+        {
+          "name": "Munson_18.cpfont",
+          "pt": 18,
+          "size": 671803,
+          "crc32": 2198239628
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Munson-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Munson-14.png"
+        }
+      ],
+      "totalBytes": 4779625
+    },
+    {
+      "name": "Noctilucenta",
+      "title": "Noctilucenta",
+      "description": "Noctilucenta: classic serif by Kelvin Song, in regular and bold with italics.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Noctilucenta-OFL.txt",
+      "licensePath": "licenses/Noctilucenta-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Noctilucenta)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Noctilucenta_6.cpfont",
+          "pt": 6,
+          "size": 62918,
+          "crc32": 4071451788
+        },
+        {
+          "name": "Noctilucenta_7.cpfont",
+          "pt": 7,
+          "size": 70963,
+          "crc32": 2115386972
+        },
+        {
+          "name": "Noctilucenta_8.cpfont",
+          "pt": 8,
+          "size": 78949,
+          "crc32": 477876859
+        },
+        {
+          "name": "Noctilucenta_9.cpfont",
+          "pt": 9,
+          "size": 88781,
+          "crc32": 3119228320
+        },
+        {
+          "name": "Noctilucenta_10.cpfont",
+          "pt": 10,
+          "size": 99684,
+          "crc32": 4024997007
+        },
+        {
+          "name": "Noctilucenta_11.cpfont",
+          "pt": 11,
+          "size": 110093,
+          "crc32": 1939001843
+        },
+        {
+          "name": "Noctilucenta_12.cpfont",
+          "pt": 12,
+          "size": 122681,
+          "crc32": 413638736
+        },
+        {
+          "name": "Noctilucenta_13.cpfont",
+          "pt": 13,
+          "size": 135778,
+          "crc32": 1727733003
+        },
+        {
+          "name": "Noctilucenta_14.cpfont",
+          "pt": 14,
+          "size": 150302,
+          "crc32": 449936215
+        },
+        {
+          "name": "Noctilucenta_15.cpfont",
+          "pt": 15,
+          "size": 166844,
+          "crc32": 3105182823
+        },
+        {
+          "name": "Noctilucenta_16.cpfont",
+          "pt": 16,
+          "size": 183170,
+          "crc32": 1242650393
+        },
+        {
+          "name": "Noctilucenta_17.cpfont",
+          "pt": 17,
+          "size": 201120,
+          "crc32": 569468197
+        },
+        {
+          "name": "Noctilucenta_18.cpfont",
+          "pt": 18,
+          "size": 217821,
+          "crc32": 2133991339
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Noctilucenta-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Noctilucenta-14.png"
+        }
+      ],
+      "totalBytes": 1689104
+    },
+    {
+      "name": "OldTimeyMono",
+      "title": "Old Timey Mono",
+      "description": "Old Timey Mono: monospace after Reproducing Typewriter, a 1906 face, by Darren Embry.",
+      "group": "Mono",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/OldTimeyMono-LICENSE.md",
+      "licensePath": "licenses/OldTimeyMono-LICENSE.md",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Old Timey Mono)",
+      "styles": [
+        "regular"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "OldTimeyMono_6.cpfont",
+          "pt": 6,
+          "size": 33881,
+          "crc32": 2519927535
+        },
+        {
+          "name": "OldTimeyMono_7.cpfont",
+          "pt": 7,
+          "size": 38948,
+          "crc32": 2503007248
+        },
+        {
+          "name": "OldTimeyMono_8.cpfont",
+          "pt": 8,
+          "size": 44126,
+          "crc32": 1631805031
+        },
+        {
+          "name": "OldTimeyMono_9.cpfont",
+          "pt": 9,
+          "size": 50882,
+          "crc32": 3539176648
+        },
+        {
+          "name": "OldTimeyMono_10.cpfont",
+          "pt": 10,
+          "size": 58640,
+          "crc32": 438868910
+        },
+        {
+          "name": "OldTimeyMono_11.cpfont",
+          "pt": 11,
+          "size": 66555,
+          "crc32": 2324176076
+        },
+        {
+          "name": "OldTimeyMono_12.cpfont",
+          "pt": 12,
+          "size": 73247,
+          "crc32": 18604254
+        },
+        {
+          "name": "OldTimeyMono_13.cpfont",
+          "pt": 13,
+          "size": 80746,
+          "crc32": 2991674475
+        },
+        {
+          "name": "OldTimeyMono_14.cpfont",
+          "pt": 14,
+          "size": 89409,
+          "crc32": 2534971576
+        },
+        {
+          "name": "OldTimeyMono_15.cpfont",
+          "pt": 15,
+          "size": 98889,
+          "crc32": 1342453586
+        },
+        {
+          "name": "OldTimeyMono_16.cpfont",
+          "pt": 16,
+          "size": 109957,
+          "crc32": 1302141933
+        },
+        {
+          "name": "OldTimeyMono_17.cpfont",
+          "pt": 17,
+          "size": 118960,
+          "crc32": 1780502659
+        },
+        {
+          "name": "OldTimeyMono_18.cpfont",
+          "pt": 18,
+          "size": 130440,
+          "crc32": 1646488849
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/OldTimeyMono-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/OldTimeyMono-14.png"
+        }
+      ],
+      "totalBytes": 994680
+    },
+    {
+      "name": "Pelagiad",
+      "title": "Pelagiad",
+      "description": "Pelagiad: medieval-flavoured serif made for the OpenMW game engine, by Isak Larborn.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Pelagiad-LICENSE.txt",
+      "licensePath": "licenses/Pelagiad-LICENSE.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Pelagiad)",
+      "styles": [
+        "regular"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Pelagiad_6.cpfont",
+          "pt": 6,
+          "size": 9839,
+          "crc32": 274204072
+        },
+        {
+          "name": "Pelagiad_7.cpfont",
+          "pt": 7,
+          "size": 11075,
+          "crc32": 2148031263
+        },
+        {
+          "name": "Pelagiad_8.cpfont",
+          "pt": 8,
+          "size": 12383,
+          "crc32": 4130490338
+        },
+        {
+          "name": "Pelagiad_9.cpfont",
+          "pt": 9,
+          "size": 14070,
+          "crc32": 3384991610
+        },
+        {
+          "name": "Pelagiad_10.cpfont",
+          "pt": 10,
+          "size": 15844,
+          "crc32": 1703194255
+        },
+        {
+          "name": "Pelagiad_11.cpfont",
+          "pt": 11,
+          "size": 17710,
+          "crc32": 3217558118
+        },
+        {
+          "name": "Pelagiad_12.cpfont",
+          "pt": 12,
+          "size": 19747,
+          "crc32": 3508298461
+        },
+        {
+          "name": "Pelagiad_13.cpfont",
+          "pt": 13,
+          "size": 21913,
+          "crc32": 787360156
+        },
+        {
+          "name": "Pelagiad_14.cpfont",
+          "pt": 14,
+          "size": 24351,
+          "crc32": 3687142751
+        },
+        {
+          "name": "Pelagiad_15.cpfont",
+          "pt": 15,
+          "size": 26800,
+          "crc32": 3535567325
+        },
+        {
+          "name": "Pelagiad_16.cpfont",
+          "pt": 16,
+          "size": 29631,
+          "crc32": 3897165062
+        },
+        {
+          "name": "Pelagiad_17.cpfont",
+          "pt": 17,
+          "size": 31960,
+          "crc32": 3671445616
+        },
+        {
+          "name": "Pelagiad_18.cpfont",
+          "pt": 18,
+          "size": 36550,
+          "crc32": 3712763403
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Pelagiad-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Pelagiad-14.png"
+        }
+      ],
+      "totalBytes": 271873
+    },
+    {
+      "name": "Questrial",
+      "title": "Questrial",
+      "description": "Questrial: single-weight Swiss-style sans by Joe Prince and Laura Meseguer.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Questrial-OFL.txt",
+      "licensePath": "licenses/Questrial-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Questrial)",
+      "styles": [
+        "regular"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Questrial_6.cpfont",
+          "pt": 6,
+          "size": 41104,
+          "crc32": 4030161018
+        },
+        {
+          "name": "Questrial_7.cpfont",
+          "pt": 7,
+          "size": 45209,
+          "crc32": 3312451155
+        },
+        {
+          "name": "Questrial_8.cpfont",
+          "pt": 8,
+          "size": 51673,
+          "crc32": 1299069030
+        },
+        {
+          "name": "Questrial_9.cpfont",
+          "pt": 9,
+          "size": 57707,
+          "crc32": 591570637
+        },
+        {
+          "name": "Questrial_10.cpfont",
+          "pt": 10,
+          "size": 63928,
+          "crc32": 3188296525
+        },
+        {
+          "name": "Questrial_11.cpfont",
+          "pt": 11,
+          "size": 71862,
+          "crc32": 3094778632
+        },
+        {
+          "name": "Questrial_12.cpfont",
+          "pt": 12,
+          "size": 78800,
+          "crc32": 1922005339
+        },
+        {
+          "name": "Questrial_13.cpfont",
+          "pt": 13,
+          "size": 86029,
+          "crc32": 419482057
+        },
+        {
+          "name": "Questrial_14.cpfont",
+          "pt": 14,
+          "size": 95584,
+          "crc32": 3784049158
+        },
+        {
+          "name": "Questrial_15.cpfont",
+          "pt": 15,
+          "size": 105252,
+          "crc32": 1162492137
+        },
+        {
+          "name": "Questrial_16.cpfont",
+          "pt": 16,
+          "size": 114435,
+          "crc32": 3056714738
+        },
+        {
+          "name": "Questrial_17.cpfont",
+          "pt": 17,
+          "size": 124765,
+          "crc32": 2592937061
+        },
+        {
+          "name": "Questrial_18.cpfont",
+          "pt": 18,
+          "size": 140682,
+          "crc32": 3468481557
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Questrial-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Questrial-14.png"
+        }
+      ],
+      "totalBytes": 1077030
+    },
+    {
+      "name": "SourceSerif4",
+      "title": "Source Serif 4",
+      "description": "Adobe's transitional text serif, loosely after Fournier, companion to Source Sans.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/SourceSerif4-OFL.txt",
+      "licensePath": "licenses/SourceSerif4-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Source Serif 4)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "SourceSerif4_6.cpfont",
+          "pt": 6,
+          "size": 246988,
+          "crc32": 1001598831
+        },
+        {
+          "name": "SourceSerif4_7.cpfont",
+          "pt": 7,
+          "size": 268460,
+          "crc32": 2248784095
+        },
+        {
+          "name": "SourceSerif4_8.cpfont",
+          "pt": 8,
+          "size": 293680,
+          "crc32": 2917778146
+        },
+        {
+          "name": "SourceSerif4_9.cpfont",
+          "pt": 9,
+          "size": 321413,
+          "crc32": 3913652712
+        },
+        {
+          "name": "SourceSerif4_10.cpfont",
+          "pt": 10,
+          "size": 351717,
+          "crc32": 410230494
+        },
+        {
+          "name": "SourceSerif4_11.cpfont",
+          "pt": 11,
+          "size": 385586,
+          "crc32": 47536014
+        },
+        {
+          "name": "SourceSerif4_12.cpfont",
+          "pt": 12,
+          "size": 420761,
+          "crc32": 3579070865
+        },
+        {
+          "name": "SourceSerif4_13.cpfont",
+          "pt": 13,
+          "size": 459920,
+          "crc32": 2223162897
+        },
+        {
+          "name": "SourceSerif4_14.cpfont",
+          "pt": 14,
+          "size": 503115,
+          "crc32": 434693213
+        },
+        {
+          "name": "SourceSerif4_15.cpfont",
+          "pt": 15,
+          "size": 545900,
+          "crc32": 3025152614
+        },
+        {
+          "name": "SourceSerif4_16.cpfont",
+          "pt": 16,
+          "size": 595302,
+          "crc32": 4266811277
+        },
+        {
+          "name": "SourceSerif4_17.cpfont",
+          "pt": 17,
+          "size": 647725,
+          "crc32": 3520569594
+        },
+        {
+          "name": "SourceSerif4_18.cpfont",
+          "pt": 18,
+          "size": 701614,
+          "crc32": 2996727183
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/SourceSerif4-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/SourceSerif4-14.png"
+        }
+      ],
+      "totalBytes": 5742181
+    },
+    {
+      "name": "Teachers",
+      "title": "Teachers",
+      "description": "Teachers: casual monoline sans by Alfredo Marco Pradil and Chank Diesel.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Teachers-OFL.txt",
+      "licensePath": "licenses/Teachers-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Teachers)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Teachers_6.cpfont",
+          "pt": 6,
+          "size": 59994,
+          "crc32": 3526110750
+        },
+        {
+          "name": "Teachers_7.cpfont",
+          "pt": 7,
+          "size": 66449,
+          "crc32": 49981488
+        },
+        {
+          "name": "Teachers_8.cpfont",
+          "pt": 8,
+          "size": 74627,
+          "crc32": 3563817335
+        },
+        {
+          "name": "Teachers_9.cpfont",
+          "pt": 9,
+          "size": 83150,
+          "crc32": 3499722291
+        },
+        {
+          "name": "Teachers_10.cpfont",
+          "pt": 10,
+          "size": 92985,
+          "crc32": 3811858368
+        },
+        {
+          "name": "Teachers_11.cpfont",
+          "pt": 11,
+          "size": 103161,
+          "crc32": 2725496233
+        },
+        {
+          "name": "Teachers_12.cpfont",
+          "pt": 12,
+          "size": 114959,
+          "crc32": 113291974
+        },
+        {
+          "name": "Teachers_13.cpfont",
+          "pt": 13,
+          "size": 127540,
+          "crc32": 2599682
+        },
+        {
+          "name": "Teachers_14.cpfont",
+          "pt": 14,
+          "size": 140210,
+          "crc32": 4251025000
+        },
+        {
+          "name": "Teachers_15.cpfont",
+          "pt": 15,
+          "size": 154831,
+          "crc32": 4251181791
+        },
+        {
+          "name": "Teachers_16.cpfont",
+          "pt": 16,
+          "size": 168315,
+          "crc32": 2501194183
+        },
+        {
+          "name": "Teachers_17.cpfont",
+          "pt": 17,
+          "size": 186384,
+          "crc32": 2082208471
+        },
+        {
+          "name": "Teachers_18.cpfont",
+          "pt": 18,
+          "size": 203119,
+          "crc32": 2627351642
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Teachers-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Teachers-14.png"
+        }
+      ],
+      "totalBytes": 1575724
+    },
+    {
+      "name": "Temprano",
+      "title": "Temprano",
+      "description": "Temprano: slab serif by Sergio Navarro; regular and bold.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Temprano-OFL.txt",
+      "licensePath": "licenses/Temprano-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Temprano)",
+      "styles": [
+        "regular",
+        "bold"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Temprano_6.cpfont",
+          "pt": 6,
+          "size": 22623,
+          "crc32": 1814989328
+        },
+        {
+          "name": "Temprano_7.cpfont",
+          "pt": 7,
+          "size": 25013,
+          "crc32": 3964148341
+        },
+        {
+          "name": "Temprano_8.cpfont",
+          "pt": 8,
+          "size": 27105,
+          "crc32": 1841657037
+        },
+        {
+          "name": "Temprano_9.cpfont",
+          "pt": 9,
+          "size": 30092,
+          "crc32": 408952112
+        },
+        {
+          "name": "Temprano_10.cpfont",
+          "pt": 10,
+          "size": 32544,
+          "crc32": 1191189815
+        },
+        {
+          "name": "Temprano_11.cpfont",
+          "pt": 11,
+          "size": 36223,
+          "crc32": 141618657
+        },
+        {
+          "name": "Temprano_12.cpfont",
+          "pt": 12,
+          "size": 39539,
+          "crc32": 1428987043
+        },
+        {
+          "name": "Temprano_13.cpfont",
+          "pt": 13,
+          "size": 43527,
+          "crc32": 3739990305
+        },
+        {
+          "name": "Temprano_14.cpfont",
+          "pt": 14,
+          "size": 47486,
+          "crc32": 69780539
+        },
+        {
+          "name": "Temprano_15.cpfont",
+          "pt": 15,
+          "size": 52306,
+          "crc32": 1335525490
+        },
+        {
+          "name": "Temprano_16.cpfont",
+          "pt": 16,
+          "size": 56769,
+          "crc32": 3263693228
+        },
+        {
+          "name": "Temprano_17.cpfont",
+          "pt": 17,
+          "size": 62461,
+          "crc32": 2710717791
+        },
+        {
+          "name": "Temprano_18.cpfont",
+          "pt": 18,
+          "size": 67012,
+          "crc32": 411415847
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Temprano-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Temprano-14.png"
+        }
+      ],
+      "totalBytes": 542700
+    },
+    {
+      "name": "Turpis",
+      "title": "Turpis",
+      "description": "Turpis: narrow sans by GGBotNet.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Turpis-OFL.txt",
+      "licensePath": "licenses/Turpis-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Turpis)",
+      "styles": [
+        "regular",
+        "italic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Turpis_6.cpfont",
+          "pt": 6,
+          "size": 32988,
+          "crc32": 3371962851
+        },
+        {
+          "name": "Turpis_7.cpfont",
+          "pt": 7,
+          "size": 35375,
+          "crc32": 1284583022
+        },
+        {
+          "name": "Turpis_8.cpfont",
+          "pt": 8,
+          "size": 44087,
+          "crc32": 4096614732
+        },
+        {
+          "name": "Turpis_9.cpfont",
+          "pt": 9,
+          "size": 49538,
+          "crc32": 3497629620
+        },
+        {
+          "name": "Turpis_10.cpfont",
+          "pt": 10,
+          "size": 55414,
+          "crc32": 117691446
+        },
+        {
+          "name": "Turpis_11.cpfont",
+          "pt": 11,
+          "size": 62709,
+          "crc32": 897363825
+        },
+        {
+          "name": "Turpis_12.cpfont",
+          "pt": 12,
+          "size": 68781,
+          "crc32": 1707281655
+        },
+        {
+          "name": "Turpis_13.cpfont",
+          "pt": 13,
+          "size": 76470,
+          "crc32": 3520035781
+        },
+        {
+          "name": "Turpis_14.cpfont",
+          "pt": 14,
+          "size": 84533,
+          "crc32": 2471367469
+        },
+        {
+          "name": "Turpis_15.cpfont",
+          "pt": 15,
+          "size": 93851,
+          "crc32": 3308295953
+        },
+        {
+          "name": "Turpis_16.cpfont",
+          "pt": 16,
+          "size": 104701,
+          "crc32": 2785413765
+        },
+        {
+          "name": "Turpis_17.cpfont",
+          "pt": 17,
+          "size": 119683,
+          "crc32": 1128703856
+        },
+        {
+          "name": "Turpis_18.cpfont",
+          "pt": 18,
+          "size": 133692,
+          "crc32": 3638568027
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Turpis-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Turpis-14.png"
+        }
+      ],
+      "totalBytes": 961822
+    },
+    {
+      "name": "Walleye",
+      "title": "Walleye",
+      "description": "Walleye: narrow serif by Nathanael Bonnell.",
+      "group": "Reading",
+      "license": "OFL",
+      "licenseUrl": "https://raw.githubusercontent.com/josmerod/cp-fonts/main/licenses/Walleye-OFL.txt",
+      "licensePath": "licenses/Walleye-OFL.txt",
+      "source": "Chairzard/WP-Fonts (Unmodified Fonts/Walleye)",
+      "styles": [
+        "regular",
+        "bold",
+        "italic",
+        "bolditalic"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "files": [
+        {
+          "name": "Walleye_6.cpfont",
+          "pt": 6,
+          "size": 219012,
+          "crc32": 28894529
+        },
+        {
+          "name": "Walleye_7.cpfont",
+          "pt": 7,
+          "size": 234145,
+          "crc32": 2199646546
+        },
+        {
+          "name": "Walleye_8.cpfont",
+          "pt": 8,
+          "size": 248854,
+          "crc32": 348199170
+        },
+        {
+          "name": "Walleye_9.cpfont",
+          "pt": 9,
+          "size": 264826,
+          "crc32": 4283047674
+        },
+        {
+          "name": "Walleye_10.cpfont",
+          "pt": 10,
+          "size": 286044,
+          "crc32": 1996623304
+        },
+        {
+          "name": "Walleye_11.cpfont",
+          "pt": 11,
+          "size": 306353,
+          "crc32": 607417761
+        },
+        {
+          "name": "Walleye_12.cpfont",
+          "pt": 12,
+          "size": 326971,
+          "crc32": 2784381104
+        },
+        {
+          "name": "Walleye_13.cpfont",
+          "pt": 13,
+          "size": 352361,
+          "crc32": 3957572117
+        },
+        {
+          "name": "Walleye_14.cpfont",
+          "pt": 14,
+          "size": 379412,
+          "crc32": 2304741820
+        },
+        {
+          "name": "Walleye_15.cpfont",
+          "pt": 15,
+          "size": 414054,
+          "crc32": 3215372051
+        },
+        {
+          "name": "Walleye_16.cpfont",
+          "pt": 16,
+          "size": 444991,
+          "crc32": 3498045596
+        },
+        {
+          "name": "Walleye_17.cpfont",
+          "pt": 17,
+          "size": 479318,
+          "crc32": 1772166027
+        },
+        {
+          "name": "Walleye_18.cpfont",
+          "pt": 18,
+          "size": 510999,
+          "crc32": 2704013781
+        }
+      ],
+      "previews": [
+        {
+          "pt": 6,
+          "path": "previews/Walleye-6.png"
+        },
+        {
+          "pt": 14,
+          "path": "previews/Walleye-14.png"
+        }
+      ],
+      "totalBytes": 4467340
     }
   ]
 }
