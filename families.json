@@ -1285,6 +1285,8 @@
       "description": "",
       "license": "see license file",
       "licenseFile": "OFL.txt",
+      "hinting": "auto",
+      "$hintNote": "This font's own TrueType instructions collapse outlines under FreeType's native hinting: its bold came out with a third of its letters missing, and its regular with broken strokes at small sizes. It is built with FreeType's auto-hinter instead.",
       "files": {
         "regular": "WPGalatians-Regular.ttf",
         "bold": "WPGalatians-Bold.ttf"
